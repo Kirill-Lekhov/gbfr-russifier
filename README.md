@@ -18,4 +18,5 @@
 * Текущая поддерживаемая версия игры: `1.3.2`;
 * Поддержка Steam-версии игры: Есть;
 * Будут ли выходить правки к переводу: Да;
-* Куда присылать сообщения об ошибках: [issues на github](https://github.com/Kirill-Lekhov/gbfr-russifier/issues/new) или на электронную почту `fhzlroqasbrf@mail.ru`.
+* Куда присылать сообщения об ошибках: [issues на github](https://github.com/Kirill-Lekhov/gbfr-russifier/issues/new) или на электронную почту `fhzlroqasbrf@mail.ru`;
+* Инструмент перевода: [DeepL](https://www.deepl.com/ru/pro-api).
