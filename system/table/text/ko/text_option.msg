@@ -1,0 +1,1 @@
+��rows_���column_��id_hash_�TXT_PAU_OPT_CMN_INFO�subid_hash_��text_�;Сохранить измененные настройки.

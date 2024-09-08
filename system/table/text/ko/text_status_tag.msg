@@ -1,0 +1,1 @@
+£Tag¥tags_’§Elementƒ£id_´TXT_STATE_IRONMAIDEN¦subid_ ¦icons_‘§Elementƒ¥icon_¡4¦start_¡0¤end_¡0§Elementƒ£id_³TXT_STATE_DOUBLETAP¦subid_ ¦icons_‘§Elementƒ¥icon_¡4¦start_¡9¤end_¡9
