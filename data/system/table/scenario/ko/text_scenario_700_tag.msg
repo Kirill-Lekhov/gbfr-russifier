@@ -1,1 +1,1 @@
-£Tag¥tags_‘§Element„£id_±SNT_WD700030_0010¦subid_ §colors_‘§Element„¦color_ª4293825535¥type_¡0¦start_¢93¤end_£107¦words_‘§Elementƒ§wordID_­WORDLIST_0086¦start_¢93¤end_£107
+£Tag¥tags_‘§Element„§colors_‘§Element„¦color_ª4293825535¥type_¡0¦start_¢93¤end_£107¦words_‘§Elementƒ§wordID_­WORDLIST_0086¦start_¢93¤end_£107¦subid_ £id_±SNT_WD700030_0010
