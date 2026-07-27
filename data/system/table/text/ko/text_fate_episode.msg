@@ -1,4 +1,4 @@
-��rows_���column_��id_hash_�TXT_FATE_HDR_00�subid_hash_��text_�Пролог��column_��id_hash_�TXT_FATE_HDR_01�subid_hash_��text_�Серия 1��column_��id_hash_�TXT_FATE_HDR_02�subid_hash_��text_�Эпизод 2��column_��id_hash_�TXT_FATE_HDR_03�subid_hash_��text_�Эпизод 3��column_��id_hash_�TXT_FATE_HDR_04�subid_hash_��text_�Эпизод 4��column_��id_hash_�TXT_FATE_HDR_05�subid_hash_��text_�Эпизод 5��column_��id_hash_�TXT_FATE_HDR_06�subid_hash_��text_�Эпизод 6��column_��id_hash_�TXT_FATE_HDR_07�subid_hash_��text_�Эпизод 7��column_��id_hash_�TXT_FATE_HDR_08�subid_hash_��text_�Эпизод 8��column_��id_hash_�TXT_FATE_HDR_09�subid_hash_��text_�Эпизод 9��column_��id_hash_�TXT_FATE_HDR_10�subid_hash_��text_�Эпилог��column_��id_hash_�TXT_FATE_PL0000_00�subid_hash_��text_�Ее зовут Лурия��column_��id_hash_�TXT_FATE_PL0000_01�subid_hash_��text_�+Путешествие начинается��column_��id_hash_�TXT_FATE_PL0000_02�subid_hash_��text_�$Облигации в небесах��column_��id_hash_�TXT_FATE_PL0000_03�subid_hash_��text_�Сомнение Вирна��column_��id_hash_�TXT_FATE_PL0000_04�subid_hash_��text_�Я тебя прикрою��column_��id_hash_�TXT_FATE_PL0000_05�subid_hash_��text_�-Победа сладка как яблоко��column_��id_hash_�TXT_FATE_PL0000_06�subid_hash_��text_�Лурия вспоминает��column_��id_hash_�TXT_FATE_PL0000_07�subid_hash_��text_�'Никакого отступления��column_��id_hash_�TXT_FATE_PL0000_08�subid_hash_��text_�#Продвижение вперед��column_��id_hash_�TXT_FATE_PL0000_09�subid_hash_��text_�Понимание себя��column_��id_hash_�TXT_FATE_PL0000_10�subid_hash_��text_�%Лучшие друзья в мире��column_��id_hash_�TXT_FATE_PL0100_00�subid_hash_��text_�Ее зовут Лурия��column_��id_hash_�TXT_FATE_PL0100_01�subid_hash_��text_�+Путешествие начинается��column_��id_hash_�TXT_FATE_PL0100_02�subid_hash_��text_�$Облигации в небесах��column_��id_hash_�TXT_FATE_PL0100_03�subid_hash_��text_�Сомнение Вирна��column_��id_hash_�TXT_FATE_PL0100_04�subid_hash_��text_�Я тебя прикрою��column_��id_hash_�TXT_FATE_PL0100_05�subid_hash_��text_�-Победа сладка как яблоко��column_��id_hash_�TXT_FATE_PL0100_06�subid_hash_��text_�Лурия вспоминает��column_��id_hash_�TXT_FATE_PL0100_07�subid_hash_��text_�'Никакого отступления��column_��id_hash_�TXT_FATE_PL0100_08�subid_hash_��text_�#Продвижение вперед��column_��id_hash_�TXT_FATE_PL0100_09�subid_hash_��text_�Понимание себя��column_��id_hash_�TXT_FATE_PL0100_10�subid_hash_��text_�%Лучшие друзья в мире��column_��id_hash_�TXT_FATE_PL0200_00�subid_hash_��text_�Страж Лурии��column_��id_hash_�TXT_FATE_PL0200_01�subid_hash_��text_�IКлятва, засвидетельствованная небесами��column_��id_hash_�TXT_FATE_PL0200_02�subid_hash_��text_�,Мир, который вы познаете��column_��id_hash_�TXT_FATE_PL0200_03�subid_hash_��text_�4Восстановление для будущего��column_��id_hash_�TXT_FATE_PL0200_04�subid_hash_��text_�Семья это все��column_��id_hash_�TXT_FATE_PL0200_05�subid_hash_��text_�.Письмо молодого мальчика��column_��id_hash_�TXT_FATE_PL0200_06�subid_hash_��text_�4Решимость молодого мальчика��column_��id_hash_�TXT_FATE_PL0200_07�subid_hash_��text_�Крик о помощи��column_��id_hash_�TXT_FATE_PL0200_08�subid_hash_��text_�,Яйца призрачных крыльев��column_��id_hash_�TXT_FATE_PL0200_09�subid_hash_��text_�Омлет счастья��column_��id_hash_�TXT_FATE_PL0200_10�subid_hash_��text_�Десерт легенд��column_��id_hash_�TXT_FATE_PL0300_00�subid_hash_��text_�Голубое небо, эй!��column_��id_hash_�TXT_FATE_PL0300_01�subid_hash_��text_�2Фантазия против реальности��column_��id_hash_�TXT_FATE_PL0300_02�subid_hash_��text_�Назад за рулем��column_��id_hash_�TXT_FATE_PL0300_03�subid_hash_��text_�#Это перерывы, малыш��column_��id_hash_�TXT_FATE_PL0300_04�subid_hash_��text_� Вниз, но не наружу��column_��id_hash_�TXT_FATE_PL0300_05�subid_hash_��text_�Стоит хлопот��column_��id_hash_�TXT_FATE_PL0300_06�subid_hash_��text_�Мечта живет��column_��id_hash_�TXT_FATE_PL0300_07�subid_hash_��text_�#Подрезанные крылья��column_��id_hash_�TXT_FATE_PL0300_08�subid_hash_��text_�7Выпрямляйтесь и летите вправо��column_��id_hash_�TXT_FATE_PL0300_09�subid_hash_��text_�Небо манит��column_��id_hash_�TXT_FATE_PL0300_10�subid_hash_��text_�4Новые мечты, новые горизонты��column_��id_hash_�TXT_FATE_PL0400_00�subid_hash_��text_�Решение Ио��column_��id_hash_�TXT_FATE_PL0400_01�subid_hash_��text_�Любимый учитель��column_��id_hash_�TXT_FATE_PL0400_02�subid_hash_��text_�Улыбка фокусника��column_��id_hash_�TXT_FATE_PL0400_03�subid_hash_��text_�Я тебя ненавижу��column_��id_hash_�TXT_FATE_PL0400_04�subid_hash_��text_�#Это всего лишь этап��column_��id_hash_�TXT_FATE_PL0400_05�subid_hash_��text_�Кошелек и жизнь��column_��id_hash_�TXT_FATE_PL0400_06�subid_hash_��text_�На ходу��column_��id_hash_�TXT_FATE_PL0400_07�subid_hash_��text_�"Найдите общий язык��column_��id_hash_�TXT_FATE_PL0400_08�subid_hash_��text_�Изменение сердца��column_��id_hash_�TXT_FATE_PL0400_09�subid_hash_��text_�Искренняя улыбка��column_��id_hash_�TXT_FATE_PL0400_10�subid_hash_��text_�Будущее светлое��column_��id_hash_�TXT_FATE_PL0500_00�subid_hash_��text_�Защищая Огюста��column_��id_hash_�TXT_FATE_PL0500_01�subid_hash_��text_�!Семейные ценности��column_��id_hash_�TXT_FATE_PL0500_02�subid_hash_��text_�'Суровые воспоминания��column_��id_hash_�TXT_FATE_PL0500_03�subid_hash_��text_�Двигаться вперед��column_��id_hash_�TXT_FATE_PL0500_04�subid_hash_��text_�=Слова, оставшиеся невысказанными��column_��id_hash_�TXT_FATE_PL0500_05�subid_hash_��text_�Покойся с миром��column_��id_hash_�TXT_FATE_PL0500_06�subid_hash_��text_�,Продолжая свое наследие��column_��id_hash_�TXT_FATE_PL0500_07�subid_hash_��text_�Ответы в лесу��column_��id_hash_�TXT_FATE_PL0500_08�subid_hash_��text_�Пока мы дышим��column_��id_hash_�TXT_FATE_PL0500_09�subid_hash_��text_�Обещание��column_��id_hash_�TXT_FATE_PL0500_10�subid_hash_��text_�4Цветение драгоценных камней��column_��id_hash_�TXT_FATE_PL0600_00�subid_hash_��text_�/Незабываемое путешествие��column_��id_hash_�TXT_FATE_PL0600_01�subid_hash_��text_�Бесценное имя��column_��id_hash_�TXT_FATE_PL0600_02�subid_hash_��text_�Доверено будущее��column_��id_hash_�TXT_FATE_PL0600_03�subid_hash_��text_�Девушка-призрак��column_��id_hash_�TXT_FATE_PL0600_04�subid_hash_��text_�Незваные гости��column_��id_hash_�TXT_FATE_PL0600_05�subid_hash_��text_�Цветочница��column_��id_hash_�TXT_FATE_PL0600_06�subid_hash_��text_�!Фрагменты Аструма��column_��id_hash_�TXT_FATE_PL0600_07�subid_hash_��text_�Прорвать��column_��id_hash_�TXT_FATE_PL0600_08�subid_hash_��text_�%Кристалл укрепления��column_��id_hash_�TXT_FATE_PL0600_09�subid_hash_��text_�Далекие сестры��column_��id_hash_�TXT_FATE_PL0600_10�subid_hash_��text_�+Предзнаменования весны��column_��id_hash_�TXT_FATE_PL0700_00�subid_hash_��text_�CЕсли бы я только мог увидеть их снова��column_��id_hash_�TXT_FATE_PL0700_01�subid_hash_��text_� Одинокий не более��column_��id_hash_�TXT_FATE_PL0700_02�subid_hash_��text_�!Я знаю, что она там��column_��id_hash_�TXT_FATE_PL0700_03�subid_hash_��text_�Вышитый любовью��column_��id_hash_�TXT_FATE_PL0700_04�subid_hash_��text_�Теплые темы��column_��id_hash_�TXT_FATE_PL0700_05�subid_hash_��text_�Защита от холода��column_��id_hash_�TXT_FATE_PL0700_06�subid_hash_��text_�6Отложенное возвращение домой��column_��id_hash_�TXT_FATE_PL0700_07�subid_hash_��text_�!Забывчивая любовь��column_��id_hash_�TXT_FATE_PL0700_08�subid_hash_��text_� В поисках счастья��column_��id_hash_�TXT_FATE_PL0700_09�subid_hash_��text_�1Теперь она может отдохнуть��column_��id_hash_�TXT_FATE_PL0700_10�subid_hash_��text_�Память среди дюн��column_��id_hash_�TXT_FATE_PL0800_00�subid_hash_��text_� Чудо-двойной клык��column_��id_hash_�TXT_FATE_PL0800_01�subid_hash_��text_�/Доказательство рыцарства��column_��id_hash_�TXT_FATE_PL0800_02�subid_hash_��text_�Родной кризис��column_��id_hash_�TXT_FATE_PL0800_03�subid_hash_��text_�#Просьба дворецкого��column_��id_hash_�TXT_FATE_PL0800_04�subid_hash_��text_�Людвин и Ганс��column_��id_hash_�TXT_FATE_PL0800_05�subid_hash_��text_�Взлом кода��column_��id_hash_�TXT_FATE_PL0800_06�subid_hash_��text_�7Решение проблем "Двойной клык"��column_��id_hash_�TXT_FATE_PL0800_07�subid_hash_��text_�'Методом проб и ошибок��column_��id_hash_�TXT_FATE_PL0800_08�subid_hash_��text_�Учимся вместе��column_��id_hash_�TXT_FATE_PL0800_09�subid_hash_��text_�6Обязанность лорда-протектора��column_��id_hash_�TXT_FATE_PL0800_10�subid_hash_��text_�AСказание о Людвине, лорде Гросгарда��column_��id_hash_�TXT_FATE_PL0900_00�subid_hash_��text_�#Героический рыцарь��column_��id_hash_�TXT_FATE_PL0900_01�subid_hash_��text_�Всё для друга��column_��id_hash_�TXT_FATE_PL0900_02�subid_hash_��text_�Один за всех��column_��id_hash_�TXT_FATE_PL0900_03�subid_hash_��text_�Маленькие рыцари��column_��id_hash_�TXT_FATE_PL0900_04�subid_hash_��text_�Вэйн Сквайр��column_��id_hash_�TXT_FATE_PL0900_05�subid_hash_��text_�Жизненные уроки��column_��id_hash_�TXT_FATE_PL0900_06�subid_hash_��text_�1Что делает рыцаря истинным��column_��id_hash_�TXT_FATE_PL0900_07�subid_hash_��text_�%Чем больше тем лучше��column_��id_hash_�TXT_FATE_PL0900_08�subid_hash_��text_�!Потерянный рыцарь��column_��id_hash_�TXT_FATE_PL0900_09�subid_hash_��text_�Все за одного��column_��id_hash_�TXT_FATE_PL0900_10�subid_hash_��text_�Орден Вейна��column_��id_hash_�TXT_FATE_PL1000_00�subid_hash_��text_�Лорд Пламени��column_��id_hash_�TXT_FATE_PL1000_01�subid_hash_��text_� Стремление к миру��column_��id_hash_�TXT_FATE_PL1000_02�subid_hash_��text_�Идеальная страна��column_��id_hash_�TXT_FATE_PL1000_03�subid_hash_��text_�Отбросы��column_��id_hash_�TXT_FATE_PL1000_04�subid_hash_��text_�Искра перемен��column_��id_hash_�TXT_FATE_PL1000_05�subid_hash_��text_�-Управленческая встряска��column_��id_hash_�TXT_FATE_PL1000_06�subid_hash_��text_�@Персиваль, капитан корпуса обороны��column_��id_hash_�TXT_FATE_PL1000_07�subid_hash_��text_�<Команда, которой можно гордиться��column_��id_hash_�TXT_FATE_PL1000_08�subid_hash_��text_�;Самое большое испытание корпуса��column_��id_hash_�TXT_FATE_PL1000_09�subid_hash_��text_�*Время двигаться дальше��column_��id_hash_�TXT_FATE_PL1000_10�subid_hash_��text_�8Обещание, выкованное в пламени��column_��id_hash_�TXT_FATE_PL1100_00�subid_hash_��text_�Преданный рыцарь��column_��id_hash_�TXT_FATE_PL1100_01�subid_hash_��text_�!Настоящий патриот��column_��id_hash_�TXT_FATE_PL1100_02�subid_hash_��text_�%Королевский человек��column_��id_hash_�TXT_FATE_PL1100_03�subid_hash_��text_�Военная разведка��column_��id_hash_�TXT_FATE_PL1100_04�subid_hash_��text_�2Вооруженные силы Сидхоллоу��column_��id_hash_�TXT_FATE_PL1100_05�subid_hash_��text_�)Хладнокровный Зигфрид��column_��id_hash_�TXT_FATE_PL1100_06�subid_hash_��text_�#Убеждение Зигфрида��column_��id_hash_�TXT_FATE_PL1100_07�subid_hash_��text_�Веревочкой��column_��id_hash_�TXT_FATE_PL1100_08�subid_hash_��text_�-Маленькая помощь из тени��column_��id_hash_�TXT_FATE_PL1100_09�subid_hash_��text_�Будущий союзник��column_��id_hash_�TXT_FATE_PL1100_10�subid_hash_��text_�1Моя работа завершена здесь��column_��id_hash_�TXT_FATE_PL1200_00�subid_hash_��text_�#Сердце праведности��column_��id_hash_�TXT_FATE_PL1200_01�subid_hash_��text_�1Проблемы с ростом Шарлотты��column_��id_hash_�TXT_FATE_PL1200_02�subid_hash_��text_�.Открывается новая дорога��column_��id_hash_�TXT_FATE_PL1200_03�subid_hash_��text_�8Святой рыцарь и плохой мальчик��column_��id_hash_�TXT_FATE_PL1200_04�subid_hash_��text_�Лживый дворянин��column_��id_hash_�TXT_FATE_PL1200_05�subid_hash_��text_�2Ошеломленный и растерянный��column_��id_hash_�TXT_FATE_PL1200_06�subid_hash_��text_�Отказ от клеветы��column_��id_hash_�TXT_FATE_PL1200_07�subid_hash_��text_�Раскрытие правды��column_��id_hash_�TXT_FATE_PL1200_08�subid_hash_��text_�Ловушка Супстока��column_��id_hash_�TXT_FATE_PL1200_09�subid_hash_��text_�,Голос за справедливость��column_��id_hash_�TXT_FATE_PL1200_10�subid_hash_��text_�6Вечно чистый, вечно праведный��column_��id_hash_�TXT_FATE_PL1300_00�subid_hash_��text_�=Фантасмагорический фехтовальщик��column_��id_hash_�TXT_FATE_PL1300_01�subid_hash_��text_�Жизнь без фокуса��column_��id_hash_�TXT_FATE_PL1300_02�subid_hash_��text_�*Моей собственной рукой��column_��id_hash_�TXT_FATE_PL1300_03�subid_hash_��text_�дрейфовать��column_��id_hash_�TXT_FATE_PL1300_04�subid_hash_��text_�@Самое популярное место для рыбалки��column_��id_hash_�TXT_FATE_PL1300_05�subid_hash_��text_�Битва титанов��column_��id_hash_�TXT_FATE_PL1300_06�subid_hash_��text_�Легендарная рыба��column_��id_hash_�TXT_FATE_PL1300_07�subid_hash_��text_�+Равномерное совпадение��column_��id_hash_�TXT_FATE_PL1300_08�subid_hash_��text_�Голоса набраны��column_��id_hash_�TXT_FATE_PL1300_09�subid_hash_��text_�Суть рыбалки��column_��id_hash_�TXT_FATE_PL1300_10�subid_hash_��text_�,Эпическая рыбная сказка��column_��id_hash_�TXT_FATE_PL1400_00�subid_hash_��text_�BВоспоминания, которые глубоко ранят��column_��id_hash_�TXT_FATE_PL1400_01�subid_hash_��text_�Лицо амбиций��column_��id_hash_�TXT_FATE_PL1400_02�subid_hash_��text_�(Научитесь любить себя��column_��id_hash_�TXT_FATE_PL1400_03�subid_hash_��text_�Воля Нармайи��column_��id_hash_�TXT_FATE_PL1400_04�subid_hash_��text_�-Путь, выбранный Нармайей��column_��id_hash_�TXT_FATE_PL1400_05�subid_hash_��text_�Все ради них��column_��id_hash_�TXT_FATE_PL1400_06�subid_hash_��text_�Бои соло��column_��id_hash_�TXT_FATE_PL1400_07�subid_hash_��text_�Куагмайр��column_��id_hash_�TXT_FATE_PL1400_08�subid_hash_��text_�Великое Целое��column_��id_hash_�TXT_FATE_PL1400_09�subid_hash_��text_�"Мои любимые друзья��column_��id_hash_�TXT_FATE_PL1400_10�subid_hash_��text_�Я не одинок��column_��id_hash_�TXT_FATE_PL1500_00�subid_hash_��text_�Вечная ярость��column_��id_hash_�TXT_FATE_PL1500_01�subid_hash_��text_�/Стойкое предзнаменование��column_��id_hash_�TXT_FATE_PL1500_02�subid_hash_��text_�#Легендарные кулаки��column_��id_hash_�TXT_FATE_PL1500_03�subid_hash_��text_�*Рождение новой легенды��column_��id_hash_�TXT_FATE_PL1500_04�subid_hash_��text_�!Единоличная армия��column_��id_hash_�TXT_FATE_PL1500_05�subid_hash_��text_�)Вот и новый претендент��column_��id_hash_�TXT_FATE_PL1500_06�subid_hash_��text_�4Брак, заключенный на небесах��column_��id_hash_�TXT_FATE_PL1500_07�subid_hash_��text_�!Верь в свои кулаки��column_��id_hash_�TXT_FATE_PL1500_08�subid_hash_��text_�Дуэль на века��column_��id_hash_�TXT_FATE_PL1500_09�subid_hash_��text_�'Кулак ведет к нирване��column_��id_hash_�TXT_FATE_PL1500_10�subid_hash_��text_�%Мужчина, миф, фан-арт��column_��id_hash_�TXT_FATE_PL1600_00�subid_hash_��text_�#Багровый подрядчик��column_��id_hash_�TXT_FATE_PL1600_01�subid_hash_��text_�Самая свобода��column_��id_hash_�TXT_FATE_PL1600_02�subid_hash_��text_�Масло и вода��column_��id_hash_�TXT_FATE_PL1600_03�subid_hash_��text_�/Недоделанное предложение��column_��id_hash_�TXT_FATE_PL1600_04�subid_hash_��text_�Скромный подарок��column_��id_hash_�TXT_FATE_PL1600_05�subid_hash_��text_�Пикник для двоих��column_��id_hash_�TXT_FATE_PL1600_06�subid_hash_��text_�*Столкновение с фактами��column_��id_hash_�TXT_FATE_PL1600_07�subid_hash_��text_�"Новый младший брат��column_��id_hash_�TXT_FATE_PL1600_08�subid_hash_��text_�-Багровый и черное дерево��column_��id_hash_�TXT_FATE_PL1600_09�subid_hash_��text_�Истинные чувства��column_��id_hash_�TXT_FATE_PL1600_10�subid_hash_��text_�Правильный дух��column_��id_hash_�TXT_FATE_PL1700_00�subid_hash_��text_�Настоящая ошибка��column_��id_hash_�TXT_FATE_PL1700_01�subid_hash_��text_�Неизбежная боль��column_��id_hash_�TXT_FATE_PL1700_02�subid_hash_��text_�"Один тупой партнер��column_��id_hash_�TXT_FATE_PL1700_03�subid_hash_��text_�&Прогуляйтесь по лесу��column_��id_hash_�TXT_FATE_PL1700_04�subid_hash_��text_�?Женщина, которая тоскует по смерти��column_��id_hash_�TXT_FATE_PL1700_05�subid_hash_��text_�Вес жизни��column_��id_hash_�TXT_FATE_PL1700_06�subid_hash_��text_�Кошмар Ирен��column_��id_hash_�TXT_FATE_PL1700_07�subid_hash_��text_�Остатки спасения��column_��id_hash_�TXT_FATE_PL1700_08�subid_hash_��text_�Остатки��column_��id_hash_�TXT_FATE_PL1700_09�subid_hash_��text_�Свежая зелень��column_��id_hash_�TXT_FATE_PL1700_10�subid_hash_��text_�Яркий урожай��column_��id_hash_�TXT_FATE_PL1800_00�subid_hash_��text_�'Нет никого милее меня��column_��id_hash_�TXT_FATE_PL1800_01�subid_hash_��text_�#Основатель алхимии��column_��id_hash_�TXT_FATE_PL1800_02�subid_hash_��text_�%Эквивалентный обмен��column_��id_hash_�TXT_FATE_PL1800_03�subid_hash_��text_�Студия Шнее��column_��id_hash_�TXT_FATE_PL1800_04�subid_hash_��text_�Боль художника��column_��id_hash_�TXT_FATE_PL1800_05�subid_hash_��text_�#Взгляд одиночества��column_��id_hash_�TXT_FATE_PL1800_06�subid_hash_��text_�)Говоря от всего сердца��column_��id_hash_�TXT_FATE_PL1800_07�subid_hash_��text_�Желание Шни��column_��id_hash_�TXT_FATE_PL1800_08�subid_hash_��text_�Братская ссора��column_��id_hash_�TXT_FATE_PL1800_09�subid_hash_��text_�Семейные узы��column_��id_hash_�TXT_FATE_PL1800_10�subid_hash_��text_�MТебе бы хотелось быть таким же милым, как я��column_��id_hash_�TXT_FATE_PL1900_00�subid_hash_��text_�,Моя Мать, Мое Искупление��column_��id_hash_�TXT_FATE_PL1900_01�subid_hash_��text_�День Судьбы��column_��id_hash_�TXT_FATE_PL1900_02�subid_hash_��text_�'Похороненное прошлое��column_��id_hash_�TXT_FATE_PL1900_03�subid_hash_��text_�Решимость Ид��column_��id_hash_�TXT_FATE_PL1900_04�subid_hash_��text_�*Столкнувшись с прошлым��column_��id_hash_�TXT_FATE_PL1900_05�subid_hash_��text_�Тяжесть греха��column_��id_hash_�TXT_FATE_PL1900_06�subid_hash_��text_�Искупление��column_��id_hash_�TXT_FATE_PL1900_07�subid_hash_��text_�Незащищенный��column_��id_hash_�TXT_FATE_PL1900_08�subid_hash_��text_�Судный день��column_��id_hash_�TXT_FATE_PL1900_09�subid_hash_��text_�Консенсус��column_��id_hash_�TXT_FATE_PL1900_10�subid_hash_��text_�Я знаю это имя��column_��id_hash_�TXT_FATE_PL2100_00�subid_hash_��text_� Неопределенность��column_��id_hash_�TXT_FATE_PL2100_01�subid_hash_��text_�Грех��column_��id_hash_�TXT_FATE_PL2100_02�subid_hash_��text_�Эмоции��column_��id_hash_�TXT_FATE_PL2100_03�subid_hash_��text_�Аномалия��column_��id_hash_�TXT_FATE_PL2100_04�subid_hash_��text_�Ветер��column_��id_hash_�TXT_FATE_PL2100_05�subid_hash_��text_�Вода��column_��id_hash_�TXT_FATE_PL2100_06�subid_hash_��text_�Земля��column_��id_hash_�TXT_FATE_PL2100_07�subid_hash_��text_�Огонь��column_��id_hash_�TXT_FATE_PL2100_08�subid_hash_��text_�Иллюзия��column_��id_hash_�TXT_FATE_PL2100_09�subid_hash_��text_�Присутствует��column_��id_hash_�TXT_FATE_PL2100_10�subid_hash_��text_�Будущее��column_��id_hash_�TXT_FATE_PL2200_00�subid_hash_��text_�Вечные��column_��id_hash_�TXT_FATE_PL2200_01�subid_hash_��text_�%Предчувствие Запада��column_��id_hash_�TXT_FATE_PL2200_02�subid_hash_��text_�"Человек на задании��column_��id_hash_�TXT_FATE_PL2200_03�subid_hash_��text_�Перекрестки��column_��id_hash_�TXT_FATE_PL2200_04�subid_hash_��text_�4Бомба замедленного действия��column_��id_hash_�TXT_FATE_PL2200_05�subid_hash_��text_�0Столкновение точек зрения��column_��id_hash_�TXT_FATE_PL2200_06�subid_hash_��text_�$Страх перед властью��column_��id_hash_�TXT_FATE_PL2200_07�subid_hash_��text_�Пока не поздно��column_��id_hash_�TXT_FATE_PL2200_08�subid_hash_��text_�Праведная казнь��column_��id_hash_�TXT_FATE_PL2200_09�subid_hash_��text_�Похоронить меч��column_��id_hash_�TXT_FATE_PL2200_10�subid_hash_��text_�Сила перемен��column_��id_hash_�TXT_FATE_PL2300_00�subid_hash_��text_�Как рыба из воды��column_��id_hash_�TXT_FATE_PL2300_01�subid_hash_��text_�Одинокий монстр��column_��id_hash_�TXT_FATE_PL2300_02�subid_hash_��text_�%Моя жизнь как вечный��column_��id_hash_�TXT_FATE_PL2300_03�subid_hash_��text_�Вечное мучение��column_��id_hash_�TXT_FATE_PL2300_04�subid_hash_��text_�)Дракон в овечьей шкуре��column_��id_hash_�TXT_FATE_PL2300_05�subid_hash_��text_�!Скрытые опасности��column_��id_hash_�TXT_FATE_PL2300_06�subid_hash_��text_�!Просеивая обломки��column_��id_hash_�TXT_FATE_PL2300_07�subid_hash_��text_�Суждение��column_��id_hash_�TXT_FATE_PL2300_08�subid_hash_��text_�'Столкновение титанов��column_��id_hash_�TXT_FATE_PL2300_09�subid_hash_��text_�Тайм-аут с небес��column_��id_hash_�TXT_FATE_PL2300_10�subid_hash_��text_�EПредставляя себе объединенное завтра��column_��id_hash_�TXT_FATE_PLOT_PL0000_00�subid_hash_��text_�Дурачок��column_��id_hash_�TXT_FATE_PLOT_PL0000_01�subid_hash_��text_�� встречает Каталину и Лурию, которые 
+��rows_����column_��id_hash_�TXT_FATE_HDR_00�subid_hash_��text_�Пролог��column_��id_hash_�TXT_FATE_HDR_01�subid_hash_��text_�Серия 1��column_��id_hash_�TXT_FATE_HDR_02�subid_hash_��text_�Эпизод 2��column_��id_hash_�TXT_FATE_HDR_03�subid_hash_��text_�Эпизод 3��column_��id_hash_�TXT_FATE_HDR_04�subid_hash_��text_�Эпизод 4��column_��id_hash_�TXT_FATE_HDR_05�subid_hash_��text_�Эпизод 5��column_��id_hash_�TXT_FATE_HDR_06�subid_hash_��text_�Эпизод 6��column_��id_hash_�TXT_FATE_HDR_07�subid_hash_��text_�Эпизод 7��column_��id_hash_�TXT_FATE_HDR_08�subid_hash_��text_�Эпизод 8��column_��id_hash_�TXT_FATE_HDR_09�subid_hash_��text_�Эпизод 9��column_��id_hash_�TXT_FATE_HDR_10�subid_hash_��text_�Эпилог��column_��id_hash_�TXT_FATE_HDR_11�subid_hash_��text_�Addendum��column_��id_hash_�TXT_FATE_PL0000_00�subid_hash_��text_�Ее зовут Лурия��column_��id_hash_�TXT_FATE_PL0000_01�subid_hash_��text_�+Путешествие начинается��column_��id_hash_�TXT_FATE_PL0000_02�subid_hash_��text_�$Облигации в небесах��column_��id_hash_�TXT_FATE_PL0000_03�subid_hash_��text_�Сомнение Вирна��column_��id_hash_�TXT_FATE_PL0000_04�subid_hash_��text_�Я тебя прикрою��column_��id_hash_�TXT_FATE_PL0000_05�subid_hash_��text_�-Победа сладка как яблоко��column_��id_hash_�TXT_FATE_PL0000_06�subid_hash_��text_�Лурия вспоминает��column_��id_hash_�TXT_FATE_PL0000_07�subid_hash_��text_�'Никакого отступления��column_��id_hash_�TXT_FATE_PL0000_08�subid_hash_��text_�#Продвижение вперед��column_��id_hash_�TXT_FATE_PL0000_09�subid_hash_��text_�Понимание себя��column_��id_hash_�TXT_FATE_PL0000_10�subid_hash_��text_�%Лучшие друзья в мире��column_��id_hash_�TXT_FATE_PL0100_00�subid_hash_��text_�Ее зовут Лурия��column_��id_hash_�TXT_FATE_PL0100_01�subid_hash_��text_�+Путешествие начинается��column_��id_hash_�TXT_FATE_PL0100_02�subid_hash_��text_�$Облигации в небесах��column_��id_hash_�TXT_FATE_PL0100_03�subid_hash_��text_�Сомнение Вирна��column_��id_hash_�TXT_FATE_PL0100_04�subid_hash_��text_�Я тебя прикрою��column_��id_hash_�TXT_FATE_PL0100_05�subid_hash_��text_�-Победа сладка как яблоко��column_��id_hash_�TXT_FATE_PL0100_06�subid_hash_��text_�Лурия вспоминает��column_��id_hash_�TXT_FATE_PL0100_07�subid_hash_��text_�'Никакого отступления��column_��id_hash_�TXT_FATE_PL0100_08�subid_hash_��text_�#Продвижение вперед��column_��id_hash_�TXT_FATE_PL0100_09�subid_hash_��text_�Понимание себя��column_��id_hash_�TXT_FATE_PL0100_10�subid_hash_��text_�%Лучшие друзья в мире��column_��id_hash_�TXT_FATE_PL0200_00�subid_hash_��text_�Страж Лурии��column_��id_hash_�TXT_FATE_PL0200_01�subid_hash_��text_�IКлятва, засвидетельствованная небесами��column_��id_hash_�TXT_FATE_PL0200_02�subid_hash_��text_�,Мир, который вы познаете��column_��id_hash_�TXT_FATE_PL0200_03�subid_hash_��text_�4Восстановление для будущего��column_��id_hash_�TXT_FATE_PL0200_04�subid_hash_��text_�Семья это все��column_��id_hash_�TXT_FATE_PL0200_05�subid_hash_��text_�.Письмо молодого мальчика��column_��id_hash_�TXT_FATE_PL0200_06�subid_hash_��text_�4Решимость молодого мальчика��column_��id_hash_�TXT_FATE_PL0200_07�subid_hash_��text_�Крик о помощи��column_��id_hash_�TXT_FATE_PL0200_08�subid_hash_��text_�,Яйца призрачных крыльев��column_��id_hash_�TXT_FATE_PL0200_09�subid_hash_��text_�Омлет счастья��column_��id_hash_�TXT_FATE_PL0200_10�subid_hash_��text_�Десерт легенд��column_��id_hash_�TXT_FATE_PL0300_00�subid_hash_��text_�Голубое небо, эй!��column_��id_hash_�TXT_FATE_PL0300_01�subid_hash_��text_�2Фантазия против реальности��column_��id_hash_�TXT_FATE_PL0300_02�subid_hash_��text_�Назад за рулем��column_��id_hash_�TXT_FATE_PL0300_03�subid_hash_��text_�#Это перерывы, малыш��column_��id_hash_�TXT_FATE_PL0300_04�subid_hash_��text_� Вниз, но не наружу��column_��id_hash_�TXT_FATE_PL0300_05�subid_hash_��text_�Стоит хлопот��column_��id_hash_�TXT_FATE_PL0300_06�subid_hash_��text_�Мечта живет��column_��id_hash_�TXT_FATE_PL0300_07�subid_hash_��text_�#Подрезанные крылья��column_��id_hash_�TXT_FATE_PL0300_08�subid_hash_��text_�7Выпрямляйтесь и летите вправо��column_��id_hash_�TXT_FATE_PL0300_09�subid_hash_��text_�Небо манит��column_��id_hash_�TXT_FATE_PL0300_10�subid_hash_��text_�4Новые мечты, новые горизонты��column_��id_hash_�TXT_FATE_PL0400_00�subid_hash_��text_�Решение Ио��column_��id_hash_�TXT_FATE_PL0400_01�subid_hash_��text_�Любимый учитель��column_��id_hash_�TXT_FATE_PL0400_02�subid_hash_��text_�Улыбка фокусника��column_��id_hash_�TXT_FATE_PL0400_03�subid_hash_��text_�Я тебя ненавижу��column_��id_hash_�TXT_FATE_PL0400_04�subid_hash_��text_�#Это всего лишь этап��column_��id_hash_�TXT_FATE_PL0400_05�subid_hash_��text_�Кошелек и жизнь��column_��id_hash_�TXT_FATE_PL0400_06�subid_hash_��text_�На ходу��column_��id_hash_�TXT_FATE_PL0400_07�subid_hash_��text_�"Найдите общий язык��column_��id_hash_�TXT_FATE_PL0400_08�subid_hash_��text_�Изменение сердца��column_��id_hash_�TXT_FATE_PL0400_09�subid_hash_��text_�Искренняя улыбка��column_��id_hash_�TXT_FATE_PL0400_10�subid_hash_��text_�Будущее светлое��column_��id_hash_�TXT_FATE_PL0500_00�subid_hash_��text_�Защищая Огюста��column_��id_hash_�TXT_FATE_PL0500_01�subid_hash_��text_�!Семейные ценности��column_��id_hash_�TXT_FATE_PL0500_02�subid_hash_��text_�'Суровые воспоминания��column_��id_hash_�TXT_FATE_PL0500_03�subid_hash_��text_�Двигаться вперед��column_��id_hash_�TXT_FATE_PL0500_04�subid_hash_��text_�=Слова, оставшиеся невысказанными��column_��id_hash_�TXT_FATE_PL0500_05�subid_hash_��text_�Покойся с миром��column_��id_hash_�TXT_FATE_PL0500_06�subid_hash_��text_�,Продолжая свое наследие��column_��id_hash_�TXT_FATE_PL0500_07�subid_hash_��text_�Ответы в лесу��column_��id_hash_�TXT_FATE_PL0500_08�subid_hash_��text_�Пока мы дышим��column_��id_hash_�TXT_FATE_PL0500_09�subid_hash_��text_�Обещание��column_��id_hash_�TXT_FATE_PL0500_10�subid_hash_��text_�4Цветение драгоценных камней��column_��id_hash_�TXT_FATE_PL0600_00�subid_hash_��text_�/Незабываемое путешествие��column_��id_hash_�TXT_FATE_PL0600_01�subid_hash_��text_�Бесценное имя��column_��id_hash_�TXT_FATE_PL0600_02�subid_hash_��text_�Доверено будущее��column_��id_hash_�TXT_FATE_PL0600_03�subid_hash_��text_�Девушка-призрак��column_��id_hash_�TXT_FATE_PL0600_04�subid_hash_��text_�Незваные гости��column_��id_hash_�TXT_FATE_PL0600_05�subid_hash_��text_�Цветочница��column_��id_hash_�TXT_FATE_PL0600_06�subid_hash_��text_�!Фрагменты Аструма��column_��id_hash_�TXT_FATE_PL0600_07�subid_hash_��text_�Прорвать��column_��id_hash_�TXT_FATE_PL0600_08�subid_hash_��text_�%Кристалл укрепления��column_��id_hash_�TXT_FATE_PL0600_09�subid_hash_��text_�Далекие сестры��column_��id_hash_�TXT_FATE_PL0600_10�subid_hash_��text_�+Предзнаменования весны��column_��id_hash_�TXT_FATE_PL0700_00�subid_hash_��text_�CЕсли бы я только мог увидеть их снова��column_��id_hash_�TXT_FATE_PL0700_01�subid_hash_��text_� Одинокий не более��column_��id_hash_�TXT_FATE_PL0700_02�subid_hash_��text_�!Я знаю, что она там��column_��id_hash_�TXT_FATE_PL0700_03�subid_hash_��text_�Вышитый любовью��column_��id_hash_�TXT_FATE_PL0700_04�subid_hash_��text_�Теплые темы��column_��id_hash_�TXT_FATE_PL0700_05�subid_hash_��text_�Защита от холода��column_��id_hash_�TXT_FATE_PL0700_06�subid_hash_��text_�6Отложенное возвращение домой��column_��id_hash_�TXT_FATE_PL0700_07�subid_hash_��text_�!Забывчивая любовь��column_��id_hash_�TXT_FATE_PL0700_08�subid_hash_��text_� В поисках счастья��column_��id_hash_�TXT_FATE_PL0700_09�subid_hash_��text_�1Теперь она может отдохнуть��column_��id_hash_�TXT_FATE_PL0700_10�subid_hash_��text_�Память среди дюн��column_��id_hash_�TXT_FATE_PL0800_00�subid_hash_��text_� Чудо-двойной клык��column_��id_hash_�TXT_FATE_PL0800_01�subid_hash_��text_�/Доказательство рыцарства��column_��id_hash_�TXT_FATE_PL0800_02�subid_hash_��text_�Родной кризис��column_��id_hash_�TXT_FATE_PL0800_03�subid_hash_��text_�#Просьба дворецкого��column_��id_hash_�TXT_FATE_PL0800_04�subid_hash_��text_�Людвин и Ганс��column_��id_hash_�TXT_FATE_PL0800_05�subid_hash_��text_�Взлом кода��column_��id_hash_�TXT_FATE_PL0800_06�subid_hash_��text_�7Решение проблем "Двойной клык"��column_��id_hash_�TXT_FATE_PL0800_07�subid_hash_��text_�'Методом проб и ошибок��column_��id_hash_�TXT_FATE_PL0800_08�subid_hash_��text_�Учимся вместе��column_��id_hash_�TXT_FATE_PL0800_09�subid_hash_��text_�6Обязанность лорда-протектора��column_��id_hash_�TXT_FATE_PL0800_10�subid_hash_��text_�AСказание о Людвине, лорде Гросгарда��column_��id_hash_�TXT_FATE_PL0900_00�subid_hash_��text_�#Героический рыцарь��column_��id_hash_�TXT_FATE_PL0900_01�subid_hash_��text_�Всё для друга��column_��id_hash_�TXT_FATE_PL0900_02�subid_hash_��text_�Один за всех��column_��id_hash_�TXT_FATE_PL0900_03�subid_hash_��text_�Маленькие рыцари��column_��id_hash_�TXT_FATE_PL0900_04�subid_hash_��text_�Вэйн Сквайр��column_��id_hash_�TXT_FATE_PL0900_05�subid_hash_��text_�Жизненные уроки��column_��id_hash_�TXT_FATE_PL0900_06�subid_hash_��text_�1Что делает рыцаря истинным��column_��id_hash_�TXT_FATE_PL0900_07�subid_hash_��text_�%Чем больше тем лучше��column_��id_hash_�TXT_FATE_PL0900_08�subid_hash_��text_�!Потерянный рыцарь��column_��id_hash_�TXT_FATE_PL0900_09�subid_hash_��text_�Все за одного��column_��id_hash_�TXT_FATE_PL0900_10�subid_hash_��text_�Орден Вейна��column_��id_hash_�TXT_FATE_PL1000_00�subid_hash_��text_�Лорд Пламени��column_��id_hash_�TXT_FATE_PL1000_01�subid_hash_��text_� Стремление к миру��column_��id_hash_�TXT_FATE_PL1000_02�subid_hash_��text_�Идеальная страна��column_��id_hash_�TXT_FATE_PL1000_03�subid_hash_��text_�Отбросы��column_��id_hash_�TXT_FATE_PL1000_04�subid_hash_��text_�Искра перемен��column_��id_hash_�TXT_FATE_PL1000_05�subid_hash_��text_�-Управленческая встряска��column_��id_hash_�TXT_FATE_PL1000_06�subid_hash_��text_�@Персиваль, капитан корпуса обороны��column_��id_hash_�TXT_FATE_PL1000_07�subid_hash_��text_�<Команда, которой можно гордиться��column_��id_hash_�TXT_FATE_PL1000_08�subid_hash_��text_�;Самое большое испытание корпуса��column_��id_hash_�TXT_FATE_PL1000_09�subid_hash_��text_�*Время двигаться дальше��column_��id_hash_�TXT_FATE_PL1000_10�subid_hash_��text_�8Обещание, выкованное в пламени��column_��id_hash_�TXT_FATE_PL1100_00�subid_hash_��text_�Преданный рыцарь��column_��id_hash_�TXT_FATE_PL1100_01�subid_hash_��text_�!Настоящий патриот��column_��id_hash_�TXT_FATE_PL1100_02�subid_hash_��text_�%Королевский человек��column_��id_hash_�TXT_FATE_PL1100_03�subid_hash_��text_�Военная разведка��column_��id_hash_�TXT_FATE_PL1100_04�subid_hash_��text_�2Вооруженные силы Сидхоллоу��column_��id_hash_�TXT_FATE_PL1100_05�subid_hash_��text_�)Хладнокровный Зигфрид��column_��id_hash_�TXT_FATE_PL1100_06�subid_hash_��text_�#Убеждение Зигфрида��column_��id_hash_�TXT_FATE_PL1100_07�subid_hash_��text_�Веревочкой��column_��id_hash_�TXT_FATE_PL1100_08�subid_hash_��text_�-Маленькая помощь из тени��column_��id_hash_�TXT_FATE_PL1100_09�subid_hash_��text_�Будущий союзник��column_��id_hash_�TXT_FATE_PL1100_10�subid_hash_��text_�1Моя работа завершена здесь��column_��id_hash_�TXT_FATE_PL1200_00�subid_hash_��text_�#Сердце праведности��column_��id_hash_�TXT_FATE_PL1200_01�subid_hash_��text_�1Проблемы с ростом Шарлотты��column_��id_hash_�TXT_FATE_PL1200_02�subid_hash_��text_�.Открывается новая дорога��column_��id_hash_�TXT_FATE_PL1200_03�subid_hash_��text_�8Святой рыцарь и плохой мальчик��column_��id_hash_�TXT_FATE_PL1200_04�subid_hash_��text_�Лживый дворянин��column_��id_hash_�TXT_FATE_PL1200_05�subid_hash_��text_�2Ошеломленный и растерянный��column_��id_hash_�TXT_FATE_PL1200_06�subid_hash_��text_�Отказ от клеветы��column_��id_hash_�TXT_FATE_PL1200_07�subid_hash_��text_�Раскрытие правды��column_��id_hash_�TXT_FATE_PL1200_08�subid_hash_��text_�Ловушка Супстока��column_��id_hash_�TXT_FATE_PL1200_09�subid_hash_��text_�,Голос за справедливость��column_��id_hash_�TXT_FATE_PL1200_10�subid_hash_��text_�6Вечно чистый, вечно праведный��column_��id_hash_�TXT_FATE_PL1300_00�subid_hash_��text_�=Фантасмагорический фехтовальщик��column_��id_hash_�TXT_FATE_PL1300_01�subid_hash_��text_�Жизнь без фокуса��column_��id_hash_�TXT_FATE_PL1300_02�subid_hash_��text_�*Моей собственной рукой��column_��id_hash_�TXT_FATE_PL1300_03�subid_hash_��text_�дрейфовать��column_��id_hash_�TXT_FATE_PL1300_04�subid_hash_��text_�@Самое популярное место для рыбалки��column_��id_hash_�TXT_FATE_PL1300_05�subid_hash_��text_�Битва титанов��column_��id_hash_�TXT_FATE_PL1300_06�subid_hash_��text_�Легендарная рыба��column_��id_hash_�TXT_FATE_PL1300_07�subid_hash_��text_�+Равномерное совпадение��column_��id_hash_�TXT_FATE_PL1300_08�subid_hash_��text_�Голоса набраны��column_��id_hash_�TXT_FATE_PL1300_09�subid_hash_��text_�Суть рыбалки��column_��id_hash_�TXT_FATE_PL1300_10�subid_hash_��text_�,Эпическая рыбная сказка��column_��id_hash_�TXT_FATE_PL1400_00�subid_hash_��text_�BВоспоминания, которые глубоко ранят��column_��id_hash_�TXT_FATE_PL1400_01�subid_hash_��text_�Лицо амбиций��column_��id_hash_�TXT_FATE_PL1400_02�subid_hash_��text_�(Научитесь любить себя��column_��id_hash_�TXT_FATE_PL1400_03�subid_hash_��text_�Воля Нармайи��column_��id_hash_�TXT_FATE_PL1400_04�subid_hash_��text_�-Путь, выбранный Нармайей��column_��id_hash_�TXT_FATE_PL1400_05�subid_hash_��text_�Все ради них��column_��id_hash_�TXT_FATE_PL1400_06�subid_hash_��text_�Бои соло��column_��id_hash_�TXT_FATE_PL1400_07�subid_hash_��text_�Куагмайр��column_��id_hash_�TXT_FATE_PL1400_08�subid_hash_��text_�Великое Целое��column_��id_hash_�TXT_FATE_PL1400_09�subid_hash_��text_�"Мои любимые друзья��column_��id_hash_�TXT_FATE_PL1400_10�subid_hash_��text_�Я не одинок��column_��id_hash_�TXT_FATE_PL1500_00�subid_hash_��text_�Вечная ярость��column_��id_hash_�TXT_FATE_PL1500_01�subid_hash_��text_�/Стойкое предзнаменование��column_��id_hash_�TXT_FATE_PL1500_02�subid_hash_��text_�#Легендарные кулаки��column_��id_hash_�TXT_FATE_PL1500_03�subid_hash_��text_�*Рождение новой легенды��column_��id_hash_�TXT_FATE_PL1500_04�subid_hash_��text_�!Единоличная армия��column_��id_hash_�TXT_FATE_PL1500_05�subid_hash_��text_�)Вот и новый претендент��column_��id_hash_�TXT_FATE_PL1500_06�subid_hash_��text_�4Брак, заключенный на небесах��column_��id_hash_�TXT_FATE_PL1500_07�subid_hash_��text_�!Верь в свои кулаки��column_��id_hash_�TXT_FATE_PL1500_08�subid_hash_��text_�Дуэль на века��column_��id_hash_�TXT_FATE_PL1500_09�subid_hash_��text_�'Кулак ведет к нирване��column_��id_hash_�TXT_FATE_PL1500_10�subid_hash_��text_�%Мужчина, миф, фан-арт��column_��id_hash_�TXT_FATE_PL1600_00�subid_hash_��text_�#Багровый подрядчик��column_��id_hash_�TXT_FATE_PL1600_01�subid_hash_��text_�Самая свобода��column_��id_hash_�TXT_FATE_PL1600_02�subid_hash_��text_�Масло и вода��column_��id_hash_�TXT_FATE_PL1600_03�subid_hash_��text_�/Недоделанное предложение��column_��id_hash_�TXT_FATE_PL1600_04�subid_hash_��text_�Скромный подарок��column_��id_hash_�TXT_FATE_PL1600_05�subid_hash_��text_�Пикник для двоих��column_��id_hash_�TXT_FATE_PL1600_06�subid_hash_��text_�*Столкновение с фактами��column_��id_hash_�TXT_FATE_PL1600_07�subid_hash_��text_�"Новый младший брат��column_��id_hash_�TXT_FATE_PL1600_08�subid_hash_��text_�-Багровый и черное дерево��column_��id_hash_�TXT_FATE_PL1600_09�subid_hash_��text_�Истинные чувства��column_��id_hash_�TXT_FATE_PL1600_10�subid_hash_��text_�Правильный дух��column_��id_hash_�TXT_FATE_PL1700_00�subid_hash_��text_�Настоящая ошибка��column_��id_hash_�TXT_FATE_PL1700_01�subid_hash_��text_�Неизбежная боль��column_��id_hash_�TXT_FATE_PL1700_02�subid_hash_��text_�"Один тупой партнер��column_��id_hash_�TXT_FATE_PL1700_03�subid_hash_��text_�&Прогуляйтесь по лесу��column_��id_hash_�TXT_FATE_PL1700_04�subid_hash_��text_�?Женщина, которая тоскует по смерти��column_��id_hash_�TXT_FATE_PL1700_05�subid_hash_��text_�Вес жизни��column_��id_hash_�TXT_FATE_PL1700_06�subid_hash_��text_�Кошмар Ирен��column_��id_hash_�TXT_FATE_PL1700_07�subid_hash_��text_�Остатки спасения��column_��id_hash_�TXT_FATE_PL1700_08�subid_hash_��text_�Остатки��column_��id_hash_�TXT_FATE_PL1700_09�subid_hash_��text_�Свежая зелень��column_��id_hash_�TXT_FATE_PL1700_10�subid_hash_��text_�Яркий урожай��column_��id_hash_�TXT_FATE_PL1800_00�subid_hash_��text_�'Нет никого милее меня��column_��id_hash_�TXT_FATE_PL1800_01�subid_hash_��text_�#Основатель алхимии��column_��id_hash_�TXT_FATE_PL1800_02�subid_hash_��text_�%Эквивалентный обмен��column_��id_hash_�TXT_FATE_PL1800_03�subid_hash_��text_�Студия Шнее��column_��id_hash_�TXT_FATE_PL1800_04�subid_hash_��text_�Боль художника��column_��id_hash_�TXT_FATE_PL1800_05�subid_hash_��text_�#Взгляд одиночества��column_��id_hash_�TXT_FATE_PL1800_06�subid_hash_��text_�)Говоря от всего сердца��column_��id_hash_�TXT_FATE_PL1800_07�subid_hash_��text_�Желание Шни��column_��id_hash_�TXT_FATE_PL1800_08�subid_hash_��text_�Братская ссора��column_��id_hash_�TXT_FATE_PL1800_09�subid_hash_��text_�Семейные узы��column_��id_hash_�TXT_FATE_PL1800_10�subid_hash_��text_�MТебе бы хотелось быть таким же милым, как я��column_��id_hash_�TXT_FATE_PL1900_00�subid_hash_��text_�,Моя Мать, Мое Искупление��column_��id_hash_�TXT_FATE_PL1900_01�subid_hash_��text_�День Судьбы��column_��id_hash_�TXT_FATE_PL1900_02�subid_hash_��text_�'Похороненное прошлое��column_��id_hash_�TXT_FATE_PL1900_03�subid_hash_��text_�Решимость Ид��column_��id_hash_�TXT_FATE_PL1900_04�subid_hash_��text_�*Столкнувшись с прошлым��column_��id_hash_�TXT_FATE_PL1900_05�subid_hash_��text_�Тяжесть греха��column_��id_hash_�TXT_FATE_PL1900_06�subid_hash_��text_�Искупление��column_��id_hash_�TXT_FATE_PL1900_07�subid_hash_��text_�Незащищенный��column_��id_hash_�TXT_FATE_PL1900_08�subid_hash_��text_�Судный день��column_��id_hash_�TXT_FATE_PL1900_09�subid_hash_��text_�Консенсус��column_��id_hash_�TXT_FATE_PL1900_10�subid_hash_��text_�Я знаю это имя��column_��id_hash_�TXT_FATE_PL2100_00�subid_hash_��text_� Неопределенность��column_��id_hash_�TXT_FATE_PL2100_01�subid_hash_��text_�Грех��column_��id_hash_�TXT_FATE_PL2100_02�subid_hash_��text_�Эмоции��column_��id_hash_�TXT_FATE_PL2100_03�subid_hash_��text_�Аномалия��column_��id_hash_�TXT_FATE_PL2100_04�subid_hash_��text_�Ветер��column_��id_hash_�TXT_FATE_PL2100_05�subid_hash_��text_�Вода��column_��id_hash_�TXT_FATE_PL2100_06�subid_hash_��text_�Земля��column_��id_hash_�TXT_FATE_PL2100_07�subid_hash_��text_�Огонь��column_��id_hash_�TXT_FATE_PL2100_08�subid_hash_��text_�Иллюзия��column_��id_hash_�TXT_FATE_PL2100_09�subid_hash_��text_�Присутствует��column_��id_hash_�TXT_FATE_PL2100_10�subid_hash_��text_�Будущее��column_��id_hash_�TXT_FATE_PL2200_00�subid_hash_��text_�Вечные��column_��id_hash_�TXT_FATE_PL2200_01�subid_hash_��text_�%Предчувствие Запада��column_��id_hash_�TXT_FATE_PL2200_02�subid_hash_��text_�"Человек на задании��column_��id_hash_�TXT_FATE_PL2200_03�subid_hash_��text_�Перекрестки��column_��id_hash_�TXT_FATE_PL2200_04�subid_hash_��text_�4Бомба замедленного действия��column_��id_hash_�TXT_FATE_PL2200_05�subid_hash_��text_�0Столкновение точек зрения��column_��id_hash_�TXT_FATE_PL2200_06�subid_hash_��text_�$Страх перед властью��column_��id_hash_�TXT_FATE_PL2200_07�subid_hash_��text_�Пока не поздно��column_��id_hash_�TXT_FATE_PL2200_08�subid_hash_��text_�Праведная казнь��column_��id_hash_�TXT_FATE_PL2200_09�subid_hash_��text_�Похоронить меч��column_��id_hash_�TXT_FATE_PL2200_10�subid_hash_��text_�Сила перемен��column_��id_hash_�TXT_FATE_PL2300_00�subid_hash_��text_�Как рыба из воды��column_��id_hash_�TXT_FATE_PL2300_01�subid_hash_��text_�Одинокий монстр��column_��id_hash_�TXT_FATE_PL2300_02�subid_hash_��text_�%Моя жизнь как вечный��column_��id_hash_�TXT_FATE_PL2300_03�subid_hash_��text_�Вечное мучение��column_��id_hash_�TXT_FATE_PL2300_04�subid_hash_��text_�)Дракон в овечьей шкуре��column_��id_hash_�TXT_FATE_PL2300_05�subid_hash_��text_�!Скрытые опасности��column_��id_hash_�TXT_FATE_PL2300_06�subid_hash_��text_�!Просеивая обломки��column_��id_hash_�TXT_FATE_PL2300_07�subid_hash_��text_�Суждение��column_��id_hash_�TXT_FATE_PL2300_08�subid_hash_��text_�'Столкновение титанов��column_��id_hash_�TXT_FATE_PL2300_09�subid_hash_��text_�Тайм-аут с небес��column_��id_hash_�TXT_FATE_PL2300_10�subid_hash_��text_�EПредставляя себе объединенное завтра��column_��id_hash_�TXT_FATE_PL2400_00�subid_hash_��text_�Spear and Shield��column_��id_hash_�TXT_FATE_PL2400_01�subid_hash_��text_�Stepping Stones��column_��id_hash_�TXT_FATE_PL2400_02�subid_hash_��text_�Blooming Resolve��column_��id_hash_�TXT_FATE_PL2400_03�subid_hash_��text_�Revolt from the Blue��column_��id_hash_�TXT_FATE_PL2400_04�subid_hash_��text_�Fallen Wolves��column_��id_hash_�TXT_FATE_PL2400_05�subid_hash_��text_�Compromise��column_��id_hash_�TXT_FATE_PL2400_06�subid_hash_��text_�Brothers-in-Arms��column_��id_hash_�TXT_FATE_PL2400_07�subid_hash_��text_�Intentions at Spear's End��column_��id_hash_�TXT_FATE_PL2400_08�subid_hash_��text_�Feast of Frenzy��column_��id_hash_�TXT_FATE_PL2400_09�subid_hash_��text_�Reconciliation��column_��id_hash_�TXT_FATE_PL2400_10�subid_hash_��text_�Clarion Call��column_��id_hash_�TXT_FATE_PL2500_00�subid_hash_��text_�Veiled Legacy��column_��id_hash_�TXT_FATE_PL2500_01�subid_hash_��text_�Salvation's Bread��column_��id_hash_�TXT_FATE_PL2500_02�subid_hash_��text_�Turning Point��column_��id_hash_�TXT_FATE_PL2500_03�subid_hash_��text_�Overture��column_��id_hash_�TXT_FATE_PL2500_04�subid_hash_��text_�Lies in the Snow��column_��id_hash_�TXT_FATE_PL2500_05�subid_hash_��text_�Seeking a New Legend��column_��id_hash_�TXT_FATE_PL2500_06�subid_hash_��text_�Maglielle's Will��column_��id_hash_�TXT_FATE_PL2500_07�subid_hash_��text_�Sword of Blue��column_��id_hash_�TXT_FATE_PL2500_08�subid_hash_��text_�Tragedy of Blood��column_��id_hash_�TXT_FATE_PL2500_09�subid_hash_��text_�Coda��column_��id_hash_�TXT_FATE_PL2500_10�subid_hash_��text_�Scherzando to the Morrow��column_��id_hash_�TXT_FATE_PL2600_00�subid_hash_��text_�Strength Through Adversity��column_��id_hash_�TXT_FATE_PL2600_01�subid_hash_��text_�Haunting Memories��column_��id_hash_�TXT_FATE_PL2600_02�subid_hash_��text_�Devouring Destiny��column_��id_hash_�TXT_FATE_PL2600_03�subid_hash_��text_�Glory Awaits��column_��id_hash_�TXT_FATE_PL2600_04�subid_hash_��text_�Solo Investigation��column_��id_hash_�TXT_FATE_PL2600_05�subid_hash_��text_�Pride Begets the Fall��column_��id_hash_�TXT_FATE_PL2600_06�subid_hash_��text_�Failure's Retribution��column_��id_hash_�TXT_FATE_PL2600_07�subid_hash_��text_�Lessons Learned��column_��id_hash_�TXT_FATE_PL2600_08�subid_hash_��text_�Sword Veil Standoff��column_��id_hash_�TXT_FATE_PL2600_09�subid_hash_��text_�Duty via Dereliction��column_��id_hash_�TXT_FATE_PL2600_10�subid_hash_��text_� Yesterday's Foe, Tomorrow's Ally��column_��id_hash_�TXT_FATE_PL2700_00�subid_hash_��text_�Insubordination��column_��id_hash_�TXT_FATE_PL2700_01�subid_hash_��text_�Negotiation��column_��id_hash_�TXT_FATE_PL2700_02�subid_hash_��text_�Lost in Ashes��column_��id_hash_�TXT_FATE_PL2700_03�subid_hash_��text_�New Orders��column_��id_hash_�TXT_FATE_PL2700_04�subid_hash_��text_�Infiltration��column_��id_hash_�TXT_FATE_PL2700_05�subid_hash_��text_�The Ripples of Salvation��column_��id_hash_�TXT_FATE_PL2700_06�subid_hash_��text_�Ideals and Ambitions��column_��id_hash_�TXT_FATE_PL2700_07�subid_hash_��text_�Bluff��column_��id_hash_�TXT_FATE_PL2700_08�subid_hash_��text_�True Thunder��column_��id_hash_�TXT_FATE_PL2700_09�subid_hash_��text_�Mission Complete��column_��id_hash_�TXT_FATE_PL2700_10�subid_hash_��text_�A Truth Among the Lies��column_��id_hash_�TXT_FATE_PL2800_00�subid_hash_��text_�Scarred Heart��column_��id_hash_�TXT_FATE_PL2800_01�subid_hash_��text_�She Who Wields Strength��column_��id_hash_�TXT_FATE_PL2800_02�subid_hash_��text_�Reach for the Stars��column_��id_hash_�TXT_FATE_PL2800_03�subid_hash_��text_�Reversed World��column_��id_hash_�TXT_FATE_PL2800_04�subid_hash_��text_�Pastoral Memories��column_��id_hash_�TXT_FATE_PL2800_05�subid_hash_��text_�Deceitful Kindness��column_��id_hash_�TXT_FATE_PL2800_06�subid_hash_��text_�Fixing Mistakes��column_��id_hash_�TXT_FATE_PL2800_07�subid_hash_��text_�One Plus One��column_��id_hash_�TXT_FATE_PL2800_08�subid_hash_��text_�Beloved Aria��column_��id_hash_�TXT_FATE_PL2800_09�subid_hash_��text_�Encore��column_��id_hash_�TXT_FATE_PL2800_10�subid_hash_��text_�At the End of the World��column_��id_hash_�TXT_FATE_PL2900_00�subid_hash_��text_�Inherit the Past��column_��id_hash_�TXT_FATE_PL2900_01�subid_hash_��text_�Infinitesimal and Infinite��column_��id_hash_�TXT_FATE_PL2900_02�subid_hash_��text_�Manifestation��column_��id_hash_�TXT_FATE_PL2900_03�subid_hash_��text_�Love's Legacy��column_��id_hash_�TXT_FATE_PL2900_04�subid_hash_��text_�The War��column_��id_hash_�TXT_FATE_PL2900_05�subid_hash_��text_�The Girl in Blue��column_��id_hash_�TXT_FATE_PL2900_06�subid_hash_��text_�Divided Skies��column_��id_hash_�TXT_FATE_PL2900_07�subid_hash_��text_�Sundered God��column_��id_hash_�TXT_FATE_PL2900_08�subid_hash_��text_�Rebirthed Genesis��column_��id_hash_�TXT_FATE_PL2900_09�subid_hash_��text_�!Rondo of Destruction and Creation��column_��id_hash_�TXT_FATE_PL2900_10�subid_hash_��text_�Axiom of Our Provenance��column_��id_hash_�TXT_FATE_PLOT_PL0000_01�subid_hash_��text_�� встречает Каталину и Лурию, которые 
 бегут от армии Империи Эрсте. 
  дает отпор преследователям и получает с
 мертельное ранение. 
@@ -49,7 +49,7 @@
  никогда не забудет тяжести ударов Ида. клянется нести
  ответственность, будущую быть одновременно капитаном
  команды и получателем цепи жизни Лурии, независимо от
- того, насколько она тяжела.��column_��id_hash_�TXT_FATE_PLOT_PL0100_00�subid_hash_��text_�Дурачок��column_��id_hash_�TXT_FATE_PLOT_PL0100_01�subid_hash_��text_�� встречает Каталину и Лурию, которые 
+ того, насколько она тяжела.��column_��id_hash_�TXT_FATE_PLOT_PL0100_01�subid_hash_��text_�� встречает Каталину и Лурию, которые 
 бегут от армии Империи Эрсте. 
  дает отпор преследователям и получает с
 мертельное ранение. 
@@ -95,7 +95,7 @@
  Ид никогда не забудет тяжесть своих ударов. Он
  клянется нести ответственность за то, что является
  капитаном команды и получателем спасательного круга
- Лурии, какой бы тяжелой она ни была.��column_��id_hash_�TXT_FATE_PLOT_PL0200_00�subid_hash_��text_�Dummy��column_��id_hash_�TXT_FATE_PLOT_PL0200_01�subid_hash_��text_��Глядя на солнечное небо Зегагранде, Каталина
+ Лурии, какой бы тяжелой она ни была.��column_��id_hash_�TXT_FATE_PLOT_PL0200_01�subid_hash_��text_��Глядя на солнечное небо Зегагранде, Каталина
  вспоминает, как она помогла Лурии бежать из Эрсте
  Империи, как познакомилась на Зинкенстилле и как
  отправилась в приключения, о которых даже не могла
@@ -136,7 +136,7 @@
  приготовленными из яиц крылаток. Их хватит на всю
  Фолку. Каталина с удовольствием наблюдает за тем, как
  все набивают свои желудки вкусной, восстанавливающей
- энергию едой.��column_��id_hash_�TXT_FATE_PLOT_PL0300_00�subid_hash_��text_�Dummy��column_��id_hash_�TXT_FATE_PLOT_PL0300_01�subid_hash_��text_�nРэкам выводит Грандсифер из штормового бассейна Грим
+ энергию едой.��column_��id_hash_�TXT_FATE_PLOT_PL0300_01�subid_hash_��text_�nРэкам выводит Грандсифер из штормового бассейна Грим
  в голубое небо Зегагранде. С палубы доносятся
  радостные возгласы, предвещающие новые приключения.
  Они не могут дождаться, когда выйдут на берег.��column_��id_hash_�TXT_FATE_PLOT_PL0300_02�subid_hash_��text_��Много лет назад молодой Рэкам нашел брошенный у скал
@@ -180,7 +180,7 @@
  Наутилусе для себя и своих друзей.��column_��id_hash_�TXT_FATE_PLOT_PL0300_10�subid_hash_��text_�OПочти весь город присутствует на первом плавании
  Наутилуса. С ревом двигателей и жужжанием пропеллеров
  корабль поднимается в небо, унося с собой обещания и
- мечты Кента и его друзей.��column_��id_hash_�TXT_FATE_PLOT_PL0400_00�subid_hash_��text_�Dummy��column_��id_hash_�TXT_FATE_PLOT_PL0400_01�subid_hash_��text_��Герцогство Валц - остров сильной жары, который Ио
+ мечты Кента и его друзей.��column_��id_hash_�TXT_FATE_PLOT_PL0400_01�subid_hash_��text_��Герцогство Валц - остров сильной жары, который Ио
  называет своим домом. Когда ее хозяин пропадает, она
  вместе с командой отправляется на его поиски. Поиски
  даются ей нелегко, но в конце концов она находит его и
@@ -236,7 +236,7 @@
  беспокоит. Его мама и папа обещают, что скоро у них
  будет больше времени, чтобы проводить его вместе,
  после того как группа врачей из Сидхоллоу переедет в
- Фолку. Наконец-то мальчик снова может улыбаться.��column_��id_hash_�TXT_FATE_PLOT_PL0500_00�subid_hash_��text_�Dummy��column_��id_hash_�TXT_FATE_PLOT_PL0500_01�subid_hash_��text_�JЭуген много путешествовал как опытный путешественник,
+ Фолку. Наконец-то мальчик снова может улыбаться.��column_��id_hash_�TXT_FATE_PLOT_PL0500_01�subid_hash_��text_�JЭуген много путешествовал как опытный путешественник,
  прежде чем уехал на родину, на острова Августа. Там он
  присоединился к другим наемникам, чтобы защитить
  Августу от вторжения Империи Эрсте. Объединившись с
@@ -281,7 +281,7 @@
  записями и указаниями на другой сад.��column_��id_hash_�TXT_FATE_PLOT_PL0500_10�subid_hash_��text_�CЭуген и Харзеда попадают в другой тайный сад.
  Солнечный свет проникает сквозь полог леса, освещая
  пурпурные цветы. Харзеда наконец понимает, о чем
- пытался рассказать его друг.��column_��id_hash_�TXT_FATE_PLOT_PL0600_00�subid_hash_��text_�Dummy��column_��id_hash_�TXT_FATE_PLOT_PL0600_01�subid_hash_��text_��Глядя на солнечное небо Зегагранде, забытого всеми
+ пытался рассказать его друг.��column_��id_hash_�TXT_FATE_PLOT_PL0600_01�subid_hash_��text_��Глядя на солнечное небо Зегагранде, забытого всеми
  небесного королевства, Розетта вспоминает, как она
  дошла до этого момента. Приключения с экипажем кажутся
  ей лишь незначительным событием в ее долгой жизни, но
@@ -330,7 +330,7 @@
  сообщают, что девушка на самом деле является
  первобытным богом, они испытывают облегчение. Однако,
  одна неувязка все еще остается: Лурия сожалеет, что
- Розетта и Коноханасакуя не смогли наладить отношения.��column_��id_hash_�TXT_FATE_PLOT_PL0700_00�subid_hash_��text_�Dummy��column_��id_hash_�TXT_FATE_PLOT_PL0700_01�subid_hash_��text_�sФерри жила на окутанном туманом острове со своими
+ Розетта и Коноханасакуя не смогли наладить отношения.��column_��id_hash_�TXT_FATE_PLOT_PL0700_01�subid_hash_��text_�sФерри жила на окутанном туманом острове со своими
  родителями и сестрой. Ее сестра заразилась
  неизлечимой болезнью и покинула остров, чтобы найти
  лечение. Через некоторое время после этого, чума
@@ -387,7 +387,7 @@
  конечно, не дура. Она давно поняла, что сожаление о
  том, что не может отдать ему одеяло, не дает ей уйти
  из жизни. Она благодарит Ферри за ее доброту и
- исчезает из этого мира.��column_��id_hash_�TXT_FATE_PLOT_PL0800_00�subid_hash_��text_�Dummy��column_��id_hash_�TXT_FATE_PLOT_PL0800_01�subid_hash_��text_��Король Карл Фендрахский призывает Ланселота расширить
+ исчезает из этого мира.��column_��id_hash_�TXT_FATE_PLOT_PL0800_01�subid_hash_��text_��Король Карл Фендрахский призывает Ланселота расширить
  свои горизонты. И вот рыцарь присоединяется к команде
  и отправляется в путь.��column_��id_hash_�TXT_FATE_PLOT_PL0800_02�subid_hash_��text_��В детстве Ланселот мечтал стать рыцарем, чтобы создать
  королевство, свободное от нападений чудовищ. В то
@@ -435,7 +435,7 @@
  заявляет, что понял смысл меча, переданного ему
  предками: "Один человек не создает страну. Я -
  рукоять, которая направляет меч. ". Людвин сердечно
- благодарит Ланселота.��column_��id_hash_�TXT_FATE_PLOT_PL0900_00�subid_hash_��text_�Dummy��column_��id_hash_�TXT_FATE_PLOT_PL0900_01�subid_hash_��text_��Вейн всегда мечтал стать героем. С ранних лет он делал
+ благодарит Ланселота.��column_��id_hash_�TXT_FATE_PLOT_PL0900_01�subid_hash_��text_��Вейн всегда мечтал стать героем. С ранних лет он делал
  все возможное, чтобы воплотить эту мечту в жизнь. Шли
  годы, и его лучший друг и герой Ланселот покинул
  родной город и стал рыцарем. С этого момента Ване
@@ -490,7 +490,7 @@
  но примененная в неподходящее время. Вместо того чтобы
  похвалить детей, он читает им строгую лекцию. Вейн и
  дети дают рыцарскую клятву, чтобы знать, когда просить
- о помощи.��column_��id_hash_�TXT_FATE_PLOT_PL1000_00�subid_hash_��text_�Dummy��column_��id_hash_�TXT_FATE_PLOT_PL1000_01�subid_hash_��text_��Персиваль поставил перед собой задачу создать
+ о помощи.��column_��id_hash_�TXT_FATE_PLOT_PL1000_01�subid_hash_��text_��Персиваль поставил перед собой задачу создать
  образцовую страну. Он присоединился к команде, чтобы
  реализовать свое стремление, но везде, куда бы он ни
  отправился, его ждали сцены насилия. Он задается
@@ -546,7 +546,7 @@
  Персиваль возвращает себе звание капитана. Это горько-
  сладкое прощание, но он выражает надежду, что Корпус
  поможет ему улучшить свою страну, когда придет время.
- Все они отвечают искренним приветствием.��column_��id_hash_�TXT_FATE_PLOT_PL1100_00�subid_hash_��text_�Dummy��column_��id_hash_�TXT_FATE_PLOT_PL1100_01�subid_hash_��text_��Зигфрид был капитаном Черных драконов Фендраха, пока
+ Все они отвечают искренним приветствием.��column_��id_hash_�TXT_FATE_PLOT_PL1100_01�subid_hash_��text_��Зигфрид был капитаном Черных драконов Фендраха, пока
  заговор не вынудил его отправиться в изгнание. С
  помощью Ланселота он смог избавить свою родину от
  опасности и очистить свое имя. Сейчас он путешествует
@@ -594,7 +594,7 @@
  свою прежнюю грубость. Он признает, что его солдаты
  спаслись и при этом получили опыт. Услышав такую
  оценку, Зигфрид ожидает больших успехов от армии
- Сидхоллоу.��column_��id_hash_�TXT_FATE_PLOT_PL1200_00�subid_hash_��text_�Dummy��column_��id_hash_�TXT_FATE_PLOT_PL1200_01�subid_hash_��text_��В детстве Шарлотте спас жизнь Орден святых рыцарей
+ Сидхоллоу.��column_��id_hash_�TXT_FATE_PLOT_PL1200_01�subid_hash_��text_��В детстве Шарлотте спас жизнь Орден святых рыцарей
  Люмиэля. Она сразу же стала боготворить отважных
  рыцарей и с кровью, потом и слезами тренироваться на
  мечах. Благодаря ее стараниям, Шарлотту приняли в
@@ -643,7 +643,7 @@
  своем начальнике. Когда даже Затба, сам большой
  человек, подходит к Супстоку, чтобы хлопнуть его по
  плечу и похвалить, тот разражается благодарными
- слезами.��column_��id_hash_�TXT_FATE_PLOT_PL1300_00�subid_hash_��text_�Dummy��column_��id_hash_�TXT_FATE_PLOT_PL1300_01�subid_hash_��text_�JЖил-был всемирно известный фехтовальщик, который
+ слезами.��column_��id_hash_�TXT_FATE_PLOT_PL1300_01�subid_hash_��text_�JЖил-был всемирно известный фехтовальщик, который
  обучал десятки учеников. В один роковой день его
  лучший ученик предал принципы фехтования и ушел в
  отрыв. Он выследил ее и ранил на дуэли, но не смог
@@ -694,7 +694,7 @@
  хорошему здоровью, которое является источником
  повседневного счастья. Оба рыболова выражают взаимное
  удовлетворение от напряженной борьбы и обещают, что
- это не последняя их встреча.��column_��id_hash_�TXT_FATE_PLOT_PL1400_00�subid_hash_��text_�Dummy��column_��id_hash_�TXT_FATE_PLOT_PL1400_01�subid_hash_��text_��В детстве она восхищалась сильным воином по имени
+ это не последняя их встреча.��column_��id_hash_�TXT_FATE_PLOT_PL1400_01�subid_hash_��text_��В детстве она восхищалась сильным воином по имени
  Занба, который впоследствии стал Эахтой Вечных.
  Нармайя много тренировалась и превзошла всех учеников
  своего додзё. К несчастью для нее, Занба покинул
@@ -738,7 +738,7 @@
  Почувствовав тепло руки, она понимает, что, подвергая
  себя опасности, причиняет боль другим.��column_��id_hash_�TXT_FATE_PLOT_PL1400_10�subid_hash_��text_�Успокоившаяся Нармайя возвращается к прежней заботе о
  себе. Она очистила свое сердце от беспорядков и
- сосредоточилась на заботе о членах команды.��column_��id_hash_�TXT_FATE_PLOT_PL1500_00�subid_hash_��text_�Dummy��column_��id_hash_�TXT_FATE_PLOT_PL1500_01�subid_hash_��text_�JГандагоза, мастер стиля Вечная ярость, чувствует, что
+ сосредоточилась на заботе о членах команды.��column_��id_hash_�TXT_FATE_PLOT_PL1500_01�subid_hash_��text_�JГандагоза, мастер стиля Вечная ярость, чувствует, что
  его кулаки дрожат от предвкушения. Они говорят ему,
  что в небе, которого он никогда не видел, произойдет
  нечто ужасное. Неважно, какие препятствия возникнут на
@@ -786,7 +786,7 @@
  пробила гору, вырезала долину и даже перевернула
  остров вверх дном. Потрясенный Рэкам размышляет о том,
  что ударить бога в небытие - это, вероятно, в его
- силах.��column_��id_hash_�TXT_FATE_PLOT_PL1600_00�subid_hash_��text_�Dummy��column_��id_hash_�TXT_FATE_PLOT_PL1600_01�subid_hash_��text_�#Зета присоединилась к организации под названием
+ силах.��column_��id_hash_�TXT_FATE_PLOT_PL1600_01�subid_hash_��text_�#Зета присоединилась к организации под названием
  Общество не потому, что ей симпатичны их цели, а
  потому, что они вознаграждают своих членов по
  заслугам. Она проводит свои дни, истребляя первобытных
@@ -830,7 +830,7 @@
  видом сообщает Зете, что хочет отказаться от своего
  предложения. Зета смущена тем, что разговор прозвучал
  так, будто ее бросили, но с удовольствием вспоминает
- дни, проведенные с Ваном, даже самые неприятные.��column_��id_hash_�TXT_FATE_PLOT_PL1700_00�subid_hash_��text_�Dummy��column_��id_hash_�TXT_FATE_PLOT_PL1700_01�subid_hash_��text_�6Вазерага переделал свое тело после потери команды,
+ дни, проведенные с Ваном, даже самые неприятные.��column_��id_hash_�TXT_FATE_PLOT_PL1700_01�subid_hash_��text_�6Вазерага переделал свое тело после потери команды,
  которой он командовал. Будучи членом Общества, он
  посвящает свои дни охоте на первобытных зверей и
  вражеским организациям в качестве подрядчика с оружием
@@ -885,7 +885,7 @@
  способность слышать растения, но она извиняется в
  ответ, виня себя в том, что ушла вместе с Авией.
  Выслушав ее, он возвращается на корабль, не проронив
- ни слова.��column_��id_hash_�TXT_FATE_PLOT_PL1800_00�subid_hash_��text_�Манекен��column_��id_hash_�TXT_FATE_PLOT_PL1800_01�subid_hash_��text_�<Девушка смотрит в зеркало, а в ответ на нее смотрит
+ ни слова.��column_��id_hash_�TXT_FATE_PLOT_PL1800_01�subid_hash_��text_�<Девушка смотрит в зеркало, а в ответ на нее смотрит
  самая красивая девушка на свете Калиостро. Алхимик
  готовится к очередному дню, чтобы показать миру свою
  красоту и блеск.��column_��id_hash_�TXT_FATE_PLOT_PL1800_02�subid_hash_��text_��Две тысячи лет назад Калиостро лежала на пороге
@@ -935,7 +935,7 @@
  передает братьям и сестрам новое лекарство, которое
  она тайно изготовила из материалов, собранных в Вайои.
  Разумеется, она также требует вознаграждения, которое
- будет выбрано по её усмотрению.��column_��id_hash_�TXT_FATE_PLOT_PL1900_00�subid_hash_��text_�Манекен��column_��id_hash_�TXT_FATE_PLOT_PL1900_01�subid_hash_��text_��Лилит значила для Айда все. Она вырастила его и
+ будет выбрано по её усмотрению.��column_��id_hash_�TXT_FATE_PLOT_PL1900_01�subid_hash_��text_��Лилит значила для Айда все. Она вырастила его и
  сказала, кого зарубить. Он искренне верил, что все это
  ради спасения, пока не выяснилось, что она намерена
  принести в жертву Зегагранде целиком. Ид до самого
@@ -990,14 +990,14 @@
  заслужил их доверие. В свете недавних нападений
  гоблинов возникает беспокойство по поводу безопасности
  поселения, но Широлу быстро внушает им, что все будет
- хорошо, потому что у них есть Мистер Исправление.��column_��id_hash_�TXT_FATE_PLOT_PL2100_00�subid_hash_��text_���column_��id_hash_�TXT_FATE_PLOT_PL2100_01�subid_hash_��text_��Архангелы были первобытными зверями, которых возглавлял Верховный Примарх Люцифер, чтобы регулировать небесное царство. В отличие от других архангелов, Сандальфон был создан Люцифером, но не получил никакой роли, что заставило архангела задуматься о причине своего существования.
+ хорошо, потому что у них есть Мистер Исправление.��column_��id_hash_�TXT_FATE_PLOT_PL2100_01�subid_hash_��text_��Архангелы были первобытными зверями, которых возглавлял Верховный Примарх Люцифер, чтобы регулировать небесное царство. В отличие от других архангелов, Сандальфон был создан Люцифером, но не получил никакой роли, что заставило архангела задуматься о причине своего существования.
 Когда Сандальфон обнаружил, что он не более чем запасной вариант Люцифера, он присоединился к падшим ангелам в восстании против своих создателей. С тех пор Сандальфон борется со своими сложными отношениями с Люцифером.��column_��id_hash_�TXT_FATE_PLOT_PL2100_02�subid_hash_��text_�Сандальфон едва не погубил Небесное царство, чтобы заставить Люцифера наказать его, тем самым признав его существование. Вместо этого Люцифер взял на себя всю ответственность за грехи Сандальфона и погрузил его в глубокий сон. Когда Сандальфон проснулся от долгого сна, он обнаружил, что Люцифер был убит. На последнем вздохе Люцифер оставил Сандальфону сердечное послание и завещал ему свои полномочия верховного примарха.��column_��id_hash_�TXT_FATE_PLOT_PL2100_03�subid_hash_��text_�KКак новый верховный примарх, Сандальфон сражался вместе с командой, чтобы не дать Астралу Люцилию уничтожить мир. Казалось, все надежды были потеряны, пока Сандалфон не проявил двенадцать крыльев,
 которые несли в себе решимость его и обитателей неба,
 и наконец Люцилий был побежден. После битвы Сандалфон ненадолго воссоединился с Люцифером в месте без времени. Перед тем как вернуться в реальность, Сандальфон подтвердил свою клятву продолжить дело Люцифера.��column_��id_hash_�TXT_FATE_PLOT_PL2100_04�subid_hash_��text_�FСандальфон прибывает в Зегагранде, чтобы навестить команду. Во время исследования Фолки его внимание привлекает картина с изображением неба Зегагранде, и что-то в ней наводит его на мысль, что равновесие тетраэлементов может нарушиться. Экипаж отправляется в Темпеал, чтобы исследовать состояние ветрового элемента.��column_��id_hash_�TXT_FATE_PLOT_PL2100_05�subid_hash_��text_��На Алтаре Ветров команде приходится усмирять Фурикана. Ролан считает, что ослабление веры в первобытных богов создает аномальные условия.
 По словам Сандалфона, по мере того как сила Фурикана будет уменьшаться, стихия ветра в Зегагранде станет нестабильной, что приведет к падению островов. Команда отправляется на следующий остров, надеясь восстановить связь между первобытными и жителями неба.��column_��id_hash_�TXT_FATE_PLOT_PL2100_06�subid_hash_��text_��Угасающая вера в Манагармра, похоже, нарушает работу водной стихии, что приводит к таянию части горы Нейгелит. Вместе с Хисториатом команда запечатывает Манагармра за дверями Святилища Тредама, чтобы возродить мистику первобытного бога среди людей.��column_��id_hash_�TXT_FATE_PLOT_PL2100_07�subid_hash_��text_��Когда-то Экскаваллион почитали за то, что он благословлял земли Дали и давал приют ее жителям. Однако, учитывая пустынный ландшафт, вернуть людей в Дали будет непросто. К счастью, Затба устроил на Дали охоту за сокровищами, надеясь заронить семена роста.��column_��id_hash_�TXT_FATE_PLOT_PL2100_08�subid_hash_��text_�hНынешняя форма Вулкана Боллы появилась в результате постоянного "дреда", от которого люди не могли оторваться. Ролан и жители острова решают построить на Пхондаме обсерваторию, которая будет служить местом для поклонения. С учетом четырех элементов ситуация кажется под контролем, пока Ролан не узнает, что Лилит, возможно, все еще жива.��column_��id_hash_�TXT_FATE_PLOT_PL2100_09�subid_hash_��text_��Сандальфон ощущал токи диссонанса на каждом из островов, и они, похоже, сходятся на вершине Вайои. Команда слышит голос Лилит на вершине,
  поэтому открывает пространственные врата, чтобы противостоять ей.
 Но Лилит на самом деле нет? На самом деле это Ангра
-Майнью, повинующийся затянувшимся командам Лилит. Экипаж побеждает и запечатывает праймал, что должно помочь стабильности тетра-элементов в будущем.��column_��id_hash_�TXT_FATE_PLOT_PL2100_10�subid_hash_��text_��Сандальфон посещает каждый остров и замечает, что различные планы по восстановлению веры в первобытных людей продвигаются успешно. Он полагает, что бесконечный потенциал обитателей неба позволит им преодолеть все, что угодно, и со временем помощь архангелов станет излишней. Но пока не наступит это горько-сладкое расставание, он будет продолжать защищать небеса.��column_��id_hash_�TXT_FATE_PLOT_PL2200_00�subid_hash_��text_���column_��id_hash_�TXT_FATE_PLOT_PL2200_01�subid_hash_��text_��Сеофон собрал десять сильнейших воинов в своем классе оружия, чтобы сформировать Вечных. Он полагал, что одного присутствия всемогущей команды будет достаточно, чтобы остановить конфликт еще до его начала, хотя и признает, что собрал лучших бойцов просто ради удовольствия.
+Майнью, повинующийся затянувшимся командам Лилит. Экипаж побеждает и запечатывает праймал, что должно помочь стабильности тетра-элементов в будущем.��column_��id_hash_�TXT_FATE_PLOT_PL2100_10�subid_hash_��text_��Сандальфон посещает каждый остров и замечает, что различные планы по восстановлению веры в первобытных людей продвигаются успешно. Он полагает, что бесконечный потенциал обитателей неба позволит им преодолеть все, что угодно, и со временем помощь архангелов станет излишней. Но пока не наступит это горько-сладкое расставание, он будет продолжать защищать небеса.��column_��id_hash_�TXT_FATE_PLOT_PL2200_01�subid_hash_��text_��Сеофон собрал десять сильнейших воинов в своем классе оружия, чтобы сформировать Вечных. Он полагал, что одного присутствия всемогущей команды будет достаточно, чтобы остановить конфликт еще до его начала, хотя и признает, что собрал лучших бойцов просто ради удовольствия.
 На практике философия силы как средства защиты не всегда оправдывала себя, но, как считает Сеофон, Вечные были успешными.��column_��id_hash_�TXT_FATE_PLOT_PL2200_02�subid_hash_��text_�&Голос, доносящийся из "границы", предупреждает Софона о существовании Ида, заявляя, что он способен уничтожить небеса. Обсудив это откровение с Анре, старший Вечный говорит, что Ид - его друг, и Софону предстоит сделать трудный выбор. Сеофон отправляется в Зегагранде, чтобы самому разобраться в угрозе.��column_��id_hash_�TXT_FATE_PLOT_PL2200_03�subid_hash_��text_��Сеофон очень рад, что Твайен поедет с ним в Зегагранде, но когда она объясняет ему, что это для того, чтобы он не наделал глупостей. Тем не менее, Софон благодарен за компанию, полагая, что таким образом Твиен проявляет о нем заботу.��column_��id_hash_�TXT_FATE_PLOT_PL2200_04�subid_hash_��text_��Сеофон встречается с командой в Зегагранде и извиняется за то, что не смог помочь победить Лилит. Его знакомят с Идом, и, пожав ему руку, он чувствует прилив сил, которого никогда раньше не испытывал. Опасения Сеофона усиливаются.��column_��id_hash_�TXT_FATE_PLOT_PL2200_05�subid_hash_��text_�Сеофон помогает с просьбами в Фольке, чтобы наблюдать за Идом. Однажды поселение подвергается нападению сильных монстров. Софон предлагает им с Ид первыми сразиться с врагами,
 так как это даст ему повод убедиться в истинной силе Ид. Во время схватки опасения Софона подтверждаются.��column_��id_hash_�TXT_FATE_PLOT_PL2200_06�subid_hash_��text_��Придя к выводу, что власть Ида представляет опасность для стабильности мира, Сеофон спорит с Твайеном, что их долг как Вечных устранить его.
 Твайен возражает, что Иду нужно больше времени, чтобы проявить себя, напоминая Сеофону, что другие проблемные случаи
@@ -1008,7 +1008,7 @@ bspнаписала, как она была напугана его жесток
 Твайен и команда вмешиваются. Потребовались суровые упреки, прежде чем Сеофон
 финально смирился и убрал меч в ножны.��column_��id_hash_�TXT_FATE_PLOT_PL2200_10�subid_hash_��text_��Ид принимает извинения Софона за попытку убить его.
 Молодой человек понимает мотив Софона и осознает риск, связанный с его силой,
-b но он полон решимости использовать ее во благо. Хотя их философские взгляды могут отличаться, оба мужчины осознают огромную ответственность, которая приходит с огромной властью. Софон еще не полностью доверяет Иду, но готов рискнуть.��column_��id_hash_�TXT_FATE_PLOT_PL2300_00�subid_hash_��text_���column_��id_hash_�TXT_FATE_PLOT_PL2300_01�subid_hash_��text_�8Обладая первоклассными охотничьими навыками, Твайен
+b но он полон решимости использовать ее во благо. Хотя их философские взгляды могут отличаться, оба мужчины осознают огромную ответственность, которая приходит с огромной властью. Софон еще не полностью доверяет Иду, но готов рискнуть.��column_��id_hash_�TXT_FATE_PLOT_PL2300_01�subid_hash_��text_�8Обладая первоклассными охотничьими навыками, Твайен
 f почувствовала, что деревенский образ жизни ограничивает ее возможности, и переехала в город, чтобы начать новую жизнь. Однажды Твайен
 наблюдала за зверем, который вторгся в город. Не зная об общественных нормах своего дома, она начала одеваться в одежду убийцы на публике, чем вызвала взгляды ужаса и отвращения у прохожих. Это был ее первый опыт остракизма, который привел ее на путь одиночества.��column_��id_hash_�TXT_FATE_PLOT_PL2300_02�subid_hash_��text_��Твайен продолжала путешествовать по небу и думала, сможет ли кто-нибудь сравниться с ней в мастерстве стрельбы. Из-за своих чудовищных способностей она стала цинично считать себя монстром, что еще больше усугубилось, когда Сильва, ее якобы лучшая подруга, случайно назвала ее нелюдью. Они отдалились друг от друга, но были воссоединены командой и помирились. Одинокой охотнице больше не придется быть одной.��column_��id_hash_�TXT_FATE_PLOT_PL2300_03�subid_hash_��text_�qТвайен присоединилась к Вечным в надежде найти веселую компанию, но, к несчастью для нее, Вечные не отличаются общительностью.
 После того как она узнала, что Сеофон собирается отправиться в Зегагранде,
@@ -1019,7 +1019,373 @@ f почувствовала, что деревенский образ жизн�
 Он объясняет ей, что катастрофа Дали произошла в результате того, что Верса была запечатана внутри него. Твайен сочувствует Иду и решает, что с ним делать.��column_��id_hash_�TXT_FATE_PLOT_PL2300_08�subid_hash_��text_�Хотя ситуация Ида похожа на ту изоляцию, в которой оказалась Твайен, когда впервые отправилась в путь, у Ида есть огромная система поддержки, которой у нее никогда не было.
 Благодаря этому Твайен уверена, что не пойдет по ложному пути. Когда Ида спрашивают, использовал бы он свою силу против высшего зла, он отвечает, что поставил бы свою жизнь на кон, чтобы спасти людей. Получив такой ответ, Твайен понимает, что ей нужно делать.��column_��id_hash_�TXT_FATE_PLOT_PL2300_09�subid_hash_��text_��Твайен вызвана на дуэль Галланзой в замке Сидхоллоу. Она пытается образумить его, но вынуждена драться, так как Галланза не желает отступать.
 Битва проходит ожесточенно, что усугубляется вступлением в бой Маглиэль.
-Но Твайен одерживает победу над парой. Они лишь пытались защитить Ида, которого считают младшим братом. Когда Твайен объясняет, что она на их стороне, они окончательно отступают.��column_��id_hash_�TXT_FATE_PLOT_PL2300_10�subid_hash_��text_�Твайен сообщает о своих находках. Затем они узнают, что Сеофона и Ида в последний раз видели на архипелаге Айнстеддо. Твайен обнаруживает их в долине Скайвирм, где они вступают в смертельную схватку. Она пускает стрелу между ними, останавливая бой и позволяя команде решить вопрос.��column_��id_hash_�TXT_FATE_INTRO_PL0000�subid_hash_��text_�DНа далеком острове Зинкенстилл жил юноша и его лучший друг Вирн. 
+Но Твайен одерживает победу над парой. Они лишь пытались защитить Ида, которого считают младшим братом. Когда Твайен объясняет, что она на их стороне, они окончательно отступают.��column_��id_hash_�TXT_FATE_PLOT_PL2300_10�subid_hash_��text_�Твайен сообщает о своих находках. Затем они узнают, что Сеофона и Ида в последний раз видели на архипелаге Айнстеддо. Твайен обнаруживает их в долине Скайвирм, где они вступают в смертельную схватку. Она пускает стрелу между ними, останавливая бой и позволяя команде решить вопрос.��column_��id_hash_�TXT_FATE_PLOT_PL2400_01�subid_hash_��text_�vAn uncompromising Gallanza burdens a Folcan smithy
+with an impossible work order: He wants the strongest
+spear and shield, forged as a single package.
+Despite the absurdity of the request, the blacksmith
+toils away at the furnace. Finally—after having
+entered what appeared to be a delirious state—the
+smith produces the mightiest spear, and one very
+satisfied customer.��column_��id_hash_�TXT_FATE_PLOT_PL2400_02�subid_hash_��text_��Crowned champion of every fighting tournament in
+Zega, Gallanza laments his loneliness at the top
+until a mysterious woman named Lilith appears
+before him. With equal parts trepidation and elation,
+he realizes that her strength eclipses his own.
+Drawn to Lilith's promise of stronger opponents to
+challenge if he allies himself with her Pilgrims of
+Avia, Gallanza eagerly accepts, jumping at the
+chance for more deathmatches.��column_��id_hash_�TXT_FATE_PLOT_PL2400_03�subid_hash_��text_�zThe Pillar of Vayoi rises in the sky as Seedhollow
+Castle falls. Id, having escaped the castle with
+Gallanza, reveals Lilith's plan to sacrifice Zega
+to open a gate to the Astral Realm. Gallanza had
+only joined Avia to satisfy his own desire for
+combat, but now that the futures of the brothers-
+in-arms he's been blessed with are jeopardized,
+he swears a reckoning with Lilith.��column_��id_hash_�TXT_FATE_PLOT_PL2400_04�subid_hash_��text_�"While helping Mr. Fix Id with his various jobs,
+Gallanza receives startling news from ex-Silver
+Wolf Rook. An unknown group is causing trouble for
+islanders under the name of the Silver Wolf Corps.
+If Gallanza's former comrades actually are
+involved, then the ex-general cannot sit idly by.��column_��id_hash_�TXT_FATE_PLOT_PL2400_05�subid_hash_��text_�ZGallanza and Rook head to the Dahli Relicbelt in
+pursuit of the so-called Silver Wolf Corps. They
+storm the group's outpost, discovering that its
+members are indeed former Wolf Corps soldiers. As
+Gallanza unleashes discipline through corporal
+punishment, he learns that Reaper Avalan is
+responsible for continuing the Corps after its
+dissolution.��column_��id_hash_�TXT_FATE_PLOT_PL2400_06�subid_hash_��text_�The defeated soldiers refuse to divulge Avalan's
+whereabouts. To their surprise, Gallanza doesn't
+force the issue—he simply apologizes for abandoning
+the Corps and departs in silence. Touched by his
+sincerity and integrity, Galcia reveals Avalan's
+location to Rook.��column_��id_hash_�TXT_FATE_PLOT_PL2400_07�subid_hash_��text_��Gallanza reminisces on his time with the Silver
+Wolf Corps, appreciating that they weren't merely
+an arm of Lilith's army but a family with whom he
+broke bread. Their days together were as joyous
+as they were arduous; each moment was an
+irreplaceable memory. Gallanza still counts Avalan
+as one of his brothers, thus he swears to lift the
+wool of Lilith's lies from the latter's eyes.��column_��id_hash_�TXT_FATE_PLOT_PL2400_08�subid_hash_��text_�GUpon confirming Gallanza's intentions to make
+Avalan see reason, Rook informs him that the main
+body of the delinquent Corps is holed up on the
+Pillar of Vayoi. He warns Gallanza that it may be
+a trap, but Gallanza replies with his signature
+boisterous laugh—"at least it'll be entertaining,"
+roars the battle-loving warrior.��column_��id_hash_�TXT_FATE_PLOT_PL2400_09�subid_hash_��text_�Confronting Avalan at Vayoi, Gallanza challenges
+the rogue leader to a deathmatch, understanding
+that actions speak louder than words. The men
+clash, and Avalan sinks to his knees in defeat.
+Instead of executing Avalan, a tearful Gallanza
+helps his brother-in-arms up to his feet.��column_��id_hash_�TXT_FATE_PLOT_PL2400_10�subid_hash_��text_�(Avalan and the ex-Corps members who followed him
+turn themselves in at Seedhollow to begin making
+amends for their crimes. As the men are led off to
+be imprisoned, Gallanza shouts words of support
+and promises to treat them to the best rice balls
+in the skies once they finish serving their time.��column_��id_hash_�TXT_FATE_PLOT_PL2500_01�subid_hash_��text_�A"Our blades shall sing; our stories made legend."
+A long-standing clan spanning many generations,
+the Sword Veil Fellowship's history is fraught
+with discrimination and prejudice. But even as
+their passage through the streets invites jeers
+and distrusting eyes, their leader stands tall,
+holding fast to the clan's honor.��column_��id_hash_�TXT_FATE_PLOT_PL2500_02�subid_hash_��text_�cHaving led her kin on a seemingly endless exodus
+across the skydom to escape persecution, Maglielle
+finally crumbles under the weight of responsibility.
+But then came a lifeline; Lilith, shepherd of the
+Pilgrims of Avia, invites the Veil to join Avia on
+a journey to a paradise free of discrimination—
+Estalucia. Maglielle accepts on behalf of the clan.��column_��id_hash_�TXT_FATE_PLOT_PL2500_03�subid_hash_��text_��The Pillar of Vayoi rises in the sky as Seedhollow
+Castle falls. Id, having escaped the castle with
+Maglielle, reveals Lilith's plan to sacrifice Zega
+to open a gate to the Astral Realm. Maglielle is
+left speechless, her dream of leading the Veil to
+the promised land shattered. Even so, the bonds
+she's forged with Id and Gallanza remain unbroken.
+She swears a reckoning with Lilith so that she and
+her found family may continue chasing their futures.��column_��id_hash_�TXT_FATE_PLOT_PL2500_04�subid_hash_��text_��Maglielle hosts a tea party, regaling her guests
+with rousing legends about her weapons. She proudly
+announces her latest purchase order for Excalibur,
+but Lancelot says the sword is heavily guarded in
+Feendrache's vault and isn't for sale. Adding to
+Maglielle's growing unease, Sierokarte suddenly
+arrives with news that the order has been delayed.
+Maglielle decides to go look for the missing blade.��column_��id_hash_�TXT_FATE_PLOT_PL2500_05�subid_hash_��text_�JMaglielle and her tea party guests climb Mt.
+Neigelith to question the sword seller about
+Maglielle's order. They discover that, while the
+sword isn't Excalibur, it is still a blade of
+legendary quality—making Maglielle more
+determined than ever to get her hands on it.
+She heads to Folca, this time alone, to find
+the supplier.��column_��id_hash_�TXT_FATE_PLOT_PL2500_06�subid_hash_��text_��The smithy in Folca confirms the existence of the
+legendary sword Maglielle had ordered. Eager to
+find the master bladesmith responsible for forging
+her promised sword, she pesters the blacksmith for
+his location.��column_��id_hash_�TXT_FATE_PLOT_PL2500_07�subid_hash_��text_�ASudden savage winds have grounded all flights to
+Skywyrm Valley where the blademaster lives. Fixated
+on finding her sword, dubbed "Sentinel of the Sky,"
+Maglielle decides to brave the winds and fly there
+with her magic. She leaves a tome of the Veil's
+history in Sierokarte's hands, in case the worst
+should come to pass.��column_��id_hash_�TXT_FATE_PLOT_PL2500_08�subid_hash_��text_��Maglielle arrives safely at the blademaster's home
+in Skywyrm Valley only to find the blademaster's
+daughter—a young girl named Blue—clutching the
+Sentinel of the Sky: The sword owed to Maglielle.
+According to Blue, her father was slain by a dragon
+while collecting sword materials. With his demise,
+goblins are now emboldened to steal the sword.
+Maglielle promises Blue to make everything right.��column_��id_hash_�TXT_FATE_PLOT_PL2500_09�subid_hash_��text_��Blue gives Maglielle the sword, thus completing
+the sale long set in motion. For her part, Maglielle
+slays the dragon and goblins that torment Blue. The
+winds die down shortly after, allowing a ship helmed
+by the Folca Defense Corps to land. Living alone in
+the valley is too dangerous for Blue; the Corps will
+shelter her in Folca. Meanwhile, Maglielle asks
+Sierokarte to make enhancements to the sword.��column_��id_hash_�TXT_FATE_PLOT_PL2500_10�subid_hash_��text_�Thanks to the services of the Knickknack Shack,
+the Sentinel of the Sky achieves its ultimate form.
+Maglielle then returns the blade to its original
+owner, Blue. Wielding the memento of her father in
+her hand, Blue vows to become a warrior worthy of
+the sword.��column_��id_hash_�TXT_FATE_PLOT_PL2600_01�subid_hash_��text_�bBeatrix—in her quest for glory—tried and failed to
+take down the Odajumoki Gang on her own. But turning
+adversity into a boon is Beatrix's bread and butter;
+to make amends for her folly, she lures the gang into
+a trap, putting both them and herself in the path of
+Flamek Thunder's lightning. As she sizzles in pain,
+the glow of her sword intensifies.��column_��id_hash_�TXT_FATE_PLOT_PL2600_02�subid_hash_��text_�@Born to nobility, Beatrix enjoyed an idyllic life
+until cutthroats raided the manor and massacred
+her family and attendants. With loss and rage
+indelibly seared into her memories, she struggles
+to reconcile her father's motto, which champions
+kindness, with her growing hatred as it warps into
+a twisted vow for revenge.��column_��id_hash_�TXT_FATE_PLOT_PL2600_03�subid_hash_��text_��Beatrix falls into austerity after her family's
+murder. She ignores the denigrators reveling in
+her ruin—the men who stole everything from her are
+the ones truly deserving of her hatred. One day,
+she learns those men belong to the Foe, nemesis of
+the Society. Thus Beatrix joins the Society,
+pushing herself to climb the organization's ladder
+to achieve her ultimate goal of revenge.��column_��id_hash_�TXT_FATE_PLOT_PL2600_04�subid_hash_��text_��While roaming through Seedhollow, Beatrix comes
+across some flustered guards. Sensing a chance to
+raise her profile with Zega's major political power—
+and in turn move up within the Society—she
+approaches the guards with an offer to help.��column_��id_hash_�TXT_FATE_PLOT_PL2600_05�subid_hash_��text_��Beatrix successfully captures several members of
+the Sword Veil who had infiltrated Seedhollow. The
+guards who'd accepted her help are happy with the
+results, but Beatrix's failure to corral all of the Veil
+gnaws at her. She decides to give chase.��column_��id_hash_�TXT_FATE_PLOT_PL2600_06�subid_hash_��text_��Beatrix's solo investigation into the escaped Veil
+members comes to a dead end. Fellow Society agents
+Zeta and Vaseraga sense that Beatrix is struggling
+with something and offer their assistance. However,
+Beatrix stubbornly refuses their help.��column_��id_hash_�TXT_FATE_PLOT_PL2600_07�subid_hash_��text_��After a hard-fought battle, the crew sees the primal
+beast Excavallion laid low. As Beatrix stares at the
+hulking beast, she's consumed with guilt: Not
+only had the fugitive Sword Veil launched an
+ambush, they also awakened the gargantuan
+primal that nearly killed the crew—two indirect
+consequences of her selfish quest for glory. She
+vows to drop her ego and turn over a new leaf.��column_��id_hash_�TXT_FATE_PLOT_PL2600_08�subid_hash_��text_�Beatrix finally confides in Zeta, Vaseraga, and
+Eustace about what she's been up to. She begs them
+to help her pursue the fleeing Sword Veil members
+in order to prevent future ambushes. Bemused by
+Beatrix's uncharacteristic show of humility, her
+comrades agree to lend their support.��column_��id_hash_�TXT_FATE_PLOT_PL2600_09�subid_hash_��text_� Beatrix and her Society companions corner the
+fleeing Sword Veil squad in Dahli and subdue them
+in battle. Two Sword Veil adjutants, Trulen and
+Ramlahsona, prepare to give their lives to protect
+their clan's pride. But instead of rendering death,
+Beatrix amicably extends an olive branch.��column_��id_hash_�TXT_FATE_PLOT_PL2600_10�subid_hash_��text_�IAs the crew breaks through Avia's siege of
+Seedhollow Castle, they notice a distinct lack of
+Sword Veil troops. Eustace presumes their earlier
+clashes in Dahli whittled down the Veil's forces,
+but Beatrix silently wonders if the Veil withdrew
+out of respect for letting them go. She whispers
+her gratitude to the absent warriors.��column_��id_hash_�TXT_FATE_PLOT_PL2700_01�subid_hash_��text_�+Society agent Eustace first met  during
+an operation to rescue Beatrix from the Odajumoki
+Gang. He would go on to spend more time with the
+welcoming crew; in time, that was enough to thaw
+his frozen heart. This became evident when the
+always obedient agent defied his employer's order
+to eliminate .��column_��id_hash_�TXT_FATE_PLOT_PL2700_02�subid_hash_��text_��Eustace confronts Ronan, a man belonging to
+the Society's top brass. Eustace's suspicions were
+roused when his field report on automagods—
+mysterious weapons from the moon—was
+erased by the Society, and he questions whether
+he should remain loyal to the organization. Forced
+by Eustace to make a choice, Ronan reluctantly
+agrees to pull what strings he can, allowing
+Eustace to continue journeying with the crew.��column_��id_hash_�TXT_FATE_PLOT_PL2700_03�subid_hash_��text_��Born to a tiny village in a snowy land, Eustace's
+peaceful childhood was abruptly ended by a searing
+flash of light. The light permanently burned his
+right eye, and it instantly destroyed his village.
+Collapsing in the snow from despair and exhaustion,
+he was found and taken in by Ronan, marking his
+start with the Society. Despite the tragedy of his
+past, Eustace sees a silver lining: Those fateful
+events led him on a journey filled with new bonds.��column_��id_hash_�TXT_FATE_PLOT_PL2700_04�subid_hash_��text_��Relaxing in Folca with a good book, Eustace's
+reading time is interrupted when his transceiver
+rings. The Society is assigning him a new mission—
+he is to identify and capture an unknown party in
+Zega who is intercepting Society transmissions.��column_��id_hash_�TXT_FATE_PLOT_PL2700_05�subid_hash_��text_��During Eustace's investigation, Rolan mentions
+that his transceiver prototype has gone missing.
+At a bar, Eustace overhears members of the Primeval
+Acolytes claiming to hear the gods' voices through
+a mysterious device and decides to attend one of
+their gatherings. Before the sermon starts, Eustace
+purposely reports back to the Society over his
+own transceiver; since messages are being
+intercepted, that could be used to his advantage.��column_��id_hash_�TXT_FATE_PLOT_PL2700_06�subid_hash_��text_�@A man named Izzard leads the Primeval Acolytes'
+sermon. Toward the end, he reveals a device that
+greatly resembles Rolan's missing transceiver.
+Izzard greets Eustace with open arms after the
+sermon. Suspicious of Izzard's cordiality but
+lacking evidence to formally accuse the man,
+Eustace takes a wait and see approach.��column_��id_hash_�TXT_FATE_PLOT_PL2700_07�subid_hash_��text_�CEustace tells Vaseraga via transceiver that he's
+fed up with the Society. When Eustace speaks with
+Izzard at the next gathering, Izzard is in unusually
+high spirits. He gushes about his ideals, touching
+on subjects known only to Society members. Once
+again, Eustace feigns ignorance until he can
+conclusively expose Izzard.��column_��id_hash_�TXT_FATE_PLOT_PL2700_08�subid_hash_��text_�wTired of playing cat and mouse with Eustace,
+Izzard admits he's an ex-Society operative whose
+goal is to amass enough power to reform the world.
+He's been monitoring Eustace's comms and is aware
+of the agent's disillusionment with the Society.
+Izzard urges him to join his cause, but Eustace
+dashes those hopes—the intercepted transmissions
+have been bluffs from the start.��column_��id_hash_�TXT_FATE_PLOT_PL2700_09�subid_hash_��text_��Enraged at falling into Eustace's trap, Izzard
+summons the undead to kill the agent, but they're
+no match for Eustace and his trusty partner Flamek
+Thunder. Even in defeat, Izzard refuses to abandon
+his impossible dream.��column_��id_hash_�TXT_FATE_PLOT_PL2700_10�subid_hash_��text_��Izzard's true colors are exposed for all members
+of the Primeval Acolytes to see as he rants and
+raves about fabricating his own family. Recalling
+that Izzard had mentioned owning a dog, Eustace
+decides to visit the scoundrel's home to confirm.��column_��id_hash_�TXT_FATE_PLOT_PL2800_01�subid_hash_��text_�+Wrath, obsession, greed, envy. Fraux is hounded by
+the ugliest sides of humanity wherever she goes.
+Assailed again by hurtful slights, she flees to a
+flower field outside of her town to ease the
+pain, but to no avail. But Fraux's best friend, Rios,
+offers a gentle hand that saves her from darkness.��column_��id_hash_�TXT_FATE_PLOT_PL2800_02�subid_hash_��text_�nA frantic man begs Fraux to exterminate monsters
+in his gang's hideout. Despite the clear red flags,
+she can't bring herself to ignore his earnest plea
+for help. She makes good on her promise, only to
+be rewarded with a double cross—the man had been
+contracted by another party that wished to bury
+Fraux. However, she escapes the trap and defeats
+the gang soundly.��column_��id_hash_�TXT_FATE_PLOT_PL2800_03�subid_hash_��text_��Fraux grouses to Rios about the aggravating event
+she experienced earlier that day. Hoping to lift
+Fraux's spirits, Rios suggests they go watch a
+star shower supposedly happening that night.
+Sprawling out atop a hill, they await a cosmic show
+that ultimately never comes. Undeterred, Rios
+pretends to grab a star from the sky and gifts it
+to Fraux in the form of a tickle attack, their
+blissful laughter echoing into the night.��column_��id_hash_�TXT_FATE_PLOT_PL2800_04�subid_hash_��text_�<Fraux is devastated upon learning that Rios has
+gone missing. From the deafening silence comes the
+sweet voice of temptation belonging to The Devil,
+a primal beast of the Arcarum. Now in a world
+bereft of her beloved friend, Fraux is swayed to
+join The Devil's cause, which leads to her encounter
+with  and the crew.��column_��id_hash_�TXT_FATE_PLOT_PL2800_05�subid_hash_��text_�uThanks to the crew's friendship, Fraux manages to
+step back from the brink of despair, but this also
+saddles her with newfound anxiety. While taking a
+walk, a familiar song catches her attention, one
+that Rios often sang. Hoping against hope, Fraux
+follows the voice only to find a girl named Satie.
+Judging by the girl's deliberate gait, Fraux
+deduces that Satie is blind.��column_��id_hash_�TXT_FATE_PLOT_PL2800_06�subid_hash_��text_��Fraux begins helping Satie with various errands in
+exchange for the occasional song. Deeply touched
+by Satie's singing, Fraux urges her to sing in
+town, but the timid girl declines. The warmth of
+Satie's friendship is undeniably comforting, but
+as the two spend more time together, Fraux feels a
+growing darkness in her heart—she fears she's
+using Satie to fill the hole left by Rios.��column_��id_hash_�TXT_FATE_PLOT_PL2800_07�subid_hash_��text_�TFraux receives a letter from Satie inviting her to
+attend her debut singing performance in town, but
+when the promised day arrives, Satie fails to show.
+Gripped by a sinking feeling of déjà vu, Fraux sets
+off in search of Satie and finds her waylaid by
+goblins. The Evoker dispatches the monsters and
+carries the injured girl to a doctor.��column_��id_hash_�TXT_FATE_PLOT_PL2800_08�subid_hash_��text_�Feeling responsible for Satie's injury, Fraux comes
+clean about her reasons for doting on the girl—how
+it relates to Rios, as well as her own inability
+to make friends. Satie listens quietly. When all
+is said and done, the heart-to-heart brings the
+pair even closer.��column_��id_hash_�TXT_FATE_PLOT_PL2800_09�subid_hash_��text_�XSatie's song rings beautiful and clear through the
+town, but not a single person stops to listen.
+Despite the disappointing reception, Satie takes
+pride in surmounting her anxiety to sing in public.
+Inspired by Satie's courage, Fraux banishes the
+darkness from her heart and takes a firm hold of
+the outstretched hand offered by her new friend.��column_��id_hash_�TXT_FATE_PLOT_PL2800_10�subid_hash_��text_�*An elderly woman steps forward, asking Satie for
+an encore. A ring of cheering townsfolk soon forms
+around Fraux and Satie, no doubt enchanted by the
+girl's song. Still overcome by Satie's melody and
+buoyed by the thunderous applause, Fraux breaks
+into a smile, ready to give people another chance.��column_��id_hash_�TXT_FATE_PLOT_PL2900_01�subid_hash_��text_�UWedges are the pressures that preserve the world's
+form. Fediel is one such wedge, and standing before
+her is a mortal—the singularity—who struggles to
+comprehend the meaning of the wedge's existence
+and prayer. To gauge if the singularity is worthy
+of knowing the world's history, she issues a trial,
+which the young skyfarer overcomes.��column_��id_hash_�TXT_FATE_PLOT_PL2900_02�subid_hash_��text_�TMortal lives are but a fleeting flicker in the eyes
+of essentially eternal dragons. But even as those
+ephemeral sparks return to ash, their memories and
+emotions weave a grander tapestry that blankets
+the wedges and the skies. It is perhaps due to this
+influence that many of the remaining wedges adopt
+forms resembling the children of man.��column_��id_hash_�TXT_FATE_PLOT_PL2900_03�subid_hash_��text_�ZIn a sky devoid of mortals and monsters, the true
+dragon Lindwurm wakes with a thunderous howl.
+Sensing that the singularity has grown powerful
+enough to affect the world's trajectory, the dragon
+appears before the mortal child to pass judgment.
+The battle's shockwaves reverberate throughout the
+skies, and the Six Dragons awaken not long after.��column_��id_hash_�TXT_FATE_PLOT_PL2900_04�subid_hash_��text_�Years before Fediel's awakening, a skyfaring dyad led
+a mission to restore primal beasts to their original
+states. During their journey, the sky god demanded
+the sacrifice of their red dragon companion. The
+skyfarers refused, defeating the god in battle. But
+with victory came loss—the half of the dyad who
+served as a shrine priestess was spirited away. To
+save the love of his life, the remaining half of the
+dyad left their newborn child and the Red Dragon in
+the care of his hometown and set off for Estalucia.��column_��id_hash_�TXT_FATE_PLOT_PL2900_05�subid_hash_��text_�OFive hundred years before Fediel's awakening, the
+conflict that would become known as the War raged
+between skydwellers and Astrals. All presumed the
+superior Astrals would claim a decisive victory,
+but the disadvantaged skydwellers were blessed
+with miracle upon miracle, allowing them to
+finally expel the Astrals from the Sky Realm.��column_��id_hash_�TXT_FATE_PLOT_PL2900_06�subid_hash_��text_�Fifteen hundred years before Fediel's awakening,
+the Astral god—the half of the Omnipotent that
+fled to the stars—vowed to seize the sky god's
+power in a bid to reclaim its original form. It
+required a vessel to store the sky's power, and
+so the Girl in Blue was created.��column_��id_hash_�TXT_FATE_PLOT_PL2900_07�subid_hash_��text_ٿTwo thousand years before Fediel's awakening, the
+Astral god invaded the Sky Realm to reunite with
+its missing half. Caught off guard by the Astral
+forces, the skies were summarily conquered.��column_��id_hash_�TXT_FATE_PLOT_PL2900_08�subid_hash_��text_��Six thousand years before Fediel's awakening, a
+faction of ancient skydwellers had come to fear
+their god, the Omnipotent. The children of man
+turned their blades against the divine dragon, and
+the stricken being was rent in twain. One half
+became Bahamut, master of destruction and rebirth,
+who vanished into the blue skies; one half became
+Bahamut, master of creation, who ascended into the
+sea of stars.��column_��id_hash_�TXT_FATE_PLOT_PL2900_09�subid_hash_��text_�`Seven thousand years before Fediel's awakening,
+the world laid in ruins. It was around this time
+that Bahamut—a colossal dragon also known as the
+Omnipotent—delivered untold destruction to cleanse
+the contaminated world, and it cast what little
+untainted land remained into the skies. This was
+how the Sky Realm and its floating islands came to
+be.��column_��id_hash_�TXT_FATE_PLOT_PL2900_10�subid_hash_��text_��30,000 years before Fediel's awakening, mankind
+united amid decayed lands, taking steps to restore
+their shattered civilization to glory. Meanwhile,
+those who had fled to the cosmos had made giant
+leaps rebuilding their society. Both of these
+worlds collided out of hubris, resulting in the
+earthen world's destruction once more. 23,000 years
+passed before a great dragon spread its wings and
+rose to the occasion of reviving the world.��column_��id_hash_�TXT_FATE_INTRO_PL0000�subid_hash_��text_�DНа далеком острове Зинкенстилл жил юноша и его лучший друг Вирн. 
 Будто ведомый незримой рукой судьбы, он пересекся с Лурией, дав 
 старт своему путешествию по бескрайним небесам. Он собрал разно-
 шерстную команду со всего Небесного царства и стал одним из самых 
@@ -1078,4 +1444,21 @@ f почувствовала, что деревенский образ жизн�
  одолеть своих врагов. Вынужденный расстаться со своей любимой матерью Лилит, он
  может с трудом расшифровывать свои мысли.��column_��id_hash_�TXT_FATE_INTRO_PL2100�subid_hash_��text_�_Первобытный зверь, служащий в настоящее время верховным примархом. Он помог 
 и команде сорвать заговор Люцилия, чтобы покончить с миром. Благодаря его усилиям 
-мир вернулся в Небесное царство.��column_��id_hash_�TXT_FATE_INTRO_PL2200�subid_hash_��text_��Лидер Вечных, группы сильнейших мастеров оружия в мире. Также известен как Владыка Звездного Меча, его мастерство владения мечом безгранично. Он очень заботится о благополучии каждого, сохраняя при этом спокойствие.��column_��id_hash_�TXT_FATE_INTRO_PL2300�subid_hash_��text_�jПервоклассная охотница, служащая мастером лука у Вечных. Обладая сверхъестественным зрением, она никогда не упустит свою добычу. Обычно тихая, она заговорит с вами, как только вы узнаете ее получше.
+мир вернулся в Небесное царство.��column_��id_hash_�TXT_FATE_INTRO_PL2200�subid_hash_��text_��Лидер Вечных, группы сильнейших мастеров оружия в мире. Также известен как Владыка Звездного Меча, его мастерство владения мечом безгранично. Он очень заботится о благополучии каждого, сохраняя при этом спокойствие.��column_��id_hash_�TXT_FATE_INTRO_PL2300�subid_hash_��text_�jПервоклассная охотница, служащая мастером лука у Вечных. Обладая сверхъестественным зрением, она никогда не упустит свою добычу. Обычно тихая, она заговорит с вами, как только вы узнаете ее получше.��column_��id_hash_�TXT_FATE_INTRO_PL2400�subid_hash_��text_�4A spirited warrior once affiliated with the Church of Avia. Championing the right
+of might, he's extraordinarily strong and loves nothing more than to go head-to-
+head with other fine fighters. Swinging his massive polearm in the midst of
+battle, he stokes courage in his followers—and fear in his enemies.��column_��id_hash_�TXT_FATE_INTRO_PL2500�subid_hash_��text_��An elegant mage once affiliated with the Church of Avia. Possessing comportment
+worthy of the noblest ladies, her tenacity and pluck are also second to none.
+She manipulates her levitating swords at will, an art privy to her clan alone.��column_��id_hash_�TXT_FATE_INTRO_PL2600�subid_hash_��text_�An indomitable warrior who hunts primal beasts for the Society. Contractor to
+the seal weapon Embrasque Sword, she's headstrong and is heavily fixated on
+climbing the ranks. Her many half-baked plans have earned her the title of
+"the Society's troublemaker."��column_��id_hash_�TXT_FATE_INTRO_PL2700�subid_hash_��text_��A taciturn marksman who hunts primal beasts for the Society. Contractor to the
+seal weapon Flamek Thunder, he's primarily concerned with preserving peace and
+quiet. His dedication to every mission makes him a reliable soldier.��column_��id_hash_�TXT_FATE_INTRO_PL2800�subid_hash_��text_�Pactbearer to The Devil, a primal beast of the Arcarum tasked with helping to
+create a new world order. She is a compassionate soul who brings her power—
+beauty, wisdom, and knowledge—to bear as strength. But the more radiant
+someone is, the darker the shadows they cast.��column_��id_hash_�TXT_FATE_INTRO_PL2900�subid_hash_��text_�LA being of unimaginable might who serves as the Black of the Six Dragons. She
+has existed since the time of creation as a wedge—a natural law of the world that
+influences the skies in its entirety. Curious about dyads—couples who form to
+pass on the torch to future generations—she adopts a mortal form to further her
+studies.��column_��id_hash_�TXT_FATE_PLOT_PL0000_00�subid_hash_��text_�Дурачок��column_��id_hash_�TXT_FATE_PLOT_PL0100_00�subid_hash_��text_�Дурачок��column_��id_hash_�TXT_FATE_PLOT_PL0200_00�subid_hash_��text_�Dummy��column_��id_hash_�TXT_FATE_PLOT_PL0300_00�subid_hash_��text_�Dummy��column_��id_hash_�TXT_FATE_PLOT_PL0400_00�subid_hash_��text_�Dummy��column_��id_hash_�TXT_FATE_PLOT_PL0500_00�subid_hash_��text_�Dummy��column_��id_hash_�TXT_FATE_PLOT_PL0600_00�subid_hash_��text_�Dummy��column_��id_hash_�TXT_FATE_PLOT_PL0700_00�subid_hash_��text_�Dummy��column_��id_hash_�TXT_FATE_PLOT_PL0800_00�subid_hash_��text_�Dummy��column_��id_hash_�TXT_FATE_PLOT_PL0900_00�subid_hash_��text_�Dummy��column_��id_hash_�TXT_FATE_PLOT_PL1000_00�subid_hash_��text_�Dummy��column_��id_hash_�TXT_FATE_PLOT_PL1100_00�subid_hash_��text_�Dummy��column_��id_hash_�TXT_FATE_PLOT_PL1200_00�subid_hash_��text_�Dummy��column_��id_hash_�TXT_FATE_PLOT_PL1300_00�subid_hash_��text_�Dummy��column_��id_hash_�TXT_FATE_PLOT_PL1400_00�subid_hash_��text_�Dummy��column_��id_hash_�TXT_FATE_PLOT_PL1500_00�subid_hash_��text_�Dummy��column_��id_hash_�TXT_FATE_PLOT_PL1600_00�subid_hash_��text_�Dummy��column_��id_hash_�TXT_FATE_PLOT_PL1700_00�subid_hash_��text_�Dummy��column_��id_hash_�TXT_FATE_PLOT_PL1800_00�subid_hash_��text_�Манекен��column_��id_hash_�TXT_FATE_PLOT_PL1900_00�subid_hash_��text_�Манекен��column_��id_hash_�TXT_FATE_PLOT_PL2100_00�subid_hash_��text_���column_��id_hash_�TXT_FATE_PLOT_PL2200_00�subid_hash_��text_���column_��id_hash_�TXT_FATE_PLOT_PL2300_00�subid_hash_��text_�

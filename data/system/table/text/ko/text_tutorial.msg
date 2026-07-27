@@ -1,4 +1,4 @@
-Å•rows_‹RÅßcolumn_É®id_hash_≥TU_WIN_TITLE_ATTACK´subid_hash_†•text_™–ê—Ç–∞–∫–∏Åßcolumn_É®id_hash_µTU_WIN_BODY_ATTACK_00´subid_hash_†•text_Ÿ®–ê—Ç–∞–∫—É–π—Ç–µ –≤—Ä–∞–≥–æ–≤.
+Å•rows_‹˜Åßcolumn_É®id_hash_≥TU_WIN_TITLE_ATTACK´subid_hash_†•text_™–ê—Ç–∞–∫–∏Åßcolumn_É®id_hash_µTU_WIN_BODY_ATTACK_00´subid_hash_†•text_Ÿ®–ê—Ç–∞–∫—É–π—Ç–µ –≤—Ä–∞–≥–æ–≤.
 –í—ã—Å—Ç—É–ø–∞—è –∑–∞ –∫–∞–ø–∏—Ç–∞–Ω–∞, –∫–æ–º–±–∏–Ω–∏—Ä—É–π—Ç–µ –∞—Ç–∞–∫–∏, —á—Ç–æ–±—ã —Å–æ–∑–¥–∞–≤–∞—Ç—å
 —Ä–∞–∑–ª–∏—á–Ω—ã–µ –∫–æ–º–±–æ.Åßcolumn_É®id_hash_µTU_WIN_TITLE_SPATTACK´subid_hash_†•text_™–ê—Ç–∞–∫–∏Åßcolumn_É®id_hash_∑TU_WIN_BODY_SPATTACK_00´subid_hash_†•text_Ÿ˙–ù–∞–∂–º–∏—Ç–µ, —á—Ç–æ–±—ã —Ä–∞—Å–∫—Ä—ã—Ç—å —Å–∫—É—é —É–Ω–∏–∫–∞–ª—å–Ω—É—é –∞—Ç–∞–∫—É.
 –ù–µ–∫–æ—Ç–æ—Ä—ã–µ —É–Ω–∏–∫–∞–ª—å–Ω—ã–µ –∞—Ç–∞–∫–∏ –º–æ–∂–Ω–æ –∑–∞—Ä—è–¥–∏—Ç—å, —É–¥–µ—Ä–∂–∏–≤–∞—è –∫–Ω–æ–ø–∫—É,
@@ -70,10 +70,7 @@
  –∏—Å–ø–æ–ª—å–∑–æ–≤–∞—Ç—å. –ù–æ–≤—ã–µ –Ω–∞–≤—ã–∫–∏ –º–æ–∂–Ω–æ –∏–∑—É—á–∏—Ç—å –≤ –º–∞—Å—Ç–µ—Ä—Å—Ç–≤–µ.Åßcolumn_É®id_hash_ºTU_WIN_TITLE_MENU_ABILITYEQ2´subid_hash_†•text_Ÿ#–ù–∞–∑–Ω–∞—á–µ–Ω–∏–µ –Ω–∞–≤—ã–∫–æ–≤Åßcolumn_É®id_hash_æTU_WIN_BODY_MENU_ABILITYEQ2_00´subid_hash_†•text_Ÿ√–ù–∞–≤—ã–∫–∏ –º–æ–∂–Ω–æ –Ω–∞–∑–Ω–∞—á–∞—Ç—å , , –∏ . –≠–∫—Å–ø–µ—Ä–∏–º–µ–Ω—Ç–∏—Ä—É–π—Ç–µ —Å —Ä–∞–∑–ª–∏—á–Ω—ã–º–∏
  –Ω–∞–≤—ã–∫–∞–º–∏ –≤ —Å–æ–æ—Ç–≤–µ—Ç—Å—Ç–≤–∏–∏ —Å–æ —Å–≤–æ–∏–º —Å—Ç–∏–ª–µ–º –∏–≥—Ä—ã!Åßcolumn_É®id_hash_πTU_WIN_TITLE_MENU_SETTING´subid_hash_†•text_Æ–°–∏—Å—Ç–µ–º–∞Åßcolumn_É®id_hash_ªTU_WIN_BODY_MENU_SETTING_00´subid_hash_†•text_Ÿö–í –º–µ–Ω—é "–°–∏—Å—Ç–µ–º–∞" –º–æ–∂–Ω–æ –∏–∑–º–µ–Ω–∏—Ç—å —Ä–∞–∑–ª–∏—á–Ω—ã–µ –ø–∞—Ä–∞–º–µ—Ç—Ä—ã. –í—ã —Ç–∞–∫–∂–µ
  –º–æ–∂–µ—Ç–µ —Å–æ—Ö—Ä–∞–Ω–∏—Ç—å –∏–≥—Ä—É.Åßcolumn_É®id_hash_πTU_WIN_TITLE_QUESTCOUNTER´subid_hash_†•text_ø–ü—Ä–∏–ª–∞–≤–æ–∫ –∑–∞–¥–∞–Ω–∏–πÅßcolumn_É®id_hash_ªTU_WIN_BODY_QUESTCOUNTER_00´subid_hash_†•text_Ÿ¥–ë–µ—Ä–∏—Ç–µ—Å—å –∑–∞ —Ä–∞–∑–ª–∏—á–Ω—ã–µ –∑–∞–¥–∞–Ω–∏—è –≤ –ü—Ä–∏–ª–∞–≤–∫–µ –∑–∞–¥–∞–Ω–∏–π–∏ –∑–∞—Ä–∞–±–∞—Ç—ã–≤–∞–π—Ç–µ
- —Ü–µ–Ω–Ω—ã–µ –Ω–∞–≥—Ä–∞–¥—ã –∑–∞ –∏—Ö –≤—ã–ø–æ–ª–Ω–µ–Ω–∏–µ.Åßcolumn_É®id_hash_ªTU_WIN_BODY_QUESTCOUNTER_01´subid_hash_†•text_Ÿ––ß—Ç–æ–±—ã –≤—ã–ø–æ–ª–Ω—è—Ç—å –∑–∞–¥–∞–Ω–∏—è —Å –¥—Ä—É–≥–∏–º–∏ –∏–≥—Ä–æ–∫–∞–º–∏, –≤—ã –º–æ–∂–µ—Ç–µ –≤—ã–±—Ä–∞—Ç—å
- "–°–æ–∑–¥–∞—Ç—å —Å–µ—Ç–µ–≤–æ–π —Å–µ–∞–Ω—Å" –∏–ª–∏ "–ü–æ–∏—Å–∫ —Å–µ—Ç–µ–≤—ã—Ö —Å–µ–∞–Ω—Å–æ–≤".Åßcolumn_É®id_hash_øTU_WIN_BODY_QUESTCOUNTER_WIN_01´subid_hash_†•text_ŸÚ–∑–∞–¥–∞–Ω–∏—è –º–æ–∂–Ω–æ –≤—ã–ø–æ–ª–Ω—è—Ç—å –æ–Ω–ª–∞–π–Ω —Å –¥—Ä—É–≥–∏–º–∏ –∏–≥—Ä–æ–∫–∞–º–∏, —Å–æ–∑–¥–∞–≤
- –æ–Ω–ª–∞–π–Ω-–≥—Ä—É–ø–ø—É –∏–ª–∏ –≤—ã–ø–æ–ª–Ω–∏–≤ –ø–æ–∏—Å–∫ –≥—Ä—É–ø–ø—ã, –∫ –∫–æ—Ç–æ—Ä–æ–π –º–æ–∂–Ω–æ
- –ø—Ä–∏—Å–æ–µ–¥–∏–Ω–∏—Ç—å—Å—è.Åßcolumn_É®id_hash_ΩTU_WIN_TITLE_MENU_QUESTSELECT´subid_hash_†•text_Æ–∑–∞–¥–∞–Ω–∏—èÅßcolumn_É®id_hash_øTU_WIN_BODY_MENU_QUESTSELECT_00´subid_hash_†•text_Ÿ‡–í Crew Alliance Rafale –≤—Å–µ–≥–¥–∞ –µ—Å—Ç—å –∑–∞–¥–∞–Ω–∏—è –¥–ª—è –±–µ—Å—Å—Ç—Ä–∞—à–Ω—ã—Ö
+ —Ü–µ–Ω–Ω—ã–µ –Ω–∞–≥—Ä–∞–¥—ã –∑–∞ –∏—Ö –≤—ã–ø–æ–ª–Ω–µ–Ω–∏–µ.Åßcolumn_É®id_hash_ΩTU_WIN_TITLE_MENU_QUESTSELECT´subid_hash_†•text_Æ–∑–∞–¥–∞–Ω–∏—èÅßcolumn_É®id_hash_øTU_WIN_BODY_MENU_QUESTSELECT_00´subid_hash_†•text_Ÿ‡–í Crew Alliance Rafale –≤—Å–µ–≥–¥–∞ –µ—Å—Ç—å –∑–∞–¥–∞–Ω–∏—è –¥–ª—è –±–µ—Å—Å—Ç—Ä–∞—à–Ω—ã—Ö
  –Ω–µ–±–µ—Å–Ω—ã—Ö —Å—Ç—Ä–∞–Ω–Ω–∏–∫–æ–≤. –∑–∞–¥–∞–Ω–∏—è –æ—Ä–≥–∞–Ω–∏–∑–æ–≤–∞–Ω—ã –ø–æ –ª–æ–∫–∞—Ü–∏–∏, —Å–ª–æ–∂–Ω–æ—Å—Ç–∏
  –∏ —Ç–∏–ø—É.Åßcolumn_É®id_hash_∂TU_WIN_TITLE_QUESTRANK´subid_hash_†•text_ŸG–†–∞–∑–±–ª–æ–∫–∏—Ä–æ–≤–∞–Ω–∏–µ –±–æ–ª–µ–µ —Å–ª–æ–∂–Ω—ã—Ö –∫–≤–µ—Å—Ç–æ–≤Åßcolumn_É®id_hash_∏TU_WIN_BODY_QUESTRANK_00´subid_hash_†•text_Ÿ∑–ü—Ä–æ–¥–æ–ª–∂–∞–π—Ç–µ –≤—ã–ø–æ–ª–Ω—è—Ç—å –∑–∞–¥–∞–Ω–∏—è, –æ—Ç–º–µ—á–µ–Ω–Ω—ã–µ –∑–Ω–∞—á–∫–æ–º, —á—Ç–æ–±—ã
  –ø–æ–ª—É—á–∏—Ç—å –¥–æ—Å—Ç—É–ø –∫ –±–æ–ª–µ–µ —Å–ª–æ–∂–Ω—ã–º –∑–∞–¥–∞–Ω–∏—è–º.Åßcolumn_É®id_hash_∑TU_WIN_TITLE_QUESTSTART´subid_hash_†•text_Ÿ(–û—Ç–ø—Ä–∞–≤–ª—è–µ–º—Å—è –Ω–∞ –∫–≤–µ—Å—ÇÅßcolumn_É®id_hash_πTU_WIN_BODY_QUESTSTART_00´subid_hash_†•text_⁄–ü—Ä–∏–Ω—è–≤ –∫–≤–µ—Å—Ç, —É–±–µ–¥–∏—Ç–µ—Å—å, —á—Ç–æ —É –≤–∞—Å –≤—Å–µ –≥–æ—Ç–æ–≤–æ, –∞ –∑–∞—Ç–µ–º –Ω–∞–∂–º–∏—Ç–µ,
@@ -84,20 +81,16 @@
  –≤–∫—É—Å—É. –≠—Ç–∏ –Ω–∞—Å—Ç—Ä–æ–π–∫–∏ –ø—Ä–∏–º–µ–Ω—è—é—Ç—Å—è –∫–æ –≤—Å–µ–º –∏–≥—Ä–æ–∫–∞–º, –∫–æ—Ç–æ—Ä—ã–µ
  –ø—Ä–∏—Å–æ–µ–¥–∏–Ω—è—é—Ç—Å—è –∫ –≤–∞—à–µ–π —Å–µ—Å—Å–∏–∏.Åßcolumn_É®id_hash_∫TU_WIN_TITLE_PCROOMSETTING´subid_hash_†•text_ø–ù–∞—Å—Ç—Ä–æ–π–∫–∏ —Å–µ–∞–Ω—Å–∞Åßcolumn_É®id_hash_ºTU_WIN_BODY_PCROOMSETTING_00´subid_hash_†•text_⁄–ü—Ä–µ–∂–¥–µ —á–µ–º –≤—ã—Ö–æ–¥–∏—Ç—å –≤ –ò–Ω—Ç–µ—Ä–Ω–µ—Ç, –≤–∞–º –Ω–µ–æ–±—Ö–æ–¥–∏–º–æ –Ω–∞—Å—Ç—Ä–æ–∏—Ç—å —Å–µ–∞–Ω—Å.
  –≠—Ç–∏ –Ω–∞—Å—Ç—Ä–æ–π–∫–∏ –±—É–¥—É—Ç –ø—Ä–∏–º–µ–Ω—è—Ç—å—Å—è –∫–æ –≤—Å–µ–º –∏–≥—Ä–æ–∫–∞–º, –∫–æ—Ç–æ—Ä—ã–µ
- –ø—Ä–∏—Å–æ–µ–¥–∏–Ω—è—Ç—Å—è –∫ –≤–∞—à–µ–º—É —Å–µ–∞–Ω—Å—É.Åßcolumn_É®id_hash_ºTU_WIN_TITLE_MATCHINGSETTING´subid_hash_†•text_Ÿ0–ù–∞—Å—Ç—Ä–æ–π–∫–∏ –ø–æ–¥–±–æ—Ä–∞ –∏–≥—Ä–æ–∫–æ–≤Åßcolumn_É®id_hash_æTU_WIN_BODY_MATCHINGSETTING_00´subid_hash_†•text_⁄–í—ã–±–µ—Ä–∏—Ç–µ "–ó–∞–∫—Ä—ã—Ç–æ", —á—Ç–æ–±—ã –≤—ã–ø–æ–ª–Ω–∏—Ç—å –∫–≤–µ—Å—Ç —Ç–æ–ª—å–∫–æ —Å —Ç–µ–∫—É—â–∏–º–∏
+ –ø—Ä–∏—Å–æ–µ–¥–∏–Ω—è—Ç—Å—è –∫ –≤–∞—à–µ–º—É —Å–µ–∞–Ω—Å—É.Åßcolumn_É®id_hash_æTU_WIN_BODY_MATCHINGSETTING_01´subid_hash_†•text_ŸôNew settings can be changed now. Try adjusting
+your settings to find the perfect session for you!
+Player name settings can also be adjusted by
+pressing .Åßcolumn_É®id_hash_ºTU_WIN_TITLE_MATCHINGSETTING´subid_hash_†•text_Ÿ0–ù–∞—Å—Ç—Ä–æ–π–∫–∏ –ø–æ–¥–±–æ—Ä–∞ –∏–≥—Ä–æ–∫–æ–≤Åßcolumn_É®id_hash_æTU_WIN_BODY_MATCHINGSETTING_00´subid_hash_†•text_⁄–í—ã–±–µ—Ä–∏—Ç–µ "–ó–∞–∫—Ä—ã—Ç–æ", —á—Ç–æ–±—ã –≤—ã–ø–æ–ª–Ω–∏—Ç—å –∫–≤–µ—Å—Ç —Ç–æ–ª—å–∫–æ —Å —Ç–µ–∫—É—â–∏–º–∏
  —É—á–∞—Å—Ç–Ω–∏–∫–∞–º–∏ –≥—Ä—É–ø–ø—ã, –∏–ª–∏ –≤—ã–±–µ—Ä–∏—Ç–µ "–û—Ç–∫—Ä—ã—Ç—å", —á—Ç–æ–±—ã –∏–≥—Ä–∞—Ç—å —Å–æ
- —Å–ª—É—á–∞–π–Ω—ã–º–∏ –∏–≥—Ä–æ–∫–∞–º–∏.Åßcolumn_É®id_hash_µTU_WIN_TITLE_ROOMJOIN´subid_hash_†•text_Ÿ$–ü–æ–∏—Å–∫ –æ–Ω–ª–∞–π–Ω-—Å–µ—Å—Å–∏–πÅßcolumn_É®id_hash_∑TU_WIN_BODY_ROOMJOIN_00´subid_hash_†•text_⁄F–î–æ—Å—Ç—É–ø–Ω—ã —Ä–∞–∑–ª–∏—á–Ω—ã–µ –∫—Ä–∏—Ç–µ—Ä–∏–∏ –ø–æ–∏—Å–∫–∞, –∫–æ—Ç–æ—Ä—ã–µ –æ–±–ª–µ–≥—á–∞—é—Ç –Ω–∞—Ö–æ–∂–¥–µ–Ω–∏–µ
- –∫–≤–µ—Å—Ç–æ–≤, –∫–æ—Ç–æ—Ä—ã–µ –≤—ã —Ö–æ—Ç–∏—Ç–µ –≤—ã–ø–æ–ª–Ω–∏—Ç—å. –í—ã —Ç–∞–∫–∂–µ –º–æ–∂–µ—Ç–µ –≤—ã–ø–æ–ª–Ω–∏—Ç—å
- –ø–æ–∏—Å–∫ –≤ —Å–ø–∏—Å–∫–µ –¥—Ä—É–∑–µ–π, —á—Ç–æ–±—ã –∏–≥—Ä–∞—Ç—å —Å –¥—Ä—É–∑—å—è–º–∏.Åßcolumn_É®id_hash_πTU_WIN_TITLE_INVITEPLAYER´subid_hash_†•text_ŸD–ü—Ä–∏–≥–ª–∞—à–µ–Ω–∏–µ –∏–≥—Ä–æ–∫–æ–≤ –Ω–∞ –æ–Ω–ª–∞–π–Ω-–≥—Ä—É–ø–ø—ÉÅßcolumn_É®id_hash_ªTU_WIN_BODY_INVITEPLAYER_00´subid_hash_†•text_ŸÍ–í—ã –º–æ–∂–µ—Ç–µ –ø—Ä–∏–≥–ª–∞—Å–∏—Ç—å –¥—Ä—É–∑–µ–π, –∏–≥—Ä–æ–∫–æ–≤, –Ω–µ–¥–∞–≤–Ω–æ –ø–æ—è–≤–∏–≤—à–∏—Ö—Å—è –Ω–µ –≤
- —Å–µ—Ç–∏, –∏ –∏–≥—Ä–æ–∫–æ–≤, –Ω–∞ –∫–æ—Ç–æ—Ä—ã—Ö –≤—ã –ø–æ–¥–ø–∏—Å–∞–Ω—ã, –≤ —Å–æ–∑–¥–∞–Ω–Ω—ã–π –≤–∞–º–∏ —Å–µ–∞–Ω—Å
- .Åßcolumn_É®id_hash_±TU_WIN_TITLE_SALE´subid_hash_†•text_Ÿ!–ü—Ä–æ–¥–∞–∂–∞ –ø—Ä–µ–¥–º–µ—Ç–æ–≤Åßcolumn_É®id_hash_≥TU_WIN_BODY_SALE_00´subid_hash_†•text_Ÿ‘–ü—Ä–µ–¥–º–µ—Ç—ã –º–æ–∂–Ω–æ –ø—Ä–æ–¥–∞—Ç—å –∑–∞ —Ä—É–ø–∏–∏. –û–¥–Ω–∞–∫–æ –∏—Ö –Ω–µ–ª—å–∑—è –≤—ã–∫—É–ø–∏—Ç—å
- –æ–±—Ä–∞—Ç–Ω–æ. –ò–º–µ–π—Ç–µ —ç—Ç–æ –≤ –≤–∏–¥—É, –ø—Ä–µ–∂–¥–µ —á–µ–º —Å–æ–≤–µ—Ä—à–∞—Ç—å –ø—Ä–æ–¥–∞–∂—É.Åßcolumn_É®id_hash_≥TU_WIN_TITLE_ONLINE´subid_hash_†•text_µ–ò–≥—Ä–∞ –æ–Ω–ª–∞–π–ΩÅßcolumn_É®id_hash_µTU_WIN_BODY_ONLINE_00´subid_hash_†•text_⁄–ï—Å–ª–∏ –≤—ã —Ö–æ—Ç–∏—Ç–µ –≤—ã–ø–æ–ª–Ω–∏—Ç—å –∫–≤–µ—Å—Ç –≤–º–µ—Å—Ç–µ —Å –¥—Ä—É–≥–∏–º–∏ –∏–≥—Ä–æ–∫–∞–º–∏,
- –ø–µ—Ä–µ–π–¥–∏—Ç–µ –∫ —Å—á–µ—Ç—á–∏–∫—É –∫–≤–µ—Å—Ç–æ–≤ –∏ –≤—ã–±–µ—Ä–∏—Ç–µ "–°–æ–∑–¥–∞—Ç—å –æ–Ω–ª–∞–π–Ω-
- –≥—Ä—É–ø–ø—É" –∏–ª–∏ "–ü–æ–∏—Å–∫ –æ–Ω–ª–∞–π–Ω-–≥—Ä—É–ø–ø—ã".Åßcolumn_É®id_hash_µTU_WIN_BODY_ONLINE_01´subid_hash_†•text_⁄U–û–±—â–∞–π—Ç–µ—Å—å —Å –¥—Ä—É–≥–∏–º–∏ –ø—É—Ç–µ—à–µ—Å—Ç–≤–µ–Ω–Ω–∏–∫–∞–º–∏, –Ω–∞–∂–∞–≤ –¥–ª—è –¥–æ—Å—Ç—É–ø–∞ –∫
+ —Å–ª—É—á–∞–π–Ω—ã–º–∏ –∏–≥—Ä–æ–∫–∞–º–∏.Åßcolumn_É®id_hash_±TU_WIN_TITLE_SALE´subid_hash_†•text_Ÿ!–ü—Ä–æ–¥–∞–∂–∞ –ø—Ä–µ–¥–º–µ—Ç–æ–≤Åßcolumn_É®id_hash_≥TU_WIN_BODY_SALE_00´subid_hash_†•text_Ÿ‘–ü—Ä–µ–¥–º–µ—Ç—ã –º–æ–∂–Ω–æ –ø—Ä–æ–¥–∞—Ç—å –∑–∞ —Ä—É–ø–∏–∏. –û–¥–Ω–∞–∫–æ –∏—Ö –Ω–µ–ª—å–∑—è –≤—ã–∫—É–ø–∏—Ç—å
+ –æ–±—Ä–∞—Ç–Ω–æ. –ò–º–µ–π—Ç–µ —ç—Ç–æ –≤ –≤–∏–¥—É, –ø—Ä–µ–∂–¥–µ —á–µ–º —Å–æ–≤–µ—Ä—à–∞—Ç—å –ø—Ä–æ–¥–∞–∂—É.Åßcolumn_É®id_hash_≥TU_WIN_TITLE_ONLINE´subid_hash_†•text_µ–ò–≥—Ä–∞ –æ–Ω–ª–∞–π–ΩÅßcolumn_É®id_hash_µTU_WIN_BODY_ONLINE_01´subid_hash_†•text_⁄U–û–±—â–∞–π—Ç–µ—Å—å —Å –¥—Ä—É–≥–∏–º–∏ –ø—É—Ç–µ—à–µ—Å—Ç–≤–µ–Ω–Ω–∏–∫–∞–º–∏, –Ω–∞–∂–∞–≤ –¥–ª—è –¥–æ—Å—Ç—É–ø–∞ –∫
  —Å—Ç–∏–∫–µ—Ä–∞–º –∏ —ç–º–æ—Ü–∏—è–º, –∏–ª–∏ —É–¥–µ—Ä–∂–∏–≤–∞—è, —á—Ç–æ–±—ã –æ—Ç–∫—Ä—ã—Ç—å –∫–æ–ª–µ—Å–æ
  –±—ã—Å—Ç—Ä–æ–≥–æ –¥–æ—Å—Ç—É–ø–∞. –ò—Ö –Ω–∞ –º–æ–∂–Ω–æ –Ω–∞—Å—Ç—Ä–æ–∏—Ç—å –≤ –Ω–∞—Å—Ç—Ä–æ–π–∫–∞—Ö —Å–æ–≤–º–µ—Å—Ç–Ω–æ–π
- –∏–≥—Ä—ã.Åßcolumn_É®id_hash_∫TU_WIN_TITLE_QUICKMATCHING´subid_hash_†•text_Ÿ*–ë—ã—Å—Ç—Ä—ã–π –ø–æ–¥–±–æ—Ä –∏–≥—Ä–æ–∫–æ–≤Åßcolumn_É®id_hash_ºTU_WIN_BODY_QUICKMATCHING_00´subid_hash_†•text_Ÿ—–≠—Ç–æ –ø–æ–∑–≤–æ–ª–∏—Ç –≤–∞–º –Ω–∞—Å—Ç—Ä–æ–∏—Ç—å –æ–Ω–ª–∞–π–Ω-—Å–µ—Å—Å–∏—é. –í—ã —Å–º–æ–∂–µ—Ç–µ –≤—ã–ø–æ–ª–Ω—è—Ç—å
- –¥–æ–ø–æ–ª–Ω–∏—Ç–µ–ª—å–Ω—ã–µ –∑–∞–¥–∞–Ω–∏—è –≤–º–µ—Å—Ç–µ —Å –¥—Ä—É–≥–∏–º–∏ –∏–≥—Ä–æ–∫–∞–º–∏.Åßcolumn_É®id_hash_≥TU_WIN_TITLE_PLLIST´subid_hash_†•text_ª–°–ø–∏—Å–æ–∫ –∏–≥—Ä–æ–∫–æ–≤Åßcolumn_É®id_hash_µTU_WIN_BODY_PLLIST_00´subid_hash_†•text_Ÿ‹–í—ã –º–æ–∂–µ—Ç–µ –ø—Ä–æ—Å–º–∞—Ç—Ä–∏–≤–∞—Ç—å –ø—Ä–æ—Ñ–∏–ª–∏ –¥—Ä—É–≥–∏—Ö –∏–≥—Ä–æ–∫–æ–≤, –ø–æ–¥–ø–∏—Å—ã–≤–∞—Ç—å—Å—è –Ω–∞
+ –∏–≥—Ä—ã.Åßcolumn_É®id_hash_≥TU_WIN_TITLE_PLLIST´subid_hash_†•text_ª–°–ø–∏—Å–æ–∫ –∏–≥—Ä–æ–∫–æ–≤Åßcolumn_É®id_hash_µTU_WIN_BODY_PLLIST_00´subid_hash_†•text_Ÿ‹–í—ã –º–æ–∂–µ—Ç–µ –ø—Ä–æ—Å–º–∞—Ç—Ä–∏–≤–∞—Ç—å –ø—Ä–æ—Ñ–∏–ª–∏ –¥—Ä—É–≥–∏—Ö –∏–≥—Ä–æ–∫–æ–≤, –ø–æ–¥–ø–∏—Å—ã–≤–∞—Ç—å—Å—è –Ω–∞
  –Ω–∏—Ö –∏–ª–∏ –Ω–∞–ø—Ä—è–º—É—é –æ—Ç–ø—Ä–∞–≤–ª—è—Ç—å –∏–º –ø—Ä–∏–≥–ª–∞—à–µ–Ω–∏—è –Ω–∞ –≥—Ä—É–ø–ø—É.Åßcolumn_É®id_hash_∏TU_WIN_TITLE_PROFILEEDIT´subid_hash_†•text_ª–ü—Ä–æ—Ñ–∏–ª—å –∏–≥—Ä–æ–∫–∞Åßcolumn_É®id_hash_∫TU_WIN_BODY_PROFILEEDIT_00´subid_hash_†•text_ŸÑ–ü–æ–∫–∞–∂–∏—Ç–µ –ù–µ–±–µ—Å–Ω–æ–º—É –¶–∞—Ä—Å—Ç–≤—É, –∫–∞–∫–æ–π –≤—ã –ø—É—Ç–µ—à–µ—Å—Ç–≤–µ–Ω–Ω–∏–∫, —á–µ—Ä–µ–∑ –≤–∞—à
  –ø—Ä–æ—Ñ–∏–ª—å.Åßcolumn_É®id_hash_µTU_WIN_TITLE_COMM_SET´subid_hash_†•text_Ÿ7–ö–æ–º–º—É–Ω–∏–∫–∞—Ü–∏–æ–Ω–Ω—ã–µ –≤–æ–∑–º–æ–∂–Ω–æ—Å—Ç–∏Åßcolumn_É®id_hash_∑TU_WIN_BODY_COMM_SET_00´subid_hash_†•text_Ÿ∫–î–æ—Å—Ç—É–ø–µ–Ω —à–∏—Ä–æ–∫–∏–π –Ω–∞–±–æ—Ä –∏–Ω—Å—Ç—Ä—É–º–µ–Ω—Ç–æ–≤, –∫–æ—Ç–æ—Ä—ã–µ –ø–æ–º–æ–≥—É—Ç –≤–∞–º –±—ã—Å—Ç—Ä–æ
  –∏ –ª–µ–≥–∫–æ –æ–±—â–∞—Ç—å—Å—è —Å –¥—Ä—É–≥–∏–º–∏ –∏–≥—Ä–æ–∫–∞–º–∏.Åßcolumn_É®id_hash_∂TU_WIN_TITLE_STATEICON´subid_hash_†•text_π–û–Ω–ª–∞–π–Ω-—Å—Ç–∞—Ç—É—ÅÅßcolumn_É®id_hash_∏TU_WIN_BODY_STATEICON_00´subid_hash_†•text_Ÿò–ó–Ω–∞—á–∫–∏ –æ–Ω–ª–∞–π–Ω-—Å—Ç–∞—Ç—É—Å–∞ –ø–æ–∑–≤–æ–ª—è—é—Ç –¥—Ä—É–≥–∏–º —á–ª–µ–Ω–∞–º –≥—Ä—É–ø–ø—ã —Å—Ä–∞–∑—É
@@ -361,4 +354,254 @@ online. –ö—Ä–æ–º–µ —Ç–æ–≥–æ, —Ä–µ–∂–∏–º—ã –ø–æ–º–æ—â–∏ –±—É–¥—É—Ç –æ—Ç–∫–ª—é—á–µ
 t –Ω–∞ –æ–±—ä–µ–¥–∏–Ω–µ–Ω–∏–µ –¥–≤—É—Ö –ª–µ–≥–µ–Ω–¥–∞—Ä–Ω—ã—Ö —Å–∏–≥–∏–ª–æ–≤ –∏ –ø–µ—Ä–µ–¥–∞—á—É –∏—Ö —á–µ—Ä—Ç.
 –û–±–µ —Å–∏–≥–∏–ª—ã –¥–æ–ª–∂–Ω—ã –∏–º–µ—Ç—å –∑–Ω–∞–∫ (+).Åßcolumn_É®id_hash_∞TU_WIN_TITLE_MAP´subid_hash_†•text_™–ö–∞—Ä—Ç–∞Åßcolumn_É®id_hash_≤TU_WIN_BODY_MAP_00´subid_hash_†•text_Ÿc–£–¥–µ—Ä–∂–∏–≤–∞–π—Ç–µ, —á—Ç–æ–±—ã –ø—Ä–æ—Å–º–æ—Ç—Ä–µ—Ç—å –∫–∞—Ä—Ç—É —Ç–µ–∫—É—â–µ–π –æ–±–ª–∞—Å—Ç–∏.Åßcolumn_É®id_hash_∑TU_WIN_TITLE_CAMERAMOVE´subid_hash_†•text_Ÿ7–ö–∞–º–µ—Ä–∞ –∏ —É–ø—Ä–∞–≤–ª–µ–Ω–∏–µ –¥–≤–∏–∂–µ–Ω–∏–µ–ºÅßcolumn_É®id_hash_πTU_WIN_BODY_CAMERAMOVE_00´subid_hash_†•text_Ÿ’–ü–µ—Ä–µ–º–µ—â–∞–π—Ç–µ —Å–≤–æ–µ–≥–æ –ø–µ—Ä—Å–æ–Ω–∞–∂–∞ —Å –ø–æ–º–æ—â—å—é –∏ —É–ø—Ä–∞–≤–ª—è–π—Ç–µ –∫–∞–º–µ—Ä–æ–π .
 –£–ø—Ä–∞–≤–ª–µ–Ω–∏–µ –∫–∞–º–µ—Ä–æ–π –º–æ–∂–Ω–æ –Ω–∞—Å—Ç—Ä–æ–∏—Ç—å –≤ –Ω–∞—Å—Ç—Ä–æ–π–∫–∞—Ö –∏–≥—Ä—ã.Åßcolumn_É®id_hash_µTU_WIN_TITLE_DUSHJUMP´subid_hash_†•text_æ–ü—Ä—ã–≥–∞—Ç—å –∏ –±–µ–≥–∞—Ç—åÅßcolumn_É®id_hash_∑TU_WIN_BODY_DUSHJUMP_00´subid_hash_†•text_ŸK–ü—Ä—ã–∂–æ–∫:    
-–†—ã–≤–æ–∫:      (–≤–æ –≤—Ä–µ–º—è –ø–µ—Ä–µ–º–µ—â–µ–Ω–∏—è)Åßcolumn_É®id_hash_ØTXT_TU_POP_0001´subid_hash_†•text_∏–ü–µ—Ä–µ–¥–≤–∏–∂–µ–Ω–∏–µÅßcolumn_É®id_hash_ØTXT_TU_POP_0002´subid_hash_†•text_ø–ù–∞—Å—Ç—Ä–æ–∏—Ç—å –∫–∞–º–µ—Ä—ÉÅßcolumn_É®id_hash_ØTXT_TU_POP_0003´subid_hash_†•text_¶–ë–µ–≥Åßcolumn_É®id_hash_ØTXT_TU_POP_0004´subid_hash_†•text_¨–ü—Ä—ã–∂–æ–∫Åßcolumn_É®id_hash_ØTXT_TU_POP_0005´subid_hash_†•text_™–ê—Ç–∞–∫–∞Åßcolumn_É®id_hash_ØTXT_TU_POP_0006´subid_hash_†•text_ø–£–Ω–∏–∫–∞–ª—å–Ω–∞—è –∞—Ç–∞–∫–∞Åßcolumn_É®id_hash_ØTXT_TU_POP_0007´subid_hash_†•text_≤–£–∫–ª–æ–Ω–µ–Ω–∏–µÅßcolumn_É®id_hash_ØTXT_TU_POP_0008´subid_hash_†•text_¨–ó–∞—â–∏—Ç–∞Åßcolumn_É®id_hash_ØTXT_TU_POP_0009´subid_hash_†•text_∞–§–∏–∫—Å–∞—Ü–∏—èÅßcolumn_É®id_hash_±TXT_TU_GUIDE_0001´subid_hash_†•text_Æ–ó–∞–∫—Ä—ã—Ç—å
+–†—ã–≤–æ–∫:      (–≤–æ –≤—Ä–µ–º—è –ø–µ—Ä–µ–º–µ—â–µ–Ω–∏—è)Åßcolumn_É®id_hash_ØTXT_TU_POP_0001´subid_hash_†•text_∏–ü–µ—Ä–µ–¥–≤–∏–∂–µ–Ω–∏–µÅßcolumn_É®id_hash_ØTXT_TU_POP_0002´subid_hash_†•text_ø–ù–∞—Å—Ç—Ä–æ–∏—Ç—å –∫–∞–º–µ—Ä—ÉÅßcolumn_É®id_hash_ØTXT_TU_POP_0003´subid_hash_†•text_¶–ë–µ–≥Åßcolumn_É®id_hash_ØTXT_TU_POP_0004´subid_hash_†•text_¨–ü—Ä—ã–∂–æ–∫Åßcolumn_É®id_hash_ØTXT_TU_POP_0005´subid_hash_†•text_™–ê—Ç–∞–∫–∞Åßcolumn_É®id_hash_ØTXT_TU_POP_0006´subid_hash_†•text_ø–£–Ω–∏–∫–∞–ª—å–Ω–∞—è –∞—Ç–∞–∫–∞Åßcolumn_É®id_hash_ØTXT_TU_POP_0007´subid_hash_†•text_≤–£–∫–ª–æ–Ω–µ–Ω–∏–µÅßcolumn_É®id_hash_ØTXT_TU_POP_0008´subid_hash_†•text_¨–ó–∞—â–∏—Ç–∞Åßcolumn_É®id_hash_ØTXT_TU_POP_0009´subid_hash_†•text_∞–§–∏–∫—Å–∞—Ü–∏—èÅßcolumn_É®id_hash_±TXT_TU_GUIDE_0001´subid_hash_†•text_Æ–ó–∞–∫—Ä—ã—Ç—åÅßcolumn_É®id_hash_∂TU_WIN_TITLE_QUESTMODE´subid_hash_†•text_™Quest ModeÅßcolumn_É®id_hash_∏TU_WIN_BODY_QUESTMODE_00´subid_hash_†•text_Ÿ§Put your skills to the test against a wide range of foes and
+challenges by undertaking quests at the quest counter.
+The demo includes three quests for you to enjoy.Åßcolumn_É®id_hash_∏TU_WIN_BODY_QUESTMODE_01´subid_hash_†•text_ŸõDon't forget to set up your party with gear and skills from
+the main menu before departing! It's your job as captain to
+make sure everyone comes home safe.Åßcolumn_É®id_hash_ΩTU_WIN_BODY_ACT_PL0000_00_FES´subid_hash_†•text_Ÿ¬A young man on a journey to reach Estalucia. Employing a
+self-taught style of swordplay, Gran gains various skills,
+including attacks, buffs, and heals. He's a suitable
+choice for any situation.Åßcolumn_É®id_hash_ΩTU_WIN_BODY_ACT_PL0000_00_TRI´subid_hash_†•text_Ÿ¬A young man on a journey to reach Estalucia. Employing a
+self-taught style of swordplay, Gran gains various skills,
+including attacks, buffs, and heals. He's a suitable
+choice for any situation.Åßcolumn_É®id_hash_ΩTU_WIN_BODY_ACT_PL0200_00_FES´subid_hash_†•text_ŸøA former knight of the Erste Empire, she abandoned
+her post to protect Lyria. Katalina is equally adept
+with sword and magic, making her a flexible
+character who can adapt to any predicament.Åßcolumn_É®id_hash_ΩTU_WIN_BODY_ACT_PL0200_00_TRI´subid_hash_†•text_ŸøA former knight of the Erste Empire, she abandoned
+her post to protect Lyria. Katalina is equally adept
+with sword and magic, making her a flexible
+character who can adapt to any predicament.Åßcolumn_É®id_hash_ΩTU_WIN_BODY_ACT_PL0300_00_FES´subid_hash_†•text_Ÿ™A quintessential man of the skies, he now serves as
+helmsman to the Grandcypher. With his two guns,
+Rackam covers his allies and suppresses his
+foes from a safe distance.Åßcolumn_É®id_hash_ΩTU_WIN_BODY_ACT_PL0300_00_TRI´subid_hash_†•text_Ÿ™A quintessential man of the skies, he now serves as
+helmsman to the Grandcypher. With his two guns,
+Rackam covers his allies and suppresses his
+foes from a safe distance.Åßcolumn_É®id_hash_ΩTU_WIN_BODY_ACT_PL0400_00_FES´subid_hash_†•text_Ÿ¢A young mage who aspires to be an elegant lady. While
+Io is skilled at attacking enemies at a distance, she is
+equally proficient with support and recovery magic.Åßcolumn_É®id_hash_ΩTU_WIN_BODY_ACT_PL0400_00_TRI´subid_hash_†•text_Ÿ¢A young mage who aspires to be an elegant lady. While
+Io is skilled at attacking enemies at a distance, she is
+equally proficient with support and recovery magic.Åßcolumn_É®id_hash_ΩTU_WIN_BODY_ACT_PL0800_00_FES´subid_hash_†•text_ŸªThis dual-wielding swordsman also acts as leader of
+Feendrache's Order of White Dragons. Making adept
+use of his icy blades, Lancelot cuts down his enemies
+with dazzling skill and speed. Åßcolumn_É®id_hash_ΩTU_WIN_BODY_ACT_PL0800_00_TRI´subid_hash_†•text_ŸªThis dual-wielding swordsman also acts as leader of
+Feendrache's Order of White Dragons. Making adept
+use of his icy blades, Lancelot cuts down his enemies
+with dazzling skill and speed. Åßcolumn_É®id_hash_ΩTU_WIN_BODY_ACT_PL1100_00_FES´subid_hash_†•text_Ÿ∞A hero who once saved his country despite being
+branded a traitor. His deft swordsmanship leaves
+no room for doubt‚Äîthe blood of a dragon
+flows through this formidable knight.Åßcolumn_É®id_hash_ΩTU_WIN_BODY_ACT_PL1100_00_TRI´subid_hash_†•text_Ÿ∞A hero who once saved his country despite being
+branded a traitor. His deft swordsmanship leaves
+no room for doubt‚Äîthe blood of a dragon
+flows through this formidable knight.Åßcolumn_É®id_hash_ΩTU_WIN_BODY_ACT_PL1200_00_FES´subid_hash_†•text_Ÿ´With a sacred pledge in her heart‚Äîand an oversized weapon
+in hand‚Äîthis Harvin leader of the Order of Holy Knights
+is possessed of unimpeachable strength and character.Åßcolumn_É®id_hash_ΩTU_WIN_BODY_ACT_PL1200_00_TRI´subid_hash_†•text_Ÿ´With a sacred pledge in her heart‚Äîand an oversized weapon
+in hand‚Äîthis Harvin leader of the Order of Holy Knights
+is possessed of unimpeachable strength and character.Åßcolumn_É®id_hash_ΩTU_WIN_BODY_ACT_PL1300_00_FES´subid_hash_†•text_Ÿ‘A master swordsman who once had many disciples, and was
+well-known the skies over. He is able to manipulate two
+swords at will with blinding speed, and is an adept at
+fighting with high-speed combos and counters.Åßcolumn_É®id_hash_ΩTU_WIN_BODY_ACT_PL1400_00_FES´subid_hash_†•text_ŸÎA katana master who was born into a line of expert martial
+artists. Through diligent tempering Narmaya combined her
+family's martial arts with magic and formed her own unique
+blade technique. She employs two distinct stances in battle.Åßcolumn_É®id_hash_∑TU_WIN_TITLE_ACT_PL2400´subid_hash_†•text_¥Controlling GallanzaÅßcolumn_É®id_hash_πTU_WIN_BODY_ACT_PL2400_00´subid_hash_†•text_Ÿ´Gallanza once led the Silver Wolf Corps while serving as a
+general for the Church of Avia. With a hearty swing of his
+mighty spear, he mows down enemies in one fell swoop.Åßcolumn_É®id_hash_πTU_WIN_BODY_ACT_PL2400_01´subid_hash_†•text_ŸèGallanza creates various combos with  and . Hold  to
+continuously swing his spear in circles, and then release 
+to perform a powerful finisher.Åßcolumn_É®id_hash_πTU_WIN_BODY_ACT_PL2400_02´subid_hash_†•text_ŸõLanding attacks and skills fills his Silver Wolf gauge. Once
+the gauge is full, Gallanza enters Deathmatch Finale, a
+state that enhances his  and  attacks.Åßcolumn_É®id_hash_∑TU_WIN_TITLE_ACT_PL2500´subid_hash_†•text_µControlling MaglielleÅßcolumn_É®id_hash_πTU_WIN_BODY_ACT_PL2500_00´subid_hash_†•text_Ÿ™Maglielle is a conjurer who leads the secretive Sword Veil
+Fellowship. Able to control a multitude of weapons at will,
+her combat prowess is as exquisite as it is deadly.Åßcolumn_É®id_hash_πTU_WIN_BODY_ACT_PL2500_01´subid_hash_†•text_ŸôMaglielle creates various combos with  and . Hold  and
+use  to direct her combo finisher. Her swords hit foes
+caught in its path, filling the Veil gauge.Åßcolumn_É®id_hash_πTU_WIN_BODY_ACT_PL2500_02´subid_hash_†•text_Ÿ¨Press  to fire swords directly forward. Hold  to fire a
+steady stream of swords, which depletes the Veil gauge.
+Fire for long enough to trigger a powerful follow-up attack.Åßcolumn_É®id_hash_∑TU_WIN_TITLE_ACT_PL2600´subid_hash_†•text_≥Controlling BeatrixÅßcolumn_É®id_hash_πTU_WIN_BODY_ACT_PL2600_00´subid_hash_†•text_Ÿ™One of the Society's strongest primal beast hunters, Beatrix
+is seal weapon Embrasque Sword's contractor. Boasting 3
+types of aptitudes, she's highly adaptable in combat.Åßcolumn_É®id_hash_πTU_WIN_BODY_ACT_PL2600_01´subid_hash_†•text_ŸßBeatrix creates various combos with  and . Press or hold 
+to rotate Delta Clock's hand. This allows her to switch
+between unique  attack,  defense, and  healing buffs.Åßcolumn_É®id_hash_πTU_WIN_BODY_ACT_PL2600_02´subid_hash_†•text_Ÿ°Performing combo finishers fills her Embrasque gauge. Once
+the gauge is full, hold  to enter Devour Causality, a state
+that enhances her attack speed and combos.Åßcolumn_É®id_hash_∑TU_WIN_TITLE_ACT_PL2700´subid_hash_†•text_≥Controlling EustaceÅßcolumn_É®id_hash_πTU_WIN_BODY_ACT_PL2700_00´subid_hash_†•text_ŸùOne of the Society's top agents, Eustace is seal weapon
+Flamek Thunder's contractor. He utilizes swift maneuvers to
+place himself in prime shooting position.Åßcolumn_É®id_hash_πTU_WIN_BODY_ACT_PL2700_01´subid_hash_†•text_Ÿ¢Tap  to fire normally or hold for a charged shot. Tilt 
+and tap  to roll away and then shoot. He can fire up to
+5 bullets in a row before needing to reload with .Åßcolumn_É®id_hash_πTU_WIN_BODY_ACT_PL2700_02´subid_hash_†•text_ŸúLanding  attacks fills his Loaded gauge. When the gauge is
+maxed out, press  to load the gun with heavy ammo, which
+are bullets with even greater firepower.Åßcolumn_É®id_hash_∑TU_WIN_TITLE_ACT_PL2800´subid_hash_†•text_±Controlling FrauxÅßcolumn_É®id_hash_πTU_WIN_BODY_ACT_PL2800_00´subid_hash_†•text_Ÿ±Pactbearer to primal beast The Devil, this Erune woman
+boasts superb strength and style in her kicks. She can switch
+between two stances, allowing for strategic, dynamic combat.Åßcolumn_É®id_hash_πTU_WIN_BODY_ACT_PL2800_01´subid_hash_†•text_ŸëShe creates various combos with  and . Landing hits and
+skills while in a stance fills the gauge for that stance.
+Press  to flip between stances.Åßcolumn_É®id_hash_πTU_WIN_BODY_ACT_PL2800_02´subid_hash_†•text_ŸÖOnce her stance gauges are both full, she gains 3 skill
+activations for free. Let those skills fly and take the
+upper hand in battle!Åßcolumn_É®id_hash_∑TU_WIN_TITLE_ACT_PL2900´subid_hash_†•text_≤Controlling FedielÅßcolumn_É®id_hash_πTU_WIN_BODY_ACT_PL2900_00´subid_hash_†•text_ŸÃThe Six Dragons are beings of immense power who have
+existed since genesis. The Black is one of them, master of
+shadow and embodiment of darkness. She enjoys invading
+foes' personal space to inflict pain.Åßcolumn_É®id_hash_πTU_WIN_BODY_ACT_PL2900_01´subid_hash_†•text_ŸÑPress  to attack from afar. Hold  to aim for a desired
+location, then release the button to warp. She takes no
+damage while warping.Åßcolumn_É®id_hash_πTU_WIN_BODY_ACT_PL2900_02´subid_hash_†•text_Ÿ†Hold  for longer to amass dark power, allowing her to
+perform a claw attack coming out of the warp. Press 
+repeatedly to continue barraging the foe with swipes.Åßcolumn_É®id_hash_∏TU_WIN_TITLE_ACT_UNKNOWN´subid_hash_†•text_≤Character ControlsÅßcolumn_É®id_hash_ªTU_WIN_BODY_QUESTCOUNTER_01´subid_hash_†•text_Ÿ––ß—Ç–æ–±—ã –≤—ã–ø–æ–ª–Ω—è—Ç—å –∑–∞–¥–∞–Ω–∏—è —Å –¥—Ä—É–≥–∏–º–∏ –∏–≥—Ä–æ–∫–∞–º–∏, –≤—ã –º–æ–∂–µ—Ç–µ –≤—ã–±—Ä–∞—Ç—å
+ "–°–æ–∑–¥–∞—Ç—å —Å–µ—Ç–µ–≤–æ–π —Å–µ–∞–Ω—Å" –∏–ª–∏ "–ü–æ–∏—Å–∫ —Å–µ—Ç–µ–≤—ã—Ö —Å–µ–∞–Ω—Å–æ–≤".Åßcolumn_É®id_hash_µTU_WIN_TITLE_ROOMJOIN´subid_hash_†•text_Ÿ$–ü–æ–∏—Å–∫ –æ–Ω–ª–∞–π–Ω-—Å–µ—Å—Å–∏–πÅßcolumn_É®id_hash_∑TU_WIN_BODY_ROOMJOIN_00´subid_hash_†•text_⁄F–î–æ—Å—Ç—É–ø–Ω—ã —Ä–∞–∑–ª–∏—á–Ω—ã–µ –∫—Ä–∏—Ç–µ—Ä–∏–∏ –ø–æ–∏—Å–∫–∞, –∫–æ—Ç–æ—Ä—ã–µ –æ–±–ª–µ–≥—á–∞—é—Ç –Ω–∞—Ö–æ–∂–¥–µ–Ω–∏–µ
+ –∫–≤–µ—Å—Ç–æ–≤, –∫–æ—Ç–æ—Ä—ã–µ –≤—ã —Ö–æ—Ç–∏—Ç–µ –≤—ã–ø–æ–ª–Ω–∏—Ç—å. –í—ã —Ç–∞–∫–∂–µ –º–æ–∂–µ—Ç–µ –≤—ã–ø–æ–ª–Ω–∏—Ç—å
+ –ø–æ–∏—Å–∫ –≤ —Å–ø–∏—Å–∫–µ –¥—Ä—É–∑–µ–π, —á—Ç–æ–±—ã –∏–≥—Ä–∞—Ç—å —Å –¥—Ä—É–∑—å—è–º–∏.Åßcolumn_É®id_hash_∏TU_WIN_TITLE_WP_REB_BASE´subid_hash_†•text_¥Weapon TranscendenceÅßcolumn_É®id_hash_∫TU_WIN_BODY_WP_REB_BASE_00´subid_hash_†•text_ŸcIt's now possible to enhance fully upgraded weapons to new
+levels of power at the Knickknack Shack.Åßcolumn_É®id_hash_∫TU_WIN_BODY_WP_REB_BASE_01´subid_hash_†•text_ŸòTranscendence not only boosts a weapon's stats, it also
+unlocks additional trait slots, along with different types
+of equippable traits for those slots.Åßcolumn_É®id_hash_∫TU_WIN_BODY_WP_REB_BASE_02´subid_hash_†•text_Ÿ{To edit traits, open the Gear screen, equip a transcended
+weapon, and then press . Customize your weapon to fit your
+needs!Åßcolumn_É®id_hash_ΩTU_WIN_TITLE_WP_REB_BASE_OPEN´subid_hash_†•text_Ÿ"Enhance Your Weapons Even Further!Åßcolumn_É®id_hash_øTU_WIN_BODY_WP_REB_BASE_OPEN_00´subid_hash_†•text_ŸFWeapon transcendence has been unlocked!
+Visit Siero and give it a try!Åßcolumn_É®id_hash_∫TU_WIN_TITLE_TURRETGIMMICK´subid_hash_†•text_≠Ether TurretsÅßcolumn_É®id_hash_ºTU_WIN_BODY_TURRETGIMMICK_00´subid_hash_†•text_ŸvEther turrets automatically fire at nearby foes, drawing their
+hostility. Approach a turret and press  to activate it.Åßcolumn_É®id_hash_ºTU_WIN_BODY_TURRETGIMMICK_01´subid_hash_†•text_ŸñOnce a turret reaches its limit, it'll unleash a wide
+electrical attack that damages foes and inflicts Paralysis.
+The turret will then go on cooldown.Åßcolumn_É®id_hash_∫TU_WIN_TITLE_GST_AI_UNLOCK´subid_hash_†•text_±Backup CharactersÅßcolumn_É®id_hash_ºTU_WIN_BODY_GST_AI_UNLOCK_00´subid_hash_†•text_Ÿ©You can now enlist the help of someone else's character,
+and delegate one of your own characters to help others.
+If a quest is proving troublesome, try enlisting backup.Åßcolumn_É®id_hash_ºTU_WIN_TITLE_GST_AI_DISPATCH´subid_hash_†•text_æAssigning a Delegate CharacterÅßcolumn_É®id_hash_æTU_WIN_BODY_GST_AI_DISPATCH_00´subid_hash_†•text_Ÿ£You can assign one of your characters as a delegate for other
+players to enlist. When other players enlist your delegate,
+your delegate might even earn commission.Åßcolumn_É®id_hash_∫TU_WIN_TITLE_GST_AI_EMPLOY´subid_hash_†•text_ºEnlisting a Backup CharacterÅßcolumn_É®id_hash_ºTU_WIN_BODY_GST_AI_EMPLOY_00´subid_hash_†•text_ŸØYou can enlist another player's character to fill the fourth
+slot of your party when undertaking quests. However, they
+won't embark on the quest if the online session is full.Åßcolumn_É®id_hash_µTU_WIN_TITLE_LS_BLACK´subid_hash_†•text_∞Dark Wee PincersÅßcolumn_É®id_hash_æTU_WIN_BODY_LITTLESNIPPER_B_00´subid_hash_†•text_ŸíThis variant of the wee pincer is said to inhabit some of
+the oddest nooks in Zegagrande. There may be someone out
+there who seeks these critters.Åßcolumn_É®id_hash_≥TU_WIN_TITLE_SKL_BD´subid_hash_†•text_≠Master TraitsÅßcolumn_É®id_hash_µTU_WIN_BODY_SKL_BD_00´subid_hash_†•text_ŸzMaster traits are now available. Spend MSP to raise a
+character's master level and bring them to greater heights
+of power.Åßcolumn_É®id_hash_∫TU_WIN_TITLE_SKL_BD_GET_LV´subid_hash_†•text_ØStyle Rank PerkÅßcolumn_É®id_hash_πTU_WIN_TITLE_LS_BLACK_BOY´subid_hash_†•text_∏Tom, Crabmander-in-ChiefÅßcolumn_É®id_hash_ªTU_WIN_BODY_LS_BLACK_BOY_00´subid_hash_†•text_ŸThis boy rescues dark wee pincers. Should you somehow
+manage to discover a well-hidden crustacean, he'd be happy
+to take it in.Åßcolumn_É®id_hash_¥TU_WIN_TITLE_EX_GENE´subid_hash_†•text_∑Chaos-Difficulty SigilsÅßcolumn_É®id_hash_∂TU_WIN_BODY_EX_GENE_00´subid_hash_†•text_Ÿ†Never-before-seen sigils may appear in Fatebreaker-grade
+quests. If you do happen to acquire these potent sigils,
+they'll surely help boost your combat prowess.Åßcolumn_É®id_hash_∑TU_WIN_TITLE_HIGHTICKET´subid_hash_†•text_¥Transmarvel VouchersÅßcolumn_É®id_hash_πTU_WIN_BODY_HIGHTICKET_00´subid_hash_†•text_ŸõTransmarvel vouchers are obtainable as rewards instead of 
+leveling up after reaching level 100. Each voucher can be 
+exchanged to perform one transmarvel.Åßcolumn_É®id_hash_ºTU_WIN_BODY_LVBONUS_CHAOS_00´subid_hash_†•text_Ÿ∞Characters still earn experience after reaching level 100.
+Every time they stockpile enough experience, you'll receive
+bonus MSP, Knickknack vouchers, and transmarvel vouchers.Åßcolumn_É®id_hash_πTU_WIN_TITLE_SKL_BD_BREAK´subid_hash_†•text_¨Master BreakÅßcolumn_É®id_hash_ªTU_WIN_BODY_SKL_BD_BREAK_00´subid_hash_†•text_Ÿ÷Reaching the highest master level doesn't mean more power can't 
+be obtained. From now on, each time enough MSP is consumed to 
+"break" master level 50, more Mastery nodes for that character will 
+become available.Åßcolumn_É®id_hash_∂TU_WIN_TITLE_KKTN_BASE´subid_hash_†•text_´The ConfluxÅßcolumn_É®id_hash_∏TU_WIN_BODY_KKTN_BASE_00´subid_hash_†•text_Ÿ‘The shimmering gate that appeared in Tredame Sanctum seems
+to delve deeper than the one in Seedhollow and should be
+rich in valuable loot. Speak to the Mellose acolyte by any
+quest counter to be taken to Tredame.Åßcolumn_É®id_hash_∑TU_WIN_TITLE_KKTN_LOBBY´subid_hash_†•text_ØConflux SurveysÅßcolumn_É®id_hash_πTU_WIN_BODY_KKTN_LOBBY_00´subid_hash_†•text_Ÿ®While the Mellose clan continue their investigation of the
+Conflux, you're free to conduct your own surveys. Be sure to
+consult with Historiath for helpful party buffs.Åßcolumn_É®id_hash_∂TU_WIN_TITLE_KKTN_TREE´subid_hash_†•text_©ResonanceÅßcolumn_É®id_hash_∏TU_WIN_BODY_KKTN_TREE_00´subid_hash_†•text_ŸåUnlocking Resonance nodes grants buffs to the entire party
+and requires Resonance points (RP). These buffs only take
+effect in the Conflux. Åßcolumn_É®id_hash_πTU_WIN_TITLE_KKTN_COLLECT´subid_hash_†•text_ØAura CollectionÅßcolumn_É®id_hash_ªTU_WIN_BODY_KKTN_COLLECT_00´subid_hash_†•text_ŸÜThe aura collection catalogs every aura in the Conflux
+you've acquired so far. Collecting auras also unlocks new
+trophies and rewards.Åßcolumn_É®id_hash_∂TU_WIN_TITLE_KKTN_BUFF´subid_hash_†•text_•AurasÅßcolumn_É®id_hash_∏TU_WIN_BODY_KKTN_BUFF_00´subid_hash_†•text_Ÿ´Progress through a survey to obtain auras, which provide
+various effects. These effects will only activate during
+surveys. Auras that are new or unenhanced have the  icon.Åßcolumn_É®id_hash_µTU_WIN_TITLE_KKTN_MOB´subid_hash_†•text_±Dexterity's Way 1Åßcolumn_É®id_hash_∑TU_WIN_BODY_KKTN_MOB_00´subid_hash_†•text_ŸãThink you've got the eyes of a hawk? Then prove it! Watch
+the gesturing man carefully, and then pick him out after the
+trio do the shuffle!Åßcolumn_É®id_hash_∂TU_WIN_TITLE_KKTN_MIRA´subid_hash_†•text_±Dexterity's Way 2Åßcolumn_É®id_hash_∏TU_WIN_BODY_KKTN_MIRA_00´subid_hash_†•text_ŸvGo, go go! Collect as many mirage stones as possible before
+time runs out. The greater the haul, the greater the loot!Åßcolumn_É®id_hash_∂TU_WIN_TITLE_KKTN_SLIM´subid_hash_†•text_±Dexterity's Way 3Åßcolumn_É®id_hash_∏TU_WIN_BODY_KKTN_SLIM_00´subid_hash_†•text_Ÿ`How fast can you chase down the runaway slime? Press 
+when you're close enough to make the grab!Åßcolumn_É®id_hash_µTU_WIN_TITLE_KKTN_SCH´subid_hash_†•text_±Dexterity's Way 4Åßcolumn_É®id_hash_∑TU_WIN_BODY_KKTN_SCH_00´subid_hash_†•text_Ÿ•Memorize the scene carefully! Once you pass through the
+gate, you'll be presented with the same scene‚Äîexcept
+for one change. Spot the difference to pass the trial!Åßcolumn_É®id_hash_µTU_WIN_TITLE_KKTN_ALB´subid_hash_†•text_µStrife's Way: BizarreÅßcolumn_É®id_hash_∑TU_WIN_BODY_KKTN_ALB_00´subid_hash_†•text_ŸîLay the smackdown on the giant Albacore‚Äîbut be quick before
+it shoots off into the abyss. You'll earn rewards based on
+the amount of damage dealt!Åßcolumn_É®id_hash_∂TU_WIN_TITLE_KKTN_REST´subid_hash_†•text_´Limbo's WayÅßcolumn_É®id_hash_∏TU_WIN_BODY_KKTN_REST_00´subid_hash_†•text_ŸâTake a breather in this foe-less area. The Mellose acolyte
+stationed here has auras that can be acquired by spending
+Conflux points (CP).Åßcolumn_É®id_hash_∏TU_WIN_TITLE_KKTN_RESULT´subid_hash_†•text_•BoonsÅßcolumn_É®id_hash_∫TU_WIN_BODY_KKTN_RESULT_00´subid_hash_†•text_ŸgBoons are obtained by defeating bosses. Exchange them for an
+assortment of loot at the end of a survey.Åßcolumn_É®id_hash_ºTU_WIN_TITLE_KKTN_ACTIVEBUFF´subid_hash_†•text_¨Active AurasÅßcolumn_É®id_hash_æTU_WIN_BODY_KKTN_ACTIVEBUFF_00´subid_hash_†•text_ŸîHold  during a survey to view your acquired auras and their
+effects. You can also check them by pressing  on the main
+menu or aura selection screen.Åßcolumn_É®id_hash_µTU_WIN_TITLE_KKTN_LOW´subid_hash_†•text_ØMysterious GateÅßcolumn_É®id_hash_∑TU_WIN_BODY_KKTN_LOW_00´subid_hash_†•text_ŸÔThis shimmering gate found in Seedhollow's back alleys leads
+to a seemingly different dimension. Interestingly, various
+materials for gear enhancement lie within. Speak with one of
+Zathba's henchmen near the docks to reach the back alleys.Åßcolumn_É®id_hash_¥TU_WIN_TITLE_KKTN_RP´subid_hash_†•text_µResonance Points (RP)Åßcolumn_É®id_hash_∂TU_WIN_BODY_KKTN_RP_00´subid_hash_†•text_ŸØResonance points are earned by surveying the Conflux and are
+spent to unlock Resonance nodes, which grant useful buffs to
+the party. Speak with Historiath to access Resonance.Åßcolumn_É®id_hash_µTU_WIN_TITLE_KKTN_SMN´subid_hash_†•text_∂Summons in the ConfluxÅßcolumn_É®id_hash_∑TU_WIN_BODY_KKTN_SMN_00´subid_hash_†•text_ŸgSummons can be called in certain areas of the Conflux.
+Equipped summons can be adjusted in Limbo's Way.Åßcolumn_É®id_hash_∞TU_WIN_TITLE_SMN´subid_hash_†•text_ßSummonsÅßcolumn_É®id_hash_≤TU_WIN_BODY_SMN_00´subid_hash_†•text_Ÿ}You've filled enough of the summons gauge to call a summon.
+Hold  and press  to summon Furycane, then beat back the
+ragnalia!Åßcolumn_É®id_hash_≤TU_WIN_BODY_SMN_01´subid_hash_†•text_Ÿ‹The summons gauge is shared by the entire party and is split
+into three segments. Using a summon consumes segments, and
+each summon has its own cost. Actions such as link attacks
+and Skybound Arts fill the summons gauge.Åßcolumn_É®id_hash_∂TU_WIN_TITLE_SMN_EQUIP´subid_hash_†•text_±Equipping SummonsÅßcolumn_É®id_hash_∏TU_WIN_BODY_SMN_EQUIP_00´subid_hash_†•text_ŸTo use a summon, its summon stone must be equipped.
+Doing so allows you to draw out a facsimile of the power
+the dwells within.Åßcolumn_É®id_hash_¥TU_WIN_TITLE_SMN_WAY´subid_hash_†•text_†Åßcolumn_É®id_hash_∂TU_WIN_BODY_SMN_WAY_00´subid_hash_†•text_†Åßcolumn_É®id_hash_µTU_WIN_TITLE_SKILL_EX´subid_hash_†•text_®EX BurstÅßcolumn_É®id_hash_∑TU_WIN_BODY_SKILL_EX_00´subid_hash_†•text_Ÿ°Bosses in Chaos-difficulty quests are capable of devastating
+special attacks. If you see the telltale flash of purple,
+then it's time to prepare countermeasures!Åßcolumn_É®id_hash_ΩTU_WIN_TITLE_SMN_BIG_STAND_BY´subid_hash_†•text_πChanneling a Primal BurstÅßcolumn_É®id_hash_øTU_WIN_BODY_SMN_BIG_STAND_BY_00´subid_hash_†•text_ŸôUpon entering link time, Lyria becomes ready to channel a
+primal burst. Once she's ready, perform a full burst to
+automatically trigger the primal burst.Åßcolumn_É®id_hash_¥TU_WIN_TITLE_SMN_BIG´subid_hash_†•text_πTriggering a Primal BurstÅßcolumn_É®id_hash_∂TU_WIN_BODY_SMN_BIG_00´subid_hash_†•text_ŸsHave all four party members activate their Skybound Arts
+one after the other to unleash a destructive primal burst!Åßcolumn_É®id_hash_πTU_WIN_TITLE_CHAOS_UNLOCK´subid_hash_†•text_†Åßcolumn_É®id_hash_∏TU_WIN_BODY_CHAOS_UNLOCK´subid_hash_†•text_†Åßcolumn_É®id_hash_∂TU_WIN_TITLE_SMN_QUEST´subid_hash_†•text_≥Summon AvailabilityÅßcolumn_É®id_hash_∏TU_WIN_BODY_SMN_QUEST_00´subid_hash_†•text_ŸwSummons can only be used in quests that allow them, and
+primal bursts are limited to Chaos-difficulty and above
+quests.Åßcolumn_É®id_hash_∫TU_WIN_TITLE_CP_INVITE_BOX´subid_hash_†•text_∞Received InvitesÅßcolumn_É®id_hash_ºTU_WIN_BODY_CP_INVITE_BOX_00´subid_hash_†•text_ŸcInvites from other players are delivered here. You can join
+those sessions directly from this list.Åßcolumn_É®id_hash_µTU_WIN_TITLE_CP_BLOCK´subid_hash_†•text_™Block ListÅßcolumn_É®id_hash_∑TU_WIN_BODY_CP_BLOCK_00´subid_hash_†•text_ŸHFrom this list you can view, unblock, and report players
+you've blocked.Åßcolumn_É®id_hash_ΩTU_WIN_BODY_ACT_PL2600_00_TRI´subid_hash_†•text_Ÿ™One of the Society's strongest primal beast hunters, Beatrix
+is seal weapon Embrasque Sword's contractor. Boasting 3
+types of aptitudes, she's highly adaptable in combat.Åßcolumn_É®id_hash_ΩTU_WIN_BODY_ACT_PL2600_01_TRI´subid_hash_†•text_ŸÊCombine  and  attacks to create various combos. Press or
+hold  to rotate between unique  attack,  defense, and
+ healing buffs. Combo finishers fill her Embrasque gauge.
+Once full, hold  to enter Devour Causality for boosted power.Åßcolumn_É®id_hash_ΩTU_WIN_BODY_ACT_PL2700_00_TRI´subid_hash_†•text_ŸùOne of the Society's top agents, Eustace is seal weapon
+Flamek Thunder's contractor. He utilizes swift maneuvers to
+place himself in prime shooting position.Åßcolumn_É®id_hash_ΩTU_WIN_BODY_ACT_PL2700_01_TRI´subid_hash_†•text_ŸÂTap  to fire normally or hold for a charged shot. He can
+fire up to 5 shots without reloading. To reload, press .
+Landing shots fills his Loaded gauge. Once full, press  to
+load the gun with heavy ammo, which increases firepower.Åßcolumn_É®id_hash_πTU_WIN_TITLE_INVITEPLAYER´subid_hash_†•text_ŸD–ü—Ä–∏–≥–ª–∞—à–µ–Ω–∏–µ –∏–≥—Ä–æ–∫–æ–≤ –Ω–∞ –æ–Ω–ª–∞–π–Ω-–≥—Ä—É–ø–ø—ÉÅßcolumn_É®id_hash_ªTU_WIN_BODY_INVITEPLAYER_00´subid_hash_†•text_ŸÍ–í—ã –º–æ–∂–µ—Ç–µ –ø—Ä–∏–≥–ª–∞—Å–∏—Ç—å –¥—Ä—É–∑–µ–π, –∏–≥—Ä–æ–∫–æ–≤, –Ω–µ–¥–∞–≤–Ω–æ –ø–æ—è–≤–∏–≤—à–∏—Ö—Å—è –Ω–µ –≤
+ —Å–µ—Ç–∏, –∏ –∏–≥—Ä–æ–∫–æ–≤, –Ω–∞ –∫–æ—Ç–æ—Ä—ã—Ö –≤—ã –ø–æ–¥–ø–∏—Å–∞–Ω—ã, –≤ —Å–æ–∑–¥–∞–Ω–Ω—ã–π –≤–∞–º–∏ —Å–µ–∞–Ω—Å
+ .Åßcolumn_É®id_hash_∫TU_WIN_TITLE_QUICKMATCHING´subid_hash_†•text_Ÿ*–ë—ã—Å—Ç—Ä—ã–π –ø–æ–¥–±–æ—Ä –∏–≥—Ä–æ–∫–æ–≤Åßcolumn_É®id_hash_ºTU_WIN_BODY_QUICKMATCHING_00´subid_hash_†•text_Ÿ—–≠—Ç–æ –ø–æ–∑–≤–æ–ª–∏—Ç –≤–∞–º –Ω–∞—Å—Ç—Ä–æ–∏—Ç—å –æ–Ω–ª–∞–π–Ω-—Å–µ—Å—Å–∏—é. –í—ã —Å–º–æ–∂–µ—Ç–µ –≤—ã–ø–æ–ª–Ω—è—Ç—å
+ –¥–æ–ø–æ–ª–Ω–∏—Ç–µ–ª—å–Ω—ã–µ –∑–∞–¥–∞–Ω–∏—è –≤–º–µ—Å—Ç–µ —Å –¥—Ä—É–≥–∏–º–∏ –∏–≥—Ä–æ–∫–∞–º–∏.Åßcolumn_É®id_hash_ªTU_WIN_TITLE_ACT_PL0000_FES´subid_hash_†•text_∞Controlling GranÅßcolumn_É®id_hash_ΩTU_WIN_BODY_ACT_PL0000_01_FES´subid_hash_†•text_ŸàCombineandto perform various combos.
+Chargeby holding it down. Drastically shorten
+charge times by holding it immediately after a combo.Åßcolumn_É®id_hash_ΩTU_WIN_BODY_ACT_PL0000_02_FES´subid_hash_†•text_ŸóSuccessfully complete combos to raise Gran's Arts Level.
+Each of his skills is enhanced at higher Arts Levels,
+so aim to master powerful combo strings!Åßcolumn_É®id_hash_ΩTU_WIN_BODY_ACT_PL0000_01_TRI´subid_hash_†•text_ŸàCombineandto perform various combos.
+Chargeby holding it down. Drastically shorten
+charge times by holding it immediately after a combo.Åßcolumn_É®id_hash_ªTU_WIN_TITLE_ACT_PL0200_FES´subid_hash_†•text_¥Controlling KatalinaÅßcolumn_É®id_hash_ΩTU_WIN_BODY_ACT_PL0200_01_FES´subid_hash_†•text_ŸsPerform various combos by combining
+and. Repeatedly pressing
+will result in combos which hit all surrounding foes. Åßcolumn_É®id_hash_ΩTU_WIN_BODY_ACT_PL0200_02_FES´subid_hash_†•text_Ÿ~Completing combos will fill Katalina's Ares Gauge.
+When maxed, Ares will bolster Katalina's attacks,
+skills, and Skybound Art.Åßcolumn_É®id_hash_ΩTU_WIN_BODY_ACT_PL0200_01_TRI´subid_hash_†•text_ŸçPerform combos by combining
+and. Completing combos
+will fill Katalina's Ares Gauge. When maxed,
+Ares will greatly bolster Katalina's attacks.Åßcolumn_É®id_hash_ªTU_WIN_TITLE_ACT_PL0300_FES´subid_hash_†•text_≤Controlling RackamÅßcolumn_É®id_hash_ΩTU_WIN_BODY_ACT_PL0300_01_FES´subid_hash_†•text_ŸíPressfor a long-range attack, or hold it
+for three rapid-fire shots. Pressfor
+a close-range AOE attack, or charge it for
+enhanced power and range.Åßcolumn_É®id_hash_ΩTU_WIN_BODY_ACT_PL0300_02_FES´subid_hash_†•text_ŸòFill Rackam's Heat Gauge by usingattacks
+or skills. As the gauge fills,attacks will
+become stronger, while charge times for
+attacks will become shorter.Åßcolumn_É®id_hash_ΩTU_WIN_BODY_ACT_PL0300_01_TRI´subid_hash_†•text_ŸíPressfor a long-range attack, or hold it
+for three rapid-fire shots. Pressfor
+a close-range AOE attack, or charge it for
+enhanced power and range.Åßcolumn_É®id_hash_ªTU_WIN_TITLE_ACT_PL0400_FES´subid_hash_†•text_ÆControlling IoÅßcolumn_É®id_hash_ΩTU_WIN_BODY_ACT_PL0400_01_FES´subid_hash_†•text_Ÿ◊Pressto fire magic at a single target, or press
+for an area of effect blast. Hold either button to charge
+these attacks for more powerful variants. Io gains a stack
+of Mystic Vortex after performing a fully charged.Åßcolumn_É®id_hash_ΩTU_WIN_BODY_ACT_PL0400_02_FES´subid_hash_†•text_ŸöFor every stack of Mystic Vortex, Io may chargeto a
+more powerful level. Unleash a chargedand
+then immediately begin chargingto reduce
+the charge time of.Åßcolumn_É®id_hash_ΩTU_WIN_BODY_ACT_PL0400_01_TRI´subid_hash_†•text_⁄$Pressto fire magic at a single target, or pressfor an
+area of effect blast. Hold either button to charge these attacks
+for more powerful variants. Io gains a stack of Mystic Vortex after
+attacking with a fully charged. For every stack of 
+Mystic Vortex, Io may chargeto a more powerful level.Åßcolumn_É®id_hash_ªTU_WIN_TITLE_ACT_PL0800_FES´subid_hash_†•text_¥Controlling LancelotÅßcolumn_É®id_hash_ΩTU_WIN_BODY_ACT_PL0800_01_FES´subid_hash_†•text_ŸÄRepeatedly pressto launch a chain of attacks
+on nearby enemies. Pressingduring this time
+will perform a powerful combo finisher!Åßcolumn_É®id_hash_ΩTU_WIN_BODY_ACT_PL0800_02_FES´subid_hash_†•text_ŸüCombinewithto perform an attack
+while moving. This attack can also be used to dodge.
+Stick close to the foe and overwhelm them
+with a rush of powerful attacks.Åßcolumn_É®id_hash_ΩTU_WIN_BODY_ACT_PL0800_01_TRI´subid_hash_†•text_ŸØRepeatedly pressto launch a chain of high-speed attacks.
+Combinewithto perform an attack while moving.
+Pressingwhile performing a chain withempowers
+Lancelot's combo finisher.Åßcolumn_É®id_hash_ªTU_WIN_TITLE_ACT_PL1100_FES´subid_hash_†•text_µControlling SiegfriedÅßcolumn_É®id_hash_ΩTU_WIN_BODY_ACT_PL1100_01_FES´subid_hash_†•text_ŸêPerform a combo by pressingrepeatedly.
+Time these attacks carefully to turn Siegfried's sword
+slashes red and increase the damage of his combos.Åßcolumn_É®id_hash_ΩTU_WIN_BODY_ACT_PL1100_02_FES´subid_hash_†•text_ŸlAfter performing a red slash combo 5 times,
+land a well-timedattack to unleash
+an extremely powerful slash. Åßcolumn_É®id_hash_ΩTU_WIN_BODY_ACT_PL1100_03_FES´subid_hash_†•text_ŸnPressto leap toward foes and carry out
+a powerful slash attack. It's possible to link
+this attack into acombo.Åßcolumn_É®id_hash_ΩTU_WIN_BODY_ACT_PL1100_01_TRI´subid_hash_†•text_ŸÎCarefully time to empower Siegfried's attacks.
+Successfully time all attacks in the combo to unleash
+a powerful finisher. Pressto leap toward foes
+and carry out a powerful slash attack.
+It's possible to connect this attack into acombo.Åßcolumn_É®id_hash_ªTU_WIN_TITLE_ACT_PL1200_FES´subid_hash_†•text_µControlling CharlottaÅßcolumn_É®id_hash_ΩTU_WIN_BODY_ACT_PL1200_01_FES´subid_hash_†•text_ŸgRepeatedly pressto perform a barrage of attacks.
+Pressduring this combo to perform a powerful finisher.Åßcolumn_É®id_hash_ΩTU_WIN_BODY_ACT_PL1200_02_FES´subid_hash_†•text_Ÿ©Pressto evade enemy attacks by leaping into
+the air, then unleash a powerful slash. While leaping,
+pressorto change Charlotta's
+attack pattern for the situation at hand.Åßcolumn_É®id_hash_ΩTU_WIN_BODY_ACT_PL1200_01_TRI´subid_hash_†•text_Ÿ˙Repeatedly pressto perform a swift barrage of attacks. 
+Pressto evade enemy attacks by leaping into
+the air, then unleash a powerful slash. While leaping,
+pressorto change Charlotta's attack pattern.
+Pressduring acombo to perform a powerful finisher.Åßcolumn_É®id_hash_ªTU_WIN_TITLE_ACT_PL1300_FES´subid_hash_†•text_≥Controlling YodarhaÅßcolumn_É®id_hash_ΩTU_WIN_BODY_ACT_PL1300_01_FES´subid_hash_†•text_Ÿ≈Perform a  attack after a  attack combo to
+unleash a special technique. The combo can be continued by
+connecting this move with another  attack. The more
+you connect, the faster the attack becomes!Åßcolumn_É®id_hash_ΩTU_WIN_BODY_ACT_PL1300_02_FES´subid_hash_†•text_Ÿ«When you perform a combo from a  attack to a
+ attack, your blade will be granted Triple Shrouded
+that will enhance the next skill you use.
+Triple Shrouded is automatically consumed when using skills.Åßcolumn_É®id_hash_ªTU_WIN_TITLE_ACT_PL1400_FES´subid_hash_†•text_≥Controlling NarmayaÅßcolumn_É®id_hash_ΩTU_WIN_BODY_ACT_PL1400_01_FES´subid_hash_†•text_Ÿ‚Use  to switch between Freeflutter and Dawnfly stances.
+Her Freeflutter stance allows you to perform a quick combo
+with the  button, while the Dawnfly stance allows
+you to wipe out enemies in a wide area with a charged attack.Åßcolumn_É®id_hash_ΩTU_WIN_BODY_ACT_PL1400_02_FES´subid_hash_†•text_ŸΩBy timing a  attack correctly after a Dawnfly charged
+attack or Freeflutter combo, a unique attack will be unleashed,
+decreasing the charge time and number of combos needed for
+each stance.Åßcolumn_É®id_hash_ΩTU_WIN_BODY_ACT_PL1400_03_FES´subid_hash_†•text_ŸƒWhen you perform a powerful finisher, your blade will be 
+granted the Freeflutter status that will enhance the next skill 
+you use. Freeflutter status is automatically consumed when 
+using skills.

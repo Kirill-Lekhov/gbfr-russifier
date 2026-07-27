@@ -1,1 +1,1 @@
-£Tag¥tags_
+£Tag¥tags_”§Elementƒ£id_µTXT_CGID_DLG_BDY_LINK¦subid_ §colors_‘§Element„¦color_Îúúðÿ¥type_Îá>l»¦start__¤end_Ì¨§Elementƒ£id_¸TXT_CGID_DLG_BDY_CONFIRM¦subid_ §colors_‘§Element„¦color_Îúúðÿ¥type_Îá>l»¦start_4¤end_ÌŠ§Elementƒ£id_·TXT_CGID_DLG_BDY_RELINK¦subid_ §colors_‘§Element„¦color_Îúúðÿ¥type_Îá>l»¦start_Ì”¤end_ÌÔ§Elementƒ£id_·TXT_CGID_DLG_BDY_CANCEL¦subid_ §colors_‘§Element„¦color_Îúúðÿ¥type_Îá>l»¦start_l¤end_Ìµ

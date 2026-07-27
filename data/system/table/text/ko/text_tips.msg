@@ -1,4 +1,4 @@
-��rows_����column_��id_hash_�TXT_TIPS_TITLE_BTL_MOVE�subid_hash_��text_�Рывок��column_��id_hash_�TXT_TIPS_BODY_BTL_MOVE�subid_hash_��text_��Нажмите во время перехода к рывку.
+��rows_���column_��id_hash_�TXT_TIPS_TITLE_BTL_MOVE�subid_hash_��text_�Рывок��column_��id_hash_�TXT_TIPS_BODY_BTL_MOVE�subid_hash_��text_��Нажмите во время перехода к рывку.
 
 Если включен автоматический рывок, вы автоматически
 совершите рывок после
@@ -12,23 +12,12 @@
 
 Нажмите, находясь в воздухе, чтобы выполнить атаку, нацеленную
 на противников на земле. Для некоторых персонажей атака одинакова
-независимо от того, где она выполняется.��column_��id_hash_�TXT_TIPS_TITLE_BTL_SPATK�subid_hash_��text_�Атаки��column_��id_hash_�TXT_TIPS_BODY_BTL_SPATK�subid_hash_��text_�-У каждого персонажа есть уникальная атака, выполняемая нажатием кнопки
-. Ознакомьтесь со списком команд персонажей в
-Журнале Лурии, чтобы узнать, как они сражаются.��column_��id_hash_�TXT_TIPS_TITLE_BTL_AERIALSPATK�subid_hash_��text_�Атаки (Воздушные)��column_��id_hash_�TXT_TIPS_BODY_BTL_AERIALSPATK�subid_hash_��text_�Нажмите, находясь в воздухе, чтобы пикировать и атаковать противников на земле.
-Некоторые персонажи будут атаковать, оставаясь в воздухе
-Вместо этого.��column_��id_hash_�TXT_TIPS_TITLE_BTL_UPPER�subid_hash_��text_�Запуск��column_��id_hash_�TXT_TIPS_BODY_BTL_UPPER�subid_hash_��text_�jНажмите во время прыжка, чтобы подбросить противника в воздух. Противники
+независимо от того, где она выполняется.��column_��id_hash_�TXT_TIPS_TITLE_BTL_UPPER�subid_hash_��text_�Запуск��column_��id_hash_�TXT_TIPS_BODY_BTL_UPPER�subid_hash_��text_�jНажмите во время прыжка, чтобы подбросить противника в воздух. Противники
 беззащитны во время запуска, что делает его идеальным способом
-нанести серьезный урон! Запуск разблокируется в мастерстве.��column_��id_hash_�TXT_TIPS_TITLE_BTL_CHARGEATK�subid_hash_��text_�Заряженные атаки��column_��id_hash_�TXT_TIPS_BODY_BTL_CHARGEATK�subid_hash_��text_�%Некоторые персонажи могут заряжать свои атаки, удерживая
-нажатой кнопку атаки. Проверьте список команд персонажа, чтобы
-узнать, за какие атаки взимается плата.��column_��id_hash_�TXT_TIPS_TITLE_BTL_JUSTATTACK�subid_hash_��text_�Идеальные удары��column_��id_hash_�TXT_TIPS_BODY_BTL_JUSTATTACK�subid_hash_��text_�yНекоторые персонажи могут выполнять улучшенные версии своих атак путем своевременного нажатия кнопок. Просмотрите список команд
-персонажа, чтобы узнать, могут ли они выполнить какие-либо
-идеальные удары.��column_��id_hash_�TXT_TIPS_TITLE_BTL_CHARGEPARRY�subid_hash_��text_�+Заряженное парирование��column_��id_hash_�TXT_TIPS_BODY_BTL_CHARGEPARRY�subid_hash_��text_�wЗаряженное парирование можно разблокировать с помощью мастерства.
-Ударьте противника заряженной атакой прямо перед тем, как вы получите урон,
-чтобы свести на нет его атаку и контратаку своей собственной.��column_��id_hash_�TXT_TIPS_TITLE_BTL_LOCKON�subid_hash_��text_�LВременная блокировка и переключение цели��column_��id_hash_�TXT_TIPS_BODY_BTL_LOCKON�subid_hash_��text_�XВместо нажатия для включения блокировки вы можете удерживать
+нанести серьезный урон! Запуск разблокируется в мастерстве.��column_��id_hash_�TXT_TIPS_TITLE_BTL_LOCKON�subid_hash_��text_�LВременная блокировка и переключение цели��column_��id_hash_�TXT_TIPS_BODY_BTL_LOCKON�subid_hash_��text_�XВместо нажатия для включения блокировки вы можете удерживать
 фиксацию противника до тех пор, пока не отпустите .
 
-Чтобы переключить цель во время фиксации, наклоните или дважды коснитесь .��column_��id_hash_�TXT_TIPS_BODY_BTL_LOCKON_load�subid_hash_��text_��Нажмите, чтобы зафиксироваться на противнике и сосредоточить камеру на
-цели. Наклоните, чтобы переключать цели во время захвата.��column_��id_hash_�TXT_TIPS_TITLE_BTL_ABILITY�subid_hash_��text_�?Приобретение и назначение навыков��column_��id_hash_�TXT_TIPS_BODY_BTL_ABILITY�subid_hash_��text_�>Навыки можно просмотреть и назначить на экране "Навыки",
+Чтобы переключить цель во время фиксации, наклоните или дважды коснитесь .��column_��id_hash_�TXT_TIPS_TITLE_BTL_ABILITY�subid_hash_��text_�?Приобретение и назначение навыков��column_��id_hash_�TXT_TIPS_BODY_BTL_ABILITY�subid_hash_��text_�>Навыки можно просмотреть и назначить на экране "Навыки",
 одновременно персонажу можно
 назначить до четырех навыков. Проверьте мастерство, чтобы разблокировать новые навыки.��column_��id_hash_�TXT_TIPS_TITLE_BTL_ABILITYICON�subid_hash_��text_�Иконки навыков��column_��id_hash_�TXT_TIPS_BODY_BTL_ABILITYICON�subid_hash_��text_�<Значки навыков - это визуальные индикаторы доступности навыка и элемента. Умения с затемненными значками находятся на перезарядке и
 не могут быть использованы. Некоторые навыки можно использовать несколько раз подряд, а некоторые можно изменить, удерживая кнопку. Элемент A
@@ -62,16 +51,7 @@ skill обозначается цветом рамки значка.��column_��i
 под полосой здоровья. Как только шкала оглушения заполнится, землю покроет синий круг. Это шанс установить ссылку.
 
 Нажмите, находясь внутри круга, прежде чем он исчезнет, чтобы
-выполнить связующую атаку.��column_��id_hash_�TXT_TIPS_TITLE_BTL_LINKC�subid_hash_��text_�Ссылка Шанс��column_��id_hash_�TXT_TIPS_BODY_BTL_LINKC�subid_hash_��text_�iАтака противника заполняет его шкалу оглушения, которая отображается под его здоровьем. Когда шкала оглушения заполнится, над землей появится синий
-круг. Нажмите внутри
-круга, прежде чем он исчезнет, чтобы выполнить связующую атаку.
-
-Сила оглушения влияет на то, как быстро заполняется шкала оглушения.
-Значок обозначает силу оглушения.��column_��id_hash_�TXT_TIPS_BODY_BTL_LINKC_load�subid_hash_��text_��Шкала оглушения противника заполняется по мере получения урона. Когда его
-шкала оглушения полностью заполнится, у вас появится шанс
-провести атаку по соединению.
-Сила оглушения влияет на то, как быстро заполняется шкала оглушения.
-Значок обозначает силу оглушения.��column_��id_hash_�TXT_TIPS_TITLE_BTL_LINKATK�subid_hash_��text_�DКомбинирование после атак по ссылкам��column_��id_hash_�TXT_TIPS_BODY_BTL_LINKATK�subid_hash_��text_��Даже если вы выполняете связующую атаку в середине комбо,
+выполнить связующую атаку.��column_��id_hash_�TXT_TIPS_TITLE_BTL_LINKATK�subid_hash_��text_�DКомбинирование после атак по ссылкам��column_��id_hash_�TXT_TIPS_BODY_BTL_LINKATK�subid_hash_��text_��Даже если вы выполняете связующую атаку в середине комбо,
 вы можете возобновить комбо, атакуя сразу после атаки по ссылке.��column_��id_hash_�TXT_TIPS_TITLE_BTL_LINKLV�subid_hash_��text_�*Повышение уровня связи��column_��id_hash_�TXT_TIPS_BODY_BTL_LINKLV�subid_hash_��text_�Действия повышающие уровень связи группы: 
 - Совершение связующей атаки 
 - Использование Искусства Небосвода
@@ -81,30 +61,14 @@ skill обозначается цветом рамки значка.��column_��i
 
 Как только уровень связи достигнет 100%, 
 если все члены партии выполнят атаку связи, 
-вы войдете во время связи.��column_��id_hash_�TXT_TIPS_BODY_BTL_LINKLV_load�subid_hash_��text_�Восстановите союзника, используйте синее зелье, 
-нанесите связующую атаку, используйте Искусство 
-Небосвода или вызовите цепной всплеск, чтобы 
-повысить уровень связи. Выполните связующую атаку со 
-всеми членами группы, когда ваш уровень связи равен 
-100%, чтобы активировать время связи.��column_��id_hash_�TXT_TIPS_TITLE_BTL_LINKTIME�subid_hash_��text_�Время ссылки��column_��id_hash_�TXT_TIPS_BODY_BTL_LINKTIME�subid_hash_��text_��Время связи запускается, когда каждый член группы выполняет
-связующую атаку, когда уровень связи равен 100%. Все действия противника
-значительно замедляются, и вы получаете различные полезные
-статусные эффекты. Удары по противникам также продлевают время связи!��column_��id_hash_�TXT_TIPS_TITLE_BTL_ITEM�subid_hash_��text_�DЭффекты восстанавливаемых предметов��column_��id_hash_�TXT_TIPS_BODY_BTL_ITEM�subid_hash_��text_�2Удерживайте соответствующую кнопку, чтобы использовать этот предмет в бою.
+вы войдете во время связи.��column_��id_hash_�TXT_TIPS_TITLE_BTL_ITEM�subid_hash_��text_�DЭффекты восстанавливаемых предметов��column_��id_hash_�TXT_TIPS_BODY_BTL_ITEM�subid_hash_��text_�2Удерживайте соответствующую кнопку, чтобы использовать этот предмет в бою.
 (): Зеленое зелье восстанавливает часть вашего здоровья.
 (): Мега-зелье восстанавливает все ваше здоровье.
 (): Синее зелье восстанавливает часть здоровья всему party.
 (): Зелье возрождения мгновенно спасает вас из критического
-состояния.��column_��id_hash_�TXT_TIPS_TITLE_BTL_RESPAWN�subid_hash_��text_�Падение с карты��column_��id_hash_�TXT_TIPS_BODY_BTL_RESPAWN�subid_hash_��text_�9Если вы упадете с карты или с достаточно большой высоты, вы вернетесь на место до падения. Ваш персонаж потеряет часть здоровья, но не сможет войти в критическое состояние.��column_��id_hash_�TXT_TIPS_TITLE_BTL_CRITICAL�subid_hash_��text_�!Критические удары��column_��id_hash_�TXT_TIPS_BODY_BTL_CRITICAL�subid_hash_��text_��Критические удары наносят больше урона, чем обычно, и всегда наносят
+состояния.��column_��id_hash_�TXT_TIPS_TITLE_BTL_CRITICAL�subid_hash_��text_�!Критические удары��column_��id_hash_�TXT_TIPS_BODY_BTL_CRITICAL�subid_hash_��text_��Критические удары наносят больше урона, чем обычно, и всегда наносят
 полный урон. Значок обозначает скорость критического попадания.��column_��id_hash_�TXT_TIPS_TITLE_BTL_STAN�subid_hash_��text_�Оглушающая сила��column_��id_hash_�TXT_TIPS_BODY_BTL_STAN�subid_hash_��text_�Сила оглушения определяет эффективность персонажа при заполнении шкалы оглушения противника и уничтожении его частей. Значок
-обозначает оглушающую силу.��column_��id_hash_�TXT_TIPS_TITLE_BTL_DAMAGE�subid_hash_��text_�.Примечание о повреждении��column_��id_hash_�TXT_TIPS_BODY_BTL_DAMAGE�subid_hash_��text_�|Атака высшим элементом или критические удары 
-позволяют нанести больше урона, чем обычно. Однако 
-атаки, Искусства Небосвода и умения каждого персонажа 
-имеют ограничение по количеству наносимого урона, 
-называемое пределом урона. Чтобы повысить предел 
-урона персонажа, экипируйте определенные сигилы или 
-откройте определенные узлы мастерства.��column_��id_hash_�TXT_TIPS_TITLE_BTL_DYING�subid_hash_��text_�)Критическое состояние��column_��id_hash_�TXT_TIPS_BODY_BTL_DYING�subid_hash_��text_�+Вы войдете в критическое состояние, когда ваше здоровье упадет до 0.
-Либо подождите, пока вы восстановитесь естественным путем, либо используйте зелье возрождения.��column_��id_hash_�TXT_TIPS_TITLE_BTL_REVIVE�subid_hash_��text_�#Спасение союзников��column_��id_hash_�TXT_TIPS_BODY_BTL_REVIVE�subid_hash_��text_�IНажмите рядом с членом группы, находящимся в критическом состоянии, чтобы ускорить его выздоровление. Если к спасению присоединится больше союзников, они
-выздоровеют еще быстрее!��column_��id_hash_�TXT_TIPS_TITLE_BTL_EMERGENCY�subid_hash_��text_�!Критическая шкала��column_��id_hash_�TXT_TIPS_BODY_BTL_EMERGENCY�subid_hash_��text_�UКритическая шкала истощается всякий раз, когда член группы попадает в критическое состояние. Как только шкала достигнет 0, игра закончится, поэтому следите за тем, чтобы все были здоровы!��column_��id_hash_�TXT_TIPS_TITLE_BTL_WEAKPOINT�subid_hash_��text_�Прочность��column_��id_hash_�TXT_TIPS_BODY_BTL_WEAKPOINT�subid_hash_��text_��Более крупные боссы могут получить различное количество урона в зависимости от того,
+обозначает оглушающую силу.��column_��id_hash_�TXT_TIPS_TITLE_BTL_WEAKPOINT�subid_hash_��text_�Прочность��column_��id_hash_�TXT_TIPS_BODY_BTL_WEAKPOINT�subid_hash_��text_��Более крупные боссы могут получить различное количество урона в зависимости от того,
 где они поражены. Попробуйте нацелиться на другие части его тела,
 если ваши атаки кажутся неэффективными. Критические удары наносят урон
 независимо от того, где они приземляются.��column_��id_hash_�TXT_TIPS_TITLE_BTL_BOSSWEAK�subid_hash_��text_�$Слабые места боссов��column_��id_hash_�TXT_TIPS_BODY_BTL_BOSSWEAK�subid_hash_��text_�DАтака определенных частей крупного босса нанесет им больше урона. Этот урон можно еще больше увеличить, если оснастить снаряжение особенностями, направленными на слабые места.��column_��id_hash_�TXT_TIPS_TITLE_BTL_BREAKPART�subid_hash_��text_�!Разрушаемые части��column_��id_hash_�TXT_TIPS_BODY_BTL_BREAKPART�subid_hash_��text_�cНекоторые предметы или части тела можно разрушить. Уничтожение
@@ -117,11 +81,7 @@ skill обозначается цветом рамки значка.��column_��i
 Они переходят в режим Break, когда полоса достигает 0, оставляя их широко
 открытыми!��column_��id_hash_�TXT_TIPS_BODY_BTL_OD_load�subid_hash_��text_��У боссов есть шкала режимов, которая заполняется, когда они получают урон
 , и переходят в режим Overdrive, когда шкала заполняется. Урон, нанесенный боссам в режиме Overdrive, истощает шкалу. Они вступают в режим Break
-когда полоса достигает 0, оставляя их широко открытыми!��column_��id_hash_�TXT_TIPS_TITLE_BTL_BOSSARTSAURA�subid_hash_��text_�Кровожадность��column_��id_hash_�TXT_TIPS_BODY_BTL_BOSSARTSAURA�subid_hash_��text_��Некоторые боссы могут получить эффект "Кровожадность". 
-В этом состоянии они получают значительно меньший урон 
-и невосприимчивы к различным статусным недугам. Пока 
-"Кровожадность" не пройдет, лучше придерживаться 
-оборонительной стратегии.��column_��id_hash_�TXT_TIPS_TITLE_BTL_DAMAGEDISP�subid_hash_��text_�-Типы и цвета повреждений��column_��id_hash_�TXT_TIPS_BODY_BTL_DAMAGEDISP�subid_hash_��text_��Типы урона идентифицируются по цветам.
+когда полоса достигает 0, оставляя их широко открытыми!��column_��id_hash_�TXT_TIPS_TITLE_BTL_DAMAGEDISP�subid_hash_��text_�-Типы и цвета повреждений��column_��id_hash_�TXT_TIPS_BODY_BTL_DAMAGEDISP�subid_hash_��text_��Типы урона идентифицируются по цветам.
  : Урон, нанесенный противнику.
  : Урон, нанесенный противнику (превосходному элементу).
  : Урон, нанесенный противнику, пока он охраняет.
@@ -131,9 +91,7 @@ skill обозначается цветом рамки значка.��column_��i
 
 Уклонение или падение с ног приведет к тому, что ваш персонаж
 бросит объект.��column_��id_hash_�TXT_TIPS_BODY_BTL_THROW_load�subid_hash_��text_�LНажмите, чтобы подобрать взрывоопасные бочки или предметы, брошенные врагами, а затем нажмите еще раз, чтобы бросить их. Вы можете вручную нацелить
-бросок, если он не привязан к цели.��column_��id_hash_�TXT_TIPS_TITLE_BTL_CALAMITY�subid_hash_��text_�порча��column_��id_hash_�TXT_TIPS_BODY_BTL_CALAMITY�subid_hash_��text_�+ХП теряется со временем��column_��id_hash_�TXT_TIPS_TITLE_BTL_POISON�subid_hash_��text_�Яд��column_��id_hash_�TXT_TIPS_BODY_BTL_POISON�subid_hash_��text_�+ХП теряется со временем��column_��id_hash_�TXT_TIPS_TITLE_BTL_BARN�subid_hash_��text_�Гореть��column_��id_hash_�TXT_TIPS_BODY_BTL_BARN�subid_hash_��text_�+ХП теряется со временем��column_��id_hash_�TXT_TIPS_TITLE_BTL_SWOON�subid_hash_��text_�5Испытывающий головокружение��column_��id_hash_�TXT_TIPS_BODY_BTL_SWOON�subid_hash_��text_�<Действия не могут быть выполнены��column_��id_hash_�TXT_TIPS_TITLE_BTL_FROZEN�subid_hash_��text_�Замораживать��column_��id_hash_�TXT_TIPS_BODY_BTL_FROZEN�subid_hash_��text_�<Действия не могут быть выполнены��column_��id_hash_�TXT_TIPS_TITLE_BTL_FROSTBITE�subid_hash_��text_�Обморожение��column_��id_hash_�TXT_TIPS_BODY_BTL_FROSTBITE�subid_hash_��text_�AСкорость действий и защита снижены.��column_��id_hash_�TXT_TIPS_TITLE_BTL_PARALYZE�subid_hash_��text_�Паралич��column_��id_hash_�TXT_TIPS_BODY_BTL_PARALYZE�subid_hash_��text_�<Действия не могут быть выполнены��column_��id_hash_�TXT_TIPS_TITLE_BTL_ABSORP�subid_hash_��text_�Осушать��column_��id_hash_�TXT_TIPS_BODY_BTL_ABSORP�subid_hash_��text_�KВосстанавливайте ОЗ при нанесении урона.��column_��id_hash_�TXT_TIPS_TITLE_BTL_REGENERATION�subid_hash_��text_�Реген��column_��id_hash_�TXT_TIPS_BODY_BTL_REGENERATION�subid_hash_��text_�=ОЗ восстанавливается со временем��column_��id_hash_�TXT_TIPS_TITLE_BTL_MUTEKI�subid_hash_��text_�Непобедимость��column_��id_hash_�TXT_TIPS_BODY_BTL_MUTEKI�subid_hash_��text_�7Полученный урон аннулируется.��column_��id_hash_�TXT_TIPS_TITLE_BTL_INVALID�subid_hash_��text_�)Ослабление иммунитета��column_��id_hash_�TXT_TIPS_BODY_BTL_INVALID�subid_hash_��text_�@Все статусные недуги аннулируются.��column_��id_hash_�TXT_TIPS_TITLE_BTL_PROVOKE�subid_hash_��text_�Враждебность↑��column_��id_hash_�TXT_TIPS_BODY_BTL_PROVOKE�subid_hash_��text_�GБольше шансов подвергнуться нападению��column_��id_hash_�TXT_TIPS_TITLE_BTL_DEFUP�subid_hash_��text_�ЗАЩ ↑��column_��id_hash_�TXT_TIPS_BODY_BTL_DEFUP�subid_hash_��text_�ЗАЩ увеличен��column_��id_hash_�TXT_TIPS_TITLE_BTL_DAMAGECUT�subid_hash_��text_�УРН-вырез��column_��id_hash_�TXT_TIPS_BODY_BTL_DAMAGECUT�subid_hash_��text_�*Полученный урон снижен��column_��id_hash_�TXT_TIPS_TITLE_BTL_DEADLYAURA�subid_hash_��text_�Кровожадность��column_��id_hash_�TXT_TIPS_BODY_BTL_DEADLYAURA�subid_hash_��text_�PРезкое повышение сопротивления всем атакам��column_��id_hash_�TXT_TIPS_TITLE_BTL_ADVERSITY�subid_hash_��text_�Застрял��column_��id_hash_�TXT_TIPS_BODY_BTL_ADVERSITY�subid_hash_��text_�xАТК увеличивается в зависимости от того, насколько низко у вас ОЗ.��column_��id_hash_�TXT_TIPS_TITLE_BTL_SUPERID�subid_hash_��text_�Божественная мощ��column_��id_hash_�TXT_TIPS_BODY_BTL_SUPERID�subid_hash_��text_�jБоевые способности значительно повышаются силой дракона.��column_��id_hash_�TXT_TIPS_TITLE_BTL_CONCENTRATE�subid_hash_��text_�Сосредоточенный��column_��id_hash_�TXT_TIPS_BODY_BTL_CONCENTRATE�subid_hash_��text_�<Скорость зарядки Stargaze увеличена.��column_��id_hash_�TXT_TIPS_TITLE_BTL_GUTS�subid_hash_��text_�Кишки��column_��id_hash_�TXT_TIPS_BODY_BTL_GUTS�subid_hash_��text_�DВыжить смертельный урон, оставив 1 ОЗ.��column_��id_hash_�TXT_TIPS_TITLE_BTL_SUBSTITUTE�subid_hash_��text_�Заменять��column_��id_hash_�TXT_TIPS_BODY_BTL_SUBSTITUTE�subid_hash_��text_�7Получает урон вместо союзника��column_��id_hash_�TXT_TIPS_TITLE_BTL_SAFETY�subid_hash_��text_�Покрытый��column_��id_hash_�TXT_TIPS_BODY_BTL_SAFETY�subid_hash_��text_�!Защищен союзником��column_��id_hash_�TXT_TIPS_TITLE_BTL_NOFLINCH�subid_hash_��text_�Крепкое сердце��column_��id_hash_�TXT_TIPS_BODY_BTL_NOFLINCH�subid_hash_��text_�ZПолучение урона не прерывает действия персонажа.��column_��id_hash_�TXT_TIPS_TITLE_BTL_ALTAFLAME�subid_hash_��text_�Темное Пламя��column_��id_hash_�TXT_TIPS_BODY_BTL_ALTAFLAME�subid_hash_��text_�oСледующее применение Темного Пламени вызовет большой взрыв.��column_��id_hash_�TXT_TIPS_TITLE_BTL_WATERPRISON�subid_hash_��text_�Содержится под��column_��id_hash_�TXT_TIPS_BODY_BTL_WATERPRISON�subid_hash_��text_�<Действия не могут быть выполнены��column_��id_hash_�TXT_TIPS_TITLE_BTL_IRONMAIDEN�subid_hash_��text_�Железная Дева��column_��id_hash_�TXT_TIPS_BODY_BTL_IRONMAIDEN�subid_hash_��text_�;атаки заставляют розы атаковать��column_��id_hash_�TXT_TIPS_TITLE_BTL_STRENGTH�subid_hash_��text_�Сила��column_��id_hash_�TXT_TIPS_BODY_BTL_STRENGTH�subid_hash_��text_�_АТК увеличивается в зависимости от уровня здоровья.��column_��id_hash_�TXT_TIPS_TITLE_BTL_ABILITYSEAL�subid_hash_��text_�Навык запечатан��column_��id_hash_�TXT_TIPS_BODY_BTL_ABILITYSEAL�subid_hash_��text_�3Не могу использовать навыки��column_��id_hash_�TXT_TIPS_TITLE_BTL_OUGISEAL�subid_hash_��text_�ИНА запечатанный��column_��id_hash_�TXT_TIPS_BODY_BTL_OUGISEAL�subid_hash_��text_�-Не могу использовать ИНА��column_��id_hash_�TXT_TIPS_TITLE_BTL_ILLUSUION�subid_hash_��text_�+Зеркальное изображение��column_��id_hash_�TXT_TIPS_BODY_BTL_ILLUSUION�subid_hash_��text_�`Урон обнуляется для заданного количества попаданий.��column_��id_hash_�TXT_TIPS_TITLE_BTL_FEAR�subid_hash_��text_�Окаменелый��column_��id_hash_�TXT_TIPS_BODY_BTL_FEAR�subid_hash_��text_�AСкорость действий и защита снижены.��column_��id_hash_�TXT_TIPS_TITLE_BTL_DRAGONICID�subid_hash_��text_�Форма дракона��column_��id_hash_�TXT_TIPS_BODY_BTL_DRAGONICID�subid_hash_��text_�UБоевые способности усиливаются силой дракона.��column_��id_hash_�TXT_TIPS_TITLE_BTL_MAGICVORTEX�subid_hash_��text_�!Мистический вихрь��column_��id_hash_�TXT_TIPS_BODY_BTL_MAGICVORTEX�subid_hash_��text_�,Звездный взгляд улучшен��column_��id_hash_�TXT_TIPS_TITLE_BTL_AUTORIVIVAL�subid_hash_��text_�Автовозрождение��column_��id_hash_�TXT_TIPS_BODY_BTL_AUTORIVIVAL�subid_hash_��text_�jАвтоматическое восстановление из критического состояния��column_��id_hash_�TXT_TIPS_TITLE_BTL_SLOW�subid_hash_��text_�Медленный��column_��id_hash_�TXT_TIPS_BODY_BTL_SLOW�subid_hash_��text_�0Скорость действий снижена��column_��id_hash_�TXT_TIPS_TITLE_BTL_DEFDOWN�subid_hash_��text_�ЗАЩ↓��column_��id_hash_�TXT_TIPS_BODY_BTL_DEFDOWN�subid_hash_��text_�ЗАЩ снижен��column_��id_hash_�TXT_TIPS_TITLE_BTL_ATKDOWN�subid_hash_��text_�АТК↓��column_��id_hash_�TXT_TIPS_BODY_BTL_ATKDOWN�subid_hash_��text_�АТК снижен��column_��id_hash_�TXT_TIPS_TITLE_BTL_ATKUP�subid_hash_��text_�АТК↑��column_��id_hash_�TXT_TIPS_BODY_BTL_ATKUP�subid_hash_��text_�АТК усилен��column_��id_hash_�TXT_TIPS_TITLE_BTL_SUPPLEDMG�subid_hash_��text_�#Дополнительный УРН��column_��id_hash_�TXT_TIPS_BODY_BTL_SUPPLEDMG�subid_hash_��text_�NНаносит дополнительный урон при попадании��column_��id_hash_�TXT_TIPS_TITLE_BTL_COVEREDSAND�subid_hash_��text_�Песчаная могила��column_��id_hash_�TXT_TIPS_BODY_BTL_COVEREDSAND�subid_hash_��text_�`Действия ограничены, скорость передвижения снижена.��column_��id_hash_�TXT_TIPS_TITLE_UI_FAVORITES�subid_hash_��text_�Список желаний��column_��id_hash_�TXT_TIPS_BODY_UI_FAVORITES�subid_hash_��text_��Добавляйте предметы в список желаний, чтобы отслеживать, где их можно получить и какие задания предлагают их в качестве награды.��column_��id_hash_�TXT_TIPS_TITLE_UI_PRESET�subid_hash_��text_�;Праздничные наборы и снаряжение��column_��id_hash_�TXT_TIPS_BODY_UI_PRESET�subid_hash_��text_��Сохраняйте групповые формирования, экипированное оружие, Сигилы и навыки в партийные наборы и снаряжение. Это позволяет вам быстро
-переключаться между различными настройками без необходимости каждый раз вносить
-ручные настройки.��column_��id_hash_�TXT_TIPS_TITLE_UI_CHANGEGENDER�subid_hash_��text_�=Изменение внешнего вида капитана��column_��id_hash_�TXT_TIPS_BODY_UI_CHANGEGENDER�subid_hash_��text_�3Выберите "Настроить персонажа" на экране "Сведения о персонаже",
+бросок, если он не привязан к цели.��column_��id_hash_�TXT_TIPS_TITLE_UI_CHANGEGENDER�subid_hash_��text_�=Изменение внешнего вида капитана��column_��id_hash_�TXT_TIPS_BODY_UI_CHANGEGENDER�subid_hash_��text_�3Выберите "Настроить персонажа" на экране "Сведения о персонаже",
 чтобы изменить внешний вид капитана. Внешний вид косметический
  и не влияет на характеристики капитана.��column_��id_hash_�TXT_TIPS_TITLE_MAPICON�subid_hash_��text_�Значки карт��column_��id_hash_�TXT_TIPS_BODY_MAPICON�subid_hash_��text_�Ваш персонаж
  Персонажи других игроков
@@ -143,49 +101,31 @@ skill обозначается цветом рамки значка.��column_��i
  Точка сбора
  Архив
  Пинцет (только во время выбора главы)
- Ограниченная зона��column_��id_hash_�TXT_TIPS_TITLE_CYC_LEVEL�subid_hash_��text_�-Уровень персонажа и опыт��column_��id_hash_�TXT_TIPS_BODY_CYC_LEVEL�subid_hash_��text_�=Персонажи получают уровень, когда набирают достаточно опыта,
+ Ограниченная зона��column_��id_hash_�TXT_TIPS_BODY_MAPICONn�subid_hash_��text_� Your Character
+ Other Players' Characters
+ Foe
+ Boss
+ Treasure Chest
+ Collection Point
+ Archive
+ Restricted Area
+ Wee Pincer (During Chapter Select only)
+ Shrouded Treasure Chest
+ Omen Stone
+ Slime
+ Locked Treasure Chest
+ Locked Treasure Chest (Key obtained)��column_��id_hash_�TXT_TIPS_TITLE_CYC_LEVEL�subid_hash_��text_�-Уровень персонажа и опыт��column_��id_hash_�TXT_TIPS_BODY_CYC_LEVEL�subid_hash_��text_�=Персонажи получают уровень, когда набирают достаточно опыта,
 который дается в награду за выполнение заданий и победу над врагами.
 Повышение уровня повышает здоровье и силу атаки. Как только персонаж
 достигнет 100-го уровня, вы получите ваучеры Knickknack и ОМ
-каждый раз, когда он наберет определенное количество опыта.��column_��id_hash_�TXT_TIPS_TITLE_CYC_WPN�subid_hash_��text_�Оружие��column_��id_hash_�TXT_TIPS_BODY_CYC_WPN�subid_hash_��text_ٲОружие изменяет здоровье и силу атаки. У них также есть особенности, дающие определенные эффекты.��column_��id_hash_�TXT_TIPS_TITLE_CYC_ENHANCE�subid_hash_��text_�1Улучшение оружия и сигилов��column_��id_hash_�TXT_TIPS_BODY_CYC_ENHANCE�subid_hash_��text_�zТратьте сокровища и рупии, чтобы повысить уровень своего оружия и сигилов. Повышение уровня оружия повышает его здоровье и характеристики атаки. Повышение уровня сигила повышает уровень его характеристик.��column_��id_hash_�TXT_TIPS_TITLE_CYC_LIMIT�subid_hash_��text_�Откупорка оружие��column_��id_hash_�TXT_TIPS_BODY_CYC_LIMIT�subid_hash_��text_�>У каждого оружия есть максимальный уровень. 
-Повышение этого уровня называется "Откупорка". 
-Рефиниум - это особый тип сокровищ, необходимый 
-для того, чтобы откупорить оружие��column_��id_hash_�TXT_TIPS_TITLE_CYC_DIFFICULTY�subid_hash_��text_�Сложность��column_��id_hash_�TXT_TIPS_BODY_CYC_DIFFICULTY�subid_hash_��text_��Сложность игры можно изменить в любой момент.
-Режим помощи нельзя включить для определенных уровней сложности.��column_��id_hash_�TXT_TIPS_TITLE_CYC_PWR�subid_hash_��text_�-PWR (номинальная мощность)��column_��id_hash_�TXT_TIPS_BODY_CYC_PWR�subid_hash_��text_�;PWR - это совокупное значение уровня, снаряжения и
-мастерства персонажа. Это представлено значком. Рассматривайте PWR как ориентир при определении вашей готовности к заданию.��column_��id_hash_�TXT_TIPS_TITLE_CYC_BADGE�subid_hash_��text_�Трофеи��column_��id_hash_�TXT_TIPS_BODY_CYC_BADGE�subid_hash_��text_��Трофеи присуждаются за выполнение определенных подвигов и
-могут отображаться в вашем профиле. Некоторые трофеи даже сопровождаются наградами. Загляните в журнал Лурии, чтобы узнать,
-как разблокировать трофей.��column_��id_hash_�TXT_TIPS_TITLE_CYC_LIMITBONUS�subid_hash_��text_�4Расширенные очки мастерства��column_��id_hash_�TXT_TIPS_BODY_CYC_LIMITBONUS�subid_hash_��text_�По достижении 80-го уровня персонаж может получать 
-Расширенные очки мастерства, используемые для 
-дальнейшего повышения различных статов и навыков.��column_��id_hash_�TXT_TIPS_TITLE_STG_QUESTCOUNTER�subid_hash_��text_�Прилавок заданий��column_��id_hash_�TXT_TIPS_BODY_STG_QUESTCOUNTER�subid_hash_��text_�:Отправляйтесь к Прилавку заданий, чтобы выполнить различные задания и
-просмотреть Эпизоды судьбы. Вы также можете выйти в Интернет и выполнить задание с другими игроками.��column_��id_hash_�TXT_TIPS_TITLE_STG_CHAPERSELECT�subid_hash_��text_�Выбор главы��column_��id_hash_�TXT_TIPS_BODY_STG_CHAPERSELECT�subid_hash_��text_�BПереиграйте свои любимые части истории и соберите предметы,
-которые вы могли пропустить в первый раз. Капитан не обязательно должен быть в вашей группе при переигрывании глав.��column_��id_hash_�TXT_TIPS_TITLE_CYC_ULTIMATE�subid_hash_��text_�+Максимальная сложность��column_��id_hash_�TXT_TIPS_BODY_CYC_ULTIMATE�subid_hash_��text_�JМаксимальная сложность доставляет жаждущим приключений путешественникам невероятные ощущения. Противники получают значительное улучшение, но также и награды за победу над ними.��column_��id_hash_�TXT_TIPS_TITLE_CYC_SHUFFLEQUEST�subid_hash_��text_�Быстрое задание��column_��id_hash_�TXT_TIPS_BODY_CYC_SHUFFLEQUEST�subid_hash_��text_�,Быстрые задания позволяют вам случайным образом присоединиться к заданию, начатому другим игроком. Персонажей можно масштабировать для баланса
-в зависимости от задания.
-Быстрые задания дают значки Далии. Вы можете потратить один билет на золотой значок, чтобы заработать еще один золотой значок Далии.��column_��id_hash_�TXT_TIPS_TITLE_STG_FATEEPISODE�subid_hash_��text_�Эпизоды судьбы��column_��id_hash_�TXT_TIPS_BODY_STG_FATEEPISODE�subid_hash_��text_�Выполните определенные условия, чтобы просмотреть эпизод о судьбе персонажа.
-Узнайте лучше своих товарищей по команде и заработайте награды
-в процессе.��column_��id_hash_�TXT_TIPS_TITLE_STG_FATEQUEST�subid_hash_��text_�*задания эпизода судьбы��column_��id_hash_�TXT_TIPS_BODY_STG_FATEQUEST�subid_hash_��text_�\В некоторых эпизодах судьбы есть задания, которые необходимо выполнить, чтобы продолжить. У этих заданий есть особые требования
-и награды, поэтому будьте готовы, прежде чем приступать к ним.��column_��id_hash_�TXT_TIPS_TITLE_STG_BLACKSMITH�subid_hash_��text_�Кузнец��column_��id_hash_�TXT_TIPS_BODY_STG_BLACKSMITH�subid_hash_��text_�qПосетите кузнеца, чтобы улучшить оружие или продать предметы.��column_��id_hash_�TXT_TIPS_TITLE_CYC_WPNCRAFT�subid_hash_��text_�Ковка оружия��column_��id_hash_�TXT_TIPS_BODY_CYC_WPNCRAFT�subid_hash_��text_�eНовое оружие можно выковать, обменяв
-чемпионские заслуги у кузнеца. Каждое оружие имеет свои характеристики и характеристики, поэтому расширяйте свой арсенал, чтобы получить преимущество в бою.��column_��id_hash_�TXT_TIPS_TITLE_CYC_GEEN�subid_hash_��text_�Сигилы��column_��id_hash_�TXT_TIPS_BODY_CYC_GEEN�subid_hash_��text_ٕУ сигилов есть характерные эффекты, которые становятся сильнее по мере их уровня.��column_��id_hash_�TXT_TIPS_TITLE_CYC_WPNMIRAGE�subid_hash_��text_�%Миражные боеприпасы��column_��id_hash_�TXT_TIPS_BODY_CYC_WPNMIRAGE�subid_hash_��text_�^Миражный боеприпас можно присоединить к оружию, чтобы повысить его атаку и характеристики здоровья. Боеприпасы можно снимать и соединять с другим оружием, так что не бойтесь их использовать.��column_��id_hash_�TXT_TIPS_TITLE_CYC_EXTENDWPN�subid_hash_��text_�!Оружие Вознесения��column_��id_hash_�TXT_TIPS_BODY_CYC_EXTENDWPN�subid_hash_��text_��Определенное оружие, такое как Меч Эос, можно улучшить так, как другое оружие не может быть улучшено. Как только это оружие достигнет
+каждый раз, когда он наберет определенное количество опыта.��column_��id_hash_�TXT_TIPS_TITLE_CYC_PWR�subid_hash_��text_�-PWR (номинальная мощность)��column_��id_hash_�TXT_TIPS_BODY_CYC_PWR�subid_hash_��text_�;PWR - это совокупное значение уровня, снаряжения и
+мастерства персонажа. Это представлено значком. Рассматривайте PWR как ориентир при определении вашей готовности к заданию.��column_��id_hash_�TXT_TIPS_TITLE_CYC_ULTIMATE�subid_hash_��text_�+Максимальная сложность��column_��id_hash_�TXT_TIPS_BODY_CYC_ULTIMATE�subid_hash_��text_�JМаксимальная сложность доставляет жаждущим приключений путешественникам невероятные ощущения. Противники получают значительное улучшение, но также и награды за победу над ними.��column_��id_hash_�TXT_TIPS_TITLE_CYC_EXTENDWPN�subid_hash_��text_�!Оружие Вознесения��column_��id_hash_�TXT_TIPS_BODY_CYC_EXTENDWPN�subid_hash_��text_��Определенное оружие, такое как Меч Эос, можно улучшить так, как другое оружие не может быть улучшено. Как только это оружие достигнет
 максимального уровня, принесите его Сьеро, чтобы узнать, как выжать
 все последнюю каплю силы.��column_��id_hash_�TXT_TIPS_TITLE_CYC_DIVINE�subid_hash_��text_�Райтстоуны��column_��id_hash_�TXT_TIPS_BODY_CYC_DIVINE�subid_hash_��text_�@Камень Райта дает оружию до трех дополнительных характеристик
 при использовании у кузнеца, но как только он используется, он исчезает.
 Эти свойства можно заменить с помощью другого камня Райта.
 Камни Райта можно получить путем трансмутации сиигилов или
-награды за очистку задания чрезвычайной сложности или выше.��column_��id_hash_�TXT_TIPS_TITLE_STG_SIEROKARTE�subid_hash_��text_�6Хижина безделушек Сьерокарте��column_��id_hash_�TXT_TIPS_BODY_STG_SIEROKARTE�subid_hash_��text_�YЭто универсальный магазин для всех ваших приключений!
-Сирокарте не только продает редкие предметы, но и может даже приглашать
-новых членов команды с помощью карточек товарищей по команде.��column_��id_hash_�TXT_TIPS_TITLE_CYC_GEENALCHEMY�subid_hash_��text_�%Трансмутация Сигила��column_��id_hash_�TXT_TIPS_BODY_CYC_GEENALCHEMY�subid_hash_��text_ٳВаучеры на безделушки можно обменять на Сигилы. Обменяйте
-больше ваучеров на более редкие Сигилы.��column_��id_hash_�TXT_TIPS_TITLE_CYC_TRADEDALIA�subid_hash_��text_�&Обмен значками Далии��column_��id_hash_�TXT_TIPS_BODY_CYC_TRADEDALIA�subid_hash_��text_�Значки Далия бывают золотыми и серебряными. Их можно получить за
-выполнение быстрых заданий.
-
-Обменяйте их на ценные предметы в Лачуге безделушек.��column_��id_hash_�TXT_TIPS_TITLE_CYC_CHARARELEASE�subid_hash_��text_�&Набор членов экипажа��column_��id_hash_�TXT_TIPS_BODY_CYC_CHARARELEASE�subid_hash_��text_�Карточки членов экипажа вы будете находить по мере развития сюжета. Не давайте Сьеро ничего, и в вашем
-путешествии к вам присоединится новый персонаж.��column_��id_hash_�TXT_TIPS_TITLE_CYC_TRADEITEM�subid_hash_��text_�'Торговля сокровищами��column_��id_hash_�TXT_TIPS_BODY_CYC_TRADEITEM�subid_hash_��text_�8Обменяйте ненужные вам сокровища на те, которые есть в
-Хижине безделушек. Сделайте поиск сокровищ немного проще,
-добавив предметы, которые вы ищете, в свой список желаний.��column_��id_hash_�TXT_TIPS_TITLE_CYC_SIEROTICKET�subid_hash_��text_�(Ваучеры на безделушки��column_��id_hash_�TXT_TIPS_BODY_CYC_SIEROTICKET�subid_hash_��text_�	Ваучеры на безделушки используются для трансмутации сигилов. Обменяйте
-ненужные сокровища, Сигилы и камни рисования на дополнительные
-ваучеры.��column_��id_hash_�TXT_TIPS_TITLE_STG_APPRAISE�subid_hash_��text_�Оценки Затбы��column_��id_hash_�TXT_TIPS_BODY_STG_APPRAISE�subid_hash_��text_٥Посетите Затбу, чтобы он оценил диковинку. Это хороший
-способ заработать предметы и рупии.��column_��id_hash_�TXT_TIPS_TITLE_STG_RELIC�subid_hash_��text_�диковинки��column_��id_hash_�TXT_TIPS_BODY_STG_RELIC�subid_hash_��text_�Диковинки можно получить, выполнив любое задании 
-класса Ветеран-авиатор или выше. 
-Принесите диковинки Затбе в Сидхоллоу и 
-пожинайте плоды.��column_��id_hash_�TXT_TIPS_TITLE_STG_STATION�subid_hash_��text_�Доки��column_��id_hash_�TXT_TIPS_BODY_STG_STATION�subid_hash_��text_��Вы можете путешествовать по другим городам, садиться на Грандсайфер или возобновлять основную историю с городского дока.��column_��id_hash_�TXT_TIPS_TITLE_CYC_SPELLBOOK�subid_hash_��text_�Книги заклинаний��column_��id_hash_�TXT_TIPS_BODY_CYC_SPELLBOOK�subid_hash_��text_�.Эти книги дают персонажам богатый мгновенный опыт. Существует три типа книг, и каждый из них дает разное количество опыта. Их можно использовать
+награды за очистку задания чрезвычайной сложности или выше.��column_��id_hash_�TXT_TIPS_TITLE_CYC_SPELLBOOK�subid_hash_��text_�Книги заклинаний��column_��id_hash_�TXT_TIPS_BODY_CYC_SPELLBOOK�subid_hash_��text_�.Эти книги дают персонажам богатый мгновенный опыт. Существует три типа книг, и каждый из них дает разное количество опыта. Их можно использовать
 на экране инвентаря.��column_��id_hash_�TXT_TIPS_TITLE_CYC_AMBROSIA�subid_hash_��text_�Амброзия��column_��id_hash_�TXT_TIPS_BODY_CYC_AMBROSIA�subid_hash_��text_�Амброзия - это предмет, дающий ОМ, который в основном можно получить при обмене значков Далии. Амброзию можно съесть,
 выбрав ее на экране инвентаря.��column_��id_hash_�TXT_TIPS_TITLE_CYC_DAMASCUS�subid_hash_��text_�Дамасский слиток��column_��id_hash_�TXT_TIPS_BODY_CYC_DAMASCUS�subid_hash_��text_�sЕсли отдать этот драгоценный металл кузнецу, его можно 
 использовать для того, чтобы откупорить оружие без 
@@ -199,10 +139,7 @@ skill обозначается цветом рамки значка.��column_��i
 земли от приближающихся орд врагов. Подойдите к священной
 земле и нажмите, чтобы коснуться ее. Это сделает противников менее
 враждебными, но вы больше не сможете прикасаться к священной земле
-в течение некоторого времени.��column_��id_hash_�TXT_TIPS_TITLE_STG_FASTTRAVEL�subid_hash_��text_�%Быстрое путешествие��column_��id_hash_�TXT_TIPS_BODY_STG_FASTTRAVEL�subid_hash_��text_��Нажмите, чтобы мгновенно перемещаться между достопримечательностями города, что сэкономит драгоценное время, особенно при перемещении по разросшимся
-Сидхоллоу. Чтобы перелететь в другой город, воспользуйтесь
-доками.��column_��id_hash_�TXT_TIPS_TITLE_STG_DECK�subid_hash_��text_�%Палуба Грандсайфера��column_��id_hash_�TXT_TIPS_BODY_STG_DECK�subid_hash_��text_ٿИспользуйте колесо, чтобы летать в разные города. Вы также можете провести
-тренировку с сэром Барролдом.��column_��id_hash_�TXT_TIPS_TITLE_STG_TRIAL�subid_hash_��text_�5Тренировка с сэром Барролдом��column_��id_hash_�TXT_TIPS_BODY_STG_TRIAL�subid_hash_��text_�~Взаимодействуйте с сэром Барролдом на Грандсайфере, чтобы получить доступ к
+в течение некоторого времени.��column_��id_hash_�TXT_TIPS_TITLE_STG_TRIAL�subid_hash_��text_�5Тренировка с сэром Барролдом��column_��id_hash_�TXT_TIPS_BODY_STG_TRIAL�subid_hash_��text_�~Взаимодействуйте с сэром Барролдом на Грандсайфере, чтобы получить доступ к
 обучению. Практика - отличный способ изучить все тонкости боя членов вашей группы. Кто знает, какие амбициозные
 комбо вы придумаете!��column_��id_hash_�TXT_TIPS_TITLE_STG_BACKCITY�subid_hash_��text_�$Возвращение в город��column_��id_hash_�TXT_TIPS_BODY_STG_BACKCITY�subid_hash_��text_��Выполняя сюжетное задание, вы можете вернуться в город, который
 посещали в последний раз, и сохранить все заработанные предметы и опыт.
@@ -214,27 +151,8 @@ skill обозначается цветом рамки значка.��column_��i
 вернетесь на правильный путь в кратчайшие сроки!��column_��id_hash_�TXT_TIPS_BODY_STG_BACKCITY_load�subid_hash_��text_��Выполняя сюжетное задание, вы можете вернуться в город, который
 посещали в последний раз, и сохранить все заработанные предметы и опыт.
 При возобновлении сюжетного задания вы начнете с последней
-контрольной точки.��column_��id_hash_�TXT_TIPS_TITLE_STG_SAVEPOINT�subid_hash_��text_�Священная земля��column_��id_hash_�TXT_TIPS_BODY_STG_SAVEPOINT�subid_hash_��text_��Прикосновение к Священной Земле полностью восстанавливает здоровье вашей группы
-и восстанавливает ваши восстанавливаемые предметы.
-
-Святая Земля позволяет вам сохранить игру, а также
-воспользоваться услугами кузнеца и Безделушки.��column_��id_hash_�TXT_TIPS_TITLE_STG_CHECKPOINT�subid_hash_��text_�!Повторная попытка��column_��id_hash_�TXT_TIPS_BODY_STG_CHECKPOINT�subid_hash_��text_��Если вы завершили игру, сражаясь с боссом, вы можете
-повторить битву с боссом или перезапустить игру с предыдущей
-контрольной точки.��column_��id_hash_�TXT_TIPS_TITLE_STG_RESTRICTPT�subid_hash_��text_�)Партийные ограничения��column_��id_hash_�TXT_TIPS_BODY_STG_RESTRICTPT�subid_hash_��text_��Некоторые персонажи должны быть в вашей группе во время определенных судеб/эпизодов и частей основной истории. Капитан должен
-всегда находиться в вашей группе на протяжении всего основного сюжета, но его можно
-удалить при переигрывании глав с помощью выбора главы.��column_��id_hash_�TXT_TIPS_TITLE_STG_SIDEQUEST�subid_hash_��text_�Побочные задания��column_��id_hash_�TXT_TIPS_BODY_STG_SIDEQUEST�subid_hash_��text_��Многие люди по всему Небесному Дому Зегагранде нуждаются
-в помощи. Поговорите с ними, чтобы выполнить дополнительные побочные задания и получить ценную добычу. Проверьте меню побочных квестов, чтобы отслеживать
-прогресс всех принятых вами побочных квестов. Вы даже можете
-быстро добраться до клиента задания, если находитесь в том же городе, что и он.��column_��id_hash_�TXT_TIPS_TITLE_STG_SLIME�subid_hash_��text_�Слаймы��column_��id_hash_�TXT_TIPS_BODY_STG_SLIME�subid_hash_��text_�`Эти редкие существа обитают по всему Небесному Царству. Раздавите их, прежде чем они убегут, или попрощайтесь с сокровищницей
-рупий и опыта. Кто знает, что еще они могут хранить в своих горшках?��column_��id_hash_�TXT_TIPS_TITLE_STG_SNIPPER�subid_hash_��text_�Крошечные клешни��column_��id_hash_�TXT_TIPS_BODY_STG_SNIPPER�subid_hash_��text_�Редкие обитатели Зегагранде, эти маленькие ребята предпочитают оставаться скрытыми от глаз. Обменяйте их у коллекционера в
-Фолке на различные награды.��column_��id_hash_�TXT_TIPS_TITLE_STG_GATHERING�subid_hash_��text_�Сбор предметов��column_��id_hash_�TXT_TIPS_BODY_STG_GATHERING�subid_hash_��text_��Никогда не знаешь, какие сокровища могут лежать вокруг и просто
-ожидать, чтобы их нашли. Нажмите, когда встретите что-то
-блестящее.��column_��id_hash_�TXT_TIPS_TITLE_STG_CHEST�subid_hash_��text_�(Сундуки с сокровищами��column_��id_hash_�TXT_TIPS_BODY_STG_CHEST�subid_hash_��text_�"В небе можно найти всевозможные сундуки с сокровищами, наполненные рупиями и добычей. В более изысканных сундуках обычно
-внутри скрываются более ценные вещи.��column_��id_hash_�TXT_TIPS_TITLE_STG_ARCHIVE�subid_hash_��text_�Архивы��column_��id_hash_�TXT_TIPS_BODY_STG_ARCHIVE�subid_hash_��text_�.Узнайте о Zegagrande Skydom, находя заметки и записи, разбросанные по островам. Некоторые из них
-можно найти непросто.
-
-Лурия сохранит ваши открытия в архивах своего
-журнала.��column_��id_hash_�TXT_TIPS_TITLE_STG_QTCATEGORY�subid_hash_��text_�Типы квестов��column_��id_hash_�TXT_TIPS_BODY_STG_QTCATEGORY�subid_hash_��text_�Доступны следующие типы квестов:
+контрольной точки.��column_��id_hash_�TXT_TIPS_TITLE_STG_SLIME�subid_hash_��text_�Слаймы��column_��id_hash_�TXT_TIPS_BODY_STG_SLIME�subid_hash_��text_�`Эти редкие существа обитают по всему Небесному Царству. Раздавите их, прежде чем они убегут, или попрощайтесь с сокровищницей
+рупий и опыта. Кто знает, что еще они могут хранить в своих горшках?��column_��id_hash_�TXT_TIPS_TITLE_STG_QTCATEGORY�subid_hash_��text_�Типы квестов��column_��id_hash_�TXT_TIPS_BODY_STG_QTCATEGORY�subid_hash_��text_�Доступны следующие типы квестов:
 Босс: проверьте свои силы против могущественных боссов.
 Выживание: победите как можно больше врагов за отведенное время.
 Орда: отразите волну за волной врагов.
@@ -292,7 +210,17 @@ Guts: Выживает после смертельного УРН с остат�
 Иммунитет к дебаффам: Все статусные заболевания обнуляются
 Щит: Обнуляет фиксированное количество получаемых УРН
 Бездна славы: ЗАЩ повышается, а все статусные атаки снимаются
-Жажда крови: резкое повышение сопротивления всем атакам��column_��id_hash_�TXT_TIPS_TITLE_STATUS_ETCBUFF�subid_hash_��text_�?Другие полезные статусные эффекты��column_��id_hash_�TXT_TIPS_BODY_STATUS_ETCBUFF�subid_hash_��text_�~Существуют и другие виды полезных статусных эффектов,
+Жажда крови: резкое повышение сопротивления всем атакам��column_��id_hash_�TXT_TIPS_BODY_STATUS_DEFUP2n�subid_hash_��text_��These status effects improve defensive capabilities:
+
+DMG Cut: DMG taken is lowered
+DEF↑: DEF is boosted
+Mirror Image: DMG is nullified for a set number of hits
+Invincibility: DMG taken is nullified
+Guts: Survive lethal DMG with 1 HP left
+Debuff Immunity: All status ailments are nullified
+Shield: Nullifies a fixed amount of DMG taken
+Abyssal Glory: DEF is boosted and all status ailments are nullified
+Bloodthirst: Sharp boost to resistance against all attacks��column_��id_hash_�TXT_TIPS_TITLE_STATUS_ETCBUFF�subid_hash_��text_�?Другие полезные статусные эффекты��column_��id_hash_�TXT_TIPS_BODY_STATUS_ETCBUFF�subid_hash_��text_�~Существуют и другие виды полезных статусных эффектов,
 в том числе некоторые, специфичные для персонажа.
 
 Замена: получает урон вместо союзника.
@@ -323,7 +251,16 @@ ATK↓: ATK снижается
 Arvess Fermare:...
 Получает больше УРН от атак Зеты.
 Max HP?": Максимальное количество HP уменьшено
-Elemental Friction: Полученные УРН будут засчитаны превосходящему элементу��column_��id_hash_�TXT_TIPS_TITLE_STATUS_BIND�subid_hash_��text_�>Ограничительные статусные недуги��column_��id_hash_�TXT_TIPS_BODY_STATUS_BIND�subid_hash_��text_�uЭти статусные недуги препятствуют способности двигаться или действовать:
+Elemental Friction: Полученные УРН будут засчитаны превосходящему элементу��column_��id_hash_�TXT_TIPS_BODY_STATUS_DEBUFF3n�subid_hash_��text_�mThese status ailments modify a target's stats or cause them
+to take more damage:
+
+ATK↓: ATK is lowered
+DEF↓: DEF is lowered
+Arvess Fermare: Takes more DMG from Zeta's attacks
+Max HP↓: Max HP is reduced
+Elemental Friction: DMG received will count as the superior element
+Stackable ATK↓: ATK is lowered (Stackable)
+Stackable DEF↓: DEF is lowered (Stackable)��column_��id_hash_�TXT_TIPS_TITLE_STATUS_BIND�subid_hash_��text_�>Ограничительные статусные недуги��column_��id_hash_�TXT_TIPS_BODY_STATUS_BIND�subid_hash_��text_�uЭти статусные недуги препятствуют способности двигаться или действовать:
 Паралич: действия не могут быть выполнены
 Головокружение: действия не могут быть выполнены
 Обморожение: скорость действий и защита снижены
@@ -344,7 +281,10 @@ Bound: действия не могут быть выполнены��column_��id
 вскоре после активации навыка, поэтому лучше 
 использовать несколько навыков одновременно. 
 Некоторые узлы мастерства даже увеличат промежуток 
-между активацией умения и сбросом уровня Искусства.��column_��id_hash_�TXT_TIPS_TITLE_PL0200_01�subid_hash_��text_�#Освоение Каталины 1��column_��id_hash_�TXT_TIPS_BODY_PL0200_01�subid_hash_��text_�[После вызова Арес будет сражаться вместе с Каталиной,
+между активацией умения и сбросом уровня Искусства.��column_��id_hash_�TXT_TIPS_TITLE_PL0000_03�subid_hash_��text_�Mastering the Captain 3��column_��id_hash_�TXT_TIPS_BODY_PL0000_03�subid_hash_��text_��The captain can dodge even while charging  attacks and
+resume charging right after. In addition, unlocking the
+Adrenaline Rush support skill from Masteries allows further optimization:
+after executing a combo finisher,  attacks can charge even faster.��column_��id_hash_�TXT_TIPS_TITLE_PL0200_01�subid_hash_��text_�#Освоение Каталины 1��column_��id_hash_�TXT_TIPS_BODY_PL0200_01�subid_hash_��text_�[После вызова Арес будет сражаться вместе с Каталиной,
 укрепляя свои навыки, связующими атаками и Искусства Небосвода.
 По прошествии определенного времени Арес
 будет уволен; однако Каталина может продлить
@@ -421,7 +361,7 @@ Bound: действия не могут быть выполнены��column_��id
 
 Когда Ланселот уклоняется с помощью Танца Двойных клинков во время своих быстрых
 sударов, он быстро нажимается сразу после Танца Двойных клинков. ,
-он возобновит свои быстрые удары, не теряя темпа!��column_��id_hash_�TXT_TIPS_TITLE_PL0800_02�subid_hash_��text_���column_��id_hash_�TXT_TIPS_BODY_PL0800_02�subid_hash_��text_���column_��id_hash_�TXT_TIPS_TITLE_PL0900_01�subid_hash_��text_�Освоение Вэйна 1��column_��id_hash_�TXT_TIPS_BODY_PL0900_01�subid_hash_��text_�7Вэйн восстанавливает здоровье в виде части урона, нано-
+он возобновит свои быстрые удары, не теряя темпа!��column_��id_hash_�TXT_TIPS_TITLE_PL0900_01�subid_hash_��text_�Освоение Вэйна 1��column_��id_hash_�TXT_TIPS_BODY_PL0900_01�subid_hash_��text_�7Вэйн восстанавливает здоровье в виде части урона, нано-
 симого его комбо-добиваниями и комбо.
 Кроме того, когда его атака встречает атаку противника, 
 он блокирует ее и продолжает наносить урон. Его защита 
@@ -439,9 +379,9 @@ sударов, он быстро нажимается сразу после Та
 Изучение "Выброса адреналина" благодаря своим навыкам позволяет ему
 также заряжать атаку быстрее.
 
-Эффективно используйте Шлахта, чтобы взять на себя ответственность. любая ситуация!��column_��id_hash_�TXT_TIPS_TITLE_PL1000_02�subid_hash_��text_���column_��id_hash_�TXT_TIPS_BODY_PL1000_02�subid_hash_��text_���column_��id_hash_�TXT_TIPS_TITLE_PL1100_01�subid_hash_��text_�!Освоение Зигфрида��column_��id_hash_�TXT_TIPS_BODY_PL1100_01�subid_hash_��text_�DЕсли Зигфрид уклоняется или выполняет связующую атаку во время
+Эффективно используйте Шлахта, чтобы взять на себя ответственность. любая ситуация!��column_��id_hash_�TXT_TIPS_TITLE_PL1100_01�subid_hash_��text_�!Освоение Зигфрида��column_��id_hash_�TXT_TIPS_BODY_PL1100_01�subid_hash_��text_�DЕсли Зигфрид уклоняется или выполняет связующую атаку во время
 комбо, он может возобновить комбо, немедленно атакуя
-после этого. Это относится и к идеально рассчитанным атакам.��column_��id_hash_�TXT_TIPS_TITLE_PL1100_02�subid_hash_��text_���column_��id_hash_�TXT_TIPS_BODY_PL1100_02�subid_hash_��text_���column_��id_hash_�TXT_TIPS_TITLE_PL1200_01�subid_hash_��text_�#Освоение Шарлотты 1��column_��id_hash_�TXT_TIPS_BODY_PL1200_01�subid_hash_��text_��Подпрыгнув высоко в воздух во время атаки, Шарлотта
+после этого. Это относится и к идеально рассчитанным атакам.��column_��id_hash_�TXT_TIPS_TITLE_PL1200_01�subid_hash_��text_�#Освоение Шарлотты 1��column_��id_hash_�TXT_TIPS_BODY_PL1200_01�subid_hash_��text_��Подпрыгнув высоко в воздух во время атаки, Шарлотта
 может сократить расстояние между собой и противником с помощью воздушной
 выпадной атаки, нажав , или она может ударить мечом
 прямо вниз, чтобы нанести большой урон, нажав .��column_��id_hash_�TXT_TIPS_TITLE_PL1200_02�subid_hash_��text_�#Освоение Шарлотты 2��column_��id_hash_�TXT_TIPS_BODY_PL1200_02�subid_hash_��text_��Обычно Шарлотте приходится создавать комбо, прежде чем начнутся быстрые удары. Тем не менее, она может комбинировать
@@ -493,7 +433,7 @@ sударов, он быстро нажимается сразу после Та
 урон и оглушение, достигая максимума в третьем цикле.
 
 Кроме того, если атака выполняется сразу после ссылка
-атака, комбо цикла станет полностью активным!��column_��id_hash_�TXT_TIPS_TITLE_PL1600_02�subid_hash_��text_���column_��id_hash_�TXT_TIPS_BODY_PL1600_02�subid_hash_��text_���column_��id_hash_�TXT_TIPS_TITLE_PL1700_01�subid_hash_��text_�!Освоение Васераги��column_��id_hash_�TXT_TIPS_BODY_PL1700_01�subid_hash_��text_�GВыполнение комбо-финишеров и атак по связям заполнит
+атака, комбо цикла станет полностью активным!��column_��id_hash_�TXT_TIPS_TITLE_PL1700_01�subid_hash_��text_�!Освоение Васераги��column_��id_hash_�TXT_TIPS_BODY_PL1700_01�subid_hash_��text_�GВыполнение комбо-финишеров и атак по связям заполнит
 шкалу Гринота Васераги. Кроме того, он может запустить комбо
 финишер, нажав сразу после выполнения связи
 атаки!
@@ -501,7 +441,7 @@ sударов, он быстро нажимается сразу после Та
 Шкала Гринота начинает истощаться, если Васерага
 не нанес
 удар по врагу в течение определенного времени, поэтому постарайтесь пожинать
- враги без паузы!��column_��id_hash_�TXT_TIPS_TITLE_PL1700_02�subid_hash_��text_���column_��id_hash_�TXT_TIPS_BODY_PL1700_02�subid_hash_��text_���column_��id_hash_�TXT_TIPS_TITLE_PL1800_01�subid_hash_��text_�%Освоение Калиостро 1��column_��id_hash_�TXT_TIPS_BODY_PL1800_01�subid_hash_��text_�mАтака Калиостро заряжается намного быстрее, если ее заряжать сразу
+ враги без паузы!��column_��id_hash_�TXT_TIPS_TITLE_PL1800_01�subid_hash_��text_�%Освоение Калиостро 1��column_��id_hash_�TXT_TIPS_BODY_PL1800_01�subid_hash_��text_�mАтака Калиостро заряжается намного быстрее, если ее заряжать сразу
 после выполнения связной атаки или активации навыка, наносящего урон.
 Разблокировка Выброса адреналина из ее мастерства также позволяет ей
  атаке заряжаться быстрее после завершения комбо.
@@ -538,7 +478,7 @@ sударов, он быстро нажимается сразу после Та
 связной атаки или навыка урона, нажав . Но это еще не все! Нажмите сразу после комбо-финишера, чтобы
 нанести шквал ударов.
 
-Пополните этот калибр, чтобы по-настоящему расправить крылья!��column_��id_hash_�TXT_TIPS_TITLE_PL2100_03�subid_hash_��text_���column_��id_hash_�TXT_TIPS_BODY_PL2100_03�subid_hash_��text_���column_��id_hash_�TXT_TIPS_TITLE_PL2200_01�subid_hash_��text_�!Освоение Сеофона 1��column_��id_hash_�TXT_TIPS_BODY_PL2200_01�subid_hash_��text_�-Выполнение комбо-финишей и связующих атак пополняет калибр аватара Сеофона и повышает его уровень Swordshine. Если аватар вызван, комбо-финишеры больше не пополняют калибр аватара,
+Пополните этот калибр, чтобы по-настоящему расправить крылья!��column_��id_hash_�TXT_TIPS_TITLE_PL2200_01�subid_hash_��text_�!Освоение Сеофона 1��column_��id_hash_�TXT_TIPS_BODY_PL2200_01�subid_hash_��text_�-Выполнение комбо-финишей и связующих атак пополняет калибр аватара Сеофона и повышает его уровень Swordshine. Если аватар вызван, комбо-финишеры больше не пополняют калибр аватара,
 b но атаки по ссылкам продолжают пополнять калибр, как обычно.
 
 Поддерживайте аватара энергией, используя много атак по ссылкам!��column_��id_hash_�TXT_TIPS_TITLE_PL2200_02�subid_hash_��text_�!Освоение Сеофона 2��column_��id_hash_�TXT_TIPS_BODY_PL2200_02�subid_hash_��text_��Кнопка позволяет Сеофону призвать или уволить аватара.
@@ -547,10 +487,285 @@ b но атаки по ссылкам продолжают пополнять к
 Вы можете уволить аватара, чтобы сохранить счетчик Avatar.
 Полезная тактика для тех случаев, когда враги невосприимчивы к атакам. Однако при увольнении аватара уровень Swordshine Сеофона всегда будет сброшен.
 
-Взвесьте все за и против, прежде чем принять решение.��column_��id_hash_�TXT_TIPS_TITLE_PL2200_03�subid_hash_��text_���column_��id_hash_�TXT_TIPS_BODY_PL2200_03�subid_hash_��text_���column_��id_hash_�TXT_TIPS_TITLE_PL2300_01�subid_hash_��text_�!Освоение Твайена 1��column_��id_hash_�TXT_TIPS_BODY_PL2300_01�subid_hash_��text_��Смешивайте атаки Твайен, чтобы получить максимальную отдачу от ее
+Взвесьте все за и против, прежде чем принять решение.��column_��id_hash_�TXT_TIPS_TITLE_PL2300_01�subid_hash_��text_�!Освоение Твайена 1��column_��id_hash_�TXT_TIPS_BODY_PL2300_01�subid_hash_��text_��Смешивайте атаки Твайен, чтобы получить максимальную отдачу от ее
 боевого мастерства. Вот несколько примеров:
 
 (+): Выстрелить вперед, двигаясь в направлении .
 : Выпустить широкую волну стрел.
-: Накапливать силы для мощного выстрела.��column_��id_hash_�TXT_TIPS_TITLE_PL2300_02�subid_hash_��text_�!Освоение Твайена 2��column_��id_hash_�TXT_TIPS_BODY_PL2300_02�subid_hash_��text_�6Расстояние между Твайен и ее целью влияет на силу ее атак. Если отойти слишком далеко,
-она будет наносить меньше урона. Найдите то самое место для убийственного выстрела!��column_��id_hash_�TXT_TIPS_TITLE_PL2300_03�subid_hash_��text_���column_��id_hash_�TXT_TIPS_BODY_PL2300_03�subid_hash_��text_�
+: Накапливать силы для мощного выстрела.��column_��id_hash_�TXT_TIPS_TITLE_PL2400_01�subid_hash_��text_�Mastering Gallanza 1��column_��id_hash_�TXT_TIPS_BODY_PL2400_01�subid_hash_��text_٤Gallanza enjoys bullying his foes by comboing  attacks into
+ attacks. His power strikes and finishers are adept at
+closing in on enemies and keeping them pressured!��column_��id_hash_�TXT_TIPS_TITLE_PL2400_02�subid_hash_��text_�Mastering Gallanza 2��column_��id_hash_�TXT_TIPS_BODY_PL2400_02�subid_hash_��text_ٵHold  to become a whirling cyclone of death. Gallanza will
+generate more force the longer he spins, but beware: spin
+for too long, and he'll topple over, trying to catch his breath.��column_��id_hash_�TXT_TIPS_TITLE_PL2400_03�subid_hash_��text_�Mastering Gallanza 3��column_��id_hash_�TXT_TIPS_BODY_PL2400_03�subid_hash_��text_��When Gallanza's Silver Wolf gauge becomes full, his armor and
+spear will merge, and he'll enter Deathmatch Finale. The gauge
+depletes over time and with each attack, so be sure to close
+in with  attacks and pummel foes with  attacks while he's
+powered up!��column_��id_hash_�TXT_TIPS_TITLE_PL2500_01�subid_hash_��text_�Mastering Maglielle 1��column_��id_hash_�TXT_TIPS_BODY_PL2500_01�subid_hash_��text_��Landing combo finishers and link attacks fills Maglielle's
+Veil gauge, which powers Blade Dance. The gauge will drain
+as you hold  to aim and fire. Blade Dance grows stronger
+the longer  is held and is enhanceable up to three levels.
+Releasing  just as Blade Dance enhances will restore some of
+the gauge and trigger a follow-up attack. Utilize all her
+techniques to quickly build up the Veil gauge, then unleash
+a torrent of blades upon your foes!��column_��id_hash_�TXT_TIPS_TITLE_PL2500_02�subid_hash_��text_�Mastering Maglielle 2��column_��id_hash_�TXT_TIPS_BODY_PL2500_02�subid_hash_��text_��Weapons of the Superlative series are extremely hard to
+procure. For that reason, only two skill-summoned weapons
+can be on the battlefield simultaneously. When a third weapon
+is summoned, the oldest one will return to storage. Although
+Maglielle would love to have all her weapons in play, the
+days of expensing repairs to Avia are over; the leader of
+the Veil must now pay out of her own pocket.��column_��id_hash_�TXT_TIPS_TITLE_PL2600_01�subid_hash_��text_�Mastering Beatrix 1��column_��id_hash_�TXT_TIPS_BODY_PL2600_01�subid_hash_��text_�YLanding combo finishers, link attacks, and activating certain
+skills fills Beatrix's Embrasque gauge. Once the gauge becomes
+full, she can enter Devour Causality, greatly boosting her
+attack speed and attack power. But that's not all! While in
+Devour Causality, press  immediately after a link attack or
+damage skill to unleash a combo finisher!��column_��id_hash_�TXT_TIPS_TITLE_PL2600_02�subid_hash_��text_�Mastering Beatrix 2��column_��id_hash_�TXT_TIPS_BODY_PL2600_02�subid_hash_��text_�5Although Devour Causality grants Beatrix a big power boost,
+remember that all power is fleeting, so dish out tons of
+pain before the Embrasque gauge runs out!
+
+In addition, unlocking Power Finisher from her Masteries
+allows her to perform a power finisher by pressing  with
+good timing after a combo finisher.��column_��id_hash_�TXT_TIPS_TITLE_PL2600_03�subid_hash_��text_�Mastering Beatrix 3��column_��id_hash_�TXT_TIPS_BODY_PL2600_03�subid_hash_��text_�Beatrix gains effects based on Delta Clock's hand position.
+
+Näed Nulli: Gains DMG↑ but takes auto DMG.
+While in Devour Causality: Also gains Supplementary DMG.
+Näed Nelja: Gains Regen.
+While in Devour Causality: Also gains Drain.
+Näed Seitset: Gains DEF↑ and Stout Heart.
+While in Devour Causality: Also gains Debuff Immunity.
+
+When it comes to winning, timing is everything!��column_��id_hash_�TXT_TIPS_TITLE_PL2700_01�subid_hash_��text_�Mastering Eustace 1��column_��id_hash_�TXT_TIPS_BODY_PL2700_01�subid_hash_��text_�Eustace's distance from a foe affects the firepower of his
+shots. His reticle shows yellow when within effective
+shooting range but turns red when he's too far away.
+Firing from beyond effective range lowers his damage, so try
+to operate from inside his firearm's sweet spot!��column_��id_hash_�TXT_TIPS_TITLE_PL2700_02�subid_hash_��text_�Mastering Eustace 2��column_��id_hash_�TXT_TIPS_BODY_PL2700_02�subid_hash_��text_�&+ allows Eustace to reposition quickly but at the cost of
+firepower and only fills the Loaded gauge by a small amount.
+On the other hand, charged  attacks have high firepower and
+fill his Loaded gauge by a large amount. A masterful gunner
+knows how to utilize every type of shot to its fullest!��column_��id_hash_�TXT_TIPS_TITLE_PL2700_03�subid_hash_��text_�Mastering Eustace 3��column_��id_hash_�TXT_TIPS_BODY_PL2700_03�subid_hash_��text_��Any rookie can reload a gun, but it takes an expert to do it
+perfectly in the heat of battle. With Perfect Reload unlocked
+from his Masteries, whenever Eustace reloads right after firing
+a shot, he fills more of the Loaded gauge.
+
+Furthermore, performing a perfect reload after firing the
+last bullet of a clip fills a big portion of the gauge.
+Get into a rhythm of firing and reloading to max out his
+gauge quickly, then blast foes into oblivion with heavy
+ammo!��column_��id_hash_�TXT_TIPS_TITLE_PL2700_04�subid_hash_��text_�Mastering Eustace 4��column_��id_hash_�TXT_TIPS_BODY_PL2700_04�subid_hash_��text_�4Because charged  shots deal more damage than basic  shots,
+they're classified as Grade II shots. Heavy ammo bullets can't
+be charged but are still plenty powerful. They're classified
+as Grade III shots.
+
+Additionally, unlocking Last Bullet from Eustace's Masteries
+raises the firepower of the last bullet in each clip by one
+grade. The final heavy ammo bullet in a clip has the highest
+firepower, and is accordingly classified as Grade IV.
+
+With Strafe Shot's maneuverability, a charged shot's potency,
+and the last bullet's surety, Eustace makes every shot count!��column_��id_hash_�TXT_TIPS_TITLE_PL2800_01�subid_hash_��text_�Mastering Fraux 1��column_��id_hash_�TXT_TIPS_BODY_PL2800_01�subid_hash_��text_��Fraux utilizes two gauges that fill independently of each
+other based on which stance she's in when attacking.
+However, landing link attacks fills both gauges at the same
+time, so don't forget to link up with allies whenever the
+chance arises!��column_��id_hash_�TXT_TIPS_TITLE_PL2800_02�subid_hash_��text_�Mastering Fraux 2��column_��id_hash_�TXT_TIPS_BODY_PL2800_02�subid_hash_��text_��Pressing  right after a combo finisher allows Fraux to
+flip stance and transition into another combo.
+
+For example, start comboing in Upright stance to perform an
+Upright combo finisher, then press  to enter Reversed stance.
+Keep comboing in Reversed stance to perform a Reversed combo
+finisher, then press  to enter Upright stance, and so on.
+
+This continuous flow of comboing and flipping is a great
+way to efficiently fill both her gauges.��column_��id_hash_�TXT_TIPS_TITLE_PL2800_03�subid_hash_��text_�Mastering Fraux 3��column_��id_hash_�TXT_TIPS_BODY_PL2800_03�subid_hash_��text_�8Not only can Fraux flip stance after a combo finisher, but
+she can also flip stance after a combo attack by unlocking
+Switcheroo from her Masteries.
+
+Once unlocked, press  with proper timing during a combo to
+flip stance. Bestowed with this impressive repertoire of
+techniques, she'll fill her gauges in no time!��column_��id_hash_�TXT_TIPS_TITLE_PL2900_01�subid_hash_��text_�Mastering Fediel��column_��id_hash_�TXT_TIPS_BODY_PL2900_01�subid_hash_��text_�'Fediel can perform a stomp attack following the activation
+of these skills: Soul Breaker, The Black's Blessing, and
+Cursed Funeral.
+
+Activating Sphere of Reversal during a stomp attack will
+greatly shorten its charge time, so if you want to deal big
+damage fast, give them a good stomping first!��column_��id_hash_�TXT_TIPS_TITLE_GST_AI_UPDATE�subid_hash_��text_�Updating Delegate Characters��column_��id_hash_�TXT_TIPS_BODY_GST_AI_UPDATE�subid_hash_��text_ٙEnhancements to your delegate's stats and gear are
+automatically updated upon opening the backup list.
+This happens only once per loading of a save slot.��column_��id_hash_�TXT_TIPS_TITLE_GST_AI_EMPL_LIST�subid_hash_��text_�Enlist Backup List��column_��id_hash_�TXT_TIPS_BODY_GST_AI_EMPL_LIST�subid_hash_��text_�iUp to 30 characters can be displayed in the list. Press  or 
+to switch between different list categories.��column_��id_hash_�TXT_TIPS_TITLE_KKTN_BUFF_TYPE�subid_hash_��text_�Special Conflux Auras��column_��id_hash_�TXT_TIPS_BODY_KKTN_BUFF_TYPE�subid_hash_��text_ٗCalamity auras have debilitating effects. However, those who
+brave the risks of calamity and bring the auras to salvation
+shall reap newfound benefits.��column_��id_hash_�TXT_TIPS_TITLE_KKTN_BUFF_STR�subid_hash_��text_�Enhancing Conflux Auras��column_��id_hash_�TXT_TIPS_BODY_KKTN_BUFF_STR�subid_hash_��text_�IAcquiring a duplicate aura enhances that aura, strengthening
+its effects.��column_��id_hash_�TXT_TIPS_TITLE_KKTN_CP�subid_hash_��text_�Conflux Points (CP)��column_��id_hash_�TXT_TIPS_BODY_KKTN_CP�subid_hash_��text_ُConflux points are earned while surveying the Conflux. They
+can be spent to acquire auras from a Mellose acolyte found
+in Limbo's Way: Outpost.��column_��id_hash_�TXT_TIPS_TITLE_KKTN_CSP�subid_hash_��text_�Resonance Points (RP)��column_��id_hash_�TXT_TIPS_BODY_KKTN_CSP�subid_hash_��text_�vResonance points are earned for completing Conflux
+surveys. RP can be spent to unlock Resonance nodes from
+Historiath.��column_��id_hash_�TXT_TIPS_TITLE_KKTN_GIFT�subid_hash_��text_�Conflux Rewards��column_��id_hash_�TXT_TIPS_BODY_KKTN_GIFT�subid_hash_��text_ِClearing the Conflux provides a collection of materials for
+upgrading weapons and sigils. Try heading into the depths
+when in need of resources.��column_��id_hash_�TXT_TIPS_TITLE_KKTN_LV_GIFT�subid_hash_��text_�Conflux Depth Level and Rewards��column_��id_hash_�TXT_TIPS_BODY_KKTN_LV_GIFT�subid_hash_��text_قBoons acquired during a survey are exchanged for rewards
+when the survey ends. Higher reward rarities can appear in
+deeper depths.��column_��id_hash_�TXT_TIPS_TITLE_KKTN_MAP�subid_hash_��text_�Conflux Cycle Path��column_��id_hash_�TXT_TIPS_BODY_KKTN_MAP�subid_hash_��text_٥A path showing your position in the Conflux is displayed at
+the top of the screen. Defeat the final boss foes at the far
+right end of the path to complete the cycle.��column_��id_hash_�TXT_TIPS_TITLE_DMG_LIM�subid_hash_��text_�Damage Cap��column_��id_hash_�TXT_TIPS_BODY_DMG_LIM�subid_hash_��text_٫Damage cap is the maximum damage that can be dealt by
+attacks, skills, and Skybound Arts no matter how strong a
+character is. Equip DMG Cap traits to raise the damage cap.��column_��id_hash_�TXT_TIPS_TITLE_ALL_SALE_CHG�subid_hash_��text_�&Sort & Filter: Sigils and Wrightstones��column_��id_hash_�TXT_TIPS_BODY_ALL_SALE_CHG�subid_hash_��text_�sAs your inventory starts to build up, don't forget to use
+Sort & Filter  to find sigils and wrightstones with ease.��column_��id_hash_�TXT_TIPS_TITLE_BADGE_REWARD�subid_hash_��text_�Trophy Rewards��column_��id_hash_�TXT_TIPS_BODY_BADGE_REWARD�subid_hash_��text_يSome trophies come with rewards, and they can build up fast.
+Be sure to claim those valuable items from Lyria's Journal
+from time to time.��column_��id_hash_�TXT_TIPS_TITLE_TOWN_TREASURE�subid_hash_��text_�$Chests and Collection Points in Town��column_��id_hash_�TXT_TIPS_BODY_TOWN_TREASURE�subid_hash_��text_�sKeep an eye out for chests and collection points in town.
+They will periodically replenish after completing quests.��column_��id_hash_�TXT_TIPS_TITLE_FATE_REWARD�subid_hash_��text_�Fate Episode Rewards��column_��id_hash_�TXT_TIPS_BODY_FATE_REWARD�subid_hash_��text_�gClearing a character's fate episodes unlocks stat boosts
+and additional sigil slots for that character.��column_��id_hash_�TXT_TIPS_TITLE_ITEM_USE�subid_hash_��text_�Consumable Items��column_��id_hash_�TXT_TIPS_BODY_ITEM_USE�subid_hash_��text_�fThese items are used directly from your inventory:
+Spellbooks: Gives EXP.
+Ambrosia: Gives lots of MSP.��column_��id_hash_�TXT_TIPS_TITLE_BLS_ITEM_USE�subid_hash_��text_�Uncap Items��column_��id_hash_�TXT_TIPS_BODY_BLS_ITEM_USE�subid_hash_��text_��These items can be used to upgrade weapons and sigils in lieu
+of treasure. Press  on the upgrade screen at the blacksmith.
+Damascus ingots: Raises a weapon's level cap.
+Azurite's splendors: Raises a sigil's trait levels to max.��column_��id_hash_�TXT_TIPS_TITLE_GN_THROW�subid_hash_��text_�Extra Info: The Throw Sigil��column_��id_hash_�TXT_TIPS_BODY_GN_THROW�subid_hash_��text_ٮThe Throw sigil increases the damage of the following
+objects when thrown:
+Explosive barrels, disabled droita balsams, all gyre cores,
+Gallanza's spear, and Eugen's grenades.��column_��id_hash_�TXT_TIPS_TITLE_GN_POT�subid_hash_��text_�$Extra Info: The Potion Hoarder Sigil��column_��id_hash_�TXT_TIPS_BODY_GN_POT�subid_hash_��text_�MPotion Hoarder only affects the potion capacity of your
+controlled character.��column_��id_hash_�TXT_TIPS_TITLE_GN_CHARA�subid_hash_��text_�Character-Unique Sigils��column_��id_hash_�TXT_TIPS_BODY_GN_CHARA�subid_hash_��text_ٗEach character has sigils with unique traits that only they
+can equip. One way to obtain these sigils is by transmuting
+sigils at the Knickknack Shack.��column_��id_hash_�TXT_TIPS_TITLE_GN_GUTS_RIVIVAL�subid_hash_��text_�Guts + Autorevive Combo��column_��id_hash_�TXT_TIPS_BODY_GN_GUTS_RIVIVAL�subid_hash_��text_يEquipping the Guts and Autorevive traits greatly improves
+the party's chances of survival. It may prove useful for
+high-difficulty quests.��column_��id_hash_�TXT_TIPS_TITLE_GN_DRAIN_REG�subid_hash_��text_�Drain + Regen Combo��column_��id_hash_�TXT_TIPS_BODY_GN_DRAIN_REG�subid_hash_��text_�dWith Drain and Regen traits both equipped, you'll always
+gain health whether attacking or defending!��column_��id_hash_�TXT_TIPS_TITLE_GN_GUARD_DIA�subid_hash_��text_�Aegis + Greater Aegis Combo��column_��id_hash_�TXT_TIPS_BODY_GN_GUARD_DIA�subid_hash_��text_�fCombining Aegis and Greater Aegis gives more maximum health
+than the gods themselves have (in theory).��column_��id_hash_�TXT_TIPS_TITLE_GN_FOR_JUSTDODGE�subid_hash_��text_�'Nimble Onslaught + Nimble Defense Combo��column_��id_hash_�TXT_TIPS_BODY_GN_FOR_JUSTDODGE�subid_hash_��text_ٌCombining Nimble Onslaught with Nimble Defense is all about
+dodging with perfection. These traits blend offense, defense,
+and Invincibility.��column_��id_hash_�TXT_TIPS_TITLE_GN_DEF_STEEL�subid_hash_��text_�Stout Heart��column_��id_hash_�TXT_TIPS_BODY_GN_DEF_STEEL�subid_hash_��text_�dWith Stout Heart, foe attacks won't interrupt your actions,
+and it also reduces damage taken by 25%.��column_��id_hash_�TXT_TIPS_TITLE_MUTE�subid_hash_��text_�Mute Function��column_��id_hash_�TXT_TIPS_BODY_MUTE�subid_hash_��text_�BYou can mute players to hide their text communications and
+emotes.��column_��id_hash_�TXT_TIPS_TITLE_REPORT�subid_hash_��text_�Report Function��column_��id_hash_�TXT_TIPS_BODY_REPORT�subid_hash_��text_ٌThis feature is used to report players engaging in harmful
+or inappropriate behavior. Let's keep the skyfaring
+community safe and welcoming!��column_��id_hash_�TXT_TIPS_TITLE_USEFUL_CMD�subid_hash_��text_�New Addition to Fast Travel��column_��id_hash_�TXT_TIPS_BODY_USEFUL_CMD�subid_hash_��text_�kWhile in town, if you have completed side quests to report,
+you can now fast travel to those clients with .��column_��id_hash_�TXT_TIPS_TITLE_CMB_AFTER_JUST�subid_hash_��text_�Combo Continuation��column_��id_hash_�TXT_TIPS_BODY_CMB_AFTER_JUST�subid_hash_��text_كCertain actions can be performed during a combo without
+breaking the combo. These include dodges, perfect guards,
+and link attacks.��column_��id_hash_�TXT_TIPS_TITLE_GRA_OPT�subid_hash_��text_�Adjusting Battle Effects��column_��id_hash_�TXT_TIPS_BODY_GRA_OPT�subid_hash_��text_وIf battle effects are too intense, they can be adjusted by
+going to Game Options, then Graphics, and selecting
+Battle Effects Intensity.��column_��id_hash_�TXT_TIPS_TITLE_INTERACT_BTN�subid_hash_��text_�Interaction Buttons��column_��id_hash_�TXT_TIPS_BODY_INTERACT_BTN�subid_hash_��text_�jInteract and Check can be combined into a single button by
+going to Game Options, and then Control Scheme.��column_��id_hash_�TXT_TIPS_TITLE_LOCK_CAM_OPT�subid_hash_��text_�Camera Lock-On Controls��column_��id_hash_�TXT_TIPS_BODY_LOCK_CAM_OPT�subid_hash_��text_�[You can adjust how the camera behaves when locked onto a foe
+from Gameplay in Game Options.��column_��id_hash_�TXT_TIPS_TITLE_SMN_HINT�subid_hash_��text_�Summons Gauge��column_��id_hash_�TXT_TIPS_BODY_SMN_HINT�subid_hash_��text_فUsing a summon reduces the cost of the next summon. Try
+using 1-cost summons first to make calling more expensive
+summons easier.��column_��id_hash_�TXT_TIPS_TITLE_CHG_PARRY�subid_hash_��text_�Charged Parry��column_��id_hash_�TXT_TIPS_BODY_CHG_PARRY�subid_hash_��text_�zCertain characters have charged attacks that, if performed
+with precise timing, will parry a foe's attack and deal
+damage.��column_��id_hash_�TXT_TIPS_TITLE_STOUT_HEART�subid_hash_��text_�Uninterruptible Attacks��column_��id_hash_�TXT_TIPS_BODY_STOUT_HEART�subid_hash_��text_ّCertain characters have attacks that won't be interrupted
+even when taking damage. Since damage is still taken, keep
+a sharp eye on their health.��column_��id_hash_�TXT_TIPS_TITLE_BADGE_OPT�subid_hash_��text_�Displaying Trophies��column_��id_hash_�TXT_TIPS_BODY_BADGE_OPT�subid_hash_��text_��You can set a trophy from your player profile. It'll appear
+above your character's head. Trophy visibility can be toggled
+by going to Game Options, selecting User Interface, and then
+Trophies and Icons.��column_��id_hash_�TXT_TIPS_TITLE_SET_OVERWRITE�subid_hash_��text_�Customizable Loadouts��column_��id_hash_�TXT_TIPS_BODY_SET_OVERWRITE�subid_hash_��text_مEquipped weapons and sigils can be saved as loadouts. This
+makes it quick and easy to switch to different setups for
+specific quests.��column_��id_hash_�TXT_TIPS_TITLE_CHK_LIMIT�subid_hash_��text_�Damage Cap Visualizer��column_��id_hash_�TXT_TIPS_BODY_CHK_LIMIT�subid_hash_��text_��You can check how close a character is to the damage cap by
+training with Sir Barrold. Under Practice Settings, set
+Damage Display to As a Percentage of DMG Cap. If you see
+100% or higher popping up, it may be time to equip
+DMG Cap traits.��column_��id_hash_�TXT_TIPS_TITLE_STATUS_ICON_RE�subid_hash_��text_�Displaying Status Effect Icons��column_��id_hash_�TXT_TIPS_BODY_STATUS_ICON_RE�subid_hash_��text_٦Status effect icons that appear above your character's head
+can be toggled on or off by going to Game Options, selecting
+User Interface, and then Status Effect Icons.��column_��id_hash_�TXT_TIPS_BODY_VERSA_HINT�subid_hash_��text_�FProto Bahamut's power grows with the PWR of your controlled character.��column_��id_hash_�TXT_TIPS_TITLE_OGI_HINT�subid_hash_��text_�Skybound Arts Tip��column_��id_hash_�TXT_TIPS_BODY_OGI_HINT�subid_hash_��text_٬Just like stun, Skybound Arts will interrupt foes from taking
+action. A great time to unleash your Skybound Art is when
+a foe is charging up its devastating special attack.��column_��id_hash_�TXT_TIPS_TITLE_SMN_LINKATTACK�subid_hash_��text_�Link Attacks During Summoning��column_��id_hash_�TXT_TIPS_BODY_SMN_LINKATTACK�subid_hash_��text_��If a link chance triggers while a summon is on the
+battlefield, the summoner is counted as having joined the
+link attack. This means that when link level is at 100%,
+link time can be triggered even during summoning.��column_��id_hash_�TXT_TIPS_TITLE_DMG_LIM_SEC_1�subid_hash_��text_�Secret Memo: Damage Cap 1��column_��id_hash_�TXT_TIPS_BODY_DMG_LIM_SEC_1�subid_hash_��text_ٕThere's a limit, or cap, on the amount of damage that attacks
+and critical hits can deal. To raise that cap, the combatant
+must equip DMG Cap traits.��column_��id_hash_�TXT_TIPS_TITLE_DMG_LIM_SEC_2�subid_hash_��text_�Secret Memo: Damage Cap 2��column_��id_hash_�TXT_TIPS_BODY_DMG_LIM_SEC_2�subid_hash_��text_ٞOther traits that raise the damage cap also exist, such as
+Alpha and Celestial Incendo. If various damage cap traits
+are equipped, their effects are combined.��column_��id_hash_�TXT_TIPS_TITLE_DMG_LIM_SEC_3�subid_hash_��text_�Secret Memo: Damage Cap 3��column_��id_hash_�TXT_TIPS_BODY_DMG_LIM_SEC_3�subid_hash_��text_٘Some factors that affect damage, such as the DMG↑ effect or
+attacking with the superior element, are determined after the
+damage cap has been applied.��column_��id_hash_�TXT_TIPS_TITLE_SUPPLEDMG_1�subid_hash_��text_�#Secret Memo: Supplementary Damage 1��column_��id_hash_�TXT_TIPS_BODY_SUPPLEDMG_1�subid_hash_��text_��The Supplementary DMG effect allows a combatant to deal
+bonus damage. After the damage cap and certain effects (such
+as DMG↑ and superior element DMG) have been applied,
+Supplementary DMG is then calculated based on the combatant's
+final attack.��column_��id_hash_�TXT_TIPS_TITLE_SUPPLEDMG_2�subid_hash_��text_�#Secret Memo: Supplementary Damage 2��column_��id_hash_�TXT_TIPS_BODY_SUPPLEDMG_2�subid_hash_��text_��Other traits that grant Supplementary DMG also exist, such
+as Berserker Echo and Spartan Echo. Each Supplementary DMG
+effect triggers at its own rate. If multiple effects trigger,
+all of the bonus damage is added together.��column_��id_hash_�TXT_TIPS_TITLE_SMN_RARITY�subid_hash_��text_�Passive Effects of Summons��column_��id_hash_�TXT_TIPS_BODY_SMN_RARITY�subid_hash_��text_�HThe potency of a summon's passive effects increases based on
+its rarity.��column_��id_hash_�TXT_TIPS_TITLE_BTL_SPATK�subid_hash_��text_�Атаки��column_��id_hash_�TXT_TIPS_BODY_BTL_SPATK�subid_hash_��text_�-У каждого персонажа есть уникальная атака, выполняемая нажатием кнопки
+. Ознакомьтесь со списком команд персонажей в
+Журнале Лурии, чтобы узнать, как они сражаются.��column_��id_hash_�TXT_TIPS_TITLE_BTL_AERIALSPATK�subid_hash_��text_�Атаки (Воздушные)��column_��id_hash_�TXT_TIPS_BODY_BTL_AERIALSPATK�subid_hash_��text_�Нажмите, находясь в воздухе, чтобы пикировать и атаковать противников на земле.
+Некоторые персонажи будут атаковать, оставаясь в воздухе
+Вместо этого.��column_��id_hash_�TXT_TIPS_TITLE_BTL_CHARGEATK�subid_hash_��text_�Заряженные атаки��column_��id_hash_�TXT_TIPS_BODY_BTL_CHARGEATK�subid_hash_��text_�%Некоторые персонажи могут заряжать свои атаки, удерживая
+нажатой кнопку атаки. Проверьте список команд персонажа, чтобы
+узнать, за какие атаки взимается плата.��column_��id_hash_�TXT_TIPS_TITLE_BTL_JUSTATTACK�subid_hash_��text_�Идеальные удары��column_��id_hash_�TXT_TIPS_BODY_BTL_JUSTATTACK�subid_hash_��text_�yНекоторые персонажи могут выполнять улучшенные версии своих атак путем своевременного нажатия кнопок. Просмотрите список команд
+персонажа, чтобы узнать, могут ли они выполнить какие-либо
+идеальные удары.��column_��id_hash_�TXT_TIPS_TITLE_BTL_CHARGEPARRY�subid_hash_��text_�+Заряженное парирование��column_��id_hash_�TXT_TIPS_BODY_BTL_CHARGEPARRY�subid_hash_��text_�wЗаряженное парирование можно разблокировать с помощью мастерства.
+Ударьте противника заряженной атакой прямо перед тем, как вы получите урон,
+чтобы свести на нет его атаку и контратаку своей собственной.��column_��id_hash_�TXT_TIPS_BODY_BTL_LOCKON_load�subid_hash_��text_��Нажмите, чтобы зафиксироваться на противнике и сосредоточить камеру на
+цели. Наклоните, чтобы переключать цели во время захвата.��column_��id_hash_�TXT_TIPS_TITLE_BTL_LINKC�subid_hash_��text_�Ссылка Шанс��column_��id_hash_�TXT_TIPS_BODY_BTL_LINKC�subid_hash_��text_�iАтака противника заполняет его шкалу оглушения, которая отображается под его здоровьем. Когда шкала оглушения заполнится, над землей появится синий
+круг. Нажмите внутри
+круга, прежде чем он исчезнет, чтобы выполнить связующую атаку.
+
+Сила оглушения влияет на то, как быстро заполняется шкала оглушения.
+Значок обозначает силу оглушения.��column_��id_hash_�TXT_TIPS_BODY_BTL_LINKC_load�subid_hash_��text_��Шкала оглушения противника заполняется по мере получения урона. Когда его
+шкала оглушения полностью заполнится, у вас появится шанс
+провести атаку по соединению.
+Сила оглушения влияет на то, как быстро заполняется шкала оглушения.
+Значок обозначает силу оглушения.��column_��id_hash_�TXT_TIPS_BODY_BTL_LINKLV_load�subid_hash_��text_�Восстановите союзника, используйте синее зелье, 
+нанесите связующую атаку, используйте Искусство 
+Небосвода или вызовите цепной всплеск, чтобы 
+повысить уровень связи. Выполните связующую атаку со 
+всеми членами группы, когда ваш уровень связи равен 
+100%, чтобы активировать время связи.��column_��id_hash_�TXT_TIPS_TITLE_BTL_LINKTIME�subid_hash_��text_�Время ссылки��column_��id_hash_�TXT_TIPS_BODY_BTL_LINKTIME�subid_hash_��text_��Время связи запускается, когда каждый член группы выполняет
+связующую атаку, когда уровень связи равен 100%. Все действия противника
+значительно замедляются, и вы получаете различные полезные
+статусные эффекты. Удары по противникам также продлевают время связи!��column_��id_hash_�TXT_TIPS_TITLE_BTL_RESPAWN�subid_hash_��text_�Падение с карты��column_��id_hash_�TXT_TIPS_BODY_BTL_RESPAWN�subid_hash_��text_�9Если вы упадете с карты или с достаточно большой высоты, вы вернетесь на место до падения. Ваш персонаж потеряет часть здоровья, но не сможет войти в критическое состояние.��column_��id_hash_�TXT_TIPS_TITLE_BTL_DAMAGE�subid_hash_��text_�.Примечание о повреждении��column_��id_hash_�TXT_TIPS_BODY_BTL_DAMAGE�subid_hash_��text_�|Атака высшим элементом или критические удары 
+позволяют нанести больше урона, чем обычно. Однако 
+атаки, Искусства Небосвода и умения каждого персонажа 
+имеют ограничение по количеству наносимого урона, 
+называемое пределом урона. Чтобы повысить предел 
+урона персонажа, экипируйте определенные сигилы или 
+откройте определенные узлы мастерства.��column_��id_hash_�TXT_TIPS_TITLE_BTL_DYING�subid_hash_��text_�)Критическое состояние��column_��id_hash_�TXT_TIPS_BODY_BTL_DYING�subid_hash_��text_�+Вы войдете в критическое состояние, когда ваше здоровье упадет до 0.
+Либо подождите, пока вы восстановитесь естественным путем, либо используйте зелье возрождения.��column_��id_hash_�TXT_TIPS_TITLE_BTL_REVIVE�subid_hash_��text_�#Спасение союзников��column_��id_hash_�TXT_TIPS_BODY_BTL_REVIVE�subid_hash_��text_�IНажмите рядом с членом группы, находящимся в критическом состоянии, чтобы ускорить его выздоровление. Если к спасению присоединится больше союзников, они
+выздоровеют еще быстрее!��column_��id_hash_�TXT_TIPS_TITLE_BTL_EMERGENCY�subid_hash_��text_�!Критическая шкала��column_��id_hash_�TXT_TIPS_BODY_BTL_EMERGENCY�subid_hash_��text_�UКритическая шкала истощается всякий раз, когда член группы попадает в критическое состояние. Как только шкала достигнет 0, игра закончится, поэтому следите за тем, чтобы все были здоровы!��column_��id_hash_�TXT_TIPS_TITLE_BTL_BOSSARTSAURA�subid_hash_��text_�Кровожадность��column_��id_hash_�TXT_TIPS_BODY_BTL_BOSSARTSAURA�subid_hash_��text_��Некоторые боссы могут получить эффект "Кровожадность". 
+В этом состоянии они получают значительно меньший урон 
+и невосприимчивы к различным статусным недугам. Пока 
+"Кровожадность" не пройдет, лучше придерживаться 
+оборонительной стратегии.��column_��id_hash_�TXT_TIPS_TITLE_BTL_CALAMITY�subid_hash_��text_�порча��column_��id_hash_�TXT_TIPS_BODY_BTL_CALAMITY�subid_hash_��text_�+ХП теряется со временем��column_��id_hash_�TXT_TIPS_TITLE_BTL_POISON�subid_hash_��text_�Яд��column_��id_hash_�TXT_TIPS_BODY_BTL_POISON�subid_hash_��text_�+ХП теряется со временем��column_��id_hash_�TXT_TIPS_TITLE_BTL_BARN�subid_hash_��text_�Гореть��column_��id_hash_�TXT_TIPS_BODY_BTL_BARN�subid_hash_��text_�+ХП теряется со временем��column_��id_hash_�TXT_TIPS_TITLE_BTL_SWOON�subid_hash_��text_�5Испытывающий головокружение��column_��id_hash_�TXT_TIPS_BODY_BTL_SWOON�subid_hash_��text_�<Действия не могут быть выполнены��column_��id_hash_�TXT_TIPS_TITLE_BTL_FROZEN�subid_hash_��text_�Замораживать��column_��id_hash_�TXT_TIPS_BODY_BTL_FROZEN�subid_hash_��text_�<Действия не могут быть выполнены��column_��id_hash_�TXT_TIPS_TITLE_BTL_FROSTBITE�subid_hash_��text_�Обморожение��column_��id_hash_�TXT_TIPS_BODY_BTL_FROSTBITE�subid_hash_��text_�AСкорость действий и защита снижены.��column_��id_hash_�TXT_TIPS_TITLE_BTL_PARALYZE�subid_hash_��text_�Паралич��column_��id_hash_�TXT_TIPS_BODY_BTL_PARALYZE�subid_hash_��text_�<Действия не могут быть выполнены��column_��id_hash_�TXT_TIPS_TITLE_BTL_ABSORP�subid_hash_��text_�Осушать��column_��id_hash_�TXT_TIPS_BODY_BTL_ABSORP�subid_hash_��text_�KВосстанавливайте ОЗ при нанесении урона.��column_��id_hash_�TXT_TIPS_TITLE_BTL_REGENERATION�subid_hash_��text_�Реген��column_��id_hash_�TXT_TIPS_BODY_BTL_REGENERATION�subid_hash_��text_�=ОЗ восстанавливается со временем��column_��id_hash_�TXT_TIPS_TITLE_BTL_MUTEKI�subid_hash_��text_�Непобедимость��column_��id_hash_�TXT_TIPS_BODY_BTL_MUTEKI�subid_hash_��text_�7Полученный урон аннулируется.��column_��id_hash_�TXT_TIPS_TITLE_BTL_INVALID�subid_hash_��text_�)Ослабление иммунитета��column_��id_hash_�TXT_TIPS_BODY_BTL_INVALID�subid_hash_��text_�@Все статусные недуги аннулируются.��column_��id_hash_�TXT_TIPS_TITLE_BTL_PROVOKE�subid_hash_��text_�Враждебность↑��column_��id_hash_�TXT_TIPS_BODY_BTL_PROVOKE�subid_hash_��text_�GБольше шансов подвергнуться нападению��column_��id_hash_�TXT_TIPS_TITLE_BTL_DEFUP�subid_hash_��text_�ЗАЩ ↑��column_��id_hash_�TXT_TIPS_BODY_BTL_DEFUP�subid_hash_��text_�ЗАЩ увеличен��column_��id_hash_�TXT_TIPS_TITLE_BTL_DAMAGECUT�subid_hash_��text_�УРН-вырез��column_��id_hash_�TXT_TIPS_BODY_BTL_DAMAGECUT�subid_hash_��text_�*Полученный урон снижен��column_��id_hash_�TXT_TIPS_TITLE_BTL_DEADLYAURA�subid_hash_��text_�Кровожадность��column_��id_hash_�TXT_TIPS_BODY_BTL_DEADLYAURA�subid_hash_��text_�PРезкое повышение сопротивления всем атакам��column_��id_hash_�TXT_TIPS_TITLE_BTL_ADVERSITY�subid_hash_��text_�Застрял��column_��id_hash_�TXT_TIPS_BODY_BTL_ADVERSITY�subid_hash_��text_�xАТК увеличивается в зависимости от того, насколько низко у вас ОЗ.��column_��id_hash_�TXT_TIPS_TITLE_BTL_SUPERID�subid_hash_��text_�Божественная мощ��column_��id_hash_�TXT_TIPS_BODY_BTL_SUPERID�subid_hash_��text_�jБоевые способности значительно повышаются силой дракона.��column_��id_hash_�TXT_TIPS_TITLE_BTL_CONCENTRATE�subid_hash_��text_�Сосредоточенный��column_��id_hash_�TXT_TIPS_BODY_BTL_CONCENTRATE�subid_hash_��text_�<Скорость зарядки Stargaze увеличена.��column_��id_hash_�TXT_TIPS_TITLE_BTL_GUTS�subid_hash_��text_�Кишки��column_��id_hash_�TXT_TIPS_BODY_BTL_GUTS�subid_hash_��text_�DВыжить смертельный урон, оставив 1 ОЗ.��column_��id_hash_�TXT_TIPS_TITLE_BTL_SUBSTITUTE�subid_hash_��text_�Заменять��column_��id_hash_�TXT_TIPS_BODY_BTL_SUBSTITUTE�subid_hash_��text_�7Получает урон вместо союзника��column_��id_hash_�TXT_TIPS_TITLE_BTL_SAFETY�subid_hash_��text_�Покрытый��column_��id_hash_�TXT_TIPS_BODY_BTL_SAFETY�subid_hash_��text_�!Защищен союзником��column_��id_hash_�TXT_TIPS_TITLE_BTL_NOFLINCH�subid_hash_��text_�Крепкое сердце��column_��id_hash_�TXT_TIPS_BODY_BTL_NOFLINCH�subid_hash_��text_�ZПолучение урона не прерывает действия персонажа.��column_��id_hash_�TXT_TIPS_TITLE_BTL_ALTAFLAME�subid_hash_��text_�Темное Пламя��column_��id_hash_�TXT_TIPS_BODY_BTL_ALTAFLAME�subid_hash_��text_�oСледующее применение Темного Пламени вызовет большой взрыв.��column_��id_hash_�TXT_TIPS_TITLE_BTL_WATERPRISON�subid_hash_��text_�Содержится под��column_��id_hash_�TXT_TIPS_BODY_BTL_WATERPRISON�subid_hash_��text_�<Действия не могут быть выполнены��column_��id_hash_�TXT_TIPS_TITLE_BTL_IRONMAIDEN�subid_hash_��text_�Железная Дева��column_��id_hash_�TXT_TIPS_BODY_BTL_IRONMAIDEN�subid_hash_��text_�;атаки заставляют розы атаковать��column_��id_hash_�TXT_TIPS_TITLE_BTL_STRENGTH�subid_hash_��text_�Сила��column_��id_hash_�TXT_TIPS_BODY_BTL_STRENGTH�subid_hash_��text_�_АТК увеличивается в зависимости от уровня здоровья.��column_��id_hash_�TXT_TIPS_TITLE_BTL_ABILITYSEAL�subid_hash_��text_�Навык запечатан��column_��id_hash_�TXT_TIPS_BODY_BTL_ABILITYSEAL�subid_hash_��text_�3Не могу использовать навыки��column_��id_hash_�TXT_TIPS_TITLE_BTL_OUGISEAL�subid_hash_��text_�ИНА запечатанный��column_��id_hash_�TXT_TIPS_BODY_BTL_OUGISEAL�subid_hash_��text_�-Не могу использовать ИНА��column_��id_hash_�TXT_TIPS_TITLE_BTL_ILLUSUION�subid_hash_��text_�+Зеркальное изображение��column_��id_hash_�TXT_TIPS_BODY_BTL_ILLUSUION�subid_hash_��text_�`Урон обнуляется для заданного количества попаданий.��column_��id_hash_�TXT_TIPS_TITLE_BTL_FEAR�subid_hash_��text_�Окаменелый��column_��id_hash_�TXT_TIPS_BODY_BTL_FEAR�subid_hash_��text_�AСкорость действий и защита снижены.��column_��id_hash_�TXT_TIPS_TITLE_BTL_DRAGONICID�subid_hash_��text_�Форма дракона��column_��id_hash_�TXT_TIPS_BODY_BTL_DRAGONICID�subid_hash_��text_�UБоевые способности усиливаются силой дракона.��column_��id_hash_�TXT_TIPS_TITLE_BTL_MAGICVORTEX�subid_hash_��text_�!Мистический вихрь��column_��id_hash_�TXT_TIPS_BODY_BTL_MAGICVORTEX�subid_hash_��text_�,Звездный взгляд улучшен��column_��id_hash_�TXT_TIPS_TITLE_BTL_AUTORIVIVAL�subid_hash_��text_�Автовозрождение��column_��id_hash_�TXT_TIPS_BODY_BTL_AUTORIVIVAL�subid_hash_��text_�jАвтоматическое восстановление из критического состояния��column_��id_hash_�TXT_TIPS_TITLE_BTL_SLOW�subid_hash_��text_�Медленный��column_��id_hash_�TXT_TIPS_BODY_BTL_SLOW�subid_hash_��text_�0Скорость действий снижена��column_��id_hash_�TXT_TIPS_TITLE_BTL_DEFDOWN�subid_hash_��text_�ЗАЩ↓��column_��id_hash_�TXT_TIPS_BODY_BTL_DEFDOWN�subid_hash_��text_�ЗАЩ снижен��column_��id_hash_�TXT_TIPS_TITLE_BTL_ATKDOWN�subid_hash_��text_�АТК↓��column_��id_hash_�TXT_TIPS_BODY_BTL_ATKDOWN�subid_hash_��text_�АТК снижен��column_��id_hash_�TXT_TIPS_TITLE_BTL_ATKUP�subid_hash_��text_�АТК↑��column_��id_hash_�TXT_TIPS_BODY_BTL_ATKUP�subid_hash_��text_�АТК усилен��column_��id_hash_�TXT_TIPS_TITLE_BTL_SUPPLEDMG�subid_hash_��text_�#Дополнительный УРН��column_��id_hash_�TXT_TIPS_BODY_BTL_SUPPLEDMG�subid_hash_��text_�NНаносит дополнительный урон при попадании��column_��id_hash_�TXT_TIPS_TITLE_BTL_COVEREDSAND�subid_hash_��text_�Песчаная могила��column_��id_hash_�TXT_TIPS_BODY_BTL_COVEREDSAND�subid_hash_��text_�`Действия ограничены, скорость передвижения снижена.��column_��id_hash_�TXT_TIPS_TITLE_UI_FAVORITES�subid_hash_��text_�Список желаний��column_��id_hash_�TXT_TIPS_BODY_UI_FAVORITES�subid_hash_��text_��Добавляйте предметы в список желаний, чтобы отслеживать, где их можно получить и какие задания предлагают их в качестве награды.��column_��id_hash_�TXT_TIPS_TITLE_UI_PRESET�subid_hash_��text_�;Праздничные наборы и снаряжение��column_��id_hash_�TXT_TIPS_BODY_UI_PRESET�subid_hash_��text_��Сохраняйте групповые формирования, экипированное оружие, Сигилы и навыки в партийные наборы и снаряжение. Это позволяет вам быстро
+переключаться между различными настройками без необходимости каждый раз вносить
+ручные настройки.��column_��id_hash_�TXT_TIPS_TITLE_CYC_WPN�subid_hash_��text_�Оружие��column_��id_hash_�TXT_TIPS_BODY_CYC_WPN�subid_hash_��text_ٲОружие изменяет здоровье и силу атаки. У них также есть особенности, дающие определенные эффекты.��column_��id_hash_�TXT_TIPS_TITLE_CYC_ENHANCE�subid_hash_��text_�1Улучшение оружия и сигилов��column_��id_hash_�TXT_TIPS_BODY_CYC_ENHANCE�subid_hash_��text_�zТратьте сокровища и рупии, чтобы повысить уровень своего оружия и сигилов. Повышение уровня оружия повышает его здоровье и характеристики атаки. Повышение уровня сигила повышает уровень его характеристик.��column_��id_hash_�TXT_TIPS_TITLE_CYC_LIMIT�subid_hash_��text_�Откупорка оружие��column_��id_hash_�TXT_TIPS_BODY_CYC_LIMIT�subid_hash_��text_�>У каждого оружия есть максимальный уровень. 
+Повышение этого уровня называется "Откупорка". 
+Рефиниум - это особый тип сокровищ, необходимый 
+для того, чтобы откупорить оружие��column_��id_hash_�TXT_TIPS_TITLE_CYC_DIFFICULTY�subid_hash_��text_�Сложность��column_��id_hash_�TXT_TIPS_BODY_CYC_DIFFICULTY�subid_hash_��text_��Сложность игры можно изменить в любой момент.
+Режим помощи нельзя включить для определенных уровней сложности.��column_��id_hash_�TXT_TIPS_TITLE_CYC_BADGE�subid_hash_��text_�Трофеи��column_��id_hash_�TXT_TIPS_BODY_CYC_BADGE�subid_hash_��text_��Трофеи присуждаются за выполнение определенных подвигов и
+могут отображаться в вашем профиле. Некоторые трофеи даже сопровождаются наградами. Загляните в журнал Лурии, чтобы узнать,
+как разблокировать трофей.��column_��id_hash_�TXT_TIPS_TITLE_CYC_LIMITBONUS�subid_hash_��text_�4Расширенные очки мастерства��column_��id_hash_�TXT_TIPS_BODY_CYC_LIMITBONUS�subid_hash_��text_�По достижении 80-го уровня персонаж может получать 
+Расширенные очки мастерства, используемые для 
+дальнейшего повышения различных статов и навыков.��column_��id_hash_�TXT_TIPS_TITLE_STG_QUESTCOUNTER�subid_hash_��text_�Прилавок заданий��column_��id_hash_�TXT_TIPS_BODY_STG_QUESTCOUNTER�subid_hash_��text_�:Отправляйтесь к Прилавку заданий, чтобы выполнить различные задания и
+просмотреть Эпизоды судьбы. Вы также можете выйти в Интернет и выполнить задание с другими игроками.��column_��id_hash_�TXT_TIPS_TITLE_STG_CHAPERSELECT�subid_hash_��text_�Выбор главы��column_��id_hash_�TXT_TIPS_BODY_STG_CHAPERSELECT�subid_hash_��text_�BПереиграйте свои любимые части истории и соберите предметы,
+которые вы могли пропустить в первый раз. Капитан не обязательно должен быть в вашей группе при переигрывании глав.��column_��id_hash_�TXT_TIPS_TITLE_CYC_SHUFFLEQUEST�subid_hash_��text_�Быстрое задание��column_��id_hash_�TXT_TIPS_BODY_CYC_SHUFFLEQUEST�subid_hash_��text_�,Быстрые задания позволяют вам случайным образом присоединиться к заданию, начатому другим игроком. Персонажей можно масштабировать для баланса
+в зависимости от задания.
+Быстрые задания дают значки Далии. Вы можете потратить один билет на золотой значок, чтобы заработать еще один золотой значок Далии.��column_��id_hash_�TXT_TIPS_TITLE_STG_FATEEPISODE�subid_hash_��text_�Эпизоды судьбы��column_��id_hash_�TXT_TIPS_BODY_STG_FATEEPISODE�subid_hash_��text_�Выполните определенные условия, чтобы просмотреть эпизод о судьбе персонажа.
+Узнайте лучше своих товарищей по команде и заработайте награды
+в процессе.��column_��id_hash_�TXT_TIPS_TITLE_STG_FATEQUEST�subid_hash_��text_�*задания эпизода судьбы��column_��id_hash_�TXT_TIPS_BODY_STG_FATEQUEST�subid_hash_��text_�\В некоторых эпизодах судьбы есть задания, которые необходимо выполнить, чтобы продолжить. У этих заданий есть особые требования
+и награды, поэтому будьте готовы, прежде чем приступать к ним.��column_��id_hash_�TXT_TIPS_TITLE_STG_BLACKSMITH�subid_hash_��text_�Кузнец��column_��id_hash_�TXT_TIPS_BODY_STG_BLACKSMITH�subid_hash_��text_�qПосетите кузнеца, чтобы улучшить оружие или продать предметы.��column_��id_hash_�TXT_TIPS_TITLE_CYC_WPNCRAFT�subid_hash_��text_�Ковка оружия��column_��id_hash_�TXT_TIPS_BODY_CYC_WPNCRAFT�subid_hash_��text_�eНовое оружие можно выковать, обменяв
+чемпионские заслуги у кузнеца. Каждое оружие имеет свои характеристики и характеристики, поэтому расширяйте свой арсенал, чтобы получить преимущество в бою.��column_��id_hash_�TXT_TIPS_TITLE_CYC_GEEN�subid_hash_��text_�Сигилы��column_��id_hash_�TXT_TIPS_BODY_CYC_GEEN�subid_hash_��text_ٕУ сигилов есть характерные эффекты, которые становятся сильнее по мере их уровня.��column_��id_hash_�TXT_TIPS_TITLE_CYC_WPNMIRAGE�subid_hash_��text_�%Миражные боеприпасы��column_��id_hash_�TXT_TIPS_BODY_CYC_WPNMIRAGE�subid_hash_��text_�^Миражный боеприпас можно присоединить к оружию, чтобы повысить его атаку и характеристики здоровья. Боеприпасы можно снимать и соединять с другим оружием, так что не бойтесь их использовать.��column_��id_hash_�TXT_TIPS_TITLE_STG_SIEROKARTE�subid_hash_��text_�6Хижина безделушек Сьерокарте��column_��id_hash_�TXT_TIPS_BODY_STG_SIEROKARTE�subid_hash_��text_�YЭто универсальный магазин для всех ваших приключений!
+Сирокарте не только продает редкие предметы, но и может даже приглашать
+новых членов команды с помощью карточек товарищей по команде.��column_��id_hash_�TXT_TIPS_TITLE_CYC_GEENALCHEMY�subid_hash_��text_�%Трансмутация Сигила��column_��id_hash_�TXT_TIPS_BODY_CYC_GEENALCHEMY�subid_hash_��text_ٳВаучеры на безделушки можно обменять на Сигилы. Обменяйте
+больше ваучеров на более редкие Сигилы.��column_��id_hash_�TXT_TIPS_TITLE_CYC_TRADEDALIA�subid_hash_��text_�&Обмен значками Далии��column_��id_hash_�TXT_TIPS_BODY_CYC_TRADEDALIA�subid_hash_��text_�Значки Далия бывают золотыми и серебряными. Их можно получить за
+выполнение быстрых заданий.
+
+Обменяйте их на ценные предметы в Лачуге безделушек.��column_��id_hash_�TXT_TIPS_TITLE_CYC_CHARARELEASE�subid_hash_��text_�&Набор членов экипажа��column_��id_hash_�TXT_TIPS_BODY_CYC_CHARARELEASE�subid_hash_��text_�Карточки членов экипажа вы будете находить по мере развития сюжета. Не давайте Сьеро ничего, и в вашем
+путешествии к вам присоединится новый персонаж.��column_��id_hash_�TXT_TIPS_TITLE_CYC_TRADEITEM�subid_hash_��text_�'Торговля сокровищами��column_��id_hash_�TXT_TIPS_BODY_CYC_TRADEITEM�subid_hash_��text_�8Обменяйте ненужные вам сокровища на те, которые есть в
+Хижине безделушек. Сделайте поиск сокровищ немного проще,
+добавив предметы, которые вы ищете, в свой список желаний.��column_��id_hash_�TXT_TIPS_TITLE_CYC_SIEROTICKET�subid_hash_��text_�(Ваучеры на безделушки��column_��id_hash_�TXT_TIPS_BODY_CYC_SIEROTICKET�subid_hash_��text_�	Ваучеры на безделушки используются для трансмутации сигилов. Обменяйте
+ненужные сокровища, Сигилы и камни рисования на дополнительные
+ваучеры.��column_��id_hash_�TXT_TIPS_TITLE_STG_APPRAISE�subid_hash_��text_�Оценки Затбы��column_��id_hash_�TXT_TIPS_BODY_STG_APPRAISE�subid_hash_��text_٥Посетите Затбу, чтобы он оценил диковинку. Это хороший
+способ заработать предметы и рупии.��column_��id_hash_�TXT_TIPS_TITLE_STG_RELIC�subid_hash_��text_�диковинки��column_��id_hash_�TXT_TIPS_BODY_STG_RELIC�subid_hash_��text_�Диковинки можно получить, выполнив любое задании 
+класса Ветеран-авиатор или выше. 
+Принесите диковинки Затбе в Сидхоллоу и 
+пожинайте плоды.��column_��id_hash_�TXT_TIPS_TITLE_STG_STATION�subid_hash_��text_�Доки��column_��id_hash_�TXT_TIPS_BODY_STG_STATION�subid_hash_��text_��Вы можете путешествовать по другим городам, садиться на Грандсайфер или возобновлять основную историю с городского дока.��column_��id_hash_�TXT_TIPS_TITLE_STG_FASTTRAVEL�subid_hash_��text_�%Быстрое путешествие��column_��id_hash_�TXT_TIPS_BODY_STG_FASTTRAVEL�subid_hash_��text_��Нажмите, чтобы мгновенно перемещаться между достопримечательностями города, что сэкономит драгоценное время, особенно при перемещении по разросшимся
+Сидхоллоу. Чтобы перелететь в другой город, воспользуйтесь
+доками.��column_��id_hash_�TXT_TIPS_TITLE_STG_DECK�subid_hash_��text_�%Палуба Грандсайфера��column_��id_hash_�TXT_TIPS_BODY_STG_DECK�subid_hash_��text_ٿИспользуйте колесо, чтобы летать в разные города. Вы также можете провести
+тренировку с сэром Барролдом.��column_��id_hash_�TXT_TIPS_TITLE_STG_SAVEPOINT�subid_hash_��text_�Священная земля��column_��id_hash_�TXT_TIPS_BODY_STG_SAVEPOINT�subid_hash_��text_��Прикосновение к Священной Земле полностью восстанавливает здоровье вашей группы
+и восстанавливает ваши восстанавливаемые предметы.
+
+Святая Земля позволяет вам сохранить игру, а также
+воспользоваться услугами кузнеца и Безделушки.��column_��id_hash_�TXT_TIPS_TITLE_STG_CHECKPOINT�subid_hash_��text_�!Повторная попытка��column_��id_hash_�TXT_TIPS_BODY_STG_CHECKPOINT�subid_hash_��text_��Если вы завершили игру, сражаясь с боссом, вы можете
+повторить битву с боссом или перезапустить игру с предыдущей
+контрольной точки.��column_��id_hash_�TXT_TIPS_TITLE_STG_RESTRICTPT�subid_hash_��text_�)Партийные ограничения��column_��id_hash_�TXT_TIPS_BODY_STG_RESTRICTPT�subid_hash_��text_��Некоторые персонажи должны быть в вашей группе во время определенных судеб/эпизодов и частей основной истории. Капитан должен
+всегда находиться в вашей группе на протяжении всего основного сюжета, но его можно
+удалить при переигрывании глав с помощью выбора главы.��column_��id_hash_�TXT_TIPS_TITLE_STG_SIDEQUEST�subid_hash_��text_�Побочные задания��column_��id_hash_�TXT_TIPS_BODY_STG_SIDEQUEST�subid_hash_��text_��Многие люди по всему Небесному Дому Зегагранде нуждаются
+в помощи. Поговорите с ними, чтобы выполнить дополнительные побочные задания и получить ценную добычу. Проверьте меню побочных квестов, чтобы отслеживать
+прогресс всех принятых вами побочных квестов. Вы даже можете
+быстро добраться до клиента задания, если находитесь в том же городе, что и он.��column_��id_hash_�TXT_TIPS_TITLE_STG_SNIPPER�subid_hash_��text_�Крошечные клешни��column_��id_hash_�TXT_TIPS_BODY_STG_SNIPPER�subid_hash_��text_�Редкие обитатели Зегагранде, эти маленькие ребята предпочитают оставаться скрытыми от глаз. Обменяйте их у коллекционера в
+Фолке на различные награды.��column_��id_hash_�TXT_TIPS_TITLE_STG_GATHERING�subid_hash_��text_�Сбор предметов��column_��id_hash_�TXT_TIPS_BODY_STG_GATHERING�subid_hash_��text_��Никогда не знаешь, какие сокровища могут лежать вокруг и просто
+ожидать, чтобы их нашли. Нажмите, когда встретите что-то
+блестящее.��column_��id_hash_�TXT_TIPS_TITLE_STG_CHEST�subid_hash_��text_�(Сундуки с сокровищами��column_��id_hash_�TXT_TIPS_BODY_STG_CHEST�subid_hash_��text_�"В небе можно найти всевозможные сундуки с сокровищами, наполненные рупиями и добычей. В более изысканных сундуках обычно
+внутри скрываются более ценные вещи.��column_��id_hash_�TXT_TIPS_TITLE_STG_ARCHIVE�subid_hash_��text_�Архивы��column_��id_hash_�TXT_TIPS_BODY_STG_ARCHIVE�subid_hash_��text_�.Узнайте о Zegagrande Skydom, находя заметки и записи, разбросанные по островам. Некоторые из них
+можно найти непросто.
+
+Лурия сохранит ваши открытия в архивах своего
+журнала.��column_��id_hash_�TXT_TIPS_TITLE_PL0800_02�subid_hash_��text_���column_��id_hash_�TXT_TIPS_BODY_PL0800_02�subid_hash_��text_���column_��id_hash_�TXT_TIPS_TITLE_PL1000_02�subid_hash_��text_���column_��id_hash_�TXT_TIPS_BODY_PL1000_02�subid_hash_��text_���column_��id_hash_�TXT_TIPS_TITLE_PL1100_02�subid_hash_��text_���column_��id_hash_�TXT_TIPS_BODY_PL1100_02�subid_hash_��text_���column_��id_hash_�TXT_TIPS_TITLE_PL1600_02�subid_hash_��text_���column_��id_hash_�TXT_TIPS_BODY_PL1600_02�subid_hash_��text_���column_��id_hash_�TXT_TIPS_TITLE_PL1700_02�subid_hash_��text_���column_��id_hash_�TXT_TIPS_BODY_PL1700_02�subid_hash_��text_���column_��id_hash_�TXT_TIPS_TITLE_PL2100_03�subid_hash_��text_���column_��id_hash_�TXT_TIPS_BODY_PL2100_03�subid_hash_��text_���column_��id_hash_�TXT_TIPS_TITLE_PL2200_03�subid_hash_��text_���column_��id_hash_�TXT_TIPS_BODY_PL2200_03�subid_hash_��text_���column_��id_hash_�TXT_TIPS_TITLE_PL2300_03�subid_hash_��text_���column_��id_hash_�TXT_TIPS_BODY_PL2300_03�subid_hash_��text_�

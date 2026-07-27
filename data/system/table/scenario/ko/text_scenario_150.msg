@@ -1,4 +1,4 @@
-��rows_�΁�column_��id_hash_�SNT_WD150010_0000�text_�...��column_��id_hash_�SNT_WD150010_0010�text_��Не могу в это поверить. Я думал, что если мы победим Ангра-
+��rows_�ԁ�column_��id_hash_�SNT_WD150010_0000�text_�...��column_��id_hash_�SNT_WD150010_0010�text_��Не могу в это поверить. Я думал, что если мы победим Ангра-
  Майнью, мы сможем продолжить свой веселый путь.��column_��id_hash_�SNT_WD150010_0020�text_�bБез шуток. Почему мне пришлось уйти и стать Бахамутом?��column_��id_hash_�SNT_WD150010_0030�text_�+Верно... В таком случае...��column_��id_hash_�SNT_WD150010_0040�text_�wЭй, о чем ты думаешь, Ролан? Похоже, у тебя все механизмы
  крутятся.��column_��id_hash_�SNT_WD150010_0050�text_ٯТеперь все начинает приходить в себя... Особенно, если она
  применила к нему запечатлевший разум.��column_��id_hash_�SNT_WD150010_0060�text_��Запечатывающий разум - это то, что они использовали, чтобы
@@ -48,7 +48,11 @@
  смертельный поединок с Бахамутом... И это было не то.��column_��id_hash_�SNT_VT150020_015000�text_ىЭто оно. Битва, которая положит конец всем битвам. Время спасти
  мир, Арвесс!��column_��id_hash_�SNT_VT150020_016000�text_��Я зашел так далеко не для того, чтобы умереть бессмысленной
  смертью. Сражайся со мной, Гринот. Сегодня мы бушуем!��column_��id_hash_�SNT_VT150020_017000�text_ټКак бы мне ни хотелось заняться сбором данных, думаю, мой
- главный приоритет ? не разлететься вдребезги.��column_��id_hash_�SNT_VT150020_018000�text_�%Вы собираетесь вниз.��column_��id_hash_�SNT_VT150020_019000�text_�QЯ не позволю тебе покинуть Небесное царство?��column_��id_hash_�SNT_VT150020_020000�text_�fИтак. Кто желает немного поучаствовать в богоборчестве?��column_��id_hash_�SNT_VT150020_021000�text_�YНайдите свой центр... Вы сможете пройти через это!��column_��id_hash_�SNT_VT150021_000000�text_��Бахамут Верса представляет собой одновременно созидание и
+ главный приоритет ? не разлететься вдребезги.��column_��id_hash_�SNT_VT150020_018000�text_�%Вы собираетесь вниз.��column_��id_hash_�SNT_VT150020_019000�text_�QЯ не позволю тебе покинуть Небесное царство?��column_��id_hash_�SNT_VT150020_020000�text_�fИтак. Кто желает немного поучаствовать в богоборчестве?��column_��id_hash_�SNT_VT150020_021000�text_�YНайдите свой центр... Вы сможете пройти через это!��column_��id_hash_�SNT_VT150020_022000�text_�]Look at you, Id, screaming like a damned infant. It's high time
+I pushed you out of the nest!��column_��id_hash_�SNT_VT150020_023000�text_�5Id will find his way back to us. I have faith in him!��column_��id_hash_�SNT_VT150020_024000�text_�8Today's the day we kill a god, huh? Let's go, Embrasque!��column_��id_hash_�SNT_VT150020_025000�text_�eGod or no, I'll annihilate anyone who disturbs the peace
+and quiet of the skies. Now, howl... Flamek!��column_��id_hash_�SNT_VT150020_026000�text_�GNo matter how cruel reality may be, don't give up. 
+There's still hope.��column_��id_hash_�SNT_VT150020_027000�text_�VWield my darkness as your blade, and slay this god who 
+seeks our realm's destruction!��column_��id_hash_�SNT_VT150021_000000�text_��Бахамут Верса представляет собой одновременно созидание и
  разрушение. Его баклажановые крылья стимулируют эволюцию всех
  существ.��column_��id_hash_�SNT_VT150021_001000�text_��Жизнь сменяется смертью, а смерть порождает жизнь... Наша
  попытка вмешаться в этот процесс может иметь далеко идущие

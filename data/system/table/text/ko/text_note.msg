@@ -1,6 +1,4 @@
-��rows_�ׁ�column_��id_hash_�TXT_NOTE_CATEGORY_3D_VIEWER�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN01_00�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN01_01�subid_hash_��text_�Пролог��column_��id_hash_�TXT_NOTE_MAIN01_02�subid_hash_��text_�Глава 1��column_��id_hash_�TXT_NOTE_MAIN01_03�subid_hash_��text_�Глава 2��column_��id_hash_�TXT_NOTE_MAIN01_04�subid_hash_��text_�Глава 3��column_��id_hash_�TXT_NOTE_MAIN01_05�subid_hash_��text_�Глава 4��column_��id_hash_�TXT_NOTE_MAIN01_06�subid_hash_��text_�Глава 5��column_��id_hash_�TXT_NOTE_MAIN01_07�subid_hash_��text_�Глава 6��column_��id_hash_�TXT_NOTE_MAIN01_08�subid_hash_��text_�Глава 7��column_��id_hash_�TXT_NOTE_MAIN01_09�subid_hash_��text_�Глава 8��column_��id_hash_�TXT_NOTE_MAIN01_10�subid_hash_��text_�Глава 9��column_��id_hash_�TXT_NOTE_MAIN01_11�subid_hash_��text_�'Заключительная глава��column_��id_hash_�TXT_NOTE_MAIN01_12�subid_hash_��text_�Глава O��column_��id_hash_�TXT_NOTE_MAIN02_00_01�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_00_02�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_00_03�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_00_04�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_01_01�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_01_02�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_01_03�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_01_04�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_01_05�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_01_06�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_01_07�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_01_08�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_02_01�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_02_02�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_02_03�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_02_04�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_02_05�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_02_06�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_02_07�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_02_08�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_02_09�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_02_10�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_02_11�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_02_12�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_02_13�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_02_14�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_02_15�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_02_16�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_02_17�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_02_18�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_02_19�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_03_01�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_03_02�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_03_03�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_03_04�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_03_05�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_03_06�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_03_07�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_03_08�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_03_09�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_04_01�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_04_02�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_04_03�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_04_04�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_04_05�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_04_06�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_05_01�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_05_02�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_05_03�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_05_04�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_05_05�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_05_06�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_05_07�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_05_08�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_05_09�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_06_01�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_06_02�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_06_03�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_06_04�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_06_05�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_06_06�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_06_07�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_06_08�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_07_01�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_07_02�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_07_03�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_07_04�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_07_05�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_07_06�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_07_07�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_07_08�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_07_09�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_07_10�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_08_01�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_08_02�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_08_03�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_08_04�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_08_05�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_08_06�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_08_07�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_08_08�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_08_09�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_09_01�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_09_02�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_09_03�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_09_04�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_09_05�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_09_06�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_09_07�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_09_08�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_09_09�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_10_01�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_10_02�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_10_03�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_10_04�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_10_05�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_10_06�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_10_07�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_10_08�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_10_09�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_10_10�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_11_01�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_11_02�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_11_03�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_11_04�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_11_05�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_11_06�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_12_01�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_12_02�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_12_03�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_12_04�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_12_05�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_12_06�subid_hash_��text_���column_��id_hash_�TXT_NOTE_PICTURE_CHARACTER�subid_hash_��text_�Персонажи��column_��id_hash_�TXT_NOTE_PICTURE_ENEMY�subid_hash_��text_�враги��column_��id_hash_�TXT_NOTE_PICTURE_WEAPON�subid_hash_��text_�Оружие��column_��id_hash_�TXT_NOTE_PICTURE_GEEN�subid_hash_��text_�Сигилы��column_��id_hash_�TXT_NOTE_PICTURE_TRESURE�subid_hash_��text_�Сокровище��column_��id_hash_�TXT_NOTE_PICTURE_CODE�subid_hash_��text_�Райтстоуны��column_��id_hash_�TXT_NOTE_PICTURE_TO_3D�subid_hash_��text_�$Посмотреть 3D-модель��column_��id_hash_�TXT_NOTE_PICTURE_3D_CAMERA_MOVE�subid_hash_��text_�Двигаться��column_��id_hash_�TXT_NOTE_PICTURE_3D_ZOOM_UP�subid_hash_��text_�Приблизить��column_��id_hash_�TXT_NOTE_PICTURE_3D_ZOOM_OUT�subid_hash_��text_�Уменьшить��column_��id_hash_�TXT_NOTE_PICTURE_3D_MODEL_ROLL�subid_hash_��text_�Поворот модели��column_��id_hash_�TXT_NOTE_PICTURE_3D_ANGLE�subid_hash_��text_�Наклон��column_��id_hash_�TXT_NOTE_PICTURE_3D_RESET�subid_hash_��text_�Перезагрузить��column_��id_hash_�TXT_NOTE_PICTURE_3D_PLAY_ACTION�subid_hash_��text_�Поза��column_��id_hash_�TXT_NOTE_PICTURE_3D_CHANGE_COL�subid_hash_��text_�!Переключить цвета��column_��id_hash_�TXT_NOTE_PICTURE_CHANGE_SKIN�subid_hash_��text_�Галерея��column_��id_hash_�TXT_NOTE_PICTURE_CHANGE_SKIN_FT�subid_hash_�a�text_�Галерея��column_��id_hash_�TXT_NOTE_PICTURE_CHANGE_SKIN_2D�subid_hash_�b�text_�-Переключить изображение��column_��id_hash_�TXT_NOTE_PICTURE_CHANGE_SKIN_3D�subid_hash_�c�text_�'Модель переключателя��column_��id_hash_�TXT_NOTE_PICTURE_TO_2D_VIEWER�subid_hash_��text_�0Посмотреть полный портрет��column_��id_hash_�TXT_NOTE_PICTURE_WEAPON_ONOFF�subid_hash_��text_�Галерея��column_��id_hash_�TXT_NOTE_PICTURE_CHANGE_IMAGE�subid_hash_��text_�DПереключить отображение изображений��column_��id_hash_�TXT_NOTE_PICTURE_GUIDE_ONOFF�subid_hash_��text_�0Показать/скрыть интерфейс��column_��id_hash_�TXT_NOTE_PICTURE_PLAY_VOICE�subid_hash_��text_�%Воспроизвести голос��column_��id_hash_�TXT_ARCHIVE_NUM�subid_hash_��text_�$№ Зарегистрировано��column_��id_hash_�TXT_ARCHIVE_NUM�subid_hash_�note_list01�text_�$№ Зарегистрировано��column_��id_hash_�TXT_ARCHIVE_NUM�subid_hash_�note_list04�text_�$№ Зарегистрировано��column_��id_hash_�TXT_ARCHIVE_MAP�subid_hash_��text_� Где он был найден:��column_��id_hash_�TXT_GLOSSARY_TTL_0000�subid_hash_��text_�Небесное царство��column_��id_hash_�TXT_GLOSSARY_TTL_0001�subid_hash_��text_�Небесные жители��column_��id_hash_�TXT_GLOSSARY_TTL_0001�subid_hash_�1�text_�Небесные жители��column_��id_hash_�TXT_GLOSSARY_TTL_0002�subid_hash_��text_�Астралы��column_��id_hash_�TXT_GLOSSARY_TTL_0002�subid_hash_�1�text_�Астралы��column_��id_hash_�TXT_GLOSSARY_TTL_0002�subid_hash_�2�text_�Астралы��column_��id_hash_�TXT_GLOSSARY_TTL_0002�subid_hash_�3�text_�Астралы��column_��id_hash_�TXT_GLOSSARY_TTL_0003�subid_hash_��text_�Война��column_��id_hash_�TXT_GLOSSARY_TTL_0004�subid_hash_��text_�Мрачный Бассейн��column_��id_hash_�TXT_GLOSSARY_TTL_0005�subid_hash_��text_�!Первобытные звери��column_��id_hash_�TXT_GLOSSARY_TTL_0005�subid_hash_�1�text_�!Первобытные звери��column_��id_hash_�TXT_GLOSSARY_TTL_0006�subid_hash_��text_�Конец небес��column_��id_hash_�TXT_GLOSSARY_TTL_0007�subid_hash_��text_�1Эсталусия, остров астралов��column_��id_hash_�TXT_GLOSSARY_TTL_0008�subid_hash_��text_�Части карты неба��column_��id_hash_�TXT_GLOSSARY_TTL_0009�subid_hash_��text_�Магия��column_��id_hash_�TXT_GLOSSARY_TTL_0010�subid_hash_��text_�Жизненная связь��column_��id_hash_�TXT_GLOSSARY_TTL_0011�subid_hash_��text_�Грандсайфер��column_��id_hash_�TXT_GLOSSARY_TTL_0012�subid_hash_��text_�Корабли��column_��id_hash_�TXT_GLOSSARY_TTL_0012�subid_hash_�1�text_�Корабли��column_��id_hash_�TXT_GLOSSARY_TTL_0013�subid_hash_��text_�Авиаторы��column_��id_hash_�TXT_GLOSSARY_TTL_0013�subid_hash_�1�text_�Авиаторы��column_��id_hash_�TXT_GLOSSARY_TTL_0014�subid_hash_��text_�Рулевой��column_��id_hash_�TXT_GLOSSARY_TTL_0015�subid_hash_��text_�Первобытные боги��column_��id_hash_�TXT_GLOSSARY_TTL_0015�subid_hash_�1�text_�Первобытные боги��column_��id_hash_�TXT_GLOSSARY_TTL_0016�subid_hash_��text_�Алтари��column_��id_hash_�TXT_GLOSSARY_TTL_0016�subid_hash_�1�text_�Алтари��column_��id_hash_�TXT_GLOSSARY_TTL_0017�subid_hash_��text_�#Суп из ячменя фолка��column_��id_hash_�TXT_GLOSSARY_TTL_0018�subid_hash_��text_�Трансиверы��column_��id_hash_�TXT_GLOSSARY_TTL_0018�subid_hash_�1�text_�Трансиверы��column_��id_hash_�TXT_GLOSSARY_TTL_0019�subid_hash_��text_�Священные земли��column_��id_hash_�TXT_GLOSSARY_TTL_0019�subid_hash_�1�text_�Священные земли��column_��id_hash_�TXT_GLOSSARY_TTL_0020�subid_hash_��text_�Амеретат��column_��id_hash_�TXT_GLOSSARY_TTL_0021�subid_hash_��text_�Броня  "Бунтарь "��column_��id_hash_�TXT_GLOSSARY_TTL_0022�subid_hash_��text_�Эфирная пушка��column_��id_hash_�TXT_GLOSSARY_TTL_0022�subid_hash_�1�text_�Эфирная пушка��column_��id_hash_�TXT_GLOSSARY_TTL_0023�subid_hash_��text_�!Вазаитский хищник��column_��id_hash_�TXT_GLOSSARY_TTL_0024�subid_hash_��text_�-Захватчик разума, "Элпис"��column_��id_hash_�TXT_GLOSSARY_TTL_0024�subid_hash_�1�text_�-Захватчик разума, "Элпис"��column_��id_hash_�TXT_GLOSSARY_TTL_0025�subid_hash_��text_�,Камень-катализатор Дега��column_��id_hash_�TXT_GLOSSARY_TTL_0026�subid_hash_��text_�Катастрофа Дали��column_��id_hash_�TXT_GLOSSARY_TTL_0027�subid_hash_��text_�Темная сущность��column_��id_hash_�TXT_GLOSSARY_TTL_0028�subid_hash_��text_�Виндкрест��column_��id_hash_�TXT_GLOSSARY_TTL_0029�subid_hash_��text_�Увядание��column_��id_hash_�TXT_GLOSSARY_TTL_0030�subid_hash_��text_�,Яйца призрачных крыльев��column_��id_hash_�TXT_GLOSSARY_TTL_0031�subid_hash_��text_�Масло пустыни��column_��id_hash_�TXT_GLOSSARY_TTL_0032�subid_hash_��text_�Наутилус��column_��id_hash_�TXT_GLOSSARY_TTL_0033�subid_hash_��text_�@Фрагменты вечнозеленого кристалла��column_��id_hash_�TXT_GLOSSARY_TTL_0034�subid_hash_��text_�!Фрагменты Аструма��column_��id_hash_�TXT_GLOSSARY_TTL_0035�subid_hash_��text_�)Вечнозеленый кристалл��column_��id_hash_�TXT_GLOSSARY_TTL_0036�subid_hash_��text_�*Истинный Дракон Фафнир��column_��id_hash_�TXT_GLOSSARY_TTL_0036�subid_hash_�1�text_�*Истинный Дракон Фафнир��column_��id_hash_�TXT_GLOSSARY_TTL_0037�subid_hash_��text_�Бонито��column_��id_hash_�TXT_GLOSSARY_TTL_0037�subid_hash_�1�text_�Бонито��column_��id_hash_�TXT_GLOSSARY_TTL_0038�subid_hash_��text_�Джевелфин��column_��id_hash_�TXT_GLOSSARY_TTL_0039�subid_hash_��text_�Чешуя храбрости��column_��id_hash_�TXT_GLOSSARY_TTL_0040�subid_hash_��text_�Шалмон��column_��id_hash_�TXT_GLOSSARY_TTL_0041�subid_hash_��text_�&Стиль "Вечная ярость"��column_��id_hash_�TXT_GLOSSARY_TTL_0042�subid_hash_��text_�Алхимия��column_��id_hash_�TXT_GLOSSARY_TTL_0043�subid_hash_��text_�:Синдром Лизирианской лихорадки��column_��id_hash_�TXT_GLOSSARY_TTL_0044�subid_hash_��text_�Люди��column_��id_hash_�TXT_GLOSSARY_TTL_0045�subid_hash_��text_�Эруны��column_��id_hash_�TXT_GLOSSARY_TTL_0046�subid_hash_��text_�Харвины��column_��id_hash_�TXT_GLOSSARY_TTL_0046�subid_hash_�1�text_�Харвины��column_��id_hash_�TXT_GLOSSARY_TTL_0047�subid_hash_��text_�Драфты��column_��id_hash_�TXT_GLOSSARY_TTL_0047�subid_hash_�1�text_�Драфты��column_��id_hash_�TXT_GLOSSARY_TTL_0048�subid_hash_��text_�Арес��column_��id_hash_�TXT_GLOSSARY_TTL_0049�subid_hash_��text_�Тиамат��column_��id_hash_�TXT_GLOSSARY_TTL_0050�subid_hash_��text_�Ноа��column_��id_hash_�TXT_GLOSSARY_TTL_0051�subid_hash_��text_�Колосс��column_��id_hash_�TXT_GLOSSARY_TTL_0052�subid_hash_��text_�Левиафан��column_��id_hash_�TXT_GLOSSARY_TTL_0053�subid_hash_��text_�Коноханасакуя��column_��id_hash_�TXT_GLOSSARY_TTL_0054�subid_hash_��text_�Селеста��column_��id_hash_�TXT_GLOSSARY_TTL_0055�subid_hash_��text_�,Небесны дом Фантагранде��column_��id_hash_�TXT_GLOSSARY_TTL_0055�subid_hash_�1�text_�,Небесны дом Фантагранде��column_��id_hash_�TXT_GLOSSARY_TTL_0056�subid_hash_��text_�'Нальхегранде Скайдом��column_��id_hash_�TXT_GLOSSARY_TTL_0056�subid_hash_�1�text_�'Нальхегранде Скайдом��column_��id_hash_�TXT_GLOSSARY_TTL_0057�subid_hash_��text_�;Великий Небесный Дом Орлигранде��column_��id_hash_�TXT_GLOSSARY_TTL_0058�subid_hash_��text_�#Зегагранде Скайдом��column_��id_hash_�TXT_GLOSSARY_TTL_0058�subid_hash_�1�text_�#Зегагранде Скайдом��column_��id_hash_�TXT_GLOSSARY_TTL_0059�subid_hash_��text_�Солнечная роща��column_��id_hash_�TXT_GLOSSARY_TTL_0060�subid_hash_��text_�Зинкенстилл��column_��id_hash_�TXT_GLOSSARY_TTL_0061�subid_hash_��text_�$Архипелаг Порт-Бриз��column_��id_hash_�TXT_GLOSSARY_TTL_0061�subid_hash_�1�text_�$Архипелаг Порт-Бриз��column_��id_hash_�TXT_GLOSSARY_TTL_0062�subid_hash_��text_�Фолька��column_��id_hash_�TXT_GLOSSARY_TTL_0063�subid_hash_��text_�Герцогство Вальц��column_��id_hash_�TXT_GLOSSARY_TTL_0063�subid_hash_�1�text_�Герцогство Вальц��column_��id_hash_�TXT_GLOSSARY_TTL_0064�subid_hash_��text_�Огюст Айлс��column_��id_hash_�TXT_GLOSSARY_TTL_0064�subid_hash_�1�text_�Огюст Айлс��column_��id_hash_�TXT_GLOSSARY_TTL_0065�subid_hash_��text_�Темпеал��column_��id_hash_�TXT_GLOSSARY_TTL_0066�subid_hash_��text_�%Архипелаг Айнстеддо��column_��id_hash_�TXT_GLOSSARY_TTL_0067�subid_hash_��text_�Крепость Зегард��column_��id_hash_�TXT_GLOSSARY_TTL_0068�subid_hash_��text_�Остров Лотань��column_��id_hash_�TXT_GLOSSARY_TTL_0068�subid_hash_�1�text_�Остров Лотань��column_��id_hash_�TXT_GLOSSARY_TTL_0069�subid_hash_��text_�Гора Нейгелит��column_��id_hash_�TXT_GLOSSARY_TTL_0070�subid_hash_��text_�(Овраг Снежного Одеяла��column_��id_hash_�TXT_GLOSSARY_TTL_0071�subid_hash_��text_�Северный Васт��column_��id_hash_�TXT_GLOSSARY_TTL_0072�subid_hash_��text_�!Святилище Тредаме��column_��id_hash_�TXT_GLOSSARY_TTL_0073�subid_hash_��text_�Остров Альмерейн��column_��id_hash_�TXT_GLOSSARY_TTL_0074�subid_hash_��text_�Сидхоллоу��column_��id_hash_�TXT_GLOSSARY_TTL_0074�subid_hash_�1�text_�Сидхоллоу��column_��id_hash_�TXT_GLOSSARY_TTL_0075�subid_hash_��text_�Замок Сидхоллоу��column_��id_hash_�TXT_GLOSSARY_TTL_0076�subid_hash_��text_�:Комьюнити Плаза, Цветущий рынок��column_��id_hash_�TXT_GLOSSARY_TTL_0076�subid_hash_�1�text_�:Комьюнити Плаза, Цветущий рынок��column_��id_hash_�TXT_GLOSSARY_TTL_0077�subid_hash_��text_�Остров Дали��column_��id_hash_�TXT_GLOSSARY_TTL_0078�subid_hash_��text_�&Реликтовый пояс Дали��column_��id_hash_�TXT_GLOSSARY_TTL_0079�subid_hash_��text_�(Древний город Валлион��column_��id_hash_�TXT_GLOSSARY_TTL_0080�subid_hash_��text_�1Фондам, Израненные острова��column_��id_hash_�TXT_GLOSSARY_TTL_0080�subid_hash_�1�text_�1Фондам, Израненные острова��column_��id_hash_�TXT_GLOSSARY_TTL_0081�subid_hash_��text_�Столп Вайои��column_��id_hash_�TXT_GLOSSARY_TTL_0082�subid_hash_��text_�!Архипелаг Лумация��column_��id_hash_�TXT_GLOSSARY_TTL_0082�subid_hash_�1�text_�!Архипелаг Лумация��column_��id_hash_�TXT_GLOSSARY_TTL_0083�subid_hash_��text_�Остров Трамонт��column_��id_hash_�TXT_GLOSSARY_TTL_0083�subid_hash_�1�text_�Остров Трамонт��column_��id_hash_�TXT_GLOSSARY_TTL_0084�subid_hash_��text_�6Королевская столица Фендрахе��column_��id_hash_�TXT_GLOSSARY_TTL_0084�subid_hash_�1�text_�6Королевская столица Фендрахе��column_��id_hash_�TXT_GLOSSARY_TTL_0085�subid_hash_��text_�Гросгард��column_��id_hash_�TXT_GLOSSARY_TTL_0086�subid_hash_��text_�(Долина Небесного Змея��column_��id_hash_�TXT_GLOSSARY_TTL_0087�subid_hash_��text_�2Святое Королевство Люмиэль��column_��id_hash_�TXT_GLOSSARY_TTL_0087�subid_hash_�1�text_�2Святое Королевство Люмиэль��column_��id_hash_�TXT_GLOSSARY_TTL_0088�subid_hash_��text_�Эрсте Империя��column_��id_hash_�TXT_GLOSSARY_TTL_0088�subid_hash_�1�text_�Эрсте Империя��column_��id_hash_�TXT_GLOSSARY_TTL_0089�subid_hash_��text_�Церковь Авиа��column_��id_hash_�TXT_GLOSSARY_TTL_0089�subid_hash_�1�text_�Церковь Авиа��column_��id_hash_�TXT_GLOSSARY_TTL_0090�subid_hash_��text_�.Корпус Серебряного Волка��column_��id_hash_�TXT_GLOSSARY_TTL_0091�subid_hash_��text_�!Монастырь Меллосе��column_��id_hash_�TXT_GLOSSARY_TTL_0091�subid_hash_�1�text_�!Монастырь Меллосе��column_��id_hash_�TXT_GLOSSARY_TTL_0092�subid_hash_��text_�Семья Затба��column_��id_hash_�TXT_GLOSSARY_TTL_0092�subid_hash_�1�text_�Семья Затба��column_��id_hash_�TXT_GLOSSARY_TTL_0093�subid_hash_��text_�$Братство Меча Вуали��column_��id_hash_�TXT_GLOSSARY_TTL_0093�subid_hash_�1�text_�$Братство Меча Вуали��column_��id_hash_�TXT_GLOSSARY_TTL_0094�subid_hash_��text_�&Орден Белых Драконов��column_��id_hash_�TXT_GLOSSARY_TTL_0095�subid_hash_��text_�(Орден Черных Драконов��column_��id_hash_�TXT_GLOSSARY_TTL_0095�subid_hash_�1�text_�(Орден Черных Драконов��column_��id_hash_�TXT_GLOSSARY_TTL_0096�subid_hash_��text_�Блюскай Найтс��column_��id_hash_�TXT_GLOSSARY_TTL_0097�subid_hash_��text_�Орден Вейна��column_��id_hash_�TXT_GLOSSARY_TTL_0098�subid_hash_��text_�Дом Уэльса��column_��id_hash_�TXT_GLOSSARY_TTL_0099�subid_hash_��text_�0Фолканский корпус обороны��column_��id_hash_�TXT_GLOSSARY_TTL_0100�subid_hash_��text_�5Люмиэль Орден Святых Рыцарей��column_��id_hash_�TXT_GLOSSARY_TTL_0101�subid_hash_��text_�&Экипаж Альянс Рафаль��column_��id_hash_�TXT_GLOSSARY_TTL_0101�subid_hash_�1�text_�&Экипаж Альянс Рафаль��column_��id_hash_�TXT_GLOSSARY_TTL_0102�subid_hash_��text_�Общество��column_��id_hash_�TXT_GLOSSARY_TTL_0103�subid_hash_��text_�Печать оружия��column_��id_hash_�TXT_GLOSSARY_TTL_0104�subid_hash_��text_�Лунные жители��column_��id_hash_�TXT_GLOSSARY_TTL_0106�subid_hash_��text_�Автобоги��column_��id_hash_�TXT_GLOSSARY_TTL_0106�subid_hash_�１�text_�Automagod��column_��id_hash_�TXT_GLOSSARY_TTL_0107�subid_hash_��text_�Падшие ангелы��column_��id_hash_�TXT_GLOSSARY_TTL_0108�subid_hash_��text_�!Верховный Примарх��column_��id_hash_�TXT_GLOSSARY_TTL_0109�subid_hash_��text_�!Грандиозный финал��column_��id_hash_�TXT_GLOSSARY_TTL_0110�subid_hash_��text_�Этеменанки��column_��id_hash_�TXT_GLOSSARY_TTL_0111�subid_hash_��text_�Вечность��column_��id_hash_�TXT_GLOSSARY_TTL_0112�subid_hash_��text_�!Отпечаток границы��column_��id_hash_�TXT_GLOSSARY_TTL_0113�subid_hash_��text_�Граница��column_��id_hash_�TXT_GLOSSARY_TTL_0114�subid_hash_��text_�Настоящий король��column_��id_hash_�TXT_GLOSSARY_TTL_0115�subid_hash_��text_�Оружие мстителя��column_��id_hash_�TXT_GLOSSARY_TTL_0116�subid_hash_��text_�8Первобытный зверь Пандемониум��column_��id_hash_�TXT_GLOSSARY_TTL_0117�subid_hash_��text_�Ханаан��column_��id_hash_�TXT_GLOSSARY_TTL_0118�subid_hash_��text_�Tetra-Elements��column_��id_hash_�TXT_GLOSSARY_BODY_0000_load�subid_hash_��text_�Мир плавучих островов простирается на множество небесных царств, 
-каждое из которых разделено неспокойной зоной, известной 
-как Мрачный бассейн. ��column_��id_hash_�TXT_GLOSSARY_BODY_0000_01�subid_hash_��text_�VМир плавучих островов простирается на множество небесных царств, 
+��rows_�с�column_��id_hash_�TXT_NOTE_MAIN01_01�subid_hash_��text_�Пролог��column_��id_hash_�TXT_NOTE_MAIN01_02�subid_hash_��text_�Глава 1��column_��id_hash_�TXT_NOTE_MAIN01_03�subid_hash_��text_�Глава 2��column_��id_hash_�TXT_NOTE_MAIN01_04�subid_hash_��text_�Глава 3��column_��id_hash_�TXT_NOTE_MAIN01_05�subid_hash_��text_�Глава 4��column_��id_hash_�TXT_NOTE_MAIN01_06�subid_hash_��text_�Глава 5��column_��id_hash_�TXT_NOTE_MAIN01_07�subid_hash_��text_�Глава 6��column_��id_hash_�TXT_NOTE_MAIN01_08�subid_hash_��text_�Глава 7��column_��id_hash_�TXT_NOTE_MAIN01_09�subid_hash_��text_�Глава 8��column_��id_hash_�TXT_NOTE_MAIN01_10�subid_hash_��text_�Глава 9��column_��id_hash_�TXT_NOTE_MAIN01_11�subid_hash_��text_�'Заключительная глава��column_��id_hash_�TXT_NOTE_MAIN01_12�subid_hash_��text_�Глава O��column_��id_hash_�TXT_NOTE_MAIN01_13�subid_hash_��text_�Epilogue��column_��id_hash_�TXT_NOTE_PICTURE_CHARACTER�subid_hash_��text_�Персонажи��column_��id_hash_�TXT_NOTE_PICTURE_ENEMY�subid_hash_��text_�враги��column_��id_hash_�TXT_NOTE_PICTURE_WEAPON�subid_hash_��text_�Оружие��column_��id_hash_�TXT_NOTE_PICTURE_GEEN�subid_hash_��text_�Сигилы��column_��id_hash_�TXT_NOTE_PICTURE_TRESURE�subid_hash_��text_�Сокровище��column_��id_hash_�TXT_NOTE_PICTURE_CODE�subid_hash_��text_�Райтстоуны��column_��id_hash_�TXT_NOTE_PICTURE_TO_3D�subid_hash_��text_�$Посмотреть 3D-модель��column_��id_hash_�TXT_NOTE_PICTURE_3D_CAMERA_MOVE�subid_hash_��text_�Двигаться��column_��id_hash_�TXT_NOTE_PICTURE_3D_ZOOM_UP�subid_hash_��text_�Приблизить��column_��id_hash_�TXT_NOTE_PICTURE_3D_ZOOM_OUT�subid_hash_��text_�Уменьшить��column_��id_hash_�TXT_NOTE_PICTURE_3D_MODEL_ROLL�subid_hash_��text_�Поворот модели��column_��id_hash_�TXT_NOTE_PICTURE_3D_ANGLE�subid_hash_��text_�Наклон��column_��id_hash_�TXT_NOTE_PICTURE_3D_RESET�subid_hash_��text_�Перезагрузить��column_��id_hash_�TXT_NOTE_PICTURE_3D_PLAY_ACTION�subid_hash_��text_�Поза��column_��id_hash_�TXT_NOTE_PICTURE_3D_CHANGE_COL�subid_hash_��text_�!Переключить цвета��column_��id_hash_�TXT_NOTE_PICTURE_CHANGE_SKIN�subid_hash_��text_�Галерея��column_��id_hash_�TXT_NOTE_PICTURE_CHANGE_SKIN_FT�subid_hash_�a�text_�Галерея��column_��id_hash_�TXT_NOTE_PICTURE_CHANGE_SKIN_2D�subid_hash_�b�text_�-Переключить изображение��column_��id_hash_�TXT_NOTE_PICTURE_CHANGE_SKIN_3D�subid_hash_�c�text_�'Модель переключателя��column_��id_hash_�TXT_NOTE_PICTURE_TO_2D_VIEWER�subid_hash_��text_�0Посмотреть полный портрет��column_��id_hash_�TXT_NOTE_PICTURE_WEAPON_ONOFF�subid_hash_��text_�Галерея��column_��id_hash_�TXT_NOTE_PICTURE_GUIDE_ONOFF�subid_hash_��text_�0Показать/скрыть интерфейс��column_��id_hash_�TXT_NOTE_PICTURE_PLAY_VOICE�subid_hash_��text_�%Воспроизвести голос��column_��id_hash_�TXT_NOTE_PICTURE_3D_ZOOM�subid_hash_��text_�Zoom��column_��id_hash_�TXT_NOTE_PICTURE_3D_CHANGE_KT�subid_hash_��text_�Switch Model��column_��id_hash_�TXT_ARCHIVE_NUM�subid_hash_��text_�No. Registered��column_��id_hash_�TXT_ARCHIVE_NUM�subid_hash_�note_list01�text_�No. Registered��column_��id_hash_�TXT_ARCHIVE_NUM�subid_hash_�note_list04�text_�$№ Зарегистрировано��column_��id_hash_�TXT_ARCHIVE_MAP�subid_hash_��text_� Где он был найден:��column_��id_hash_�TXT_GLOSSARY_TTL_0000�subid_hash_��text_�Небесное царство��column_��id_hash_�TXT_GLOSSARY_TTL_0001�subid_hash_��text_�Skydwellers��column_��id_hash_�TXT_GLOSSARY_TTL_0001�subid_hash_�1�text_�Небесные жители��column_��id_hash_�TXT_GLOSSARY_TTL_0002�subid_hash_��text_�Astrals��column_��id_hash_�TXT_GLOSSARY_TTL_0002�subid_hash_�1�text_�Astral��column_��id_hash_�TXT_GLOSSARY_TTL_0002�subid_hash_�2�text_�Astrals��column_��id_hash_�TXT_GLOSSARY_TTL_0002�subid_hash_�3�text_�Астралы��column_��id_hash_�TXT_GLOSSARY_TTL_0003�subid_hash_��text_�Война��column_��id_hash_�TXT_GLOSSARY_TTL_0004�subid_hash_��text_�Мрачный Бассейн��column_��id_hash_�TXT_GLOSSARY_TTL_0005�subid_hash_��text_�Primal Beasts��column_��id_hash_�TXT_GLOSSARY_TTL_0005�subid_hash_�1�text_�!Первобытные звери��column_��id_hash_�TXT_GLOSSARY_TTL_0006�subid_hash_��text_�Конец небес��column_��id_hash_�TXT_GLOSSARY_TTL_0007�subid_hash_��text_�1Эсталусия, остров астралов��column_��id_hash_�TXT_GLOSSARY_TTL_0008�subid_hash_��text_�Части карты неба��column_��id_hash_�TXT_GLOSSARY_TTL_0009�subid_hash_��text_�Магия��column_��id_hash_�TXT_GLOSSARY_TTL_0010�subid_hash_��text_�Жизненная связь��column_��id_hash_�TXT_GLOSSARY_TTL_0011�subid_hash_��text_�Грандсайфер��column_��id_hash_�TXT_GLOSSARY_TTL_0012�subid_hash_��text_�Airships��column_��id_hash_�TXT_GLOSSARY_TTL_0012�subid_hash_�1�text_�Корабли��column_��id_hash_�TXT_GLOSSARY_TTL_0013�subid_hash_��text_�Skyfarer��column_��id_hash_�TXT_GLOSSARY_TTL_0013�subid_hash_�1�text_�Skyfarers��column_��id_hash_�TXT_GLOSSARY_TTL_0013�subid_hash_�1�text_�Авиаторы��column_��id_hash_�TXT_GLOSSARY_TTL_0014�subid_hash_��text_�Рулевой��column_��id_hash_�TXT_GLOSSARY_TTL_0015�subid_hash_��text_�Primeval Gods��column_��id_hash_�TXT_GLOSSARY_TTL_0015�subid_hash_�1�text_�Первобытные боги��column_��id_hash_�TXT_GLOSSARY_TTL_0016�subid_hash_��text_�Altars��column_��id_hash_�TXT_GLOSSARY_TTL_0016�subid_hash_�1�text_�Алтари��column_��id_hash_�TXT_GLOSSARY_TTL_0018�subid_hash_��text_�Transceivers��column_��id_hash_�TXT_GLOSSARY_TTL_0018�subid_hash_�1�text_�Трансиверы��column_��id_hash_�TXT_GLOSSARY_TTL_0019�subid_hash_��text_�Hallowed Grounds��column_��id_hash_�TXT_GLOSSARY_TTL_0019�subid_hash_�1�text_�Священные земли��column_��id_hash_�TXT_GLOSSARY_TTL_0020�subid_hash_��text_�Амеретат��column_��id_hash_�TXT_GLOSSARY_TTL_0021�subid_hash_��text_�Броня  "Бунтарь "��column_��id_hash_�TXT_GLOSSARY_TTL_0022�subid_hash_��text_�Ether Cannon��column_��id_hash_�TXT_GLOSSARY_TTL_0022�subid_hash_�1�text_�Эфирная пушка��column_��id_hash_�TXT_GLOSSARY_TTL_0023�subid_hash_��text_�!Вазаитский хищник��column_��id_hash_�TXT_GLOSSARY_TTL_0024�subid_hash_��text_�Mind Sealer, "Elpis"��column_��id_hash_�TXT_GLOSSARY_TTL_0024�subid_hash_�1�text_�-Захватчик разума, "Элпис"��column_��id_hash_�TXT_GLOSSARY_TTL_0025�subid_hash_��text_�,Камень-катализатор Дега��column_��id_hash_�TXT_GLOSSARY_TTL_0026�subid_hash_��text_�Катастрофа Дали��column_��id_hash_�TXT_GLOSSARY_TTL_0027�subid_hash_��text_�Темная сущность��column_��id_hash_�TXT_GLOSSARY_TTL_0028�subid_hash_��text_�Виндкрест��column_��id_hash_�TXT_GLOSSARY_TTL_0029�subid_hash_��text_�Увядание��column_��id_hash_�TXT_GLOSSARY_TTL_0030�subid_hash_��text_�,Яйца призрачных крыльев��column_��id_hash_�TXT_GLOSSARY_TTL_0031�subid_hash_��text_�Масло пустыни��column_��id_hash_�TXT_GLOSSARY_TTL_0032�subid_hash_��text_�Наутилус��column_��id_hash_�TXT_GLOSSARY_TTL_0033�subid_hash_��text_�@Фрагменты вечнозеленого кристалла��column_��id_hash_�TXT_GLOSSARY_TTL_0034�subid_hash_��text_�!Фрагменты Аструма��column_��id_hash_�TXT_GLOSSARY_TTL_0035�subid_hash_��text_�)Вечнозеленый кристалл��column_��id_hash_�TXT_GLOSSARY_TTL_0036�subid_hash_��text_�True Dragon Fafnir��column_��id_hash_�TXT_GLOSSARY_TTL_0036�subid_hash_�1�text_�*Истинный Дракон Фафнир��column_��id_hash_�TXT_GLOSSARY_TTL_0037�subid_hash_��text_�Bonito��column_��id_hash_�TXT_GLOSSARY_TTL_0037�subid_hash_�1�text_�Бонито��column_��id_hash_�TXT_GLOSSARY_TTL_0038�subid_hash_��text_�Джевелфин��column_��id_hash_�TXT_GLOSSARY_TTL_0039�subid_hash_��text_�Чешуя храбрости��column_��id_hash_�TXT_GLOSSARY_TTL_0040�subid_hash_��text_�Шалмон��column_��id_hash_�TXT_GLOSSARY_TTL_0041�subid_hash_��text_�&Стиль "Вечная ярость"��column_��id_hash_�TXT_GLOSSARY_TTL_0042�subid_hash_��text_�Алхимия��column_��id_hash_�TXT_GLOSSARY_TTL_0043�subid_hash_��text_�:Синдром Лизирианской лихорадки��column_��id_hash_�TXT_GLOSSARY_TTL_0044�subid_hash_��text_�Люди��column_��id_hash_�TXT_GLOSSARY_TTL_0045�subid_hash_��text_�Эруны��column_��id_hash_�TXT_GLOSSARY_TTL_0046�subid_hash_��text_�Harvins��column_��id_hash_�TXT_GLOSSARY_TTL_0046�subid_hash_�1�text_�Харвины��column_��id_hash_�TXT_GLOSSARY_TTL_0047�subid_hash_��text_�Draphs��column_��id_hash_�TXT_GLOSSARY_TTL_0047�subid_hash_�1�text_�Драфты��column_��id_hash_�TXT_GLOSSARY_TTL_0048�subid_hash_��text_�Арес��column_��id_hash_�TXT_GLOSSARY_TTL_0049�subid_hash_��text_�Тиамат��column_��id_hash_�TXT_GLOSSARY_TTL_0050�subid_hash_��text_�Ноа��column_��id_hash_�TXT_GLOSSARY_TTL_0051�subid_hash_��text_�Колосс��column_��id_hash_�TXT_GLOSSARY_TTL_0052�subid_hash_��text_�Левиафан��column_��id_hash_�TXT_GLOSSARY_TTL_0053�subid_hash_��text_�Коноханасакуя��column_��id_hash_�TXT_GLOSSARY_TTL_0054�subid_hash_��text_�Селеста��column_��id_hash_�TXT_GLOSSARY_TTL_0055�subid_hash_��text_�Phantagrande Skydom��column_��id_hash_�TXT_GLOSSARY_TTL_0055�subid_hash_�1�text_�,Небесны дом Фантагранде��column_��id_hash_�TXT_GLOSSARY_TTL_0056�subid_hash_��text_�Nalhegrande Skydom��column_��id_hash_�TXT_GLOSSARY_TTL_0056�subid_hash_�1�text_�'Нальхегранде Скайдом��column_��id_hash_�TXT_GLOSSARY_TTL_0057�subid_hash_��text_�;Великий Небесный Дом Орлигранде��column_��id_hash_�TXT_GLOSSARY_TTL_0058�subid_hash_��text_�Zegagrande Skydom��column_��id_hash_�TXT_GLOSSARY_TTL_0058�subid_hash_�1�text_�#Зегагранде Скайдом��column_��id_hash_�TXT_GLOSSARY_TTL_0059�subid_hash_��text_�Солнечная роща��column_��id_hash_�TXT_GLOSSARY_TTL_0060�subid_hash_��text_�Зинкенстилл��column_��id_hash_�TXT_GLOSSARY_TTL_0061�subid_hash_��text_�Port Breeze Archipelago��column_��id_hash_�TXT_GLOSSARY_TTL_0061�subid_hash_�1�text_�$Архипелаг Порт-Бриз��column_��id_hash_�TXT_GLOSSARY_TTL_0062�subid_hash_��text_�Фолька��column_��id_hash_�TXT_GLOSSARY_TTL_0063�subid_hash_��text_�Valtz Duchy��column_��id_hash_�TXT_GLOSSARY_TTL_0063�subid_hash_�1�text_�Герцогство Вальц��column_��id_hash_�TXT_GLOSSARY_TTL_0064�subid_hash_��text_�Auguste Isles��column_��id_hash_�TXT_GLOSSARY_TTL_0064�subid_hash_�1�text_�Огюст Айлс��column_��id_hash_�TXT_GLOSSARY_TTL_0065�subid_hash_��text_�Темпеал��column_��id_hash_�TXT_GLOSSARY_TTL_0066�subid_hash_��text_�%Архипелаг Айнстеддо��column_��id_hash_�TXT_GLOSSARY_TTL_0067�subid_hash_��text_�Крепость Зегард��column_��id_hash_�TXT_GLOSSARY_TTL_0068�subid_hash_��text_�Leautagne Island��column_��id_hash_�TXT_GLOSSARY_TTL_0068�subid_hash_�1�text_�Остров Лотань��column_��id_hash_�TXT_GLOSSARY_TTL_0069�subid_hash_��text_�Гора Нейгелит��column_��id_hash_�TXT_GLOSSARY_TTL_0070�subid_hash_��text_�(Овраг Снежного Одеяла��column_��id_hash_�TXT_GLOSSARY_TTL_0071�subid_hash_��text_�Северный Васт��column_��id_hash_�TXT_GLOSSARY_TTL_0072�subid_hash_��text_�!Святилище Тредаме��column_��id_hash_�TXT_GLOSSARY_TTL_0073�subid_hash_��text_�Остров Альмерейн��column_��id_hash_�TXT_GLOSSARY_TTL_0074�subid_hash_��text_�Seedhollow��column_��id_hash_�TXT_GLOSSARY_TTL_0074�subid_hash_�1�text_�Сидхоллоу��column_��id_hash_�TXT_GLOSSARY_TTL_0075�subid_hash_��text_�Замок Сидхоллоу��column_��id_hash_�TXT_GLOSSARY_TTL_0076�subid_hash_��text_�Central Plaza, Blooming Market��column_��id_hash_�TXT_GLOSSARY_TTL_0076�subid_hash_�1�text_�:Комьюнити Плаза, Цветущий рынок��column_��id_hash_�TXT_GLOSSARY_TTL_0077�subid_hash_��text_�Остров Дали��column_��id_hash_�TXT_GLOSSARY_TTL_0078�subid_hash_��text_�&Реликтовый пояс Дали��column_��id_hash_�TXT_GLOSSARY_TTL_0079�subid_hash_��text_�(Древний город Валлион��column_��id_hash_�TXT_GLOSSARY_TTL_0080�subid_hash_��text_�Phondam, the Scarred Isles��column_��id_hash_�TXT_GLOSSARY_TTL_0080�subid_hash_�1�text_�1Фондам, Израненные острова��column_��id_hash_�TXT_GLOSSARY_TTL_0081�subid_hash_��text_�Столп Вайои��column_��id_hash_�TXT_GLOSSARY_TTL_0082�subid_hash_��text_�Lumacie Archipelago��column_��id_hash_�TXT_GLOSSARY_TTL_0082�subid_hash_�1�text_�!Архипелаг Лумация��column_��id_hash_�TXT_GLOSSARY_TTL_0083�subid_hash_��text_�Tramont Island��column_��id_hash_�TXT_GLOSSARY_TTL_0083�subid_hash_�1�text_�Остров Трамонт��column_��id_hash_�TXT_GLOSSARY_TTL_0084�subid_hash_��text_�Royal Capital Feendrache��column_��id_hash_�TXT_GLOSSARY_TTL_0084�subid_hash_�1�text_�6Королевская столица Фендрахе��column_��id_hash_�TXT_GLOSSARY_TTL_0085�subid_hash_��text_�Гросгард��column_��id_hash_�TXT_GLOSSARY_TTL_0086�subid_hash_��text_�(Долина Небесного Змея��column_��id_hash_�TXT_GLOSSARY_TTL_0087�subid_hash_��text_�Holy Kingdom of Lumiel��column_��id_hash_�TXT_GLOSSARY_TTL_0087�subid_hash_�1�text_�2Святое Королевство Люмиэль��column_��id_hash_�TXT_GLOSSARY_TTL_0088�subid_hash_��text_�Erste Empire��column_��id_hash_�TXT_GLOSSARY_TTL_0088�subid_hash_�1�text_�Эрсте Империя��column_��id_hash_�TXT_GLOSSARY_TTL_0089�subid_hash_��text_�The Church of Avia��column_��id_hash_�TXT_GLOSSARY_TTL_0089�subid_hash_�1�text_�Церковь Авиа��column_��id_hash_�TXT_GLOSSARY_TTL_0090�subid_hash_��text_�.Корпус Серебряного Волка��column_��id_hash_�TXT_GLOSSARY_TTL_0091�subid_hash_��text_�Mellose Monastery��column_��id_hash_�TXT_GLOSSARY_TTL_0091�subid_hash_�1�text_�!Монастырь Меллосе��column_��id_hash_�TXT_GLOSSARY_TTL_0092�subid_hash_��text_�The Family Zathba��column_��id_hash_�TXT_GLOSSARY_TTL_0092�subid_hash_�1�text_�Семья Затба��column_��id_hash_�TXT_GLOSSARY_TTL_0093�subid_hash_��text_�Sword Veil Fellowship��column_��id_hash_�TXT_GLOSSARY_TTL_0093�subid_hash_�1�text_�$Братство Меча Вуали��column_��id_hash_�TXT_GLOSSARY_TTL_0094�subid_hash_��text_�&Орден Белых Драконов��column_��id_hash_�TXT_GLOSSARY_TTL_0095�subid_hash_��text_�Order of the Black Dragons��column_��id_hash_�TXT_GLOSSARY_TTL_0095�subid_hash_�1�text_�(Орден Черных Драконов��column_��id_hash_�TXT_GLOSSARY_TTL_0096�subid_hash_��text_�Блюскай Найтс��column_��id_hash_�TXT_GLOSSARY_TTL_0097�subid_hash_��text_�Орден Вейна��column_��id_hash_�TXT_GLOSSARY_TTL_0098�subid_hash_��text_�Дом Уэльса��column_��id_hash_�TXT_GLOSSARY_TTL_0099�subid_hash_��text_�0Фолканский корпус обороны��column_��id_hash_�TXT_GLOSSARY_TTL_0100�subid_hash_��text_�5Люмиэль Орден Святых Рыцарей��column_��id_hash_�TXT_GLOSSARY_TTL_0101�subid_hash_��text_�Crew Alliance Rafale��column_��id_hash_�TXT_GLOSSARY_TTL_0101�subid_hash_�1�text_�&Экипаж Альянс Рафаль��column_��id_hash_�TXT_GLOSSARY_TTL_0102�subid_hash_��text_�Общество��column_��id_hash_�TXT_GLOSSARY_TTL_0103�subid_hash_��text_�Печать оружия��column_��id_hash_�TXT_GLOSSARY_TTL_0104�subid_hash_��text_�Лунные жители��column_��id_hash_�TXT_GLOSSARY_TTL_0106�subid_hash_��text_�Automagods��column_��id_hash_�TXT_GLOSSARY_TTL_0106�subid_hash_�?P�text_�Автобоги��column_��id_hash_�TXT_GLOSSARY_TTL_0107�subid_hash_��text_�Падшие ангелы��column_��id_hash_�TXT_GLOSSARY_TTL_0108�subid_hash_��text_�!Верховный Примарх��column_��id_hash_�TXT_GLOSSARY_TTL_0109�subid_hash_��text_�!Грандиозный финал��column_��id_hash_�TXT_GLOSSARY_TTL_0110�subid_hash_��text_�Этеменанки��column_��id_hash_�TXT_GLOSSARY_TTL_0111�subid_hash_��text_�Вечность��column_��id_hash_�TXT_GLOSSARY_TTL_0112�subid_hash_��text_�!Отпечаток границы��column_��id_hash_�TXT_GLOSSARY_TTL_0113�subid_hash_��text_�Граница��column_��id_hash_�TXT_GLOSSARY_TTL_0114�subid_hash_��text_�Настоящий король��column_��id_hash_�TXT_GLOSSARY_TTL_0115�subid_hash_��text_�Оружие мстителя��column_��id_hash_�TXT_GLOSSARY_TTL_0116�subid_hash_��text_�8Первобытный зверь Пандемониум��column_��id_hash_�TXT_GLOSSARY_TTL_0117�subid_hash_��text_�Ханаан��column_��id_hash_�TXT_GLOSSARY_TTL_0118�subid_hash_��text_�Tetra-Elements��column_��id_hash_�TXT_GLOSSARY_TTL_0119�subid_hash_��text_�Silver Wolf Resurgence��column_��id_hash_�TXT_GLOSSARY_TTL_0120�subid_hash_��text_�Excalibur��column_��id_hash_�TXT_GLOSSARY_TTL_0121�subid_hash_��text_�Superlative Weapons��column_��id_hash_�TXT_GLOSSARY_TTL_0122�subid_hash_��text_�My Little Sentinel��column_��id_hash_�TXT_GLOSSARY_TTL_0123�subid_hash_��text_�Conflux��column_��id_hash_�TXT_GLOSSARY_TTL_0124�subid_hash_��text_�High Council��column_��id_hash_�TXT_GLOSSARY_TTL_0125�subid_hash_��text_�Ragnalia��column_��id_hash_�TXT_GLOSSARY_TTL_0125�subid_hash_�1�text_�Ragnalian��column_��id_hash_�TXT_GLOSSARY_TTL_0126�subid_hash_��text_�Odajumoki Gang��column_��id_hash_�TXT_GLOSSARY_TTL_0127�subid_hash_��text_�The Foe��column_��id_hash_�TXT_GLOSSARY_TTL_0128�subid_hash_��text_�Primeval Acolytes��column_��id_hash_�TXT_GLOSSARY_TTL_0129�subid_hash_��text_�The Arcarum��column_��id_hash_�TXT_GLOSSARY_TTL_0129�subid_hash_�1�text_�The Arcarum��column_��id_hash_�TXT_GLOSSARY_TTL_0130�subid_hash_��text_�New World��column_��id_hash_�TXT_GLOSSARY_TTL_0131�subid_hash_��text_�The Devil��column_��id_hash_�TXT_GLOSSARY_TTL_0132�subid_hash_��text_�Six Dragons��column_��id_hash_�TXT_GLOSSARY_TTL_0133�subid_hash_��text_�The Omnipotent��column_��id_hash_�TXT_GLOSSARY_TTL_0134�subid_hash_��text_�Manifestation��column_��id_hash_�TXT_GLOSSARY_TTL_0134�subid_hash_�1�text_�Manifestations��column_��id_hash_�TXT_GLOSSARY_TTL_0135�subid_hash_��text_�Wedge��column_��id_hash_�TXT_GLOSSARY_TTL_0135�subid_hash_�1�text_�Wedges��column_��id_hash_�TXT_GLOSSARY_TTL_0136�subid_hash_��text_�Singularity��column_��id_hash_�TXT_GLOSSARY_TTL_0137�subid_hash_��text_�Red Dragon��column_��id_hash_�TXT_GLOSSARY_TTL_0137�subid_hash_�1�text_�Red Dragon��column_��id_hash_�TXT_GLOSSARY_TTL_0137�subid_hash_�2�text_�Red Dragon��column_��id_hash_�TXT_GLOSSARY_TTL_0138�subid_hash_��text_�Girl in Blue��column_��id_hash_�TXT_GLOSSARY_TTL_0138�subid_hash_�1�text_�Girl in Blue��column_��id_hash_�TXT_GLOSSARY_TTL_0138�subid_hash_�2�text_�Girl in Blue��column_��id_hash_�TXT_GLOSSARY_TTL_0139�subid_hash_��text_�Failed Possibilities��column_��id_hash_�TXT_GLOSSARY_TTL_0139�subid_hash_�1�text_�Failed Possibilities��column_��id_hash_�TXT_GLOSSARY_TTL_0140�subid_hash_��text_�Vessel of Destruction��column_��id_hash_�TXT_GLOSSARY_TTL_0140�subid_hash_�1�text_�Vessel of Destruction��column_��id_hash_�TXT_GLOSSARY_TTL_0140�subid_hash_�2�text_�Vessel of Destruction��column_��id_hash_�TXT_GLOSSARY_TTL_0141�subid_hash_��text_�Pseudo-Wedge��column_��id_hash_�TXT_GLOSSARY_TTL_0142�subid_hash_��text_�Arcarum Evokers��column_��id_hash_�TXT_GLOSSARY_TTL_0142�subid_hash_�1�text_�Arcarum Evokers��column_��id_hash_�TXT_GLOSSARY_TTL_0143�subid_hash_��text_�True Dragon Lindwurm��column_��id_hash_�TXT_GLOSSARY_TTL_0144�subid_hash_��text_�"Bahamut of Destruction and Rebirth��column_��id_hash_�TXT_GLOSSARY_TTL_0145�subid_hash_��text_�Bahamut of Creation��column_��id_hash_�TXT_GLOSSARY_TTL_0146�subid_hash_��text_�World Matter��column_��id_hash_�TXT_GLOSSARY_TTL_0147�subid_hash_��text_�Abominations��column_��id_hash_�TXT_GLOSSARY_TTL_0148�subid_hash_��text_�Summons��column_��id_hash_�TXT_GLOSSARY_BODY_0000_01�subid_hash_��text_�VМир плавучих островов простирается на множество небесных царств, 
 каждое из которых разделено неспокойной зоной, известной 
 как Мрачный бассейн. Когда-то давно Небесным царством правили 
 могущественные существа, называемые Астралами, пока жители небес 
@@ -30,15 +28,11 @@
 Астральный Микабоши сначала представляется команде веселым молодым 
 амнезиаком. Однако в конце концов выясняется, что во времена Войны она 
 была тираном, правившим Нальхеграндом и жаждавшим подчинить себе 
-небеса, и это откровение делает ее холодной и жестокой.��column_��id_hash_�TXT_GLOSSARY_BODY_0003_load�subid_hash_��text_��Война - это восстание, произошедшее 
-сотни лет назад, в ходе которого 
-небожители свергли и изгнали своих 
-угнетателей - Астралов.��column_��id_hash_�TXT_GLOSSARY_BODY_0003_01�subid_hash_��text_�Война - это восстание, произошедшее сотни лет назад, в ходе которого 
+небеса, и это откровение делает ее холодной и жестокой.��column_��id_hash_�TXT_GLOSSARY_BODY_0003_01�subid_hash_��text_�Война - это восстание, произошедшее сотни лет назад, в ходе которого 
 небожители свергли и изгнали своих угнетателей - Астралов. 
 Хотя память о Войне в значительной степени истлела со временем, 
 именно это знаменательное событие заложило основы 
-существующего сегодня Небесного царства.��column_��id_hash_�TXT_GLOSSARY_BODY_0004_load�subid_hash_��text_ٷЭта неспокойная зона наполнена ядовитыми
-испарениями. Она образует границу между небесными домами.��column_��id_hash_�TXT_GLOSSARY_BODY_0004_01�subid_hash_��text_�)Эта неспокойная зона наполнена ядовитыми испарениями, 
+существующего сегодня Небесного царства.��column_��id_hash_�TXT_GLOSSARY_BODY_0004_01�subid_hash_��text_�)Эта неспокойная зона наполнена ядовитыми испарениями, 
 могущественными монстрами и штормами, разбивающими корабли. 
 Она образует границу между небесными домами.��column_��id_hash_�TXT_GLOSSARY_BODY_0005_load�subid_hash_��text_ٓАстралы использовали этих богоподобных зверей в качестве оружия во время Войны.��column_��id_hash_�TXT_GLOSSARY_BODY_0005_01�subid_hash_��text_��Астралы использовали этих богоподобных зверей как оружие во время Войны. 
 После изгнания прежних хозяев многие первобытные существа спали в 
@@ -47,15 +41,11 @@
 
  
 Первобытные существа могут быть подконтрольны только Астралам, а их 
-редкие, но ужасные бесчинства по силе напоминают природные катаклизмы.��column_��id_hash_�TXT_GLOSSARY_BODY_0006_load�subid_hash_��text_��Известная басня гласит, что Эсталусия, 
-остров Астралов, находится на краю небес, 
-однако доказательств существования этого острова нет.��column_��id_hash_�TXT_GLOSSARY_BODY_0006_01�subid_hash_��text_��Известная басня гласит, что Эсталусия, остров Астралов, находится на 
+редкие, но ужасные бесчинства по силе напоминают природные катаклизмы.��column_��id_hash_�TXT_GLOSSARY_BODY_0006_01�subid_hash_��text_��Известная басня гласит, что Эсталусия, остров Астралов, находится на 
 краю небес, однако доказательств существования этого острова нет.
  Ученые выдвинули множество спорных теорий о том, что находится 
 на краю небес, включая наличие великой стены или утопию удобства 
-и комфорта.��column_��id_hash_�TXT_GLOSSARY_BODY_0007_load�subid_hash_��text_��С древних времен небожители слагают легенды
-об этом мистическом острове, говорят он исполняет желания всех
-кто достигнет его берега.��column_��id_hash_�TXT_GLOSSARY_BODY_0007_01�subid_hash_��text_��С древних времен небожители слагают легенды об этом мистическом 
+и комфорта.��column_��id_hash_�TXT_GLOSSARY_BODY_0007_01�subid_hash_��text_��С древних времен небожители слагают легенды об этом мистическом 
 острове. Тем, кто приземляется на ее берегах, обещают несметные 
 знания, славу и исполнение любого желания. 
 
@@ -64,15 +54,9 @@
 Многие воздушные корабли, отправившиеся на поиски волшебной нити 
 его истории, бесследно исчезли.��column_��id_hash_�TXT_GLOSSARY_BODY_0007_02�subid_hash_��text_�`Лилит, воспользовавшись тем, что жители небес очарованы 
 Эсталусией, пообещала своим последователям проход на остров в обмен 
-на веру в первобытных богов. Число пилигримов Авиа резко возросло.��column_��id_hash_�TXT_GLOSSARY_BODY_0008_load�subid_hash_��text_��Эти артефакты можно найти только у 
-могущественных первобытных зверей.
-собрав их все, можно получить карту 
-края небес.��column_��id_hash_�TXT_GLOSSARY_BODY_0008_01�subid_hash_��text_�bЭти артефакты можно найти только у могущественных первобытных зверей, 
+на веру в первобытных богов. Число пилигримов Авиа резко возросло.��column_��id_hash_�TXT_GLOSSARY_BODY_0008_01�subid_hash_��text_�bЭти артефакты можно найти только у могущественных первобытных зверей, 
 связавших себя узами договора с островом, на котором они обитают. 
-Собрав все фрагменты, можно получить карту к краю небес.��column_��id_hash_�TXT_GLOSSARY_BODY_0009_load�subid_hash_��text_�1Таинственная и мистическая форма энергии, 
-издавна существующая в Небесном царстве, 
-независимая от силы первобытных зверей.
-Ее обладатели известны как ведьмы и маги.��column_��id_hash_�TXT_GLOSSARY_BODY_0009_01�subid_hash_��text_�Таинственная и мистическая форма энергии, издавна существующая в 
+Собрав все фрагменты, можно получить карту к краю небес.��column_��id_hash_�TXT_GLOSSARY_BODY_0009_01�subid_hash_��text_�Таинственная и мистическая форма энергии, издавна существующая в 
 Небесном царстве, независимая от силы первобытных зверей.
 Ее обладатели известны как колдуны и маги. Хотя великий маг достаточно 
 могуществен, чтобы противостоять первобытному зверю, лишь немногие 
@@ -80,26 +64,19 @@
 связывает ее жизнь и жизнь  в единое целое.��column_��id_hash_�TXT_GLOSSARY_BODY_0010_01�subid_hash_��text_��Получив смертельный удар и блуждая в безграничном пространстве между 
 жизнью и смертью, Лурия вернула  к жизни, использовав таинственную силу, 
 даровав половину своей души. 
-Эта связь неразрывно связала не только их жизни, но и будущее.��column_��id_hash_�TXT_GLOSSARY_BODY_0011_load�subid_hash_��text_�Этот воздушный корабль средних размеров является 
-домом
-для экипажа. ��column_��id_hash_�TXT_GLOSSARY_BODY_0011_01�subid_hash_��text_�8Этот воздушный корабль средних размеров является 
+Эта связь неразрывно связала не только их жизни, но и будущее.��column_��id_hash_�TXT_GLOSSARY_BODY_0011_01�subid_hash_��text_�8Этот воздушный корабль средних размеров является 
 домом для экипажа. Хотя внешне он ничем не отличается 
 от кораблей подобной конструкции, Грандсайфер, кажется, 
 обладает таинственной силой, порой откликаясь на мысли 
 своих пассажиров. У корабля есть своя история, которую он 
-разделил со своим рулевым Рэкамом.��column_��id_hash_�TXT_GLOSSARY_BODY_0012_load�subid_hash_��text_�tЭти Сигилы небес - единственный вид
-транспорта между островами.��column_��id_hash_�TXT_GLOSSARY_BODY_0012_01�subid_hash_��text_�QЭти Сигилы небес - единственный вид транспорта между островами. 
+разделил со своим рулевым Рэкамом.��column_��id_hash_�TXT_GLOSSARY_BODY_0012_01�subid_hash_��text_�QЭти Сигилы небес - единственный вид транспорта между островами. 
 Первые корабли были исключительно астральной конструкции, но по 
 мере развития технологий в Небесном царстве развивались и его 
 корабли. Современные корабли содержат комбинацию технологий ки 
 и Астралов, приспособленных для выполнения определенных функций. 
 Однако небожители еще не придумали, как строить корабли с нуля, и 
 если бы не их астральные части, эти суда никогда бы не поднялись 
-в воздух.��column_��id_hash_�TXT_GLOSSARY_BODY_0013_load�subid_hash_��text_��Тех, кто поднимается в воздух на кораблях, называют
-авиаторами. Кто-то - искатель приключений, отправляющийся на поиски
-новых территорий, кто-то- наемник, продающий свои
-услуги по истреблению монстров. Подобное занятие 
-в равной степени подразумевает свободу, славу и опасность.��column_��id_hash_�TXT_GLOSSARY_BODY_0013_01�subid_hash_��text_�WТех, кто поднимается в воздух на кораблях, называют 
+в воздух.��column_��id_hash_�TXT_GLOSSARY_BODY_0013_01�subid_hash_��text_�WТех, кто поднимается в воздух на кораблях, называют 
 авиаторами. Кто-то - искатель приключений, 
 отправляющийся на поиски новых территорий, кто-то
 - наемник, продающий свои услуги по истреблению 
@@ -108,10 +85,7 @@
 Небо наполнено всевозможными существами, 
 многие из которых враждебны, и отправиться в путь 
 означает вступить в бой. По этой причине о команде 
-ветеранов-авиаторов часто слагают легенды.��column_��id_hash_�TXT_GLOSSARY_BODY_0014_load�subid_hash_��text_��Пилот корабля. Хороший рулевой знаком
-не только с кораблем и штурвалом,
-но и со всем небом - его географией,
-климатом и воздушными течениями.��column_��id_hash_�TXT_GLOSSARY_BODY_0014_01�subid_hash_��text_�PПилот корабля. Хороший рулевой знаком не только с кораблем и 
+ветеранов-авиаторов часто слагают легенды.��column_��id_hash_�TXT_GLOSSARY_BODY_0014_01�subid_hash_��text_�PПилот корабля. Хороший рулевой знаком не только с кораблем и 
 штурвалом, но и со всем небом - его географией, климатом и 
 воздушными течениями.
 
@@ -120,12 +94,7 @@
 просты, и даже новичок может управлять таким кораблем на 
 небольших расстояниях. Однако небеса непредсказуемы, и любой 
 уважающей себя команде нужен опытный рулевой, чтобы 
-ориентироваться в них.��column_��id_hash_�TXT_GLOSSARY_BODY_0015_load�subid_hash_��text_��Эти могущественные существа выступают 
-в роли божеств-хранителей острова Зегагранде. 
-Для пилигримов Авиа они являются 
-объектами поклонения, и по мере того, как 
-влияние этой веры растет, растет и 
-почитание первобытных богов.��column_��id_hash_�TXT_GLOSSARY_BODY_0015_01�subid_hash_��text_��Эти могущественные существа выступают в роли божеств-хранителей 
+ориентироваться в них.��column_��id_hash_�TXT_GLOSSARY_BODY_0015_01�subid_hash_��text_��Эти могущественные существа выступают в роли божеств-хранителей 
 острова Зегагранде. Для пилигримов Авиа они являются объектами 
 поклонения, и по мере того, как влияние этой веры растет, растет и 
 почитание первобытных богов.��column_��id_hash_�TXT_GLOSSARY_BODY_0015_02�subid_hash_��text_��В других небесных домах эти сущности известны как первобытные звери, а 
@@ -134,12 +103,7 @@
 и название "первостихий бог" осталось с тех времен.��column_��id_hash_�TXT_GLOSSARY_BODY_0016_load�subid_hash_��text_٣Первобытные боги почитаются в алтарях, земли 
 которых считаются священными в Зегагранде.��column_��id_hash_�TXT_GLOSSARY_BODY_0016_01�subid_hash_��text_��Первобытные боги почитаются в алтарях, земли которых считаются 
 священными в Зегагранде. Паломничество к этим местам является важной 
-частью местной культуры, поскольку считается, что путешествия приносят удачу.��column_��id_hash_�TXT_GLOSSARY_BODY_0017_load�subid_hash_��text_ټВ одном из ресторанов Фольки придумали 
-этот кремовый суп, приготовленный из местной 
-пшеницы и овощей.��column_��id_hash_�TXT_GLOSSARY_BODY_0017_01�subid_hash_��text_��В одном из ресторанов Фольки придумали этот кремовый суп, 
-приготовленный из местной пшеницы и овощей. Хотя большинство 
-рецептов предполагает длительное тушение бульона с вяленым мясом, 
-в разных семьях и на разных островах готовят по своему рецепту.��column_��id_hash_�TXT_GLOSSARY_BODY_0018_load�subid_hash_��text_َЭто беспроводное устройство способно 
+частью местной культуры, поскольку считается, что путешествия приносят удачу.��column_��id_hash_�TXT_GLOSSARY_BODY_0018_load�subid_hash_��text_َЭто беспроводное устройство способно 
 передавать звук на большие расстояния.��column_��id_hash_�TXT_GLOSSARY_BODY_0018_01�subid_hash_��text_��Это беспроводное устройство способно передавать звук на большие 
 расстояния. Трансиверы редки и очень дороги, и не многие обитатели 
 неба даже знают об их существовании.
@@ -157,9 +121,7 @@
 Это один из многих кораблей, контролируемых религиозной группой, 
 которая в свое время даже отправлялась в паломничество целыми 
 флотилиями. Некоторые верующие Авии, увидев приближение Амеретат, 
-падают ниц в его тени.��column_��id_hash_�TXT_GLOSSARY_BODY_0021_load�subid_hash_��text_٩Это боевое снаряжение было подарено 
-Роланом. Его имя - выражение 
-неповиновения церкви Авии.��column_��id_hash_�TXT_GLOSSARY_BODY_0021_01�subid_hash_��text_�После того как тело и дух были сокрушены в битве с 
+падают ниц в его тени.��column_��id_hash_�TXT_GLOSSARY_BODY_0021_01�subid_hash_��text_�После того как тело и дух были сокрушены в битве с 
 Идом, Ролан вручил новое боевое снаряжение. 
 Его имя - выражение неповиновения церкви Авии.��column_��id_hash_�TXT_GLOSSARY_BODY_0022_load�subid_hash_��text_�mЭта пушка использует энергию эфира 
 в качестве боеприпасов.��column_��id_hash_�TXT_GLOSSARY_BODY_0022_01�subid_hash_��text_�
@@ -185,8 +147,7 @@
 Эта новая форма артиллерийское вооружение, однако, не лишено недостатков; 
 ствол, например, чрезвычайно склонен к перегреву после скоростной стрельбы. 
 Но, учитывая ее замечательную совместимость с дирижаблями, можно с у
-веренностью предположить, что эфирная пушка - это тяжелая артиллерия будущего."��column_��id_hash_�TXT_GLOSSARY_BODY_0023_load�subid_hash_��text_�hНебольшая модель дирижабля, 
-используемая флотом Авиета.��column_��id_hash_�TXT_GLOSSARY_BODY_0023_01�subid_hash_��text_�PНебольшая модель дирижабля, используемая флотом Авиета. 
+веренностью предположить, что эфирная пушка - это тяжелая артиллерия будущего."��column_��id_hash_�TXT_GLOSSARY_BODY_0023_01�subid_hash_��text_�PНебольшая модель дирижабля, используемая флотом Авиета. 
 Его характеристики подробно описаны в следующем отчете:
 "Ваза'итский раптор легок и быстр, хорошо подходит для маневров 
 "удар-бегство" или доставки десантников при нападении из засады. 
@@ -217,106 +178,61 @@
 реакций; та же способность, примененная к герметику разума, нейтрализует 
 магию ошейника, заставляя его перегреваться. На дне камня-катализатора 
 слабыми астральными буквами написано "Дег", вероятно, 
-изобретатель устройства.��column_��id_hash_�TXT_GLOSSARY_BODY_0026_load�subid_hash_��text_��Трагедия, произошедшая пятнадцать лет назад, 
-началась с того, что огромная часть острова Дали 
-была разрушена взрывом. ��column_��id_hash_�TXT_GLOSSARY_BODY_0026_01�subid_hash_��text_��Трагедия, произошедшая пятнадцать лет назад, началась с того, что 
+изобретатель устройства.��column_��id_hash_�TXT_GLOSSARY_BODY_0026_01�subid_hash_��text_��Трагедия, произошедшая пятнадцать лет назад, началась с того, что 
 огромная часть острова Дали была разрушена взрывом. Выжившие, 
 многие из которых спаслись в Фольке или Сидхоллоу, считают, что боги 
 покарали их в отместку за скупость.��column_��id_hash_�TXT_GLOSSARY_BODY_0027_01�subid_hash_��text_�uЭти кристаллы были разработаны в результате обширных исследований 
 Лурии и первобытных зверей, проведенных империей Эрсте. Они способны 
 наделить обитающего в небе смертного огромной силой, подобной Астралам. 
 Однако, поскольку ни Астралы, ни их сила не являются родными для неба, 
-воздействие темной эссенции нестабильно и сопряжено с риском.��column_��id_hash_�TXT_GLOSSARY_BODY_0028_load�subid_hash_��text_��Эта редкая трава, растущая в Закатной роще, 
-содержит слабые следы магии Астралов, которая 
-может свести на нет избыток энергии ветра в теле.��column_��id_hash_�TXT_GLOSSARY_BODY_0028_01�subid_hash_��text_��Эта редкая трава, растущая в Закатной роще, содержит слабые следы магии 
+воздействие темной эссенции нестабильно и сопряжено с риском.��column_��id_hash_�TXT_GLOSSARY_BODY_0028_01�subid_hash_��text_��Эта редкая трава, растущая в Закатной роще, содержит слабые следы магии 
 Астралов, которая может свести на нет избыток энергии ветра в организме. 
 слухи, что она была завезена в эти края таинственным человеком, который 
-когда-то спас Фольку.��column_��id_hash_�TXT_GLOSSARY_BODY_0029_load�subid_hash_��text_�RЭта крайне редкая болезнь на самом деле 
-возникает благодаряблагословению: иногда 
-магия ветра Фурикейн оказывается слишком 
-сильной для смертного тела, что приводит к 
-его разрушению.��column_��id_hash_�TXT_GLOSSARY_BODY_0029_01�subid_hash_��text_�EЭта крайне редкая болезнь на самом деле возникает благодаря
+когда-то спас Фольку.��column_��id_hash_�TXT_GLOSSARY_BODY_0029_01�subid_hash_��text_�EЭта крайне редкая болезнь на самом деле возникает благодаря
 благословению: иногда магия ветра Фурикана оказывается слишком 
 сильной для смертного тела, что приводит к его разрушению.
 В последние годы влияние Фурикейн ослабло, и число людей, 
 страдающих от Увядания, сократилось, а многие считают, что болезнь 
-вымерла.��column_��id_hash_�TXT_GLOSSARY_BODY_0030_load�subid_hash_��text_�
-Из бархатистого золотистого желтка одного 
-из этих мамонтовых яиц можно приготовить 
-омлет, способный восстановить силы десяти 
-взрослых мужчин.��column_��id_hash_�TXT_GLOSSARY_BODY_0030_01�subid_hash_��text_�}Из бархатистого золотистого желтка одного из этих мамонтовых яиц можно 
+вымерла.��column_��id_hash_�TXT_GLOSSARY_BODY_0030_01�subid_hash_��text_�}Из бархатистого золотистого желтка одного из этих мамонтовых яиц можно 
 приготовить омлет, способный восстановить силы десяти взрослых мужчин. 
 Однако путешествие за яйцами крылаток очень опасно, и неудивительно, 
 что они так редко встречаются на рынке. Те немногие, кто пробовал это 
-лакомство, говорят о его высокой питательности и богатом вкусе.��column_��id_hash_�TXT_GLOSSARY_BODY_0031_load�subid_hash_��text_��Эту чудовищную смазку добывают 
-из обитающих в пустыне слизней. 
-Она крайне редка, но совершенно 
-бесполезна.��column_��id_hash_�TXT_GLOSSARY_BODY_0031_01�subid_hash_��text_��Эту чудовищную смазку добывают из обитающих в пустыне слизней. 
+лакомство, говорят о его высокой питательности и богатом вкусе.��column_��id_hash_�TXT_GLOSSARY_BODY_0031_01�subid_hash_��text_��Эту чудовищную смазку добывают из обитающих в пустыне слизней. 
 Пустынное масло совершенно бесполезно, хотя и встречается крайне редко. 
 Никому из обладателей всех пяти чувств не придет в голову использовать его 
-в качестве пищевого ингредиента.��column_��id_hash_�TXT_GLOSSARY_BODY_0032_load�subid_hash_��text_��Небольшое морское судно, некогда 
-являвшееся ключевой частью логистической 
-цепочки горнодобывающей промышленности 
-Фольки и Темпеала.��column_��id_hash_�TXT_GLOSSARY_BODY_0032_01�subid_hash_��text_�'Небольшое морское судно, некогда являвшееся ключевой частью 
+в качестве пищевого ингредиента.��column_��id_hash_�TXT_GLOSSARY_BODY_0032_01�subid_hash_��text_�'Небольшое морское судно, некогда являвшееся ключевой частью 
 логистической цепочки горнодобывающей промышленности Фольки и 
 Темпеала. Благодаря ограничению грузоподъемности и легкости экипаж 
 Наутилуса мог летать со скоростью, втрое превышающей скорость 
 обычного пассажирского корабля. 
 В последние годы из-за износа старое судно планировалось сдать на слом, 
 но оно было спасено благодаря горячим усилиям нескольких молодых 
-техников.��column_��id_hash_�TXT_GLOSSARY_BODY_0033_load�subid_hash_��text_ٲЭтот полупрозрачный кристалл размером 
-с ладонь пронизан первобытной энергией 
-и слабо светится.��column_��id_hash_�TXT_GLOSSARY_BODY_0033_01�subid_hash_��text_�#Этот полупрозрачный кристалл размером с ладонь пронизан 
+техников.��column_��id_hash_�TXT_GLOSSARY_BODY_0033_01�subid_hash_��text_�#Этот полупрозрачный кристалл размером с ладонь пронизан 
 первобытной энергией и слабо светится. Простое прикосновение к нему 
-может успокоить беспокойный ум.��column_��id_hash_�TXT_GLOSSARY_BODY_0034_load�subid_hash_��text_�?Кристаллизация силы Астралов, которая 
-является энергией всех первобытных зверей. 
-Истощение первичной энергии приведет к 
-тому, что она потеряет свою форму, по сути, 
-убив ее.��column_��id_hash_�TXT_GLOSSARY_BODY_0034_01�subid_hash_��text_�PКристаллизация силы Астралов, которая является жизненной 
+может успокоить беспокойный ум.��column_��id_hash_�TXT_GLOSSARY_BODY_0034_01�subid_hash_��text_�PКристаллизация силы Астралов, которая является жизненной 
 энергией всех первобытных зверей. Истощение первичной энергии 
-приведет к тому, что она потеряет свою форму, по сути, убив ее.��column_��id_hash_�TXT_GLOSSARY_BODY_0035_load�subid_hash_��text_��Этот светящийся зеленый кристалл 
-наполнен первобытной энергией 
-и излучает собственное магнитное поле.��column_��id_hash_�TXT_GLOSSARY_BODY_0035_01�subid_hash_��text_�Этот светящийся зеленый кристалл наполнен первобытной энергией 
+приведет к тому, что она потеряет свою форму, по сути, убив ее.��column_��id_hash_�TXT_GLOSSARY_BODY_0035_01�subid_hash_��text_�Этот светящийся зеленый кристалл наполнен первобытной энергией 
 и излучает собственное магнитное поле, отпугивающее злобных 
-монстров и гоблинов.��column_��id_hash_�TXT_GLOSSARY_BODY_0036_load�subid_hash_��text_�bДо своего поражения этот ужасный тиран 
-зверей держал в страхе всех своих подданных. 
-Его чешуя была настолько толстой, что сталь
-не могла ее пробить, и даже капля его горящей 
-крови пылала силой.��column_��id_hash_�TXT_GLOSSARY_BODY_0036_01�subid_hash_��text_�aДо своего поражения этот ужасный тиран зверей держал в страхе всех 
+монстров и гоблинов.��column_��id_hash_�TXT_GLOSSARY_BODY_0036_01�subid_hash_��text_�aДо своего поражения этот ужасный тиран зверей держал в страхе всех 
 своих подданных. Его чешуя была настолько толстой, что сталь не могла 
-ее пробить, и даже капля его горящей крови пылала силой.��column_��id_hash_�TXT_GLOSSARY_BODY_0037_load�subid_hash_��text_��Самая великолепная на вкус рыба, которая 
-когда-либо появлялась в Огюсте, но 
-настолько редкая, что даже местный рыбак, 
-давно плавающий под парусами, может 
-пересчитать свои встречи с Бонито по 
-пальцам одной руки.��column_��id_hash_�TXT_GLOSSARY_BODY_0037_01�subid_hash_��text_��Самая великолепная на вкус рыба, которая когда-либо появлялась в 
+ее пробить, и даже капля его горящей крови пылала силой.��column_��id_hash_�TXT_GLOSSARY_BODY_0037_01�subid_hash_��text_��Самая великолепная на вкус рыба, которая когда-либо появлялась в 
 Огюсте, но настолько редкая, что даже местный рыбак, давно 
 плавающий под парусами, может пересчитать свои встречи с Бонито 
 по пальцам одной руки.
 По слухам, сашими продлевает жизнь человека, а когда ее жарят на 
 гриле с травами, вкус становится настолько восхитительным, что даже 
-у мертвеца начинается слюноотделение.��column_��id_hash_�TXT_GLOSSARY_BODY_0038_load�subid_hash_��text_�mОб этой неуловимой рыбе посвящены 
-многие басни Зегагранде.��column_��id_hash_�TXT_GLOSSARY_BODY_0038_01�subid_hash_��text_�WОб этой неуловимой рыбе посвящены многие басни Зегагранде, в 
+у мертвеца начинается слюноотделение.��column_��id_hash_�TXT_GLOSSARY_BODY_0038_01�subid_hash_��text_�WОб этой неуловимой рыбе посвящены многие басни Зегагранде, в 
 которых ее чешуя описывается как более блестящая, чем любой 
-драгоценный камень, а спинной плавник - прекраснее любого цветка.��column_��id_hash_�TXT_GLOSSARY_BODY_0039_load�subid_hash_��text_�|Считается, что эта легендарная рыба - 
-самая большая в небесном доме.��column_��id_hash_�TXT_GLOSSARY_BODY_0039_01�subid_hash_��text_��Считается, что эта легендарная рыба - самая большая в небесном доме. 
+драгоценный камень, а спинной плавник - прекраснее любого цветка.��column_��id_hash_�TXT_GLOSSARY_BODY_0039_01�subid_hash_��text_��Считается, что эта легендарная рыба - самая большая в небесном доме. 
 Хотя, что неудивительно, было много наблюдений за этой бегемотихой, 
 до сих пор никто не нашел достаточно прочного троса или лодки, чтобы 
-поймать ее на удочку.��column_��id_hash_�TXT_GLOSSARY_BODY_0040_load�subid_hash_��text_�Когда наступает сезон откладывания яиц, 
-эта холодноводная рыба отправляется вверх 
-по течению от своего холодного дома. 
-Любимое блюдо во время еды.��column_��id_hash_�TXT_GLOSSARY_BODY_0040_01�subid_hash_��text_�Когда наступает сезон откладывания яиц, эта холодноводная рыба 
+поймать ее на удочку.��column_��id_hash_�TXT_GLOSSARY_BODY_0040_01�subid_hash_��text_�Когда наступает сезон откладывания яиц, эта холодноводная рыба 
 отправляется вверх по течению от своего холодного дома. 
-Любимое блюдо во время еды.��column_��id_hash_�TXT_GLOSSARY_BODY_0041_load�subid_hash_��text_�KШкола боевых искусств, основанная Гандагозой, 
-которая следует мантре "Путь кулака - это путь 
-во вселенную." Считается, что мастера могут 
-раскалывать горы и метеориты голыми руками.��column_��id_hash_�TXT_GLOSSARY_BODY_0041_01�subid_hash_��text_�Школа боевых искусств, основанная Гандагозой, которая следует мантре 
+Любимое блюдо во время еды.��column_��id_hash_�TXT_GLOSSARY_BODY_0041_01�subid_hash_��text_�Школа боевых искусств, основанная Гандагозой, которая следует мантре 
 "Путь кулака - это путь во вселенную." Считается, что мастера могут 
 раскалывать горы и метеориты голыми руками.
 Сейчас, на закате своей жизни, Гандагоза отчаянно ищет преемника, и он 
-находится на вершине своего списка.��column_��id_hash_�TXT_GLOSSARY_BODY_0042_load�subid_hash_��text_ٞЭто искусство, основанное Калиостро, 
-способно совершать чудесные превращения 
-в мире.��column_��id_hash_�TXT_GLOSSARY_BODY_0042_01�subid_hash_��text_��Это искусство, основанное Калиостро, способно совершать 
+находится на вершине своего списка.��column_��id_hash_�TXT_GLOSSARY_BODY_0042_01�subid_hash_��text_��Это искусство, основанное Калиостро, способно совершать 
 чудесные превращения в мире. Однако все его процессы 
 подчиняются фундаментальным принципам, главным из 
 которых является закон эквивалентного обмена. За редким 
@@ -325,31 +241,19 @@
 способности изменять, а скорее в способности раскрывать? 
 Разложив огромную, запутанную вселенную на самые основные 
 составляющие, алхимия в конечном итоге сможет разгадать тайну 
-бытия.��column_��id_hash_�TXT_GLOSSARY_BODY_0043_load�subid_hash_��text_�&Впервые это заболевание было открыто 
-доктором Лисирией. Его симптомы включают 
-высокую температуру и частичную 
-неподвижность из-за паралича нервной 
-системы. ��column_��id_hash_�TXT_GLOSSARY_BODY_0043_01�subid_hash_��text_�rВпервые это заболевание было открыто доктором Лисирией. Его симптомы 
+бытия.��column_��id_hash_�TXT_GLOSSARY_BODY_0043_01�subid_hash_��text_�rВпервые это заболевание было открыто доктором Лисирией. Его симптомы 
 включают высокую температуру и частичную неподвижность из-за паралича 
-нервной системы. Как причина, так и лечение пока неизвестны.��column_��id_hash_�TXT_GLOSSARY_BODY_0044_load�subid_hash_��text_��Самый многочисленный тип небожителей, хорошо сбалансированный как 
-физически, так и умственно, и полный любопытства.��column_��id_hash_�TXT_GLOSSARY_BODY_0044_01�subid_hash_��text_�{Самый многочисленный тип небожителей, хорошо сбалансированный как 
+нервной системы. Как причина, так и лечение пока неизвестны.��column_��id_hash_�TXT_GLOSSARY_BODY_0044_01�subid_hash_��text_�{Самый многочисленный тип небожителей, хорошо сбалансированный как 
 физически, так и умственно, и полный любопытства. Как правило, творческие 
-и умные, многие Люди становятся изобретателями и изготовителями.��column_��id_hash_�TXT_GLOSSARY_BODY_0045_load�subid_hash_��text_ًЭти стройные существа обладают звериным слухом и врожденным 
-даром к магии. ��column_��id_hash_�TXT_GLOSSARY_BODY_0045_01�subid_hash_��text_�0Эти стройные существа обладают звериным слухом и врожденным 
+и умные, многие Люди становятся изобретателями и изготовителями.��column_��id_hash_�TXT_GLOSSARY_BODY_0045_01�subid_hash_��text_�0Эти стройные существа обладают звериным слухом и врожденным 
 даром к магии. Древние Эруны предпочитали жить в горах, чтобы 
 спокойно заниматься своими исследованиями, но в последнее время 
 они всё чаще переселяются в оживлённые города и посёлки. Почему-то 
-они предпочитают носить одежду с открытой спиной.��column_��id_hash_�TXT_GLOSSARY_BODY_0046_load�subid_hash_��text_ٸЭти маленькие остроухие небожители чрезвычайно рассудительны, что 
-делает их умелыми бизнесменами. ��column_��id_hash_�TXT_GLOSSARY_BODY_0046_01�subid_hash_��text_�mЭти маленькие остроухие небожители чрезвычайно рассудительны, что 
+они предпочитают носить одежду с открытой спиной.��column_��id_hash_�TXT_GLOSSARY_BODY_0046_01�subid_hash_��text_�mЭти маленькие остроухие небожители чрезвычайно рассудительны, что 
 делает их умелыми бизнесменами. Хотя физически Харвины плохо 
-приспособлены к сражениям, они обладают несгибаемой волей и отвагой.��column_��id_hash_�TXT_GLOSSARY_BODY_0047_load�subid_hash_��text_�Эти рогатые небожители отличаются крепким телосложением, а их 
+приспособлены к сражениям, они обладают несгибаемой волей и отвагой.��column_��id_hash_�TXT_GLOSSARY_BODY_0047_01�subid_hash_��text_�[Эти рогатые небожители отличаются крепким телосложением, а их 
 физическая сила делает их отличными мастерами по обработке железа и 
-плотниками.��column_��id_hash_�TXT_GLOSSARY_BODY_0047_01�subid_hash_��text_�[Эти рогатые небожители отличаются крепким телосложением, а их 
-физическая сила делает их отличными мастерами по обработке железа и 
-плотниками. Однако большинство из них не склонны к магии.��column_��id_hash_�TXT_GLOSSARY_BODY_0048_load�subid_hash_��text_��Этот великолепно бронированный первобытный зверь возглавлял 
-сражения, обреченный всю жизнь жить мечом. Когда-то она была 
-Астралом, славилась своей физической силой и тактическим умом - даже 
-тогда многие называли ее богом войны.��column_��id_hash_�TXT_GLOSSARY_BODY_0048_01�subid_hash_��text_��Этот великолепно бронированный первобытный зверь возглавлял 
+плотниками. Однако большинство из них не склонны к магии.��column_��id_hash_�TXT_GLOSSARY_BODY_0048_01�subid_hash_��text_��Этот великолепно бронированный первобытный зверь возглавлял 
 сражения, обреченный всю жизнь жить мечом. Когда-то она была 
 Астралом, славилась своей физической силой и тактическим умом - даже 
 тогда многие называли ее богом войны.
@@ -360,31 +264,19 @@
 известным лишь как "Змей." Большую часть второй жизни она провела в 
 потустороннем мире, но с помощью Каталины смогла забыть обо всех своих 
 горестях и жить дальше. Свою силу она оставила Каталине, с которой связала 
-себя узами.��column_��id_hash_�TXT_GLOSSARY_BODY_0049_load�subid_hash_��text_�Этот первобытный зверь ветра долгое время 
-дремал в Порт-Бриз, благословляя искателей 
-приключений и торговцев и принося 
-архипелагу сказочную удачу. ��column_��id_hash_�TXT_GLOSSARY_BODY_0049_01�subid_hash_��text_��Этот первобытный зверь ветра долгое время дремал в Порт-Бриз, 
+себя узами.��column_��id_hash_�TXT_GLOSSARY_BODY_0049_01�subid_hash_��text_��Этот первобытный зверь ветра долгое время дремал в Порт-Бриз, 
 благословляя искателей приключений и торговцев и принося архипелагу 
 сказочную удачу. Однако ее буйство влечет за собой страшные разрушения, 
 поднимая ветры, способные сравниться с буйством Мрачного котла.
 Она связана с Ракэмом, который прошел "Сокровенное учение" наделил 
-его своей силой.��column_��id_hash_�TXT_GLOSSARY_BODY_0050_load�subid_hash_��text_�	Первобытный зверь Ноа - кораблестроитель, и 
-Грандсайфер - дело его рук. Они с Ракэмом 
-связаны еще с юности рулевого, когда те 
-обменялись клятвой.��column_��id_hash_�TXT_GLOSSARY_BODY_0050_01�subid_hash_��text_�Первобытный зверь Ноа - кораблестроитель, и Грандсайфер - дело его рук. 
+его своей силой.��column_��id_hash_�TXT_GLOSSARY_BODY_0050_01�subid_hash_��text_�Первобытный зверь Ноа - кораблестроитель, и Грандсайфер - дело его рук. 
 Они с Ракэмом связаны еще с юности рулевого, когда те обменялись клятвой. 
 Это обещание стало для Ракэма источником мужества, и он пользуется им 
-всякий раз, когда Грандсайфер падает и его воля к полету ослабевает.��column_��id_hash_�TXT_GLOSSARY_BODY_0051_load�subid_hash_��text_�3This metal-plated primal beast was born from
-Это металлическое чудовище родилось из 
-трагедии. Его монументальное тело, кажется, 
-перекликается с криками каждого, кого 
-когда-либо обидели. ��column_��id_hash_�TXT_GLOSSARY_BODY_0051_01�subid_hash_��text_�kЭто металлическое чудовище родилось из трагедии. Его монументальное 
+всякий раз, когда Грандсайфер падает и его воля к полету ослабевает.��column_��id_hash_�TXT_GLOSSARY_BODY_0051_01�subid_hash_��text_�kЭто металлическое чудовище родилось из трагедии. Его монументальное 
 тело, кажется, перекликается с криками каждого, кого когда-либо обидели. 
 Хотя он работает на астральных технологиях, его рама была выточена из 
 железа Небесного царства, что делает Колосса одним из немногих 
-первобытных зверей, когда-либо созданных руками небожителей.��column_��id_hash_�TXT_GLOSSARY_BODY_0052_load�subid_hash_��text_��Этот змееподобный первобытный зверь властвует 
-над водами исцеления и 
-удачи. Он дремлет на островах Огаста��column_��id_hash_�TXT_GLOSSARY_BODY_0052_01�subid_hash_��text_�ZЭтот змееподобный первобытный зверь властвует над водами исцеления и 
+первобытных зверей, когда-либо созданных руками небожителей.��column_��id_hash_�TXT_GLOSSARY_BODY_0052_01�subid_hash_��text_�ZЭтот змееподобный первобытный зверь властвует над водами исцеления и 
 удачи. Он дремлет на островах Огаста - одном из немногих мест в Небесном 
 царстве, омываемом морем.
 
@@ -392,23 +284,14 @@
 обладают силой исцелять как людей, так и природу. После окончания войны 
 море Огюста стало популярным туристическим направлением.
 Левиафан связан с Ойгеном, который завершил "Сокровенное учение", 
-благословившее его своей силой.��column_��id_hash_�TXT_GLOSSARY_BODY_0053_load�subid_hash_��text_��Первобытный зверь Коноханасакуя - 
-" цветущий", его сила выходит за рамки 
-цветов и затрагивает потенциал всех живых 
-существ.��column_��id_hash_�TXT_GLOSSARY_BODY_0053_01�subid_hash_��text_�TПервобытный зверь Коноханасакуя - " цветущий",, и хотя она является 
+благословившее его своей силой.��column_��id_hash_�TXT_GLOSSARY_BODY_0053_01�subid_hash_��text_�TПервобытный зверь Коноханасакуя - " цветущий",, и хотя она является 
 источником обильного цветения Сидхоллоу, эта сила выходит за рамки 
-цветов и затрагивает потенциал всех живых существ.��column_��id_hash_�TXT_GLOSSARY_BODY_0054_load�subid_hash_��text_��
-Когда-то этот первобытный зверь бесцельно 
-блуждал в небесах в виде корабля,лишая всех 
-жителей истинной смерти.��column_��id_hash_�TXT_GLOSSARY_BODY_0054_01�subid_hash_��text_�rКогда-то этот первобытный зверь бесцельно блуждал в небесах в 
+цветов и затрагивает потенциал всех живых существ.��column_��id_hash_�TXT_GLOSSARY_BODY_0054_01�subid_hash_��text_�rКогда-то этот первобытный зверь бесцельно блуждал в небесах в 
 виде корабля, окутанного миазмами. Так было до тех пор, пока 
 пандемия не охватила соседей, друзей и семью молодой девушки 
 по имени Ферри. Ее молитвы вызвали Селесту на туманный остров 
 Трамонт, где странное существо, пользуясь своим влиянием, 
-лишило всех жителей истинной смерти.��column_��id_hash_�TXT_GLOSSARY_BODY_0055_load�subid_hash_��text_� Родной небесный дом  Грандсайфера и его 
-команды, где дуют легкие бризы и расположены 
-такие острова, как Зинкенстилл и архипелаг 
-Порт-Бриз. ��column_��id_hash_�TXT_GLOSSARY_BODY_0055_01�subid_hash_��text_��Родной небесный дом  Грандсайфера и его команды, где дуют 
+лишило всех жителей истинной смерти.��column_��id_hash_�TXT_GLOSSARY_BODY_0055_01�subid_hash_��text_��Родной небесный дом  Грандсайфера и его команды, где дуют 
 легкие бризы и расположены такие острова, как Зинкенстилл и архипелаг 
 Порт-Бриз. Здесь богатая, самодостаточная экономика, поэтому немногие 
 жители считают, что бурный переход через Мрачный бассейн в новые земли 
@@ -437,9 +320,7 @@
 пор Сидхоллоу стал политическим и экономическим центром.��column_��id_hash_�TXT_GLOSSARY_BODY_0059_load�subid_hash_��text_ِКогда-то этот зеленеющий лес завещал свои 
 природные богатства жителям Фолька.��column_��id_hash_�TXT_GLOSSARY_BODY_0059_01�subid_hash_��text_�WКогда-то этот зеленеющий лес завещал свои природные богатства жителям 
 Фолька. Теперь, вняв предупреждениям местного Корпуса обороны, горожане 
-больше не бродят в тени его щедрого полога.��column_��id_hash_�TXT_GLOSSARY_BODY_0060_load�subid_hash_��text_�%Этот небольшой остров имеет самодостаточную экономику, поэтому 
-через его границы проходит мало транспорта. В его сердце растет 
-лес, где можно собирать призмы.��column_��id_hash_�TXT_GLOSSARY_BODY_0060_01�subid_hash_��text_�eЭтот небольшой остров имеет самодостаточную экономику, поэтому 
+больше не бродят в тени его щедрого полога.��column_��id_hash_�TXT_GLOSSARY_BODY_0060_01�subid_hash_��text_�eЭтот небольшой остров имеет самодостаточную экономику, поэтому 
 через его границы проходит мало транспорта. В его сердце растет 
 лес, где можно собирать призмы.
 Несмотря на относительную изолированность Зинкенстилла, его 
@@ -447,11 +328,7 @@
 знаменитых достопримечательностей или местных деликатесов, 
 поскольку туристическая индустрия здесь так и не развилась, но 
 очаровательные и деревенские городки - это приятное место для 
-отдыха.��column_��id_hash_�TXT_GLOSSARY_BODY_0061_load�subid_hash_��text_�-Этот ветреный архипелаг - излюбленное 
-место авиаторов и торговцев. Самый 
-оживленный порт находится на острове 
-Эйнгана, в центре которого расположен 
-шумный рынок.��column_��id_hash_�TXT_GLOSSARY_BODY_0061_01�subid_hash_��text_��Эта группа островов, благословленная первобытным зверем Тиамат 
+отдыха.��column_��id_hash_�TXT_GLOSSARY_BODY_0061_01�subid_hash_��text_��Эта группа островов, благословленная первобытным зверем Тиамат 
 на мягкие и устойчивые ветра, является излюбленным местом сбора 
 путешественников и торговцев. Самый оживленный порт находится 
 на острове Эйнгана, в центре которого расположен шумный рынок.
@@ -464,19 +341,12 @@
 Но после обнаружения богатой рудной жилы и создания шахт Темпеала Фолька 
 стала известным экспортером благородных металлов.��column_��id_hash_�TXT_GLOSSARY_BODY_0062_02�subid_hash_��text_�nС тех пор как исчез Ролан, он же мистер Самоделкин, местные жители стали 
 страдать от наплыва монстров. Эту волну пока только пытается подавить 
-таинственный молодой новичок, пришедший на место Ролана.��column_��id_hash_�TXT_GLOSSARY_BODY_0063_load�subid_hash_��text_�Земля здесь кажется живой от жара и пульса огня. 
-Здесь находится крупнейшая во всем Фантагранде 
-фабрика по обработке металла, которая работает 
-день и ночь.��column_��id_hash_�TXT_GLOSSARY_BODY_0063_01�subid_hash_��text_��Здесь текут великие подземные реки магмы, наполняющие землю жизнью и 
+таинственный молодой новичок, пришедший на место Ролана.��column_��id_hash_�TXT_GLOSSARY_BODY_0063_01�subid_hash_��text_��Здесь текут великие подземные реки магмы, наполняющие землю жизнью и 
 жаром огня. Возможно, по этой причине многие драфты живут в герцогстве 
 Вальц, занимаясь изготовлением металлических изделий на крупнейшей 
 фабрике в небесном царстве, которая работает день и ночь.
 Металлические изделия из Вальца известны как прочные и красивые, и 
-продаются по высоким ценам по всему Фантагранду.��column_��id_hash_�TXT_GLOSSARY_BODY_0064_load�subid_hash_��text_�PЭтот архипелаг, наполненный светом и жизнью 
-воды, является автономным округом, созданным 
-для целей торговли. Как таковой, он не 
-подчиняется ни одному из окружающих его 
-правительств.��column_��id_hash_�TXT_GLOSSARY_BODY_0064_01�subid_hash_��text_��Этот архипелаг, наполненный светом и жизнью воды, является автономным 
+продаются по высоким ценам по всему Фантагранду.��column_��id_hash_�TXT_GLOSSARY_BODY_0064_01�subid_hash_��text_��Этот архипелаг, наполненный светом и жизнью воды, является автономным 
 округом, созданным для целей торговли. Как таковой, он не подчиняется ни 
 одному из окружающих его правительств. Огюст - единственный известный 
 регион в Фантагранде, обладающий достаточно большим водным объектом, 
@@ -522,12 +392,7 @@
 возвращаются обратно.��column_��id_hash_�TXT_GLOSSARY_BODY_0070_01�subid_hash_��text_��Говорят, что это ущелье образовалось как трещина во льду горы 
 Нейгелит, которая становилась все шире и глубже по мере того, как 
 мороз оттаивал и застывал. Теперь в его глубинах обитают чудовища, 
-и мало кто из упавших туда возвращается.��column_��id_hash_�TXT_GLOSSARY_BODY_0071_load�subid_hash_��text_��Этот монументальный континент примыкает 
-к северной границе Фантагранда. Большая 
-часть его внутренних территорий - пока еще 
-неосвоенных - является предметом частых 
-земельных споров между конкурирующими 
-национальными интересами.��column_��id_hash_�TXT_GLOSSARY_BODY_0071_01�subid_hash_��text_��Этот монументальный континент примыкает к северной границе Фантагранда. 
+и мало кто из упавших туда возвращается.��column_��id_hash_�TXT_GLOSSARY_BODY_0071_01�subid_hash_��text_��Этот монументальный континент примыкает к северной границе Фантагранда. 
 Большая часть его внутренних территорий - пока еще неосвоенных - является 
 предметом частых земельных споров между конкурирующими национальными 
 интересами. Этот всеобщий хаос также привлек банды преступников, втянутых в 
@@ -540,12 +405,7 @@
 покоится первобытный бог, которому поклоняется клан Меллоуз. 
 Чтобы попасть в святилище, паломник должен пройти через ряд тол-
 стых запечатанных дверей, открыть которые под силу только смотри-
-телю монастыря.��column_��id_hash_�TXT_GLOSSARY_BODY_0073_load�subid_hash_��text_�:Этот остров плавает в самом 
-сердце Зегагранде, неболь-
-шой, но густонаселенный, 
-поскольку на нем расположен 
-город Сидхоллоу, главный эконо-
-мический центр небесного дома.��column_��id_hash_�TXT_GLOSSARY_BODY_0073_01�subid_hash_��text_�Этот остров плавает в самом сердце Зегагранде, небольшой, но густо-
+телю монастыря.��column_��id_hash_�TXT_GLOSSARY_BODY_0073_01�subid_hash_��text_�Этот остров плавает в самом сердце Зегагранде, небольшой, но густо-
 населенный, поскольку на нем расположен город Сидхоллоу, главный 
 экономический центр небесного дома. На Альмерайне круглый год 
 стоит приятная погода с хорошей смесью солнечного света и дождей, 
@@ -592,9 +452,7 @@
 Дали усеяна руинами.��column_��id_hash_�TXT_GLOSSARY_BODY_0078_01�subid_hash_��text_��Эта протяженная и узкая область в пустыне Дали в которой остались лишь 
 руины. Иногда совет Сидхоллоу направляет сюда команду, чтобы искать 
 следы о катастрофе Дали, произошедшей пятнадцать лет назад. Однако 
-до сих пор среди дюн были обнаружены только монстры.��column_��id_hash_�TXT_GLOSSARY_BODY_0079_load�subid_hash_��text_��Этот древний мегаполис был заселен до тех пор,
- пока пятнадцать лет назад он не был разрушен
- катастрофой Дали.��column_��id_hash_�TXT_GLOSSARY_BODY_0079_01�subid_hash_��text_��Этот древний мегаполис был заселен до тех пор, пока пятнадцать лет назад он не
+до сих пор среди дюн были обнаружены только монстры.��column_��id_hash_�TXT_GLOSSARY_BODY_0079_01�subid_hash_��text_��Этот древний мегаполис был заселен до тех пор, пока пятнадцать лет назад он не
  был разрушен катастрофой Дали. Здесь есть странные устройства, работающие от
  первичной энергии, которые, кажется, связаны с круглыми руинами в центре
  пустыни.��column_��id_hash_�TXT_GLOSSARY_BODY_0080_load�subid_hash_��text_��Этот шумный маленький остров плавает недалеко от
@@ -610,33 +468,25 @@
 монолит.��column_��id_hash_�TXT_GLOSSARY_BODY_0081_01�subid_hash_��text_��Эта структура состоит из различных частей улиц, зданий, земли 
 отделившихся от островов Зегагранде и сложенных вместе в кошмарный 
 монолит. Темная магия витает в воздухе, а монстры, порожденные 
-Ангра-Майнью, бродят по искаженным коридорам.��column_��id_hash_�TXT_GLOSSARY_BODY_0082_load�subid_hash_��text_��Этот плодородный архипелаг населен древними 
-деревьями, некоторые из которых были свидетелями 
-вторжения Астралов и последующей войны.��column_��id_hash_�TXT_GLOSSARY_BODY_0082_01�subid_hash_��text_�Этот плодородный архипелаг населен древними деревьями, некоторые из которых
+Ангра-Майнью, бродят по искаженным коридорам.��column_��id_hash_�TXT_GLOSSARY_BODY_0082_01�subid_hash_��text_�Этот плодородный архипелаг населен древними деревьями, некоторые из которых
  стали свидетелями вторжения Астралов и последовавшей за ним Войны. Несмотря на
  монументальный возраст, лес по-прежнему процветает и продолжает расти благодаря
  силе обитающего в нем первобытного зверя Иггдрасиля. Как и все густолесистые
  земли, Люмацию преследуют легенды и медвежатники, а таинственные руины лежат
  там. глубоко в его сердце. Он также является домом для множества уникальных
  растений, хотя очень немногие исследователи осмеливаются бродить в
- непредсказуемой тени его полога.��column_��id_hash_�TXT_GLOSSARY_BODY_0083_load�subid_hash_��text_ٺНа этой пустынной земле, окутанной туманом круглый
- год, находится всего одна малонаселенная деревня.��column_��id_hash_�TXT_GLOSSARY_BODY_0083_01�subid_hash_��text_�pХотя на остров и обратно туда и обратно поступал лишь тонкий поток транспорта
+ непредсказуемой тени его полога.��column_��id_hash_�TXT_GLOSSARY_BODY_0083_01�subid_hash_��text_�pХотя на остров и обратно туда и обратно поступал лишь тонкий поток транспорта
  (где находится всего лишь одна малонаселенная деревня), посетившие остров
  авиаторы сообщили, что местные жители Трамонта дружелюбны и щедры. Однако много
  десятилетий назад густой туман накрыл регион, сделав воздушное пространство
- слишком опасным для полетов.��column_��id_hash_�TXT_GLOSSARY_BODY_0084_load�subid_hash_��text_��Это исключительное королевство во многом обязано
- своим престижем благословению первобытного зверя
- Сильфида. Ее искусные изделия ручной работы, в том
- числе зелье вечной молодости под названием
- "Алма", во многом пополнили национальную казну.��column_��id_hash_�TXT_GLOSSARY_BODY_0084_01�subid_hash_��text_��Это исключительное королевство во многом обязано своим престижем благословению
+ слишком опасным для полетов.��column_��id_hash_�TXT_GLOSSARY_BODY_0084_01�subid_hash_��text_��Это исключительное королевство во многом обязано своим престижем благословению
  первобытного зверя Сильфида. Ее искусные изделия ручной работы, в том числе
  зелье вечной молодости под названием "Алма", во многом пополнили национальную
  казну. По этой причине здания в королевской столице украшены гербами, созданными
  по образцу крыльев Сильфиды, и свет, проникающий сквозь эти полупрозрачные
  эмблемы, заливает город сновидительным сиянием. Феендраш богат природными
  ресурсами, но эти реки, поля и леса также являются домом для бесчисленных
- монстров.��column_��id_hash_�TXT_GLOSSARY_BODY_0085_load�subid_hash_��text_قДомен на острове Альмерейн, носящий то же имя, что
- и его правящая семья.��column_��id_hash_�TXT_GLOSSARY_BODY_0085_01�subid_hash_��text_�SДомен на острове Альмерейн, носящий имя правящей семьи. Несмотря на то, что
+ монстров.��column_��id_hash_�TXT_GLOSSARY_BODY_0085_01�subid_hash_��text_�SДомен на острове Альмерейн, носящий имя правящей семьи. Несмотря на то, что
  лорды Гросгарда правили на протяжении сотен лет, они все без исключения были
  прилежными людьми; под их бдительным оком королевство, хотя и слишком маленькое,
  чтобы поддерживать крупномасштабное производство, тем не менее, превратилось в
@@ -644,14 +494,9 @@
  Айнстеддо наводнена вивернами.��column_��id_hash_�TXT_GLOSSARY_BODY_0086_01�subid_hash_��text_��Как следует из названия, эта долина на архипелаге Айнстеддо наводнена вивернами.
  В последнее время присутствие монстров увеличилось и теперь включает в себя
  другие виды, в том числе гоблинов - и все эти хлопоты и грабежи торговых
- караванов, проходящих через этот район.��column_��id_hash_�TXT_GLOSSARY_BODY_0087_load�subid_hash_��text_��Эта нация, управляемая королем-святым и являющаяся
- домом для великолепной церкви Клемонта, была
- основана Орденом Святых рыцарей Люмиэля, который
- сам сформировался во время войны для защиты и
- служения голодающему населению.��column_��id_hash_�TXT_GLOSSARY_BODY_0087_01�subid_hash_��text_��Эта нация, управляемая королем-святым и являющаяся домом для великолепной церкви
+ караванов, проходящих через этот район.��column_��id_hash_�TXT_GLOSSARY_BODY_0087_01�subid_hash_��text_��Эта нация, управляемая королем-святым и являющаяся домом для великолепной церкви
  Клемонта, была основана Орденом Святых рыцарей Люмиэля, который сам был
- сформирован во время войны для защиты и служения голодающему населению.��column_��id_hash_�TXT_GLOSSARY_BODY_0088_load�subid_hash_��text_٭Когда-то эта жаждущая власти нация держала под
- контролем почти весь Небесный Дом Фантагранда.��column_��id_hash_�TXT_GLOSSARY_BODY_0088_01�subid_hash_��text_�aКогда-то эта жаждущая власти нация держала под контролем почти весь небес-
+ сформирован во время войны для защиты и служения голодающему населению.��column_��id_hash_�TXT_GLOSSARY_BODY_0088_01�subid_hash_��text_�aКогда-то эта жаждущая власти нация держала под контролем почти весь небес-
 ный Дом Фантагранде. Однако его планы были раскрыты, а амбиции сокруше-
 ны и командой, которые вернули королеву Орчис на трон. Затем Эрсте восста-
 новил свой статус королевства, и все элементы империи были демонтированы 
@@ -676,11 +521,7 @@
  предоставляется все оружие и военное снаряжение, которое им когда-либо
  понадобится. Благодаря дисциплине и религиозной вере своих членов, а также
  сверхземной силе своего генерала, Корпус Серебряного Волка обладает большей
- мощью, чем армия страны среднего размера.��column_��id_hash_�TXT_GLOSSARY_BODY_0091_load�subid_hash_��text_�vОрден монахов из клана Меллос, возглавляемый
- Историатом. Они обитают в суровых условиях горы.
- Нейгелит, соблюдающий строгие заповеди и
- поклоняющийся первобытному богу, хранящемуся в
- Тредаме Святилище.��column_��id_hash_�TXT_GLOSSARY_BODY_0091_01�subid_hash_��text_��Орден монахов из клана Меллос, возглавляемый Хисториатом. Они обитают в суровых
+ мощью, чем армия страны среднего размера.��column_��id_hash_�TXT_GLOSSARY_BODY_0091_01�subid_hash_��text_��Орден монахов из клана Меллос, возглавляемый Хисториатом. Они обитают в суровых
  условиях горы Нейгелит, соблюдая строгие заповеди и поклоняясь первобытному
  богу, хранящемуся в Святилище Тредаме. Многие также патрулируют территорию,
  отпугивая любопытных злоумышленников, поскольку путь паломничества проходит
@@ -696,40 +537,26 @@
  левитирующими мечами.��column_��id_hash_�TXT_GLOSSARY_BODY_0093_01�subid_hash_��text_��Этот секретный полк, состоящий исключительно из Харвина, возглавляет Маглиэль,
  один из трех генералов авиации. Его члены относятся друг к другу как к семье, и
  лояльность выше, чем даже в Корпусе Серебряного Волка. В бою эти воины
- манипулируют левитирующими sмечами.��column_��id_hash_�TXT_GLOSSARY_BODY_0094_load�subid_hash_��text_�Этот рыцарский орден, базирующийся в прекрасном
- благословленном сильфами Фендрахе, защищает
- королевскую столицу и окружающие её окрестности.��column_��id_hash_�TXT_GLOSSARY_BODY_0094_01�subid_hash_��text_��Этот рыцарский орден, базирующийся в прекрасном, благословленном сильфами
+ манипулируют левитирующими sмечами.��column_��id_hash_�TXT_GLOSSARY_BODY_0094_01�subid_hash_��text_��Этот рыцарский орден, базирующийся в прекрасном, благословленном сильфами
  Фендрахе, защищает королевскую столицу и окружающие её окрестности. Дисциплина
  среди Белых Драконов строга. В частности, членам категорически запрещается
  участвовать в бессмысленных конфликтах - правило, которому большинство без труда
- следует, благодаря убедительному примеру их капитана Ланселота.��column_��id_hash_�TXT_GLOSSARY_BODY_0095_load�subid_hash_��text_�tЭтот военный орден охранял Фендрахе до прихода
- Белых Драконов.��column_��id_hash_�TXT_GLOSSARY_BODY_0095_01�subid_hash_��text_�oЭтот военный орден, под командованием Зигфрида и вице-капитаном совместно с
+ следует, благодаря убедительному примеру их капитана Ланселота.��column_��id_hash_�TXT_GLOSSARY_BODY_0095_01�subid_hash_��text_�oЭтот военный орден, под командованием Зигфрида и вице-капитаном совместно с
  Ланселотом и Персивалем, охранял Фендраха до прихода Белых Драконов. Он был
  вынужден реструктурироваться из-за определенного инцидента, во время которого
  Ланселот н взошел на эту должность. капитана, и вся организация была
- переименована в Орден Белых Драконов.��column_��id_hash_�TXT_GLOSSARY_BODY_0096_load�subid_hash_��text_ٟЭтот так называемый рыцарский орден был создан
- группой детей для защиты мира в Фольке.��column_��id_hash_�TXT_GLOSSARY_BODY_0096_01�subid_hash_��text_�NЭтот так называемый рыцарский орден был сформирован группой детей для защиты
+ переименована в Орден Белых Драконов.��column_��id_hash_�TXT_GLOSSARY_BODY_0096_01�subid_hash_��text_�NЭтот так называемый рыцарский орден был сформирован группой детей для защиты
  мира в Фольке. Они, видимо, думают, что лучше всего этого добиться, ловя жуков и
- купаясь в ближайшей реке.��column_��id_hash_�TXT_GLOSSARY_BODY_0098_load�subid_hash_��text_�dБлагородная семья самой голубой крови,
- производящая одного монарха за другим. Их влияние
- в последние годы резко возросло, особенно в сфере,
- окружающей Фендрахе. Персиваль родом из этого
- клана.��column_��id_hash_�TXT_GLOSSARY_BODY_0098_01�subid_hash_��text_�JБлагородная семья самой голубой крови, порождающая одного монарха за другим. Их
+ купаясь в ближайшей реке.��column_��id_hash_�TXT_GLOSSARY_BODY_0098_01�subid_hash_��text_�JБлагородная семья самой голубой крови, порождающая одного монарха за другим. Их
  влияние в последние годы резко возросло, особенно в сфере окружающей Фендрахе.
  Персиваль родом из этого клана. Дом Уэльса соблюдает древнюю традицию,
  отправляя своих наследников в союзные страны, включая Финдраш, где они служат
- рыцарями.��column_��id_hash_�TXT_GLOSSARY_BODY_0099_load�subid_hash_��text_�wЭта автономная группа состоит исключительно из
- частных граждан.��column_��id_hash_�TXT_GLOSSARY_BODY_0099_01�subid_hash_��text_��Эта автономная группа состоит исключительно из частных лиц. Поскольку Фолка уже
+ рыцарями.��column_��id_hash_�TXT_GLOSSARY_BODY_0099_01�subid_hash_��text_��Эта автономная группа состоит исключительно из частных лиц. Поскольку Фолка уже
  много лет не видел настоящих сражений ни с монстрами, ни с людьми, Корпус Защиты
- забыл о своей подготовке и превратился в стадо бездельников.��column_��id_hash_�TXT_GLOSSARY_BODY_0100_load�subid_hash_��text_��Гордость и сила Люмиэля, этот рыцарский отряд
- существует, чтобы защищать слабых. Их девиз:
- "Вечно чистый, вечно праведный".��column_��id_hash_�TXT_GLOSSARY_BODY_0100_01�subid_hash_��text_�Гордость и сила Люмиэля, этот рыцарский отряд существует, чтобы защищать слабых.
+ забыл о своей подготовке и превратился в стадо бездельников.��column_��id_hash_�TXT_GLOSSARY_BODY_0100_01�subid_hash_��text_�Гордость и сила Люмиэля, этот рыцарский отряд существует, чтобы защищать слабых.
  Их девиз: "Вечно чистый, вечно праведный". Орден Люмиэля славится не только на
  своей родине, но и по всему небу, а нынешний капитан Шарлотта считается самым
- могущественным святым рыцарем, когда-либо жившим.��column_��id_hash_�TXT_GLOSSARY_BODY_0101_load�subid_hash_��text_�EАльянс авиаторов для авиаторов. Он собирает
- запросы и миссии - от истребления монстров до
- спасения кошек - со всего небесного мира, а затем
- распределяет их по небесным командам.��column_��id_hash_�TXT_GLOSSARY_BODY_0101_01�subid_hash_��text_��Альянс авиаторов для авиаторов. Он собирает запросы и миссии - от
+ могущественным святым рыцарем, когда-либо жившим.��column_��id_hash_�TXT_GLOSSARY_BODY_0101_01�subid_hash_��text_��Альянс авиаторов для авиаторов. Он собирает запросы и миссии - от
  уничтожения монстров до спасения кошек - со всего небесного мира, а затем
  распределяет их по командам авиаторов. Вообще говоря, Rafale - не более чем
  посредническое агентство, и большинство заказчиков вакансий - островитяне.
@@ -788,7 +615,220 @@
  Если владелец не будет бдителен, воля оружия может взять его под контроль и привести к трагедии. Оружие ревенантов может стимулировать отпечатки границ, поэтому они ищут сильных людей, способных использовать границы.��column_��id_hash_�TXT_GLOSSARY_BODY_0116_01�subid_hash_��text_�Расположенное на восточной окраине Фантагранде Скайдом, это похожее на башню сооружение легко принять за остров. Хотя изначально она была создана для вечного заточения первобытных зверей, потусторонние существа и даже небожители были заперты внутри. Лишь немногие, а то и вовсе никто, не покидают его воздушное пространство. Следует отметить, что, несмотря на то, что Пандемониум служит тюрьмой,
 он сам является первобытным зверем.��column_��id_hash_�TXT_GLOSSARY_BODY_0117_01�subid_hash_��text_�Ханаан расположен в нижнем слое Фантаграндского Небесного Дома. Добраться до него можно только через коварный проход, прозванный Небесным проливом, в котором погибло несчетное количество дирижаблей и их экипажей. В результате, небесные путешественники считают Ханаан недосягаемым.��column_��id_hash_�TXT_GLOSSARY_BODY_0118_01�subid_hash_��text_��В основе всех природных явлений лежат четыре элемента: огонь, вода,
 земля и ветер. Для большинства людей эти элементы - как фоновый шум,
-но их важность невозможно переоценить. Если бы хрупкое равновесие между четырьмя стихиями нарушилось, острова по всему миру рухнули бы на дно, унося с собой своих обитателей. Теперь, когда четыре примарха - первобытные звери, созданные для контроля над тетраэлементами, - уступили свои роли природе, тетраэлементы постепенно переходят под контроль Небесного царства.��column_��id_hash_�TXT_GLOSSARY_BODY_TEST�subid_hash_��text_���column_��id_hash_�TXT_GLOSSARY_CATEGORY_01�subid_hash_��text_�Общий��column_��id_hash_�TXT_GLOSSARY_CATEGORY_02�subid_hash_��text_�Народы��column_��id_hash_�TXT_GLOSSARY_CATEGORY_03�subid_hash_��text_�!Первобытные звери��column_��id_hash_�TXT_GLOSSARY_CATEGORY_04�subid_hash_��text_�Небесные дома��column_��id_hash_�TXT_GLOSSARY_CATEGORY_05�subid_hash_��text_�Места��column_��id_hash_�TXT_GLOSSARY_CATEGORY_06�subid_hash_��text_�Организации��column_��id_hash_�TXT_GLOSSARY_CATEGORY_07�subid_hash_��text_�Недавнее��column_��id_hash_�TXT_BGM_TTL_001�subid_hash_��text_�/Фолька, пограничный город��column_��id_hash_�TXT_BGM_TTL_002�subid_hash_��text_�Церковь Фольки��column_��id_hash_�TXT_BGM_TTL_003�subid_hash_��text_�@Фолька, пограничный город (Реприза)��column_��id_hash_�TXT_BGM_TTL_004�subid_hash_��text_�*Церковь Фолки (Реприза)��column_��id_hash_�TXT_BGM_TTL_005�subid_hash_��text_�Солнечная роща��column_��id_hash_�TXT_BGM_TTL_006�subid_hash_��text_�1Солнечная роща (тема битвы)��column_��id_hash_�TXT_BGM_TTL_007�subid_hash_��text_�%Архипелаг Айнстеддо��column_��id_hash_�TXT_BGM_TTL_008�subid_hash_��text_�;Архипелаг Айнстеддо (Тема битвы)��column_��id_hash_�TXT_BGM_TTL_009�subid_hash_��text_�(Долина Небесного Змея��column_��id_hash_�TXT_BGM_TTL_010�subid_hash_��text_�>Долина Небесного Змея (Тема битвы)��column_��id_hash_�TXT_BGM_TTL_011�subid_hash_��text_�Шахты Темпеала��column_��id_hash_�TXT_BGM_TTL_012�subid_hash_��text_�)В погоне за Амеретатом��column_��id_hash_�TXT_BGM_TTL_013�subid_hash_��text_�,Хаотичный воздушный бой��column_��id_hash_�TXT_BGM_TTL_014�subid_hash_��text_�Церковь Авиа��column_��id_hash_�TXT_BGM_TTL_015�subid_hash_��text_�Остров Лотань��column_��id_hash_�TXT_BGM_TTL_016�subid_hash_��text_�/Остров Лотань (Тема битвы)��column_��id_hash_�TXT_BGM_TTL_017�subid_hash_��text_�$В поисках святилища��column_��id_hash_�TXT_BGM_TTL_018�subid_hash_��text_�0Разрушенный город Валлион��column_��id_hash_�TXT_BGM_TTL_019�subid_hash_��text_�FРазрушенный город Валлион (тема битвы)��column_��id_hash_�TXT_BGM_TTL_020�subid_hash_��text_�,Братство Мечевой Завесы��column_��id_hash_�TXT_BGM_TTL_021�subid_hash_��text_�Остров Дали��column_��id_hash_�TXT_BGM_TTL_022�subid_hash_��text_�1Фондам, Израненные острова��column_��id_hash_�TXT_BGM_TTL_023�subid_hash_��text_�3Для истинного счастья Лурии��column_��id_hash_�TXT_BGM_TTL_024�subid_hash_��text_�Падение Divinity��column_��id_hash_�TXT_BGM_TTL_025�subid_hash_��text_�Замок Сидхоллоу��column_��id_hash_�TXT_BGM_TTL_026�subid_hash_��text_�3Замок Сидхоллоу (тема битвы)��column_��id_hash_�TXT_BGM_TTL_027�subid_hash_��text_�&За пределами глубины��column_��id_hash_�TXT_BGM_TTL_028�subid_hash_��text_�?Эхо-камера ошибочных исследований��column_��id_hash_�TXT_BGM_TTL_029�subid_hash_��text_�$Путь следа спасения��column_��id_hash_�TXT_BGM_TTL_030�subid_hash_��text_�/Переход к ложным надеждам��column_��id_hash_�TXT_BGM_TTL_031�subid_hash_��text_�Сидхоллоу��column_��id_hash_�TXT_BGM_TTL_032�subid_hash_��text_�"Звездный свет Блум��column_��id_hash_�TXT_BGM_TTL_033�subid_hash_��text_�Прорыв шлюза��column_��id_hash_�TXT_BGM_TTL_034�subid_hash_��text_�:Терминальное поле битвы, часть 1��column_��id_hash_�TXT_BGM_TTL_035�subid_hash_��text_�:Терминальное поле битвы, часть 2��column_��id_hash_�TXT_BGM_TTL_036�subid_hash_��text_�5Ангра-Майнью, Primal Gateway, часть 1��column_��id_hash_�TXT_BGM_TTL_037�subid_hash_��text_�5Ангра-Майнью, Primal Gateway, часть 2��column_��id_hash_�TXT_BGM_TTL_038�subid_hash_��text_�)Окончательное решение��column_��id_hash_�TXT_BGM_TTL_039�subid_hash_��text_�"Спасение"��column_��id_hash_�TXT_BGM_TTL_040�subid_hash_��text_�Конец Рагнарёк��column_��id_hash_�TXT_BGM_TTL_041�subid_hash_��text_�BПрокладывая путь к краю неба, часть 1��column_��id_hash_�TXT_BGM_TTL_042�subid_hash_��text_�BПрокладывая путь к краю неба, часть 2��column_��id_hash_�TXT_BGM_TTL_043�subid_hash_��text_�6Момент истины, Спасение Лурии��column_��id_hash_�TXT_BGM_TTL_044�subid_hash_��text_�'Ты не пройдешь часть 1��column_��id_hash_�TXT_BGM_TTL_045�subid_hash_��text_�'Ты не пройдешь Часть 2��column_��id_hash_�TXT_BGM_TTL_046�subid_hash_��text_�#Темное небо, часть 1��column_��id_hash_�TXT_BGM_TTL_047�subid_hash_��text_�'Темные небеса, часть 2��column_��id_hash_�TXT_BGM_TTL_048�subid_hash_��text_� Бой с первобытным��column_��id_hash_�TXT_BGM_TTL_049�subid_hash_��text_�7Первичное ничтожество, часть 1��column_��id_hash_�TXT_BGM_TTL_050�subid_hash_��text_�7Первичное ничтожество, часть 2��column_��id_hash_�TXT_BGM_TTL_051�subid_hash_��text_�3Вулкан Болла, Dread Primal, часть 1��column_��id_hash_�TXT_BGM_TTL_052�subid_hash_��text_�3Вулкан Болла, Dread Primal, часть 2��column_��id_hash_�TXT_BGM_TTL_053�subid_hash_��text_�MМанагармр, Первичная секвестрация, часть 1��column_��id_hash_�TXT_BGM_TTL_054�subid_hash_��text_�MМанагармр, Первичная секвестрация, часть 2��column_��id_hash_�TXT_BGM_TTL_055�subid_hash_��text_�AФурикейн, Первобытная жизнь, часть 1��column_��id_hash_�TXT_BGM_TTL_056�subid_hash_��text_�AФурикейн, Первобытная жизнь, часть 2��column_��id_hash_�TXT_BGM_TTL_057�subid_hash_��text_�(Взлом и проникновение��column_��id_hash_�TXT_BGM_TTL_058�subid_hash_��text_�QРаскопки, Первоначальное укрепление, часть 1��column_��id_hash_�TXT_BGM_TTL_059�subid_hash_��text_�QРаскопки, Первоначальное укрепление, часть 2��column_��id_hash_�TXT_BGM_TTL_060�subid_hash_��text_�QРаскопки, Первоначальное укрепление, часть 3��column_��id_hash_�TXT_BGM_TTL_061�subid_hash_��text_�2Мощь и утонченность, часть 1��column_��id_hash_�TXT_BGM_TTL_062�subid_hash_��text_�2Мощь и утонченность, часть 2��column_��id_hash_�TXT_BGM_TTL_063�subid_hash_��text_�HАльфа Волк и Призыватель клинка, часть 1��column_��id_hash_�TXT_BGM_TTL_064�subid_hash_��text_�HАльфа Волк и Призыватель клинка, часть 2��column_��id_hash_�TXT_BGM_TTL_065�subid_hash_��text_�Ты недостоин��column_��id_hash_�TXT_BGM_TTL_066�subid_hash_��text_� Клятва и обещание��column_��id_hash_�TXT_BGM_TTL_067�subid_hash_��text_�-Божественное откровение��column_��id_hash_�TXT_BGM_TTL_068�subid_hash_��text_�Ид темы��column_��id_hash_�TXT_BGM_TTL_069�subid_hash_��text_�Тема Лилит��column_��id_hash_�TXT_BGM_TTL_070�subid_hash_��text_�'Разрывая ночь, часть 1��column_��id_hash_�TXT_BGM_TTL_071�subid_hash_��text_�'Разрывая ночь, часть 2��column_��id_hash_�TXT_BGM_TTL_072�subid_hash_��text_�Любовь к небу��column_��id_hash_�TXT_BGM_TTL_073�subid_hash_��text_�-Добро пожаловать в Сьеро��column_��id_hash_�TXT_BGM_TTL_074�subid_hash_��text_�!Угасающая надежда��column_��id_hash_�TXT_BGM_TTL_075�subid_hash_��text_�Отказ не вариант��column_��id_hash_�TXT_BGM_TTL_076�subid_hash_��text_�DОбучение, обучение и еще раз обучение��column_��id_hash_�TXT_BGM_TTL_077�subid_hash_��text_�6Сэр Барролд, боксерская груша��column_��id_hash_�TXT_BGM_TTL_078�subid_hash_��text_�Журнал Лурии��column_��id_hash_�TXT_BGM_TTL_079�subid_hash_��text_�'Первопроходцы синего��column_��id_hash_�TXT_BGM_TTL_080�subid_hash_��text_�Четкие горизонты��column_��id_hash_�TXT_BGM_TTL_081�subid_hash_��text_�$Никогда не сдавайся��column_��id_hash_�TXT_BGM_TTL_082�subid_hash_��text_�Факт или вымысел��column_��id_hash_�TXT_BGM_TTL_083�subid_hash_��text_�"Лучшие дни впереди��column_��id_hash_�TXT_BGM_TTL_084�subid_hash_��text_�Тема Историата��column_��id_hash_�TXT_BGM_TTL_085�subid_hash_��text_�2Granblue Fantasy: Relink основная тема��column_��id_hash_�TXT_BGM_TTL_086�subid_hash_��text_�Соперничество��column_��id_hash_�TXT_BGM_TTL_087�subid_hash_��text_�Запрос выполнен!��column_��id_hash_�TXT_BGM_TTL_088�subid_hash_��text_�<Рельеф (Оркестровая аранжировка)��column_��id_hash_�TXT_BGM_TTL_089�subid_hash_��text_�9Relinking (Оркестровая аранжировка)��column_��id_hash_�TXT_BGM_TTL_090�subid_hash_��text_�Тема Ролана��column_��id_hash_�TXT_BGM_TTL_091�subid_hash_��text_�&Воля падающей звезды��column_��id_hash_�TXT_BGM_TTL_092�subid_hash_��text_�#Запрещенное орудие��column_��id_hash_�TXT_BGM_TTL_093�subid_hash_��text_�Тема Затбы��column_��id_hash_�TXT_BGM_TTL_094�subid_hash_��text_�Первобытный Бог��column_��id_hash_�TXT_PROF_PL0000_load�subid_hash_��text_��На уединенном острове Зинкенстилл, казалось,
+но их важность невозможно переоценить. Если бы хрупкое равновесие между четырьмя стихиями нарушилось, острова по всему миру рухнули бы на дно, унося с собой своих обитателей. Теперь, когда четыре примарха - первобытные звери, созданные для контроля над тетраэлементами, - уступили свои роли природе, тетраэлементы постепенно переходят под контроль Небесного царства.��column_��id_hash_�TXT_GLOSSARY_BODY_0119_01�subid_hash_��text_��An armed company that rose from the ashes of the Silver Wolf Corps. Retaining
+their motto, "stronger of will, stronger of might," they fight to preserve peace
+for Zegagrande's inhabitants. Occasionally, a spear-wielding warrior with a
+penchant for howling about "strength" and "deathmatches" joins them on the
+battlefield, instantly crushing the wills of those unlucky enough to cross paths
+with the juggernaut.��column_��id_hash_�TXT_GLOSSARY_BODY_0120_01�subid_hash_��text_�_A holy sword secured in the royal treasury of Feendrache, Excalibur is said to
+possess the power to banish evil and bring resplendent light to all the sky.
+Originally found embedded in a large stone, many have tried—and failed—to rouse
+the blade from its slumber, until it was at last wakened by a youth who brimmed
+with impassioned determination.��column_��id_hash_�TXT_GLOSSARY_BODY_0121_01�subid_hash_��text_�wCome, let me tell you how legends are born. When twilight descends upon the world
+and envelops it in its dark embrace; when mortals are consigned to suffering,
+writhing with their bellies in the mud as base and wretched worms...
+a holy sword wreathed in light shall always appear to dispel the darkness.
+
+Ah, how the superlative weapons deliver the skies!
+The sword of kings. The spear of legends. The dagger of secrets.
+The stave of divinity. The hammer of thunder. The pistol of demons.
+The claws of traitors. The bow of heroes. The harp of mythril.
+The blade of shattered earth. Each the master of their own destiny,
+they are ten legends all told.
+
+By their light are the skies shrouded; by their darkness are the skies illumed,
+and ever shall their stories be recounted throughout the skies,
+for their tales reveal the mortal soul.
+
+—Excerpt from The Veil Fantasia: On Superlatives��column_��id_hash_�TXT_GLOSSARY_BODY_0122_01�subid_hash_��text_��The name of this legend, as inscribed on its blade, is... yes, let us call it,
+"My Little Sentinel." But it is renowned as the Sentinel of the Sky—
+a moniker befitting it, as it can stave off all danger.
+Crafted with the magics of an emerald dragon embedded within,
+the blessing of phantasmic winds give it the strength
+to cleave through adversity thought disastrous,
+and lead its bearer toward a brighter future.
+
+Now, the legend of this blessed sword has only just begun.
+Its master, the heritor of blue, shall one day scribe her name across our
+fair skies, and become a beacon of hope for all.
+
+May she enjoy a life of peace forevermore.
+
+—Excerpt from The Veil Fantasia: On Swords��column_��id_hash_�TXT_GLOSSARY_BODY_0123_01�subid_hash_��text_�tThe name of a divergent realm accessible through portals that simply formed one
+day on Mt. Neigelith. Manifesting as disparate reflections of Zegagrande's
+locales, chaos reigns in this infinite and ineffable space. The Conflux's
+genesis may be attributed to ripples of interdimensional interference stirred by
+Angra Mainyu and Bahamut Versa, but that is merely conjecture.��column_��id_hash_�TXT_GLOSSARY_BODY_0123_load�subid_hash_��text_��The name of a divergent realm accessible through
+portals that simply formed one day on Mt.
+Neigelith. Manifesting as disparate reflections of
+Zegagrande's locales, chaos reigns in this
+infinite and ineffable space.��column_��id_hash_�TXT_GLOSSARY_BODY_0124_01�subid_hash_��text_��The governing body that oversees general Astral affairs. It is responsible for
+both approving and mandating projects in regard to Astral endeavors and
+research. Beelzebub had once been a member of the High Council, serving as the
+commander of its army.��column_��id_hash_�TXT_GLOSSARY_BODY_0124_load�subid_hash_��text_٠The governing body that oversees general Astral
+affairs. It is responsible for both approving and
+mandating projects in regard to Astral endeavors
+and research.��column_��id_hash_�TXT_GLOSSARY_BODY_0125_01�subid_hash_��text_�rDerived from "Ragnarok," a word associated with the end of the world, this term
+refers to a new variant of monsters found in Zegagrande. These menacing entities
+have the potential to be as destructive as Bahamut Versa, if not more. In response,
+Crew Alliance Rafale and various authorities in the skydom enacted strict
+information controls pertaining to the ragnalia, concealing their existence from
+the public to prevent widespread panic. Though their origins remain shrouded in
+mystery, their near-simultaneous arrival alongside the Conflux has raised
+suspicions. All ragnalia-related missions fall under the Chaos category.��column_��id_hash_�TXT_GLOSSARY_BODY_0125_load�subid_hash_��text_فThe collective term for a new variant of monsters
+that appeared in Zegagrande. Their name signifies
+the arrival of the end times.��column_��id_hash_�TXT_GLOSSARY_BODY_0126_01�subid_hash_��text_�OA nefariously treacherous Harvin legion seeking to conquer the frozen lands of
+North Vast in the Phantagrande Skydom. They value the right to rampage around
+freely above all else and take pride in knowing that it is not blood that binds
+them, but hard steel. Riding around on their dog sleds, they cause as much havoc
+as they are able.��column_��id_hash_�TXT_GLOSSARY_BODY_0127_01�subid_hash_��text_�uThe Foe is the collective nemesis of the Society, the organization Zeta,
+Vaseraga, Beatrix, and Eustace are affiliated with. Staunch worshippers of
+Astrals, they sow the seeds of discord throughout the skies. While their true
+intentions are wreathed in mystery, one thing is known: They have some relation
+to the moon, a world far-flung from both the Sky and Astral Realms.��column_��id_hash_�TXT_GLOSSARY_BODY_0128_01�subid_hash_��text_��A religious group that aims to revitalize the worship of primeval gods among the
+islands of Zegagrande. On the surface, the Primeval Acolytes resemble the
+disbanded Pilgrims of Avia, both boasting their own militias. Their base of
+operations is located deep within Mt. Neigelith, where they hold periodic
+gatherings. The Acolytes' ultimate goal is to expand the reaches of their faith.��column_��id_hash_�TXT_GLOSSARY_BODY_0129_01�subid_hash_��text_��A group of eleven primal beasts. The World, which is also known as the Inchoate
+World, is both a member of the Arcarum and master of the primal beasts that
+fill the group's ranks. It collected the cores of ten primal beasts who fell
+during the War and breathed new life into them, refashioning the beasts to
+further its ambitions for a new world order. As such, the ten reborn Arcarum are
+unable to defy their creator's commands.��column_��id_hash_�TXT_GLOSSARY_BODY_0129_load�subid_hash_��text_��A group of eleven primal beasts. The World is both
+a member of the Arcarum and master of the primal
+beasts that fill the group's ranks. As such, the
+ten reborn Arcarum are unable to defy their
+creator's commands.��column_��id_hash_�TXT_GLOSSARY_BODY_0130_01�subid_hash_��text_��A third realm that The World seeks to construct. Absent of the Sky and Astral
+realms, this new world is a slate wiped clean and a complete rejection of the
+old world formed by the Omnipotent. Ironically, it was the power of evolution—
+a miracle afforded to those who dwell in the Sky Realm—that triggered an
+awakening in The World and granted it an ego. No longer a mere puppet of its
+Astral masters, it endeavors to become god of its new world.��column_��id_hash_�TXT_GLOSSARY_BODY_0130_load�subid_hash_��text_ٿA third realm that The World seeks to construct.
+Absent of the Sky and Astral realms, this new world
+is a slate wiped clean and a complete rejection of
+the old world formed by the Omnipotent.��column_��id_hash_�TXT_GLOSSARY_BODY_0131_01�subid_hash_��text_��One of the Arcarum primal beasts. Their beguiling presence leads to incidents of
+mayhem, panic, and ruin. Ordinarily sealed in a nondescript card, The Devil
+truly comes alive when the fibers are filled with power.��column_��id_hash_�TXT_GLOSSARY_BODY_0131_load�subid_hash_��text_�iOne of the Arcarum primal beasts. Their beguiling
+presence leads to incidents of mayhem, panic, and
+ruin.��column_��id_hash_�TXT_GLOSSARY_BODY_0132_01�subid_hash_��text_�4The element-birthing wedges that allow the world to maintain its shape.
+Encompassing the tetra-elements of fire, water, earth, and wind—in addition
+to light and dark—these dragons came about as a way to define the world's
+natural laws. Although the Six Dragons affect the elements in different ways
+from the four primarchs, the two groups are akin to two sides of the same
+coin and thus have an influence on each other.
+
+At the time of the Sky Realm's creation, there were many more than six wedges.
+If a wedge is lost and no surviving wedge can absorb its responsibilities, the
+loss of a natural law births distortions in the world. Thus do the true dragons
+exist to regulate such distortions, functioning as valves to prevent the world's
+collapse. This is also how a true dragon's individual personality is shaped.��column_��id_hash_�TXT_GLOSSARY_BODY_0132_load�subid_hash_��text_��The element-birthing wedges that allow the world to
+maintain its shape. Encompassing the tetra-elements
+of fire, water, earth, and wind—in addition to
+light and dark—these dragons came about as a way
+to define the world's natural laws.��column_��id_hash_�TXT_GLOSSARY_BODY_0133_01�subid_hash_��text_��The primeval dragon who created the Sky Realm. The skydwellers of yore had
+revered the Omnipotent, but some believed the god a hindrance to mortal
+potential. The Omnipotent was slain by those dissenters and as a result its
+body split in two.��column_��id_hash_�TXT_GLOSSARY_BODY_0133_load�subid_hash_��text_��The primeval dragon who created the Sky Realm. The
+skydwellers of yore had revered the Omnipotent,
+but some believed the god a hindrance to mortal
+potential. The Omnipotent was slain by those
+dissenters and as a result its body split in two.��column_��id_hash_�TXT_GLOSSARY_BODY_0134_01�subid_hash_��text_��The appearance taken by the Six Dragons when materializing a physical form in
+the world. Like most of the Six Dragons, Fediel has taken a deep interest in
+learning about skydwellers, thus she has chosen to assume a humanoid form.��column_��id_hash_�TXT_GLOSSARY_BODY_0134_load�subid_hash_��text_��The appearance taken by the Six Dragons when
+materializing a physical form in the world. Like
+most of the Six Dragons, Fediel has taken a deep
+interest in learning about skydwellers, thus she
+has chosen to assume a humanoid form.��column_��id_hash_�TXT_GLOSSARY_BODY_0135_01�subid_hash_��text_�A general term for a law of nature. Wedges serve as pressures that preserve the
+shape of the world and were vital to the Sky Realm's creation. Of the many
+wedges that once existed, the Omnipotent designated six to form the pillars of
+the world, who now take the appearance of dragons.��column_��id_hash_�TXT_GLOSSARY_BODY_0135_load�subid_hash_��text_َA general term for a law of nature. Wedges serve
+as pressures that preserve the shape of the world
+and were vital to the Sky Realm's creation.��column_��id_hash_�TXT_GLOSSARY_BODY_0136_01�subid_hash_��text_��This is you, an existence that brings opposing forces together and carries the
+weight of the world on both shoulders. You have overcome all manner of trials
+and tribulations while journeying across the skies.��column_��id_hash_�TXT_GLOSSARY_BODY_0136_load�subid_hash_��text_��This is you, an existence that brings opposing
+forces together and carries the weight of the
+world on both shoulders. You have overcome all
+manner of trials and tribulations while journeying
+across the skies.��column_��id_hash_�TXT_GLOSSARY_BODY_0137_01�subid_hash_��text_ٳAn epithet for Vyrn used by those of preternatural instinct and those wise to
+the world's secrets. Other individuals have suggested that he and the Girl in
+Blue can never coexist.��column_��id_hash_�TXT_GLOSSARY_BODY_0137_load�subid_hash_��text_�bAn epithet for Vyrn used by those of
+preternatural instinct and those wise
+to the world's secrets.��column_��id_hash_�TXT_GLOSSARY_BODY_0138_01�subid_hash_��text_�[An epithet for Lyria derived from both the color of her hair and the glow that
+encompasses her when summoning primal beasts. Once held captive by the Erste
+Empire of the Phantagrande Skydom and subjected to experimentation, she was
+freed from imprisonment by Katalina. During their escape, she encountered
+, and so began a journey of shared fates.��column_��id_hash_�TXT_GLOSSARY_BODY_0138_load�subid_hash_��text_�|An epithet for Lyria derived from both the color
+of her hair and the glow that encompasses her
+when summoning primal beasts.��column_��id_hash_�TXT_GLOSSARY_BODY_0139_01�subid_hash_��text_��Branches of causality that could have been. Had the wedges been heavily colored
+by mortal hatred and resentment, the Six Dragons may well have manifested in the
+Sky Realm under a completely different form with the desire to bring about world
+ruination. Today's Sky Realm and its world-loving wedges is one branch that came
+to fruition, thanks to the ever-vigilant wedge of time and causality who ran
+countless simulations to find progressively favorable outcomes.��column_��id_hash_�TXT_GLOSSARY_BODY_0139_load�subid_hash_��text_��Branches of causality that could have been. Today's
+Sky Realm and its world-loving wedges is one branch
+that came to fruition, thanks to the ever-vigilant
+wedge of time and causality who ran countless
+simulations to find progressively favorable outcomes.��column_��id_hash_�TXT_GLOSSARY_BODY_0140_01�subid_hash_��text_�\An epithet for Id used by Fediel. Id's dragon power originated from Bahamut,
+hence the name.��column_��id_hash_�TXT_GLOSSARY_BODY_0140_load�subid_hash_��text_�\An epithet for Id used by Fediel. Id's dragon
+power originated from Bahamut, hence the name.��column_��id_hash_�TXT_GLOSSARY_BODY_0141_01�subid_hash_��text_�3The amalgamation of the Six Dragons' unified powers, created with the final goal
+of correcting the distortions that plagued the realm. Triggered by the numerous
+threats appearing in Zegagrande Skydom—including Astral interference, Bahamut
+Versa's second incursion into the Sky Realm, and other disasters that threatened
+not only the world, but the destabilization of causality itself—the Six Dragons
+decided to pit the singularity against their collective powers in a bid to
+correct the chaos emerging in the skies. Thus they invoked evolution throughout
+the skydom, hoping to spur skydwellers to become strong enough to fend off
+future calamities under their own power. However, the unification affected all
+manner of life to varying degrees, causing some monsters to evolve into the
+ragnalia that terrorized Zega.��column_��id_hash_�TXT_GLOSSARY_BODY_0141_load�subid_hash_��text_��The amalgamation of the Six Dragons' unified
+powers, created to correct the distortions plaguing
+the realm. They invoked evolution throughout the
+skydom, hoping to spur skydwellers to fend off
+future calamities under their own power.��column_��id_hash_�TXT_GLOSSARY_BODY_0142_01�subid_hash_��text_��Skydwellers who made a pact with the Arcarum primal beasts. In other words,
+they are individuals The World had deemed worthy of living in the new world he
+seeks to create. Although each Evoker possesses their own set of circumstances
+and ideologies, they all have had transformative experiences that caused them to
+turn their backs on the skies in its current state. That antipathy made it easier
+for them to sympathize with The World's ambition for a new world order.��column_��id_hash_�TXT_GLOSSARY_BODY_0143_01�subid_hash_��text_��This true dragon was stirred awake by a sense of foreboding and had attempted to
+end the singularity's life as a means of saving the Sky Realm. The singularity's
+power had reached a threshold capable of world destruction, which alerted the
+dormant Six Dragons. Fearing that hatred in the world would turn the Six hostile
+toward the realm, Lindwurm engaged the singularity in combat, believing the
+singularity's death would avert the Six from fully awakening.
+
+After witnessing the singularity's tenacity, Lindwurm decided to leave the
+skydwellers to their own devices against the awakened Six Dragons and vanished
+from the skies. In the end, Lindwurm's fears of punitive dragons were unfounded—
+each of the Six are happy to engage with sky life.��column_��id_hash_�TXT_GLOSSARY_BODY_0144_01�subid_hash_��text_�UThe god of the Sky Realm who commands destruction. Since it is one
+half of the fractured Omnipotent, it manifests in the form of a dragon—otherwise
+it exists in the ether of the skies as a ubiquitous, persistent presence. The 
+god of destruction also holds sway over rebirth, ensuring a perpetual cycle of
+life and death that is conducive to evolution. However, whenever it senses a
+threat to the sky's survival, its first instinct is to destroy and then allow
+for recovery. It's no wonder that a feeling of imminent annihilation always
+seems to hang in the air when world affairs grow volatile.��column_��id_hash_�TXT_GLOSSARY_BODY_0145_01�subid_hash_��text_��The god of the Astral Realm who commands creation. One half of the fractured
+Omnipotent, this dragon created the Astrals and everything they would need to
+thrive. Many Astrals worship their god with utter fanaticism.��column_��id_hash_�TXT_GLOSSARY_BODY_0146_01�subid_hash_��text_��A finite form of matter that existed in the ancient world and the source of all
+souls. Upon the death of a living organism, its world matter would return to
+the world. However, the ancients achieved extraordinary scientific advancements
+that enabled their population to thrive beyond the available amount of world
+matter. In the absence of world matter, world antimatter formed to return the
+world to equilibrium. From it were abominations birthed, and eventually most of
+the ancient world was lost to the Crimson Horizon.
+
+Because the Sky Realm is entirely severed from the ancient world, the law of
+world matter no longer has any bearing on the skies today.
+��column_��id_hash_�TXT_GLOSSARY_BODY_0147_01�subid_hash_��text_�Organisms born of world antimatter, they suffocate life's ability to thrive—
+which led to the total collapse of the earthly realm's ecosystems in antiquity.
+Their bodies are protected by a repulsion field that makes them impervious
+to conventional weapons.��column_��id_hash_�TXT_GLOSSARY_BODY_0148_01�subid_hash_��text_�9Incarnations of beliefs, folklore, and other myriad phenomena. Many of the primal
+beasts created and weaponized by the Astrals were appropriated from myths and
+legends. Conversely, the materialization process is reversible, which abstracts 
+the primal beast down to a set of memories etched in crystallized stone.��column_��id_hash_�TXT_GLOSSARY_BODY_0148_load�subid_hash_��text_��Incarnations of beliefs, folklore, and phenomena.
+Many primals created by the Astrals come from
+myths and legends. When their materialization is
+reversed, it leaves behind a crystallized stone
+etched with some of their memories.��column_��id_hash_�TXT_GLOSSARY_CATEGORY_01�subid_hash_��text_�Общий��column_��id_hash_�TXT_GLOSSARY_CATEGORY_02�subid_hash_��text_�Народы��column_��id_hash_�TXT_GLOSSARY_CATEGORY_03�subid_hash_��text_�!Первобытные звери��column_��id_hash_�TXT_GLOSSARY_CATEGORY_04�subid_hash_��text_�Небесные дома��column_��id_hash_�TXT_GLOSSARY_CATEGORY_05�subid_hash_��text_�Места��column_��id_hash_�TXT_GLOSSARY_CATEGORY_06�subid_hash_��text_�Организации��column_��id_hash_�TXT_GLOSSARY_CATEGORY_07�subid_hash_��text_�Недавнее��column_��id_hash_�TXT_BGM_TTL_001�subid_hash_��text_�/Фолька, пограничный город��column_��id_hash_�TXT_BGM_TTL_002�subid_hash_��text_�Церковь Фольки��column_��id_hash_�TXT_BGM_TTL_003�subid_hash_��text_�@Фолька, пограничный город (Реприза)��column_��id_hash_�TXT_BGM_TTL_004�subid_hash_��text_�*Церковь Фолки (Реприза)��column_��id_hash_�TXT_BGM_TTL_005�subid_hash_��text_�Солнечная роща��column_��id_hash_�TXT_BGM_TTL_006�subid_hash_��text_�1Солнечная роща (тема битвы)��column_��id_hash_�TXT_BGM_TTL_007�subid_hash_��text_�%Архипелаг Айнстеддо��column_��id_hash_�TXT_BGM_TTL_008�subid_hash_��text_�;Архипелаг Айнстеддо (Тема битвы)��column_��id_hash_�TXT_BGM_TTL_009�subid_hash_��text_�(Долина Небесного Змея��column_��id_hash_�TXT_BGM_TTL_010�subid_hash_��text_�>Долина Небесного Змея (Тема битвы)��column_��id_hash_�TXT_BGM_TTL_011�subid_hash_��text_�Шахты Темпеала��column_��id_hash_�TXT_BGM_TTL_012�subid_hash_��text_�)В погоне за Амеретатом��column_��id_hash_�TXT_BGM_TTL_013�subid_hash_��text_�,Хаотичный воздушный бой��column_��id_hash_�TXT_BGM_TTL_014�subid_hash_��text_�Церковь Авиа��column_��id_hash_�TXT_BGM_TTL_015�subid_hash_��text_�Остров Лотань��column_��id_hash_�TXT_BGM_TTL_016�subid_hash_��text_�/Остров Лотань (Тема битвы)��column_��id_hash_�TXT_BGM_TTL_017�subid_hash_��text_�$В поисках святилища��column_��id_hash_�TXT_BGM_TTL_018�subid_hash_��text_�0Разрушенный город Валлион��column_��id_hash_�TXT_BGM_TTL_019�subid_hash_��text_�FРазрушенный город Валлион (тема битвы)��column_��id_hash_�TXT_BGM_TTL_020�subid_hash_��text_�,Братство Мечевой Завесы��column_��id_hash_�TXT_BGM_TTL_021�subid_hash_��text_�Остров Дали��column_��id_hash_�TXT_BGM_TTL_022�subid_hash_��text_�1Фондам, Израненные острова��column_��id_hash_�TXT_BGM_TTL_023�subid_hash_��text_�3Для истинного счастья Лурии��column_��id_hash_�TXT_BGM_TTL_024�subid_hash_��text_�Падение Divinity��column_��id_hash_�TXT_BGM_TTL_025�subid_hash_��text_�Замок Сидхоллоу��column_��id_hash_�TXT_BGM_TTL_026�subid_hash_��text_�3Замок Сидхоллоу (тема битвы)��column_��id_hash_�TXT_BGM_TTL_027�subid_hash_��text_�&За пределами глубины��column_��id_hash_�TXT_BGM_TTL_028�subid_hash_��text_�?Эхо-камера ошибочных исследований��column_��id_hash_�TXT_BGM_TTL_029�subid_hash_��text_�$Путь следа спасения��column_��id_hash_�TXT_BGM_TTL_030�subid_hash_��text_�/Переход к ложным надеждам��column_��id_hash_�TXT_BGM_TTL_031�subid_hash_��text_�Сидхоллоу��column_��id_hash_�TXT_BGM_TTL_032�subid_hash_��text_�"Звездный свет Блум��column_��id_hash_�TXT_BGM_TTL_033�subid_hash_��text_�Прорыв шлюза��column_��id_hash_�TXT_BGM_TTL_034�subid_hash_��text_�:Терминальное поле битвы, часть 1��column_��id_hash_�TXT_BGM_TTL_035�subid_hash_��text_�:Терминальное поле битвы, часть 2��column_��id_hash_�TXT_BGM_TTL_036�subid_hash_��text_�5Ангра-Майнью, Primal Gateway, часть 1��column_��id_hash_�TXT_BGM_TTL_037�subid_hash_��text_�5Ангра-Майнью, Primal Gateway, часть 2��column_��id_hash_�TXT_BGM_TTL_038�subid_hash_��text_�)Окончательное решение��column_��id_hash_�TXT_BGM_TTL_039�subid_hash_��text_�"Спасение"��column_��id_hash_�TXT_BGM_TTL_040�subid_hash_��text_�Конец Рагнарёк��column_��id_hash_�TXT_BGM_TTL_041�subid_hash_��text_�BПрокладывая путь к краю неба, часть 1��column_��id_hash_�TXT_BGM_TTL_042�subid_hash_��text_�BПрокладывая путь к краю неба, часть 2��column_��id_hash_�TXT_BGM_TTL_043�subid_hash_��text_�6Момент истины, Спасение Лурии��column_��id_hash_�TXT_BGM_TTL_044�subid_hash_��text_�'Ты не пройдешь часть 1��column_��id_hash_�TXT_BGM_TTL_045�subid_hash_��text_�'Ты не пройдешь Часть 2��column_��id_hash_�TXT_BGM_TTL_046�subid_hash_��text_�#Темное небо, часть 1��column_��id_hash_�TXT_BGM_TTL_047�subid_hash_��text_�'Темные небеса, часть 2��column_��id_hash_�TXT_BGM_TTL_048�subid_hash_��text_� Бой с первобытным��column_��id_hash_�TXT_BGM_TTL_049�subid_hash_��text_�7Первичное ничтожество, часть 1��column_��id_hash_�TXT_BGM_TTL_050�subid_hash_��text_�7Первичное ничтожество, часть 2��column_��id_hash_�TXT_BGM_TTL_051�subid_hash_��text_�3Вулкан Болла, Dread Primal, часть 1��column_��id_hash_�TXT_BGM_TTL_052�subid_hash_��text_�3Вулкан Болла, Dread Primal, часть 2��column_��id_hash_�TXT_BGM_TTL_053�subid_hash_��text_�MМанагармр, Первичная секвестрация, часть 1��column_��id_hash_�TXT_BGM_TTL_054�subid_hash_��text_�MМанагармр, Первичная секвестрация, часть 2��column_��id_hash_�TXT_BGM_TTL_055�subid_hash_��text_�AФурикейн, Первобытная жизнь, часть 1��column_��id_hash_�TXT_BGM_TTL_056�subid_hash_��text_�AФурикейн, Первобытная жизнь, часть 2��column_��id_hash_�TXT_BGM_TTL_057�subid_hash_��text_�(Взлом и проникновение��column_��id_hash_�TXT_BGM_TTL_058�subid_hash_��text_�QРаскопки, Первоначальное укрепление, часть 1��column_��id_hash_�TXT_BGM_TTL_059�subid_hash_��text_�QРаскопки, Первоначальное укрепление, часть 2��column_��id_hash_�TXT_BGM_TTL_060�subid_hash_��text_�QРаскопки, Первоначальное укрепление, часть 3��column_��id_hash_�TXT_BGM_TTL_061�subid_hash_��text_�2Мощь и утонченность, часть 1��column_��id_hash_�TXT_BGM_TTL_062�subid_hash_��text_�2Мощь и утонченность, часть 2��column_��id_hash_�TXT_BGM_TTL_063�subid_hash_��text_�HАльфа Волк и Призыватель клинка, часть 1��column_��id_hash_�TXT_BGM_TTL_064�subid_hash_��text_�HАльфа Волк и Призыватель клинка, часть 2��column_��id_hash_�TXT_BGM_TTL_065�subid_hash_��text_�Ты недостоин��column_��id_hash_�TXT_BGM_TTL_066�subid_hash_��text_� Клятва и обещание��column_��id_hash_�TXT_BGM_TTL_067�subid_hash_��text_�-Божественное откровение��column_��id_hash_�TXT_BGM_TTL_068�subid_hash_��text_�Ид темы��column_��id_hash_�TXT_BGM_TTL_069�subid_hash_��text_�Тема Лилит��column_��id_hash_�TXT_BGM_TTL_070�subid_hash_��text_�'Разрывая ночь, часть 1��column_��id_hash_�TXT_BGM_TTL_071�subid_hash_��text_�'Разрывая ночь, часть 2��column_��id_hash_�TXT_BGM_TTL_072�subid_hash_��text_�Любовь к небу��column_��id_hash_�TXT_BGM_TTL_073�subid_hash_��text_�-Добро пожаловать в Сьеро��column_��id_hash_�TXT_BGM_TTL_074�subid_hash_��text_�!Угасающая надежда��column_��id_hash_�TXT_BGM_TTL_075�subid_hash_��text_�Отказ не вариант��column_��id_hash_�TXT_BGM_TTL_076�subid_hash_��text_�DОбучение, обучение и еще раз обучение��column_��id_hash_�TXT_BGM_TTL_077�subid_hash_��text_�6Сэр Барролд, боксерская груша��column_��id_hash_�TXT_BGM_TTL_078�subid_hash_��text_�Журнал Лурии��column_��id_hash_�TXT_BGM_TTL_079�subid_hash_��text_�'Первопроходцы синего��column_��id_hash_�TXT_BGM_TTL_080�subid_hash_��text_�Четкие горизонты��column_��id_hash_�TXT_BGM_TTL_081�subid_hash_��text_�$Никогда не сдавайся��column_��id_hash_�TXT_BGM_TTL_082�subid_hash_��text_�Факт или вымысел��column_��id_hash_�TXT_BGM_TTL_083�subid_hash_��text_�"Лучшие дни впереди��column_��id_hash_�TXT_BGM_TTL_084�subid_hash_��text_�Тема Историата��column_��id_hash_�TXT_BGM_TTL_085�subid_hash_��text_�2Granblue Fantasy: Relink основная тема��column_��id_hash_�TXT_BGM_TTL_086�subid_hash_��text_�Соперничество��column_��id_hash_�TXT_BGM_TTL_087�subid_hash_��text_�Запрос выполнен!��column_��id_hash_�TXT_BGM_TTL_088�subid_hash_��text_�<Рельеф (Оркестровая аранжировка)��column_��id_hash_�TXT_BGM_TTL_089�subid_hash_��text_�9Relinking (Оркестровая аранжировка)��column_��id_hash_�TXT_BGM_TTL_090�subid_hash_��text_�Тема Ролана��column_��id_hash_�TXT_BGM_TTL_091�subid_hash_��text_�&Воля падающей звезды��column_��id_hash_�TXT_BGM_TTL_092�subid_hash_��text_�#Запрещенное орудие��column_��id_hash_�TXT_BGM_TTL_093�subid_hash_��text_�Тема Затбы��column_��id_hash_�TXT_BGM_TTL_094�subid_hash_��text_�Первобытный Бог��column_��id_hash_�TXT_BGM_TTL_095�subid_hash_��text_�Anima Record��column_��id_hash_�TXT_BGM_TTL_096�subid_hash_��text_�The Last Battle��column_��id_hash_�TXT_BGM_TTL_098�subid_hash_��text_�Wings of Terror��column_��id_hash_�TXT_BGM_TTL_099�subid_hash_��text_�Battle 1: Metal Mix��column_��id_hash_�TXT_BGM_TTL_100�subid_hash_��text_�Skyburning Bonds��column_��id_hash_�TXT_BGM_TTL_101�subid_hash_��text_�Battle 3��column_��id_hash_�TXT_BGM_TTL_102�subid_hash_��text_�A Fallen Conqueror��column_��id_hash_�TXT_BGM_TTL_103�subid_hash_��text_�Battle 5��column_��id_hash_�TXT_BGM_TTL_104�subid_hash_��text_�Dragon's Circle: Fire and Wind��column_��id_hash_�TXT_BGM_TTL_105�subid_hash_��text_� Dragon's Circle: Water and Earth��column_��id_hash_�TXT_BGM_TTL_106�subid_hash_��text_�Shiny Slime Search!��column_��id_hash_�TXT_BGM_TTL_107�subid_hash_��text_�Shiny Slime Search Allegro!��column_��id_hash_�TXT_BGM_TTL_108�subid_hash_��text_�Dragon's Circle: Light and Dark��column_��id_hash_�TXT_BGM_TTL_109�subid_hash_��text_�Second Advent (and Third)��column_��id_hash_�TXT_BGM_TTL_110�subid_hash_��text_�Burning Out the Blue��column_��id_hash_�TXT_BGM_TTL_112�subid_hash_��text_�Zero��column_��id_hash_�TXT_BGM_TTL_113�subid_hash_��text_�Dark Rapture��column_��id_hash_�TXT_BGM_TTL_114�subid_hash_��text_�Grand Chariot��column_��id_hash_�TXT_BGM_TTL_115�subid_hash_��text_�Howling at the Skies Above��column_��id_hash_�TXT_BGM_TTL_116�subid_hash_��text_�For All the Universe��column_��id_hash_�TXT_BGM_TTL_117�subid_hash_��text_�Such Are Wishes��column_��id_hash_�TXT_BGM_TTL_118�subid_hash_��text_�Memories of the War��column_��id_hash_�TXT_BGM_TTL_119�subid_hash_��text_�Uncrossable Realm��column_��id_hash_�TXT_BGM_TTL_120�subid_hash_��text_�The Last Gloaming��column_��id_hash_�TXT_BGM_TTL_121�subid_hash_��text_�The Seven Luminary Knights��column_��id_hash_�TXT_BGM_TTL_122�subid_hash_��text_�Tiamat Aura Omega��column_��id_hash_�TXT_BGM_TTL_123�subid_hash_��text_�Leviathan Mare Omega��column_��id_hash_�TXT_BGM_TTL_124�subid_hash_��text_�Colossus Ira Omega��column_��id_hash_�TXT_BGM_TTL_125�subid_hash_��text_�Inchoate Evokers��column_��id_hash_�TXT_BGM_TTL_126�subid_hash_��text_�Vermillion of the Six Dragons��column_��id_hash_�TXT_BGM_TTL_127�subid_hash_��text_�Gold of the Six Dragons��column_��id_hash_�TXT_BGM_TTL_128�subid_hash_��text_�Lindwurm��column_��id_hash_�TXT_BGM_TTL_129�subid_hash_��text_�Luminiera Credo Omega��column_��id_hash_�TXT_BGM_TTL_130�subid_hash_��text_�Platinum Sky��column_��id_hash_�TXT_BGM_TTL_131�subid_hash_��text_�Voice of God��column_��id_hash_�TXT_BGM_TTL_132�subid_hash_��text_�Celeste Ater Omega��column_��id_hash_�TXT_BGM_TTL_133�subid_hash_��text_�)Supreme Destroyer of Blight: Shiva Battle��column_��id_hash_�TXT_BGM_TTL_134�subid_hash_��text_�Dominion Black Dragon��column_��id_hash_�TXT_BGM_TTL_135�subid_hash_��text_�Grynoth��column_��id_hash_�TXT_BGM_TTL_136�subid_hash_��text_�Arvess��column_��id_hash_�TXT_BGM_TTL_137�subid_hash_��text_�Order of the New World��column_��id_hash_�TXT_BGM_TTL_138�subid_hash_��text_�New World: Over��column_��id_hash_�TXT_BGM_TTL_139�subid_hash_��text_�The Watershed Moment��column_��id_hash_�TXT_BGM_TTL_140�subid_hash_��text_�Illuminated World��column_��id_hash_�TXT_BGM_TTL_141�subid_hash_��text_�The Ultimate��column_��id_hash_�TXT_BGM_TTL_142�subid_hash_��text_�Zero: Dawn��column_��id_hash_�TXT_BGM_TTL_143�subid_hash_��text_�Morning Light Hymnus��column_��id_hash_�TXT_BGM_TTL_144�subid_hash_��text_�What Makes the Sky Blue��column_��id_hash_�TXT_BGM_TTL_145�subid_hash_��text_�Paradise Lost��column_��id_hash_�TXT_BGM_TTL_146�subid_hash_��text_�Dragon's Circle: Hexachromatic��column_��id_hash_�TXT_BGM_TTL_147�subid_hash_��text_�Existence (New King Mix)��column_��id_hash_�TXT_BGM_TTL_148�subid_hash_��text_�Defense Order: Active Defense��column_��id_hash_�TXT_BGM_TTL_149�subid_hash_��text_�Star-Crossed Blades��column_��id_hash_�TXT_BGM_TTL_150�subid_hash_��text_�Jewel Resort Casino Liner��column_��id_hash_�TXT_BGM_TTL_151�subid_hash_��text_�Run Away��column_��id_hash_�TXT_BGM_TTL_152�subid_hash_��text_�Supreme King��column_��id_hash_�TXT_BGM_TTL_153�subid_hash_��text_�Where Champions Converge��column_��id_hash_�TXT_BGM_TTL_154�subid_hash_��text_�White Wind, White Wall��column_��id_hash_�TXT_BGM_TTL_155�subid_hash_��text_�Nalhegrande's Sins��column_��id_hash_�TXT_BGM_TTL_156�subid_hash_��text_�For you.��column_��id_hash_�TXT_BGM_TTL_157�subid_hash_��text_�Spatial Contortion��column_��id_hash_�TXT_BGM_TTL_158�subid_hash_��text_�Conflux of Fate��column_��id_hash_�TXT_BGM_TTL_159�subid_hash_��text_�Stake Your Existence��column_��id_hash_�TXT_BGM_TTL_160�subid_hash_��text_�Face Yourself��column_��id_hash_�TXT_BGM_TTL_161�subid_hash_��text_�Rise to Glory��column_��id_hash_�TXT_BGM_TTL_162�subid_hash_��text_�+Fight with a Primal Beast (Destruction Mix)��column_��id_hash_�TXT_BGM_TTL_163�subid_hash_��text_�Dancing Windstorm��column_��id_hash_�TXT_BGM_TTL_164�subid_hash_��text_�Wind of Beginnings��column_��id_hash_�TXT_BGM_TTL_165�subid_hash_��text_�Fremel Island: Arsenal Archaic��column_��id_hash_�TXT_BGM_TTL_166�subid_hash_��text_�Auguste Isles: Babbling Falls��column_��id_hash_�TXT_BGM_TTL_167�subid_hash_��text_�%Lumacie Archipelago: Mystic Woodlands��column_��id_hash_�TXT_BGM_TTL_168�subid_hash_��text_�Grim Basin��column_��id_hash_�TXT_BGM_TTL_169�subid_hash_��text_�Battle 4��column_��id_hash_�TXT_BGM_TTL_170�subid_hash_��text_�Twenty-Two Apostles��column_��id_hash_�TXT_BGM_TTL_171�subid_hash_��text_�Ravi Island: Winds of Fate��column_��id_hash_�TXT_BGM_TTL_172�subid_hash_��text_�Children of Utopia��column_��id_hash_�TXT_BGM_TTL_173�subid_hash_��text_�Crimson Horizon��column_��id_hash_�TXT_BGM_TTL_174�subid_hash_��text_�Oarlyegrande��column_��id_hash_�TXT_BGM_TTL_175�subid_hash_��text_�'Duat Island: Whitened Blade of Judgment��column_��id_hash_�TXT_BGM_TTL_176�subid_hash_��text_�Edan Island: Loss and Deception��column_��id_hash_�TXT_BGM_TTL_177�subid_hash_��text_�Pleasant Chat��column_��id_hash_�TXT_BGM_TTL_178�subid_hash_��text_�)Kluger Island: The Stargazer's Collective��column_��id_hash_�TXT_BGM_TTL_179�subid_hash_��text_�Dark Clouds��column_��id_hash_�TXT_BGM_TTL_180�subid_hash_��text_�Soar as One��column_��id_hash_�TXT_BGM_TTL_181�subid_hash_��text_�Last Advent��column_��id_hash_�TXT_BGM_TTL_182�subid_hash_��text_�"Defense Order: Movement to Contact��column_��id_hash_�TXT_BGM_TTL_183�subid_hash_��text_�Tiamat Omega��column_��id_hash_�TXT_BGM_TTL_184�subid_hash_��text_�Leviathan Omega��column_��id_hash_�TXT_BGM_TTL_185�subid_hash_��text_�Colossus Omega��column_��id_hash_�TXT_BGM_TTL_186�subid_hash_��text_�Luminiera Omega��column_��id_hash_�TXT_BGM_TTL_187�subid_hash_��text_�Yggdrasil��column_��id_hash_�TXT_BGM_TTL_188�subid_hash_��text_�Celeste Omega��column_��id_hash_�TXT_BGM_TTL_189�subid_hash_��text_�Silent World��column_��id_hash_�TXT_BGM_TTL_190�subid_hash_��text_�Secret Mission Accomplished!��column_��id_hash_�TXT_BGM_TTL_191�subid_hash_��text_�Grab Hold of the Future��column_��id_hash_�TXT_BGM_TTL_192�subid_hash_��text_�Good Night, Good Morning��column_��id_hash_�TXT_BGM_TTL_193�subid_hash_��text_�The Journey Continues��column_��id_hash_�TXT_BGM_TTL_194�subid_hash_��text_�Sky Realm's Theme��column_��id_hash_�TXT_BGM_TTL_195�subid_hash_��text_�Final Destination��column_��id_hash_�TXT_BGM_TTL_196�subid_hash_��text_�Sky and Light, Death and Life��column_��id_hash_�TXT_PROF_PL0000_load�subid_hash_��text_��На уединенном острове Зинкенстилл, казалось,
 никогда не происходило ничего интересного ни с молодым человеком, 
 ни с его приятелем Вирном. 
 Но все изменилось, когда на остров неожиданно прибыла девушка по имени Лурия. ��column_��id_hash_�TXT_PROF_PL0000_01�subid_hash_��text_��На отдаленном острове Зинкен все еще жил молодой
@@ -1106,36 +1146,129 @@
 безошибочно попадает в цель.��column_��id_hash_�TXT_PROF_PL2300_01�subid_hash_��text_��Эта охотница мирового класса - мастер лука среди Вечных.
 Ее сверхъестественные глаза могут не только определять добычу на огромных расстояниях, она владеет способностью летать. Каждая магическая стрела, выпущенная из ее лука, безошибочно попадает в цель.
 Обычно тихая женщина, излучающая таинственность,
-она разговорит вас, как только вы узнаете ее поближе.��column_��id_hash_�TXT_PROF_EM1900_load�subid_hash_��text_٘Один из трех генералов Авиа. Он защищает своего
- сюзерена яростным владением мечом.��column_��id_hash_�TXT_PROF_EM2000_load�subid_hash_��text_َОдин из трех генералов Авиа. Алебарда наготове, он
- излучает устрашающую ауру.��column_��id_hash_�TXT_PROF_EM2000_01�subid_hash_��text_��Один из трех генералов Авиа и командир 
+она разговорит вас, как только вы узнаете ее поближе.��column_��id_hash_�TXT_PROF_PL2400_01�subid_hash_��text_��Banding with  in the battle to save the
+skies, Gallanza brandished his spear to stop
+Lilith's heinous machinations. Now, he helps with
+the restoration effort in Seedhollow as a means
+of atonement for the transgressions he committed
+under Avia's banner. Occasionally, he can be found
+lending a hand to a certain Mr. Fix Id.
+
+His current goal is to help Id become Zega's
+mightiest handyman.��column_��id_hash_�TXT_PROF_PL2400_LOAD�subid_hash_��text_ٺA dauntless warrior who once upheld the Church of
+Avia's banner, he now helps with Seedhollow's
+restoration efforts. Occasionally, he can be found
+lending a hand to a certain Mr. Fix Id.��column_��id_hash_�TXT_PROF_PL2500_01�subid_hash_��text_��Banding with  in the battle to save the
+skies, Maglielle brandished her weapons to stop
+Lilith's heinous machinations. Now, she helps with
+the restoration effort in Seedhollow as a means of
+atonement for the transgressions she had committed
+under Avia's banner. Occasionally, she can be
+found lending a hand to a certain Mr. Fix Id.
+
+Her current goal is to restore the idyllic life
+her brethren once enjoyed.��column_��id_hash_�TXT_PROF_PL2500_LOAD�subid_hash_��text_ٸAn elegant mage who once upheld the Church of
+Avia's banner, she now helps with Seedhollow's
+restoration efforts. Occasionally, she can be
+found lending a hand to a certain Mr. Fix Id.��column_��id_hash_�TXT_PROF_PL2600_01�subid_hash_��text_��An indomitable warrior who hunts primal beasts for
+the Society. Contractor to the seal weapon known
+as Embrasque Sword, her desire to climb the ranks
+matches her pride. Born to a noble house, she
+doesn't lack for confidence and is prone to
+intruding on missions outside her authority.
+Combine that with her disinclination to admit
+mistakes, thereby morphing situations from bad to
+worse, her dubious title as the Society's biggest
+troublemaker is warranted. Best friends with
+fellow Society contractor Zeta, the duo frequently
+work in tandem.
+
+Beatrix enjoys making dessert—that is to say
+confectionery is all she's capable of. Whatever
+she makes invariably comes out unbearably sweet.��column_��id_hash_�TXT_PROF_PL2600_LOAD�subid_hash_��text_��An indomitable warrior who hunts primal beasts for
+the Society. Contractor to the seal weapon known as
+Embrasque Sword, her aim isn't to cause trouble,
+but trouble always seems to find her anyway.��column_��id_hash_�TXT_PROF_PL2700_01�subid_hash_��text_��A taciturn marksman who hunts primal beasts for
+the Society. Contractor to the seal weapon known
+as Flamek Thunder, his composure is as rock solid
+as his mission track record.
+
+His often single-minded adherence to the mission
+leaves a cold and unsociable impression on people
+who don't know him, but beneath his guarded
+exterior rests a gentle soul who only wishes for
+the well-being of his friends. He longs to play
+with dogs and other animals but is convinced that
+they fear him.��column_��id_hash_�TXT_PROF_PL2700_LOAD�subid_hash_��text_ٯA taciturn marksman who hunts primal beasts for
+the Society. Contractor to the seal weapon known
+as Flamek Thunder, his composure is as rock solid
+as his mission track record.��column_��id_hash_�TXT_PROF_PL2800_01�subid_hash_��text_��Apostles to a new world order, a group of primal
+beasts known as the Arcarum seeks to overwrite
+the world into a third realm. Pactbearer to The
+Devil, one of the Arcarum, Fraux is otherwise an
+ordinary skydweller whose heart, character, and
+temperament are filled with love and compassion.
+Even as the target of envy, lust, and malice, she
+still offered love to those who spited her.
+
+But then Fraux's only friend and confidant
+vanished, sending her down a path of loneliness—
+one where The Devil awaited at its end. Once
+pactbound, her upright strength was upended, giving
+her the power to defy the world's wickedness. Yet
+thanks to , Fraux seems to be recovering
+her once cheerier disposition.��column_��id_hash_�TXT_PROF_PL2800_LOAD�subid_hash_��text_ٽPactbearer to The Devil, a primal seeking to create
+a new world order, Fraux is otherwise an ordinary
+skydweller whose heart, character, and temperament
+are filled with love and compassion.��column_��id_hash_�TXT_PROF_PL2900_01�subid_hash_��text_� Once the Omnipotent had completed the Sky Realm,
+the Six Dragons manifested in the likeness of
+their creator. Existing beyond the confines of the
+natural world, they function as wedges that allow
+the world to maintain its shape. Fediel is the
+wedge of darkness, freely able to influence death,
+demise, and other laws of nature—either physical
+or immaterial—that fall under darkness's dominion.
+
+Awakening from a slumber spanning millennia, Fediel
+is obsessed with "dyads," or the joining of two
+bloodlines to usher in the next generation, and
+assumes a skydweller form to investigate this
+method of mortal propagation. However, the scope
+of her worldview is unimaginably broad, thus she
+often fails to grasp the subtleties of smaller
+lifeforms relative to herself.��column_��id_hash_�TXT_PROF_PL2900_LOAD�subid_hash_��text_٥Fediel is one of the Six Dragons, entities who
+exist beyond the confines of the natural world.
+Having dominion over darkness, she influences the
+very laws of nature.��column_��id_hash_�TXT_PROF_EM1900_load�subid_hash_��text_٘Один из трех генералов Авиа. Он защищает своего
+ сюзерена яростным владением мечом.��column_��id_hash_�TXT_PROF_EM2000_01�subid_hash_��text_��Один из трех генералов Авиа и командир 
 могучего Корпуса Серебряного Волка. С его
 грозной алебардой в руке назвать этого человека 
 устрашающим было бы преуменьшением. 
 Он постоянно ищет всё более сильных противни-
 ков и радуется всякий раз, когда находит достой-
-ного противника.��column_��id_hash_�TXT_PROF_EM2000_02�subid_hash_��text_��Разгромив соперников со всего 
+ного противника.��column_��id_hash_�TXT_PROF_EM2000_load�subid_hash_��text_َОдин из трех генералов Авиа. Алебарда наготове, он
+ излучает устрашающую ауру.��column_��id_hash_�TXT_PROF_EM2000_02�subid_hash_��text_��Разгромив соперников со всего 
 Зегагранде на турнире бойцов, Галланза 
 почувствовал, что ему нужен новый вызов. 
 Он надеялся бросить вызов астралам в 
 Эсталусии, но когда он узнал о планах 
 Лилит уничтожить Небесное царство, то стал 
-сражаться вместе с командой.��column_��id_hash_�TXT_PROF_EM2100_load�subid_hash_��text_�}Одна из трех генералов Авиа. Кажется, она 
-использует странную магию.��column_��id_hash_�TXT_PROF_EM2100_01�subid_hash_��text_�Одна из трех генералов Авиа и командир тайного
+сражаться вместе с командой.��column_��id_hash_�TXT_PROF_EM2100_01�subid_hash_��text_�Одна из трех генералов Авиа и командир тайного
 братства Меча. Она не оставляет места для
 милосердия, когда речь идет о выполнении
-своих обязанностей��column_��id_hash_�TXT_PROF_EM2100_02�subid_hash_��text_�^Братство меча состоит из импровизированной 
+своих обязанностей��column_��id_hash_�TXT_PROF_EM2100_load�subid_hash_��text_�}Одна из трех генералов Авиа. Кажется, она 
+использует странную магию.��column_��id_hash_�TXT_PROF_EM2100_02�subid_hash_��text_�^Братство меча состоит из импровизированной 
 семьи магов, изгнанных из своих кланов за их 
 особую способность манипулировать оружием. 
 Под руководством Маглиэль они нашли 
 пристанище в Церкви Авиа, но когда она 
 узнала о планах Лилит уничтожить Небесное 
 Царство, она отреклась от миссии Авиа и 
-начала сражаться бок о бок с командой.��column_��id_hash_�TXT_PROF_EM2400_load�subid_hash_��text_�Таинственный пастырь так называемых "Пилигримов
- Авиа". Она не остановится ни перед чем, чтобы
- достичь Эсталусии и принести спасение небесам.��column_��id_hash_�TXT_PROF_EM2400_01�subid_hash_��text_ٿЗагадочный пастырь пилигримов Авиа. 
+начала сражаться бок о бок с командой.��column_��id_hash_�TXT_PROF_EM2400_01�subid_hash_��text_ٿЗагадочный пастырь пилигримов Авиа. 
 Ее цель ? добраться до Эсталусии и 
-принести спасение своему народу.��column_��id_hash_�TXT_PROF_EM2400_02�subid_hash_��text_��Лилит тепло и великодушно относится к сво-
+принести спасение своему народу.��column_��id_hash_�TXT_PROF_EM2400_load�subid_hash_��text_�Таинственный пастырь так называемых "Пилигримов
+ Авиа". Она не остановится ни перед чем, чтобы
+ достичь Эсталусии и принести спасение небесам.��column_��id_hash_�TXT_PROF_EM2400_02�subid_hash_��text_��Лилит тепло и великодушно относится к сво-
 им последователям, но безжалостна и язви-
 тельна к своим недоброжелателям. Не подо-
 зревая о том, что ее последователи - Астралы, 
@@ -1155,10 +1288,7 @@
 боды, напал на нее и отправил в полет на дно 
 небес. Падая, она молилась об ином исходе, 
 если ее возрожденный мир действительно ста-
-нет реальностью.��column_��id_hash_�TXT_PROF_EM7700_load�subid_hash_��text_�%Этот астрал никогда не проявляет эмоций, 
-кроме ледяной отстраненности. Он прези-
-рает власть судьбы над причинностью и 
-стремится разорвать ее железную хватку.��column_��id_hash_�TXT_PROF_EM7700_01�subid_hash_��text_��Этот астрал никогда не проявляет эмоций, 
+нет реальностью.��column_��id_hash_�TXT_PROF_EM7700_01�subid_hash_��text_��Этот астрал никогда не проявляет эмоций, 
 кроме ледяной отстраненности. Он прези-
 рает верховенство судьбы и стремится 
 разорвать ее железную хватку. В разгар 
@@ -1170,8 +1300,48 @@
 временно погиб и похитил его тело. После 
 того как голова Астрала была приживлена к 
 новому сосуду, вся поразительная мощь 
-первозданного зверя перешла в руки Люцилия.��column_��id_hash_�TXT_PROF_UNKNOWN�subid_hash_��text_�Неизвестно��column_��id_hash_�TXT_AGE_COMMON�subid_hash_��text_�{0}��column_��id_hash_�TXT_HEIGHT_COMMON�subid_hash_��text_�{0}?см��column_��id_hash_�TXT_HEIGHT_PL1200_01�subid_hash_��text_�<Около 90 см (в среднем для Харвина)��column_��id_hash_�TXT_HOBBY_PL0000_01�subid_hash_��text_�5Походы в горы, активный отдых��column_��id_hash_�TXT_HOBBY_PL0100_01�subid_hash_��text_�Шопинг, общение��column_��id_hash_�TXT_HOBBY_PL0200_01�subid_hash_��text_�/Коллекционирование мечей��column_��id_hash_�TXT_HOBBY_PL0300_01�subid_hash_��text_�1Дартс, обслуживание оружия��column_��id_hash_�TXT_HOBBY_PL0400_01�subid_hash_��text_�Мода��column_��id_hash_�TXT_HOBBY_PL0500_01�subid_hash_��text_�/Тяжелая атлетика, рыбалка��column_��id_hash_�TXT_HOBBY_PL0600_01�subid_hash_��text_�Садоводство��column_��id_hash_�TXT_HOBBY_PL0700_01�subid_hash_��text_�7Прогулка возле семейного дома��column_��id_hash_�TXT_HOBBY_PL0800_01�subid_hash_��text_�aКоллекционирование оружия, изучение военной тактики��column_��id_hash_�TXT_HOBBY_PL0900_01�subid_hash_��text_�'Делать работу по дому��column_��id_hash_�TXT_HOBBY_PL1000_01�subid_hash_��text_�5В поисках способных вассалов��column_��id_hash_�TXT_HOBBY_PL1100_01�subid_hash_��text_�TПроведение академического и боевого обучения��column_��id_hash_�TXT_HOBBY_PL1200_01�subid_hash_��text_�Обучение��column_��id_hash_�TXT_HOBBY_PL1300_01�subid_hash_��text_�Рыбалка��column_��id_hash_�TXT_HOBBY_PL1400_01�subid_hash_��text_� Тренировки, загар��column_��id_hash_�TXT_HOBBY_PL1500_01�subid_hash_��text_�!Испытание кулаков��column_��id_hash_�TXT_HOBBY_PL1600_01�subid_hash_��text_�1Ищем слабые места Васераги��column_��id_hash_�TXT_HOBBY_PL1700_01�subid_hash_��text_�:Наслаждение крепкими напитками��column_��id_hash_�TXT_HOBBY_PL1800_01�subid_hash_��text_�BЛюбуюсь собой, провожу исследования��column_��id_hash_�TXT_HOBBY_PL1900_04�subid_hash_��text_�WОптимизация боя, поддержание своего снаряжения��column_��id_hash_�TXT_HOBBY_PL2100_01�subid_hash_��text_�TМастерство приготовления бобов, пива и смесей��column_��id_hash_�TXT_HOBBY_PL2200_01�subid_hash_��text_�/Коллекционирование мечей��column_��id_hash_�TXT_HOBBY_PL2300_01�subid_hash_��text_�>Поиск новых магазинов и заведений��column_��id_hash_�TXT_HOBBY_EM2000_01�subid_hash_��text_�5Охота на сильных противников��column_��id_hash_�TXT_HOBBY_EM2100_01�subid_hash_��text_�1Коллекционирование оружия��column_��id_hash_�TXT_HOBBY_EM2400_01�subid_hash_��text_�UКоллективная работа для достижения общей цели��column_��id_hash_�TXT_HOBBY_EM7700_01�subid_hash_��text_� В поисках ответов��column_��id_hash_�TXT_FAVORITE_PL0000_01�subid_hash_��text_�.Друзья, приключения, небо��column_��id_hash_�TXT_FAVORITE_PL0100_01�subid_hash_��text_�.Друзья, приключения, небо��column_��id_hash_�TXT_FAVORITE_PL0200_01�subid_hash_��text_�]Мелочи, маленькие животные, готовка (сомнительная)
-��column_��id_hash_�TXT_FAVORITE_PL0300_01�subid_hash_��text_�#Послеобеденный сон��column_��id_hash_�TXT_FAVORITE_PL0400_01�subid_hash_��text_�Ее учитель��column_��id_hash_�TXT_FAVORITE_PL0500_01�subid_hash_��text_�Сладости��column_��id_hash_�TXT_FAVORITE_PL0600_01�subid_hash_��text_�LПривлекательные люди (независимо от пола)��column_��id_hash_�TXT_FAVORITE_PL0700_01�subid_hash_��text_�,Семья, ее младшая сестра��column_��id_hash_�TXT_FAVORITE_PL0800_01�subid_hash_��text_�Обучение��column_��id_hash_�TXT_FAVORITE_PL0900_01�subid_hash_��text_�Мясные блюда��column_��id_hash_�TXT_FAVORITE_PL1000_01�subid_hash_��text_�[Стремление к справедливости, добродетельные люди��column_��id_hash_�TXT_FAVORITE_PL1100_01�subid_hash_��text_�Медитация��column_��id_hash_�TXT_FAVORITE_PL1200_01�subid_hash_��text_�bМаленькие обеды Авиатора, высокие места, высокие люди��column_��id_hash_�TXT_FAVORITE_PL1300_01�subid_hash_��text_�$Общение с молодежью��column_��id_hash_�TXT_FAVORITE_PL1400_01�subid_hash_��text_�Дети��column_��id_hash_�TXT_FAVORITE_PL1500_01�subid_hash_��text_�NМясо, мясо, больше мяса, сильные конкуренты��column_��id_hash_�TXT_FAVORITE_PL1600_01�subid_hash_��text_�Кричащие матчи��column_��id_hash_�TXT_FAVORITE_PL1700_01�subid_hash_��text_�$Увеличение его тела��column_��id_hash_�TXT_FAVORITE_PL1800_01�subid_hash_��text_�Сама, зеркала��column_��id_hash_�TXT_FAVORITE_PL1900_04�subid_hash_��text_�экипаж , доброта��column_��id_hash_�TXT_FAVORITE_PL2100_01�subid_hash_��text_�)Все, что связано с кофе��column_��id_hash_�TXT_FAVORITE_PL2200_01�subid_hash_��text_�HРассказывать анекдоты, дразнить других��column_��id_hash_�TXT_FAVORITE_PL2300_01�subid_hash_��text_�'Быть одной из девушек��column_��id_hash_�TXT_FAVORITE_EM2000_01�subid_hash_��text_�BПоединки, рисовые шарики (как у мамы)��column_��id_hash_�TXT_FAVORITE_EM2100_01�subid_hash_��text_�0Ее собратья по Завесе Меча��column_��id_hash_�TXT_FAVORITE_EM2400_01�subid_hash_��text_�Лесть подхалимов��column_��id_hash_�TXT_FAVORITE_EM7700_01�subid_hash_��text_�Свободная воля��column_��id_hash_�TXT_WEAK_PL0000_01�subid_hash_��text_�&Выступление с речами��column_��id_hash_�TXT_WEAK_PL0100_01�subid_hash_��text_�=Лекционное обучение, бездействие��column_��id_hash_�TXT_WEAK_PL0200_01�subid_hash_��text_�Ошибки��column_��id_hash_�TXT_WEAK_PL0300_01�subid_hash_��text_�Настойчивые люди��column_��id_hash_�TXT_WEAK_PL0400_01�subid_hash_��text_�Жуткие старики��column_��id_hash_�TXT_WEAK_PL0500_01�subid_hash_��text_�Младенцы��column_��id_hash_�TXT_WEAK_PL0600_01�subid_hash_��text_�Машины��column_��id_hash_�TXT_WEAK_PL0700_01�subid_hash_��text_�5Незнакомцы, страшные истории��column_��id_hash_�TXT_WEAK_PL0800_01�subid_hash_��text_�"Уборка его комнаты��column_��id_hash_�TXT_WEAK_PL0900_01�subid_hash_��text_�BВыражение несогласия в четкой форме��column_��id_hash_�TXT_WEAK_PL1000_01�subid_hash_��text_�?Стремление к господству, злые люди��column_��id_hash_�TXT_WEAK_PL1100_01�subid_hash_��text_�Большие болтуны��column_��id_hash_�TXT_WEAK_PL1200_01�subid_hash_��text_�;Лестница, вещи на высоких полках��column_��id_hash_�TXT_WEAK_PL1300_01�subid_hash_��text_�)Говоря о своем прошлом��column_��id_hash_�TXT_WEAK_PL1400_01�subid_hash_��text_�mПризнание, что она не может бодрствовать во время медитации��column_��id_hash_�TXT_WEAK_PL1500_01�subid_hash_��text_�)Рациональное мышление��column_��id_hash_�TXT_WEAK_PL1600_01�subid_hash_��text_�(Ученые, исследователи��column_��id_hash_�TXT_WEAK_PL1700_01�subid_hash_��text_�!Вспоминая прошлое��column_��id_hash_�TXT_WEAK_PL1800_01�subid_hash_��text_�Идиотизм��column_��id_hash_�TXT_WEAK_PL1900_04�subid_hash_��text_�1Говорящая, сложная техника��column_��id_hash_�TXT_WEAK_PL2100_01�subid_hash_��text_� Иррациональность��column_��id_hash_�TXT_WEAK_PL2200_01�subid_hash_��text_�9Нелогичные поступки, обманщики��column_��id_hash_�TXT_WEAK_PL2300_01�subid_hash_��text_�TНеприязненное отношение, неудачные каламбуры��column_��id_hash_�TXT_WEAK_EM2000_01�subid_hash_��text_�$Идем на компромиссы��column_��id_hash_�TXT_WEAK_EM2100_01�subid_hash_��text_�Доверие другим��column_��id_hash_�TXT_WEAK_EM2400_01�subid_hash_��text_�JНе знаю. Никогда об этом не задумывалась.��column_��id_hash_�TXT_WEAK_EM7700_01�subid_hash_��text_�Лето��column_��id_hash_�TXT_CV_PL0000_01�subid_hash_��text_�Юки Оно��column_��id_hash_�TXT_CV_PL0100_01�subid_hash_��text_�Хисако Канемото��column_��id_hash_�TXT_CV_PL0200_01�subid_hash_��text_�Миюки Савасиро��column_��id_hash_�TXT_CV_PL0300_01�subid_hash_��text_�Хироаки Хирата��column_��id_hash_�TXT_CV_PL0400_01�subid_hash_��text_�Юкари Тамура��column_��id_hash_�TXT_CV_PL0500_01�subid_hash_��text_�Кадзухиро Ямаджи��column_��id_hash_�TXT_CV_PL0600_01�subid_hash_��text_�Рие Танака��column_��id_hash_�TXT_CV_PL0700_01�subid_hash_��text_�Мадока Ёнезава��column_��id_hash_�TXT_CV_PL0800_01�subid_hash_��text_�Юки Оно��column_��id_hash_�TXT_CV_PL0900_01�subid_hash_��text_�Такуя Эгучи��column_��id_hash_�TXT_CV_PL1000_01�subid_hash_��text_�Рёта Осака��column_��id_hash_�TXT_CV_PL1100_01�subid_hash_��text_�Казухико Иноуэ��column_��id_hash_�TXT_CV_PL1200_01�subid_hash_��text_�Каори Назука��column_��id_hash_�TXT_CV_PL1300_01�subid_hash_��text_�Сигэру Тиба��column_��id_hash_�TXT_CV_PL1400_01�subid_hash_��text_�М・А・О��column_��id_hash_�TXT_CV_PL1500_01�subid_hash_��text_�Киёюки Янада��column_��id_hash_�TXT_CV_PL1600_01�subid_hash_��text_�Кана Ханадзава��column_��id_hash_�TXT_CV_PL1700_01�subid_hash_��text_�Фумихиро Тачики��column_��id_hash_�TXT_CV_PL1800_01�subid_hash_��text_�Сакура Танге��column_��id_hash_�TXT_CV_PL1900_01�subid_hash_��text_�Кенджиро Цуда��column_��id_hash_�TXT_CV_PL2100_01�subid_hash_��text_�Кеничи Судзумура��column_��id_hash_�TXT_CV_PL2200_01�subid_hash_��text_�Дзюнъити Сувабэ��column_��id_hash_�TXT_CV_PL2300_01�subid_hash_��text_�Юко Минагути��column_��id_hash_�TXT_CV_EM2000_01�subid_hash_��text_�Коичи Ямадера��column_��id_hash_�TXT_CV_EM2100_01�subid_hash_��text_�Саори Хаями��column_��id_hash_�TXT_CV_EM2400_01�subid_hash_��text_�Хоуко Кувасима��column_��id_hash_�TXT_CV_EM7700_01�subid_hash_��text_�Такахиро Сакурай��column_��id_hash_�TXT_CV_PL0000_01_EN�subid_hash_��text_�Кайл МакКарли��column_��id_hash_�TXT_CV_PL0100_01_EN�subid_hash_��text_�Эрика Харлахер��column_��id_hash_�TXT_CV_PL0200_01_EN�subid_hash_��text_�Эрика Линдбек��column_��id_hash_�TXT_CV_PL0300_01_EN�subid_hash_��text_�Кайл Хеберт��column_��id_hash_�TXT_CV_PL0400_01_EN�subid_hash_��text_�Джеки Ластра��column_��id_hash_�TXT_CV_PL0500_01_EN�subid_hash_��text_�Ричард Эпкар��column_��id_hash_�TXT_CV_PL0600_01_EN�subid_hash_��text_�Аллегра Кларк��column_��id_hash_�TXT_CV_PL0700_01_EN�subid_hash_��text_�,Кристина "Ви" Валенсуэла��column_��id_hash_�TXT_CV_PL0800_01_EN�subid_hash_��text_�Стивен Фу��column_��id_hash_�TXT_CV_PL0900_01_EN�subid_hash_��text_�Зено Робинсон��column_��id_hash_�TXT_CV_PL1000_01_EN�subid_hash_��text_�Марк Уиттен��column_��id_hash_�TXT_CV_PL1100_01_EN�subid_hash_��text_�!Джордан Рейнольдс��column_��id_hash_�TXT_CV_PL1200_01_EN�subid_hash_��text_�,Кристина "Ви" Валенсуэла��column_��id_hash_�TXT_CV_PL1300_01_EN�subid_hash_��text_�Питер Келамис��column_��id_hash_�TXT_CV_PL1400_01_EN�subid_hash_��text_�#Брианна Никербокер��column_��id_hash_�TXT_CV_PL1500_01_EN�subid_hash_��text_�Дэйв Фенной��column_��id_hash_�TXT_CV_PL1600_01_EN�subid_hash_��text_�Мела Ли��column_��id_hash_�TXT_CV_PL1700_01_EN�subid_hash_��text_�СунгВон Чо��column_��id_hash_�TXT_CV_PL1800_01_EN�subid_hash_��text_�Сара Энн Уильямс��column_��id_hash_�TXT_CV_PL1900_01_EN�subid_hash_��text_�Робби Дэймонд��column_��id_hash_�TXT_CV_PL2100_01_EN�subid_hash_��text_�Говард Ванг��column_��id_hash_�TXT_CV_PL2200_01_EN�subid_hash_��text_�Алехандро Сааб��column_��id_hash_�TXT_CV_PL2300_01_EN�subid_hash_��text_�Жизель Фернандес��column_��id_hash_�TXT_CV_EM2000_01_EN�subid_hash_��text_�Криспин Фриман��column_��id_hash_�TXT_CV_EM2100_01_EN�subid_hash_��text_�Деби Дерриберри��column_��id_hash_�TXT_CV_EM2400_01_EN�subid_hash_��text_�Мэгги Робертсон��column_��id_hash_�TXT_CV_EM7700_01_EN�subid_hash_��text_�Шон Чиплок��column_��id_hash_�TXT_PROF_EM0000�subid_hash_��text_�Самые опрометчивые и свирепые гоблины часто становятся штурмовиками, атакующими
+первозданного зверя перешла в руки Люцилия.��column_��id_hash_�TXT_PROF_EM7700_load�subid_hash_��text_�%Этот астрал никогда не проявляет эмоций, 
+кроме ледяной отстраненности. Он прези-
+рает власть судьбы над причинностью и 
+стремится разорвать ее железную хватку.��column_��id_hash_�TXT_PROF_EM8200_01�subid_hash_��text_�/One of the Astrals who invaded the Sky Realm long
+before the War. No atrocity is off-limits in his
+quest to stand above all others, to bring all
+worlds under his rule. He went on to slay the
+Supreme Primarch, monitor of the Sky Realm, and
+plunged the skies into chaos with a series of
+bloody conflicts.
+
+Although his history with the Astral researcher
+Lucilius runs long and deep, they could not be
+more unalike—while Lucilius prefers the power of
+knowledge to further his agenda, Beelzebub adheres
+to the rule of strength, choosing instead to
+champion his own might.
+
+Weaving through the causality tears in Zegagrande,
+Beelzebub sat upon a throne in the deepest
+reaches of the Conflux, waiting for the singularity
+to undertake his trial. It was all to further his
+ambition to reign supreme as the ultimate being.��column_��id_hash_�TXT_PROF_EM8200_01_load�subid_hash_��text_٧One of the Astrals who invaded the Sky Realm long
+before the War. No atrocity is off-limits in his
+quest to stand above all others, to bring all
+worlds under his rule.��column_��id_hash_�TXT_PROF_EM8300_01�subid_hash_��text_�?One of the Arcarum, The World is the plinth and
+pillar to which the other Arcarum are tied.
+Originally created by the Astrals in ancient times,
+it eventually evolved to a state of self-awareness
+and self-actualization, developing its own
+identity. Manipulating the other Arcarum, it plots
+to create a new third realm where it will rule as
+god—a desire that arose from a drive to expunge
+the Omnipotent and break the cycle of karmic fate.
+
+No longer would the Inchoate World exist as a mere
+puppet; the anguish over its subjugation had
+awakened it from its primordial shell.��column_��id_hash_�TXT_PROF_EM8300_01_load�subid_hash_��text_ٸOne of the Arcarum, The World is the plinth and
+pillar to which the other Arcarum are tied. By
+controlling its brethren, it plots to create a new
+third realm where it will rule as god.��column_��id_hash_�TXT_PROF_UNKNOWN�subid_hash_��text_�Неизвестно��column_��id_hash_�TXT_AGE_COMMON�subid_hash_��text_�{0}��column_��id_hash_�TXT_HEIGHT_COMMON�subid_hash_��text_�{0}?см��column_��id_hash_�TXT_HEIGHT_PL1200_01�subid_hash_��text_�<Около 90 см (в среднем для Харвина)��column_��id_hash_�TXT_HEIGHT_PL2900_01�subid_hash_��text_�209 cm (in skydweller form)��column_��id_hash_�TXT_AGE_PL2900_01�subid_hash_��text_�Around 20 (in skydweller form)��column_��id_hash_�TXT_HOBBY_PL0000_01�subid_hash_��text_�5Походы в горы, активный отдых��column_��id_hash_�TXT_HOBBY_PL0100_01�subid_hash_��text_�Шопинг, общение��column_��id_hash_�TXT_HOBBY_PL0200_01�subid_hash_��text_�/Коллекционирование мечей��column_��id_hash_�TXT_HOBBY_PL0300_01�subid_hash_��text_�1Дартс, обслуживание оружия��column_��id_hash_�TXT_HOBBY_PL0400_01�subid_hash_��text_�Мода��column_��id_hash_�TXT_HOBBY_PL0500_01�subid_hash_��text_�/Тяжелая атлетика, рыбалка��column_��id_hash_�TXT_HOBBY_PL0600_01�subid_hash_��text_�Садоводство��column_��id_hash_�TXT_HOBBY_PL0700_01�subid_hash_��text_�7Прогулка возле семейного дома��column_��id_hash_�TXT_HOBBY_PL0800_01�subid_hash_��text_�aКоллекционирование оружия, изучение военной тактики��column_��id_hash_�TXT_HOBBY_PL0900_01�subid_hash_��text_�'Делать работу по дому��column_��id_hash_�TXT_HOBBY_PL1000_01�subid_hash_��text_�5В поисках способных вассалов��column_��id_hash_�TXT_HOBBY_PL1100_01�subid_hash_��text_�TПроведение академического и боевого обучения��column_��id_hash_�TXT_HOBBY_PL1200_01�subid_hash_��text_�Обучение��column_��id_hash_�TXT_HOBBY_PL1300_01�subid_hash_��text_�Рыбалка��column_��id_hash_�TXT_HOBBY_PL1400_01�subid_hash_��text_� Тренировки, загар��column_��id_hash_�TXT_HOBBY_PL1500_01�subid_hash_��text_�!Испытание кулаков��column_��id_hash_�TXT_HOBBY_PL1600_01�subid_hash_��text_�1Ищем слабые места Васераги��column_��id_hash_�TXT_HOBBY_PL1700_01�subid_hash_��text_�:Наслаждение крепкими напитками��column_��id_hash_�TXT_HOBBY_PL1800_01�subid_hash_��text_�BЛюбуюсь собой, провожу исследования��column_��id_hash_�TXT_HOBBY_PL1900_04�subid_hash_��text_�WОптимизация боя, поддержание своего снаряжения��column_��id_hash_�TXT_HOBBY_PL2100_01�subid_hash_��text_�TМастерство приготовления бобов, пива и смесей��column_��id_hash_�TXT_HOBBY_PL2200_01�subid_hash_��text_�/Коллекционирование мечей��column_��id_hash_�TXT_HOBBY_PL2300_01�subid_hash_��text_�>Поиск новых магазинов и заведений��column_��id_hash_�TXT_HOBBY_PL2600_01�subid_hash_��text_�Shopping for clothes, baking��column_��id_hash_�TXT_HOBBY_PL2700_01�subid_hash_��text_�2Spending time in quiet places, firearm maintenance��column_��id_hash_�TXT_HOBBY_PL2800_01�subid_hash_��text_�Making essential oils��column_��id_hash_�TXT_HOBBY_PL2900_01�subid_hash_��text_�Observing dyads��column_��id_hash_�TXT_HOBBY_EM2000_01�subid_hash_��text_�5Охота на сильных противников��column_��id_hash_�TXT_HOBBY_EM2100_01�subid_hash_��text_�1Коллекционирование оружия��column_��id_hash_�TXT_HOBBY_EM2400_01�subid_hash_��text_�UКоллективная работа для достижения общей цели��column_��id_hash_�TXT_HOBBY_EM7700_01�subid_hash_��text_� В поисках ответов��column_��id_hash_�TXT_HOBBY_EM8200_01�subid_hash_��text_�Games of strategy��column_��id_hash_�TXT_HOBBY_EM8300_01�subid_hash_��text_�Constructing a new world order��column_��id_hash_�TXT_FAVORITE_PL0000_01�subid_hash_��text_�.Друзья, приключения, небо��column_��id_hash_�TXT_FAVORITE_PL0100_01�subid_hash_��text_�.Друзья, приключения, небо��column_��id_hash_�TXT_FAVORITE_PL0200_01�subid_hash_��text_�]Мелочи, маленькие животные, готовка (сомнительная)
+��column_��id_hash_�TXT_FAVORITE_PL0300_01�subid_hash_��text_�#Послеобеденный сон��column_��id_hash_�TXT_FAVORITE_PL0400_01�subid_hash_��text_�Ее учитель��column_��id_hash_�TXT_FAVORITE_PL0500_01�subid_hash_��text_�Сладости��column_��id_hash_�TXT_FAVORITE_PL0600_01�subid_hash_��text_�LПривлекательные люди (независимо от пола)��column_��id_hash_�TXT_FAVORITE_PL0700_01�subid_hash_��text_�,Семья, ее младшая сестра��column_��id_hash_�TXT_FAVORITE_PL0800_01�subid_hash_��text_�Обучение��column_��id_hash_�TXT_FAVORITE_PL0900_01�subid_hash_��text_�Мясные блюда��column_��id_hash_�TXT_FAVORITE_PL1000_01�subid_hash_��text_�[Стремление к справедливости, добродетельные люди��column_��id_hash_�TXT_FAVORITE_PL1100_01�subid_hash_��text_�Медитация��column_��id_hash_�TXT_FAVORITE_PL1200_01�subid_hash_��text_�bМаленькие обеды Авиатора, высокие места, высокие люди��column_��id_hash_�TXT_FAVORITE_PL1300_01�subid_hash_��text_�$Общение с молодежью��column_��id_hash_�TXT_FAVORITE_PL1400_01�subid_hash_��text_�Дети��column_��id_hash_�TXT_FAVORITE_PL1500_01�subid_hash_��text_�NМясо, мясо, больше мяса, сильные конкуренты��column_��id_hash_�TXT_FAVORITE_PL1600_01�subid_hash_��text_�Кричащие матчи��column_��id_hash_�TXT_FAVORITE_PL1700_01�subid_hash_��text_�$Увеличение его тела��column_��id_hash_�TXT_FAVORITE_PL1800_01�subid_hash_��text_�Сама, зеркала��column_��id_hash_�TXT_FAVORITE_PL1900_04�subid_hash_��text_�экипаж , доброта��column_��id_hash_�TXT_FAVORITE_PL2100_01�subid_hash_��text_�)Все, что связано с кофе��column_��id_hash_�TXT_FAVORITE_PL2200_01�subid_hash_��text_�HРассказывать анекдоты, дразнить других��column_��id_hash_�TXT_FAVORITE_PL2300_01�subid_hash_��text_�'Быть одной из девушек��column_��id_hash_�TXT_FAVORITE_PL2600_01�subid_hash_��text_�%Climbing the ranks, glory and success��column_��id_hash_�TXT_FAVORITE_PL2700_01�subid_hash_��text_�.Peace and quiet, all animals—especially dogs��column_��id_hash_�TXT_FAVORITE_PL2800_01�subid_hash_��text_�Floral fragrances, combat��column_��id_hash_�TXT_FAVORITE_PL2900_01�subid_hash_��text_�Mortal culture��column_��id_hash_�TXT_FAVORITE_EM2000_01�subid_hash_��text_�BПоединки, рисовые шарики (как у мамы)��column_��id_hash_�TXT_FAVORITE_EM2100_01�subid_hash_��text_�0Ее собратья по Завесе Меча��column_��id_hash_�TXT_FAVORITE_EM2400_01�subid_hash_��text_�Лесть подхалимов��column_��id_hash_�TXT_FAVORITE_EM7700_01�subid_hash_��text_�Свободная воля��column_��id_hash_�TXT_FAVORITE_EM8200_01�subid_hash_��text_�!His own pride, his own reflection��column_��id_hash_�TXT_FAVORITE_EM8300_01�subid_hash_��text_�The perfect world��column_��id_hash_�TXT_WEAK_PL0000_01�subid_hash_��text_�&Выступление с речами��column_��id_hash_�TXT_WEAK_PL0100_01�subid_hash_��text_�=Лекционное обучение, бездействие��column_��id_hash_�TXT_WEAK_PL0200_01�subid_hash_��text_�Ошибки��column_��id_hash_�TXT_WEAK_PL0300_01�subid_hash_��text_�Настойчивые люди��column_��id_hash_�TXT_WEAK_PL0400_01�subid_hash_��text_�Жуткие старики��column_��id_hash_�TXT_WEAK_PL0500_01�subid_hash_��text_�Младенцы��column_��id_hash_�TXT_WEAK_PL0600_01�subid_hash_��text_�Машины��column_��id_hash_�TXT_WEAK_PL0700_01�subid_hash_��text_�5Незнакомцы, страшные истории��column_��id_hash_�TXT_WEAK_PL0800_01�subid_hash_��text_�"Уборка его комнаты��column_��id_hash_�TXT_WEAK_PL0900_01�subid_hash_��text_�BВыражение несогласия в четкой форме��column_��id_hash_�TXT_WEAK_PL1000_01�subid_hash_��text_�?Стремление к господству, злые люди��column_��id_hash_�TXT_WEAK_PL1100_01�subid_hash_��text_�Большие болтуны��column_��id_hash_�TXT_WEAK_PL1200_01�subid_hash_��text_�;Лестница, вещи на высоких полках��column_��id_hash_�TXT_WEAK_PL1300_01�subid_hash_��text_�)Говоря о своем прошлом��column_��id_hash_�TXT_WEAK_PL1400_01�subid_hash_��text_�mПризнание, что она не может бодрствовать во время медитации��column_��id_hash_�TXT_WEAK_PL1500_01�subid_hash_��text_�)Рациональное мышление��column_��id_hash_�TXT_WEAK_PL1600_01�subid_hash_��text_�(Ученые, исследователи��column_��id_hash_�TXT_WEAK_PL1700_01�subid_hash_��text_�!Вспоминая прошлое��column_��id_hash_�TXT_WEAK_PL1800_01�subid_hash_��text_�Идиотизм��column_��id_hash_�TXT_WEAK_PL1900_04�subid_hash_��text_�1Говорящая, сложная техника��column_��id_hash_�TXT_WEAK_PL2100_01�subid_hash_��text_� Иррациональность��column_��id_hash_�TXT_WEAK_PL2200_01�subid_hash_��text_�9Нелогичные поступки, обманщики��column_��id_hash_�TXT_WEAK_PL2300_01�subid_hash_��text_�TНеприязненное отношение, неудачные каламбуры��column_��id_hash_�TXT_WEAK_PL2600_01�subid_hash_��text_�%Being looked down on, piping hot food��column_��id_hash_�TXT_WEAK_PL2700_01�subid_hash_��text_�Din and clatter��column_��id_hash_�TXT_WEAK_PL2800_01�subid_hash_��text_�Solitude��column_��id_hash_�TXT_WEAK_PL2900_01�subid_hash_��text_�2Mortal etiquette (Why must it be so complicated?!)��column_��id_hash_�TXT_WEAK_EM2000_01�subid_hash_��text_�$Идем на компромиссы��column_��id_hash_�TXT_WEAK_EM2100_01�subid_hash_��text_�Доверие другим��column_��id_hash_�TXT_WEAK_EM2400_01�subid_hash_��text_�JНе знаю. Никогда об этом не задумывалась.��column_��id_hash_�TXT_WEAK_EM7700_01�subid_hash_��text_�Лето��column_��id_hash_�TXT_WEAK_EM8200_01�subid_hash_��text_�'A king does not suffer such weaknesses.��column_��id_hash_�TXT_WEAK_EM8300_01�subid_hash_��text_�Irregularities in the system��column_��id_hash_�TXT_CV_PL0000_01�subid_hash_��text_�Юки Оно��column_��id_hash_�TXT_CV_PL0100_01�subid_hash_��text_�Хисако Канемото��column_��id_hash_�TXT_CV_PL0200_01�subid_hash_��text_�Миюки Савасиро��column_��id_hash_�TXT_CV_PL0300_01�subid_hash_��text_�Хироаки Хирата��column_��id_hash_�TXT_CV_PL0400_01�subid_hash_��text_�Юкари Тамура��column_��id_hash_�TXT_CV_PL0500_01�subid_hash_��text_�Кадзухиро Ямаджи��column_��id_hash_�TXT_CV_PL0600_01�subid_hash_��text_�Рие Танака��column_��id_hash_�TXT_CV_PL0700_01�subid_hash_��text_�Мадока Ёнезава��column_��id_hash_�TXT_CV_PL0800_01�subid_hash_��text_�Юки Оно��column_��id_hash_�TXT_CV_PL0900_01�subid_hash_��text_�Такуя Эгучи��column_��id_hash_�TXT_CV_PL1000_01�subid_hash_��text_�Рёта Осака��column_��id_hash_�TXT_CV_PL1100_01�subid_hash_��text_�Казухико Иноуэ��column_��id_hash_�TXT_CV_PL1200_01�subid_hash_��text_�Каори Назука��column_��id_hash_�TXT_CV_PL1300_01�subid_hash_��text_�Сигэру Тиба��column_��id_hash_�TXT_CV_PL1400_01�subid_hash_��text_�М・А・О��column_��id_hash_�TXT_CV_PL1500_01�subid_hash_��text_�Киёюки Янада��column_��id_hash_�TXT_CV_PL1600_01�subid_hash_��text_�Кана Ханадзава��column_��id_hash_�TXT_CV_PL1700_01�subid_hash_��text_�Фумихиро Тачики��column_��id_hash_�TXT_CV_PL1800_01�subid_hash_��text_�Сакура Танге��column_��id_hash_�TXT_CV_PL1900_01�subid_hash_��text_�Кенджиро Цуда��column_��id_hash_�TXT_CV_PL2100_01�subid_hash_��text_�Кеничи Судзумура��column_��id_hash_�TXT_CV_PL2200_01�subid_hash_��text_�Дзюнъити Сувабэ��column_��id_hash_�TXT_CV_PL2300_01�subid_hash_��text_�Юко Минагути��column_��id_hash_�TXT_CV_PL2600_01�subid_hash_��text_�Aya Hirano��column_��id_hash_�TXT_CV_PL2700_01�subid_hash_��text_�Kazuya Nakai��column_��id_hash_�TXT_CV_PL2800_01�subid_hash_��text_�Azumi Asakura��column_��id_hash_�TXT_CV_PL2900_01�subid_hash_��text_�Asami Tano��column_��id_hash_�TXT_CV_EM2000_01�subid_hash_��text_�Коичи Ямадера��column_��id_hash_�TXT_CV_EM2100_01�subid_hash_��text_�Саори Хаями��column_��id_hash_�TXT_CV_EM2400_01�subid_hash_��text_�Хоуко Кувасима��column_��id_hash_�TXT_CV_EM7700_01�subid_hash_��text_�Такахиро Сакурай��column_��id_hash_�TXT_CV_EM8200_01�subid_hash_��text_�Katsuyuki Konishi��column_��id_hash_�TXT_CV_EM8300_01�subid_hash_��text_�Atsushi Ono��column_��id_hash_�TXT_CV_PL0000_01_EN�subid_hash_��text_�Кайл МакКарли��column_��id_hash_�TXT_CV_PL0100_01_EN�subid_hash_��text_�Эрика Харлахер��column_��id_hash_�TXT_CV_PL0200_01_EN�subid_hash_��text_�Эрика Линдбек��column_��id_hash_�TXT_CV_PL0300_01_EN�subid_hash_��text_�Кайл Хеберт��column_��id_hash_�TXT_CV_PL0400_01_EN�subid_hash_��text_�Джеки Ластра��column_��id_hash_�TXT_CV_PL0500_01_EN�subid_hash_��text_�Ричард Эпкар��column_��id_hash_�TXT_CV_PL0600_01_EN�subid_hash_��text_�Аллегра Кларк��column_��id_hash_�TXT_CV_PL0700_01_EN�subid_hash_��text_�,Кристина "Ви" Валенсуэла��column_��id_hash_�TXT_CV_PL0800_01_EN�subid_hash_��text_�Стивен Фу��column_��id_hash_�TXT_CV_PL0900_01_EN�subid_hash_��text_�Зено Робинсон��column_��id_hash_�TXT_CV_PL1000_01_EN�subid_hash_��text_�Марк Уиттен��column_��id_hash_�TXT_CV_PL1100_01_EN�subid_hash_��text_�!Джордан Рейнольдс��column_��id_hash_�TXT_CV_PL1200_01_EN�subid_hash_��text_�,Кристина "Ви" Валенсуэла��column_��id_hash_�TXT_CV_PL1300_01_EN�subid_hash_��text_�Питер Келамис��column_��id_hash_�TXT_CV_PL1400_01_EN�subid_hash_��text_�#Брианна Никербокер��column_��id_hash_�TXT_CV_PL1500_01_EN�subid_hash_��text_�Дэйв Фенной��column_��id_hash_�TXT_CV_PL1600_01_EN�subid_hash_��text_�Мела Ли��column_��id_hash_�TXT_CV_PL1700_01_EN�subid_hash_��text_�СунгВон Чо��column_��id_hash_�TXT_CV_PL1800_01_EN�subid_hash_��text_�Сара Энн Уильямс��column_��id_hash_�TXT_CV_PL1900_01_EN�subid_hash_��text_�Робби Дэймонд��column_��id_hash_�TXT_CV_PL2100_01_EN�subid_hash_��text_�Говард Ванг��column_��id_hash_�TXT_CV_PL2200_01_EN�subid_hash_��text_�Алехандро Сааб��column_��id_hash_�TXT_CV_PL2300_01_EN�subid_hash_��text_�Жизель Фернандес��column_��id_hash_�TXT_CV_PL2600_01_EN�subid_hash_��text_�Jennifer Losi��column_��id_hash_�TXT_CV_PL2700_01_EN�subid_hash_��text_�Kaiji Tang��column_��id_hash_�TXT_CV_PL2800_01_EN�subid_hash_��text_�Kelly Baskin��column_��id_hash_�TXT_CV_PL2900_01_EN�subid_hash_��text_�Savy Des-Etages��column_��id_hash_�TXT_CV_EM2000_01_EN�subid_hash_��text_�Криспин Фриман��column_��id_hash_�TXT_CV_EM2100_01_EN�subid_hash_��text_�Деби Дерриберри��column_��id_hash_�TXT_CV_EM2400_01_EN�subid_hash_��text_�Мэгги Робертсон��column_��id_hash_�TXT_CV_EM7700_01_EN�subid_hash_��text_�Шон Чиплок��column_��id_hash_�TXT_CV_EM8200_01_EN�subid_hash_��text_�Adin Rudd��column_��id_hash_�TXT_CV_EM8300_01_EN�subid_hash_��text_�Kellen Goff��column_��id_hash_�TXT_RACE_PL2100_01�subid_hash_��text_�Primal Beast (Archangel)��column_��id_hash_�TXT_PROF_EM0000�subid_hash_��text_�Самые опрометчивые и свирепые гоблины часто становятся штурмовиками, атакующими
  своих врагов на передовой линии битвы. Однако они ничего не знают ни о мужестве,
  ни о чести, жаждя лишь острых ощущений кровопролития и испуская восторженные
  военные крики, которые поднимают боевой дух союзников.��column_��id_hash_�TXT_PROF_EM0001�subid_hash_��text_�nГоблины создали свои собственные сложные общества, некоторые члены которых берут
@@ -1231,7 +1401,10 @@
  "Короля".��column_��id_hash_�TXT_PROF_EM0604�subid_hash_��text_�'Принято считать, что тело этого большого золотого слизняка состоит из настолько
  богатого материала, что поймав его, можно было бы сытно прокормить небожителя на
  всю жизнь. Однако столь немногие видели этот вариант и без того редкого золотого
- слизняка, что некоторые люди сомневаются это существует.��column_��id_hash_�TXT_PROF_EM0701�subid_hash_��text_�EЭти ужасные монстры напоминают крылатые глазные яблоки и особенно приспособлены
+ слизняка, что некоторые люди сомневаются это существует.��column_��id_hash_�TXT_PROF_EM0610�subid_hash_��text_�7A slime to rule all slimes, it is the keeper of balance and order among all
+slimekind. Should they go extinct, a new wave of chaos would drown the world.
+The dearth of confirmed sightings speaks volumes to its deadliness. As for the
+fate of those with more greed than sense... Some endings are best left untold.��column_��id_hash_�TXT_PROF_EM0701�subid_hash_��text_�EЭти ужасные монстры напоминают крылатые глазные яблоки и особенно приспособлены
  к снежной среде. Они могут ловко порхать даже в метель, досаждая жертве зарядами
  ледяной магии из своих глаз. Некоторые исследователи полагают, что Чьяэга может
  быть несовершеннолетним Назарбонджу, но пока эта теория не подтверждена.��column_��id_hash_�TXT_PROF_EM0705�subid_hash_��text_�3Это существо является подвидом кьяеги. Его манеры передвижения повторяют маневры его кузена, и они так же агрессивны, когда охотятся. Хрусталик их огромного глаза эволюционировал, чтобы накапливать магическую энергию, из-за чего в последнее время они пользуются большим спросом среди исследователей магии.��column_��id_hash_�TXT_PROF_EM0706�subid_hash_��text_�tНазарбондзю считаются дурным предзнаменованием, жнецами несчастных паломников на
@@ -1320,7 +1493,13 @@
  Каждый из них оснащен обширным арсеналом, способным разбить в пыль вражеский
  батальон.��column_��id_hash_�TXT_PROF_EM2200�subid_hash_��text_��Таинственное существо в облике знакомого фехтовальщика. Остаток огромной
  разрушительной силы, кажется, находится на границе между существованием и
- небытием. Его темные, бегающие глаза непоколебимо смотрят в пустоту.��column_��id_hash_�TXT_PROF_EM2600�subid_hash_��text_�aНесмотря на свою массивность, эта пустынная змея прячется в туннелях глубоко под
+ небытием. Его темные, бегающие глаза непоколебимо смотрят в пустоту.��column_��id_hash_�TXT_PROF_EM2500�subid_hash_��text_�)A subspecies of pincer found in volcanic biomes. Despite high demand for this
+melt-in-your-mouth haute cuisine, its harsh habitat protects it from over-
+harvesting. They serve as prey to giant lavafish, though there are signs that
+these crabs are clawing their way up to the top of the food chain.��column_��id_hash_�TXT_PROF_EM2510�subid_hash_��text_�9When causality grew distorted in Zega, this pincer awakened to its true calling
+as a sumo warrior. Drawing great might from its hearty guts, each stomp of its
+legs scuttles the earth. This overzealous grappler forces everyone into a bout,
+but once a victor is declared, win or lose, it slips away without a sound.��column_��id_hash_�TXT_PROF_EM2600�subid_hash_��text_�aНесмотря на свою массивность, эта пустынная змея прячется в туннелях глубоко под
  песком, где она может почувствовать даже шаги мыши, снующей по ее территории.
  Кобра на охоте внезапно появляется на поверхности и плюет нервно-паралитическим
  ядом в лицо жертве. , который рептилия производит в специализированных
@@ -1381,7 +1560,16 @@
  Наблюдатели обычно занимают альтернативное
  измерение, проецируя на этот план лишь
  полупрозрачное изображение себя; чтобы удалить их,
- захватчик должен найти их в корневом измерении.��column_��id_hash_�TXT_AGE_EM2000_01�subid_hash_��text_���column_��id_hash_�TXT_AGE_EM2100_01�subid_hash_��text_���column_��id_hash_�TXT_AGE_EM2400_01�subid_hash_��text_���column_��id_hash_�TXT_HEIGHT_EM2000_01�subid_hash_��text_���column_��id_hash_�TXT_HEIGHT_EM2100_01�subid_hash_��text_���column_��id_hash_�TXT_HEIGHT_EM2400_01�subid_hash_��text_���column_��id_hash_�TXT_PROF_NP0100_load�subid_hash_��text_ِКаждому не помешал бы такой дракончик, как Вирн. 
+ захватчик должен найти их в корневом измерении.��column_��id_hash_�TXT_PROF_EM8400�subid_hash_��text_�BSix colors melded together in equilibrium—how else to define this amalgam but as
+a force of nature? In the eyes of six wedges that shaped the Omnipotent's world,
+it serves as rectifier to the sky's distortion, as the catalyst for evolution,
+and as the adversity that will bolster all of sky life to thrive and propagate.��column_��id_hash_�TXT_PROF_EM8500�subid_hash_��text_�ACalamity surfaces, only to vanish as abruptly as it had appeared.��column_��id_hash_�TXT_PROF_EM0605�subid_hash_��text_�0Rainbows aren't an ultra rare sight, but these chromatically hued slimes
+certainly are. Although greedy skyfarers aplenty seek these pots stuffed with
+the sky's riches, proof of their existence is limited to scant anecdotes of
+failed hunts. Immeasurably swift, they continue to elude capture to this day.��column_��id_hash_�TXT_PROF_EM3100�subid_hash_��text_�6A machine prototype capable of slaying primal beasts. Known as an automagod,
+it was manufactured by moondwellers and uses a seal weapon as its core. Its
+armor and internals are made up of tiny components called machine cells. This
+weapon is testament to the moon's technological superiority over the Sky Realm.��column_��id_hash_�TXT_PROF_NP0100_load�subid_hash_��text_ِКаждому не помешал бы такой дракончик, как Вирн. 
  повезло заиметь такого друга.��column_��id_hash_�TXT_PROF_NP0100_01�subid_hash_��text_�Этот красный дракончик был с
 с самого раннего детства. Они вместе выро-
 сли на острове Зинкенстилл. Ничто так не 
@@ -1463,7 +1651,12 @@
 священной горе Нейгелит и первобытному богу, 
 которого она хранит. Она приходит на помощь 
 команде, когда Ролан, ее старый друг, разобла-
-чает дерзкие действия Авии.��column_��id_hash_�TXT_PROF_NP0600_load�subid_hash_��text_�BИнформационный брокер из Сидхоллоу.��column_��id_hash_�TXT_PROF_NP0600_01�subid_hash_��text_�0Затба управляет Семьей Затба, сетью инфор-
+чает дерзкие действия Авии.��column_��id_hash_�TXT_PROF_NP0400_02�subid_hash_��text_�When portals to the Conflux begin appearing on
+Mt. Neigelith, Historiath—along with Rolan—
+petitions Zegagrande's savior to help contain
+the spreading phenomenon. She supports the crew
+with their investigation and works tirelessly to
+resolve this new threat to the skies.��column_��id_hash_�TXT_PROF_NP0600_load�subid_hash_��text_�BИнформационный брокер из Сидхоллоу.��column_��id_hash_�TXT_PROF_NP0600_01�subid_hash_��text_�0Затба управляет Семьей Затба, сетью инфор-
 маторов в мегаполисе Сидхоллоу. Его товар - 
 советы, слухи и другие сведения, найденные 
 по всему небесному дому Зегагранде, а его 
@@ -1473,4 +1666,177 @@
 Несмотря на то что он грубоват и неприветлив,
  в нем есть чувство чести и общественного долга,
  которое никто не может отрицать. 
-Он давно знает Ролана.��column_��id_hash_�TXT_AGE_NP0000_01�subid_hash_��text_�Неизвестно��column_��id_hash_�TXT_HEIGHT_NP0100_01�subid_hash_��text_�42 см/37 см (сидя)��column_��id_hash_�TXT_HOBBY_NP0100_01�subid_hash_��text_�$Греться на солнышке��column_��id_hash_�TXT_HOBBY_NP0000_01�subid_hash_��text_�Пение, прогулки��column_��id_hash_�TXT_HOBBY_NP0200_01�subid_hash_��text_�Экономить деньги��column_��id_hash_�TXT_HOBBY_NP0300_01�subid_hash_��text_�GИсследования, обмен фактами и мелочами��column_��id_hash_�TXT_HOBBY_NP0400_01�subid_hash_��text_�Медитация��column_��id_hash_�TXT_HOBBY_NP0600_01�subid_hash_��text_�8Расширять свою бизнес, готовка��column_��id_hash_�TXT_FAVORITE_NP0100_01�subid_hash_��text_�Яблоки��column_��id_hash_�TXT_FAVORITE_NP0000_01�subid_hash_��text_�Каталина,��column_��id_hash_�TXT_FAVORITE_NP0200_01�subid_hash_��text_�Веселье и азарт��column_��id_hash_�TXT_FAVORITE_NP0300_01�subid_hash_��text_�Жители Фольки��column_��id_hash_�TXT_FAVORITE_NP0400_01�subid_hash_��text_�Волевые личности��column_��id_hash_�TXT_FAVORITE_NP0600_01�subid_hash_��text_�[Схемы быстрого обогащения, способные приспешники��column_��id_hash_�TXT_WEAK_NP0100_01�subid_hash_��text_�Непослушные дети��column_��id_hash_�TXT_WEAK_NP0000_01�subid_hash_��text_�Монстры��column_��id_hash_�TXT_WEAK_NP0200_01�subid_hash_��text_�Боль и печаль��column_��id_hash_�TXT_WEAK_NP0300_01�subid_hash_��text_�Ящерицы��column_��id_hash_�TXT_WEAK_NP0400_01�subid_hash_��text_�"Экстравагантность��column_��id_hash_�TXT_WEAK_NP0600_01�subid_hash_��text_�6Люди, которые закрывают глаза��column_��id_hash_�TXT_CV_NP0100_01�subid_hash_��text_�Рие Кугимия��column_��id_hash_�TXT_CV_NP0000_01�subid_hash_��text_�Нао Тояма��column_��id_hash_�TXT_CV_NP0200_01�subid_hash_��text_�Эмири Като��column_��id_hash_�TXT_CV_NP0300_01�subid_hash_��text_�Хироши Камия��column_��id_hash_�TXT_CV_NP0400_01�subid_hash_��text_�Ёсико Сакакибара��column_��id_hash_�TXT_CV_NP0600_01�subid_hash_��text_�Тессё Генда��column_��id_hash_�TXT_CV_NP0100_01_EN�subid_hash_��text_�Сэнди Фокс��column_��id_hash_�TXT_CV_NP0000_01_EN�subid_hash_��text_�Кира Бакленд��column_��id_hash_�TXT_CV_NP0200_01_EN�subid_hash_��text_�Фэй Мата��column_��id_hash_�TXT_CV_NP0300_01_EN�subid_hash_��text_�Шон Чиплок��column_��id_hash_�TXT_CV_NP0400_01_EN�subid_hash_��text_�Лора Пост��column_��id_hash_�TXT_CV_NP0600_01_EN�subid_hash_��text_�Кейт Фарли��column_��id_hash_�TXT_GEEN0000_PROF�subid_hash_��text_���column_��id_hash_�TXT_GEEN0100_PROF�subid_hash_��text_���column_��id_hash_�TXT_GEEN0200_PROF�subid_hash_��text_���column_��id_hash_�TXT_GEEN0300_PROF�subid_hash_��text_���column_��id_hash_�TXT_GEEN0400_PROF�subid_hash_��text_���column_��id_hash_�TXT_GEEN0600_PROF�subid_hash_��text_�
+Он давно знает Ролана.��column_��id_hash_�TXT_AGE_NP0000_01�subid_hash_��text_�Неизвестно��column_��id_hash_�TXT_HEIGHT_NP0100_01�subid_hash_��text_�42 см/37 см (сидя)��column_��id_hash_�TXT_HOBBY_NP0100_01�subid_hash_��text_�$Греться на солнышке��column_��id_hash_�TXT_HOBBY_NP0000_01�subid_hash_��text_�Пение, прогулки��column_��id_hash_�TXT_HOBBY_NP0200_01�subid_hash_��text_�Экономить деньги��column_��id_hash_�TXT_HOBBY_NP0300_01�subid_hash_��text_�GИсследования, обмен фактами и мелочами��column_��id_hash_�TXT_HOBBY_NP0400_01�subid_hash_��text_�Медитация��column_��id_hash_�TXT_HOBBY_NP0600_01�subid_hash_��text_�8Расширять свою бизнес, готовка��column_��id_hash_�TXT_FAVORITE_NP0100_01�subid_hash_��text_�Яблоки��column_��id_hash_�TXT_FAVORITE_NP0000_01�subid_hash_��text_�Каталина,��column_��id_hash_�TXT_FAVORITE_NP0200_01�subid_hash_��text_�Веселье и азарт��column_��id_hash_�TXT_FAVORITE_NP0300_01�subid_hash_��text_�Жители Фольки��column_��id_hash_�TXT_FAVORITE_NP0400_01�subid_hash_��text_�Волевые личности��column_��id_hash_�TXT_FAVORITE_NP0600_01�subid_hash_��text_�[Схемы быстрого обогащения, способные приспешники��column_��id_hash_�TXT_WEAK_NP0100_01�subid_hash_��text_�Непослушные дети��column_��id_hash_�TXT_WEAK_NP0000_01�subid_hash_��text_�Монстры��column_��id_hash_�TXT_WEAK_NP0200_01�subid_hash_��text_�Боль и печаль��column_��id_hash_�TXT_WEAK_NP0300_01�subid_hash_��text_�Ящерицы��column_��id_hash_�TXT_WEAK_NP0400_01�subid_hash_��text_�"Экстравагантность��column_��id_hash_�TXT_WEAK_NP0600_01�subid_hash_��text_�6Люди, которые закрывают глаза��column_��id_hash_�TXT_CV_NP0100_01�subid_hash_��text_�Рие Кугимия��column_��id_hash_�TXT_CV_NP0000_01�subid_hash_��text_�Нао Тояма��column_��id_hash_�TXT_CV_NP0200_01�subid_hash_��text_�Эмири Като��column_��id_hash_�TXT_CV_NP0300_01�subid_hash_��text_�Хироши Камия��column_��id_hash_�TXT_CV_NP0400_01�subid_hash_��text_�Ёсико Сакакибара��column_��id_hash_�TXT_CV_NP0600_01�subid_hash_��text_�Тессё Генда��column_��id_hash_�TXT_CV_NP0100_01_EN�subid_hash_��text_�Сэнди Фокс��column_��id_hash_�TXT_CV_NP0000_01_EN�subid_hash_��text_�Кира Бакленд��column_��id_hash_�TXT_CV_NP0200_01_EN�subid_hash_��text_�Фэй Мата��column_��id_hash_�TXT_CV_NP0300_01_EN�subid_hash_��text_�Шон Чиплок��column_��id_hash_�TXT_CV_NP0400_01_EN�subid_hash_��text_�Лора Пост��column_��id_hash_�TXT_CV_NP0600_01_EN�subid_hash_��text_�Кейт Фарли��column_��id_hash_�TXT_NOTE_CATEGORY_3D_VIEWER�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN01_00�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_00_01�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_00_02�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_00_03�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_00_04�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_01_01�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_01_02�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_01_03�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_01_04�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_01_05�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_01_06�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_01_07�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_01_08�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_02_01�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_02_02�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_02_03�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_02_04�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_02_05�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_02_06�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_02_07�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_02_08�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_02_09�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_02_10�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_02_11�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_02_12�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_02_13�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_02_14�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_02_15�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_02_16�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_02_17�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_02_18�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_02_19�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_03_01�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_03_02�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_03_03�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_03_04�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_03_05�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_03_06�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_03_07�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_03_08�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_03_09�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_04_01�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_04_02�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_04_03�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_04_04�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_04_05�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_04_06�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_05_01�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_05_02�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_05_03�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_05_04�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_05_05�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_05_06�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_05_07�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_05_08�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_05_09�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_06_01�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_06_02�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_06_03�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_06_04�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_06_05�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_06_06�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_06_07�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_06_08�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_07_01�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_07_02�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_07_03�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_07_04�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_07_05�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_07_06�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_07_07�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_07_08�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_07_09�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_07_10�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_08_01�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_08_02�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_08_03�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_08_04�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_08_05�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_08_06�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_08_07�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_08_08�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_08_09�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_09_01�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_09_02�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_09_03�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_09_04�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_09_05�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_09_06�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_09_07�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_09_08�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_09_09�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_10_01�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_10_02�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_10_03�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_10_04�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_10_05�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_10_06�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_10_07�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_10_08�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_10_09�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_10_10�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_11_01�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_11_02�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_11_03�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_11_04�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_11_05�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_11_06�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_12_01�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_12_02�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_12_03�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_12_04�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_12_05�subid_hash_��text_���column_��id_hash_�TXT_NOTE_MAIN02_12_06�subid_hash_��text_���column_��id_hash_�TXT_NOTE_PICTURE_CHANGE_IMAGE�subid_hash_��text_�DПереключить отображение изображений��column_��id_hash_�TXT_GLOSSARY_TTL_0017�subid_hash_��text_�#Суп из ячменя фолка��column_��id_hash_�TXT_GLOSSARY_BODY_0000_load�subid_hash_��text_�Мир плавучих островов простирается на множество небесных царств, 
+каждое из которых разделено неспокойной зоной, известной 
+как Мрачный бассейн. ��column_��id_hash_�TXT_GLOSSARY_BODY_0003_load�subid_hash_��text_��Война - это восстание, произошедшее 
+сотни лет назад, в ходе которого 
+небожители свергли и изгнали своих 
+угнетателей - Астралов.��column_��id_hash_�TXT_GLOSSARY_BODY_0004_load�subid_hash_��text_ٷЭта неспокойная зона наполнена ядовитыми
+испарениями. Она образует границу между небесными домами.��column_��id_hash_�TXT_GLOSSARY_BODY_0006_load�subid_hash_��text_��Известная басня гласит, что Эсталусия, 
+остров Астралов, находится на краю небес, 
+однако доказательств существования этого острова нет.��column_��id_hash_�TXT_GLOSSARY_BODY_0007_load�subid_hash_��text_��С древних времен небожители слагают легенды
+об этом мистическом острове, говорят он исполняет желания всех
+кто достигнет его берега.��column_��id_hash_�TXT_GLOSSARY_BODY_0008_load�subid_hash_��text_��Эти артефакты можно найти только у 
+могущественных первобытных зверей.
+собрав их все, можно получить карту 
+края небес.��column_��id_hash_�TXT_GLOSSARY_BODY_0009_load�subid_hash_��text_�1Таинственная и мистическая форма энергии, 
+издавна существующая в Небесном царстве, 
+независимая от силы первобытных зверей.
+Ее обладатели известны как ведьмы и маги.��column_��id_hash_�TXT_GLOSSARY_BODY_0011_load�subid_hash_��text_�Этот воздушный корабль средних размеров является 
+домом
+для экипажа. ��column_��id_hash_�TXT_GLOSSARY_BODY_0012_load�subid_hash_��text_�tЭти Сигилы небес - единственный вид
+транспорта между островами.��column_��id_hash_�TXT_GLOSSARY_BODY_0013_load�subid_hash_��text_��Тех, кто поднимается в воздух на кораблях, называют
+авиаторами. Кто-то - искатель приключений, отправляющийся на поиски
+новых территорий, кто-то- наемник, продающий свои
+услуги по истреблению монстров. Подобное занятие 
+в равной степени подразумевает свободу, славу и опасность.��column_��id_hash_�TXT_GLOSSARY_BODY_0014_load�subid_hash_��text_��Пилот корабля. Хороший рулевой знаком
+не только с кораблем и штурвалом,
+но и со всем небом - его географией,
+климатом и воздушными течениями.��column_��id_hash_�TXT_GLOSSARY_BODY_0015_load�subid_hash_��text_��Эти могущественные существа выступают 
+в роли божеств-хранителей острова Зегагранде. 
+Для пилигримов Авиа они являются 
+объектами поклонения, и по мере того, как 
+влияние этой веры растет, растет и 
+почитание первобытных богов.��column_��id_hash_�TXT_GLOSSARY_BODY_0017_load�subid_hash_��text_ټВ одном из ресторанов Фольки придумали 
+этот кремовый суп, приготовленный из местной 
+пшеницы и овощей.��column_��id_hash_�TXT_GLOSSARY_BODY_0017_01�subid_hash_��text_��В одном из ресторанов Фольки придумали этот кремовый суп, 
+приготовленный из местной пшеницы и овощей. Хотя большинство 
+рецептов предполагает длительное тушение бульона с вяленым мясом, 
+в разных семьях и на разных островах готовят по своему рецепту.��column_��id_hash_�TXT_GLOSSARY_BODY_0021_load�subid_hash_��text_٩Это боевое снаряжение было подарено 
+Роланом. Его имя - выражение 
+неповиновения церкви Авии.��column_��id_hash_�TXT_GLOSSARY_BODY_0023_load�subid_hash_��text_�hНебольшая модель дирижабля, 
+используемая флотом Авиета.��column_��id_hash_�TXT_GLOSSARY_BODY_0026_load�subid_hash_��text_��Трагедия, произошедшая пятнадцать лет назад, 
+началась с того, что огромная часть острова Дали 
+была разрушена взрывом. ��column_��id_hash_�TXT_GLOSSARY_BODY_0028_load�subid_hash_��text_��Эта редкая трава, растущая в Закатной роще, 
+содержит слабые следы магии Астралов, которая 
+может свести на нет избыток энергии ветра в теле.��column_��id_hash_�TXT_GLOSSARY_BODY_0029_load�subid_hash_��text_�RЭта крайне редкая болезнь на самом деле 
+возникает благодаряблагословению: иногда 
+магия ветра Фурикейн оказывается слишком 
+сильной для смертного тела, что приводит к 
+его разрушению.��column_��id_hash_�TXT_GLOSSARY_BODY_0030_load�subid_hash_��text_�
+Из бархатистого золотистого желтка одного 
+из этих мамонтовых яиц можно приготовить 
+омлет, способный восстановить силы десяти 
+взрослых мужчин.��column_��id_hash_�TXT_GLOSSARY_BODY_0031_load�subid_hash_��text_��Эту чудовищную смазку добывают 
+из обитающих в пустыне слизней. 
+Она крайне редка, но совершенно 
+бесполезна.��column_��id_hash_�TXT_GLOSSARY_BODY_0032_load�subid_hash_��text_��Небольшое морское судно, некогда 
+являвшееся ключевой частью логистической 
+цепочки горнодобывающей промышленности 
+Фольки и Темпеала.��column_��id_hash_�TXT_GLOSSARY_BODY_0033_load�subid_hash_��text_ٲЭтот полупрозрачный кристалл размером 
+с ладонь пронизан первобытной энергией 
+и слабо светится.��column_��id_hash_�TXT_GLOSSARY_BODY_0034_load�subid_hash_��text_�?Кристаллизация силы Астралов, которая 
+является энергией всех первобытных зверей. 
+Истощение первичной энергии приведет к 
+тому, что она потеряет свою форму, по сути, 
+убив ее.��column_��id_hash_�TXT_GLOSSARY_BODY_0035_load�subid_hash_��text_��Этот светящийся зеленый кристалл 
+наполнен первобытной энергией 
+и излучает собственное магнитное поле.��column_��id_hash_�TXT_GLOSSARY_BODY_0036_load�subid_hash_��text_�bДо своего поражения этот ужасный тиран 
+зверей держал в страхе всех своих подданных. 
+Его чешуя была настолько толстой, что сталь
+не могла ее пробить, и даже капля его горящей 
+крови пылала силой.��column_��id_hash_�TXT_GLOSSARY_BODY_0037_load�subid_hash_��text_��Самая великолепная на вкус рыба, которая 
+когда-либо появлялась в Огюсте, но 
+настолько редкая, что даже местный рыбак, 
+давно плавающий под парусами, может 
+пересчитать свои встречи с Бонито по 
+пальцам одной руки.��column_��id_hash_�TXT_GLOSSARY_BODY_0038_load�subid_hash_��text_�mОб этой неуловимой рыбе посвящены 
+многие басни Зегагранде.��column_��id_hash_�TXT_GLOSSARY_BODY_0039_load�subid_hash_��text_�|Считается, что эта легендарная рыба - 
+самая большая в небесном доме.��column_��id_hash_�TXT_GLOSSARY_BODY_0040_load�subid_hash_��text_�Когда наступает сезон откладывания яиц, 
+эта холодноводная рыба отправляется вверх 
+по течению от своего холодного дома. 
+Любимое блюдо во время еды.��column_��id_hash_�TXT_GLOSSARY_BODY_0041_load�subid_hash_��text_�KШкола боевых искусств, основанная Гандагозой, 
+которая следует мантре "Путь кулака - это путь 
+во вселенную." Считается, что мастера могут 
+раскалывать горы и метеориты голыми руками.��column_��id_hash_�TXT_GLOSSARY_BODY_0042_load�subid_hash_��text_ٞЭто искусство, основанное Калиостро, 
+способно совершать чудесные превращения 
+в мире.��column_��id_hash_�TXT_GLOSSARY_BODY_0043_load�subid_hash_��text_�&Впервые это заболевание было открыто 
+доктором Лисирией. Его симптомы включают 
+высокую температуру и частичную 
+неподвижность из-за паралича нервной 
+системы. ��column_��id_hash_�TXT_GLOSSARY_BODY_0044_load�subid_hash_��text_��Самый многочисленный тип небожителей, хорошо сбалансированный как 
+физически, так и умственно, и полный любопытства.��column_��id_hash_�TXT_GLOSSARY_BODY_0045_load�subid_hash_��text_ًЭти стройные существа обладают звериным слухом и врожденным 
+даром к магии. ��column_��id_hash_�TXT_GLOSSARY_BODY_0046_load�subid_hash_��text_ٸЭти маленькие остроухие небожители чрезвычайно рассудительны, что 
+делает их умелыми бизнесменами. ��column_��id_hash_�TXT_GLOSSARY_BODY_0047_load�subid_hash_��text_�Эти рогатые небожители отличаются крепким телосложением, а их 
+физическая сила делает их отличными мастерами по обработке железа и 
+плотниками.��column_��id_hash_�TXT_GLOSSARY_BODY_0048_load�subid_hash_��text_��Этот великолепно бронированный первобытный зверь возглавлял 
+сражения, обреченный всю жизнь жить мечом. Когда-то она была 
+Астралом, славилась своей физической силой и тактическим умом - даже 
+тогда многие называли ее богом войны.��column_��id_hash_�TXT_GLOSSARY_BODY_0049_load�subid_hash_��text_�Этот первобытный зверь ветра долгое время 
+дремал в Порт-Бриз, благословляя искателей 
+приключений и торговцев и принося 
+архипелагу сказочную удачу. ��column_��id_hash_�TXT_GLOSSARY_BODY_0050_load�subid_hash_��text_�	Первобытный зверь Ноа - кораблестроитель, и 
+Грандсайфер - дело его рук. Они с Ракэмом 
+связаны еще с юности рулевого, когда те 
+обменялись клятвой.��column_��id_hash_�TXT_GLOSSARY_BODY_0051_load�subid_hash_��text_�3This metal-plated primal beast was born from
+Это металлическое чудовище родилось из 
+трагедии. Его монументальное тело, кажется, 
+перекликается с криками каждого, кого 
+когда-либо обидели. ��column_��id_hash_�TXT_GLOSSARY_BODY_0052_load�subid_hash_��text_��Этот змееподобный первобытный зверь властвует 
+над водами исцеления и 
+удачи. Он дремлет на островах Огаста��column_��id_hash_�TXT_GLOSSARY_BODY_0053_load�subid_hash_��text_��Первобытный зверь Коноханасакуя - 
+" цветущий", его сила выходит за рамки 
+цветов и затрагивает потенциал всех живых 
+существ.��column_��id_hash_�TXT_GLOSSARY_BODY_0054_load�subid_hash_��text_��
+Когда-то этот первобытный зверь бесцельно 
+блуждал в небесах в виде корабля,лишая всех 
+жителей истинной смерти.��column_��id_hash_�TXT_GLOSSARY_BODY_0055_load�subid_hash_��text_� Родной небесный дом  Грандсайфера и его 
+команды, где дуют легкие бризы и расположены 
+такие острова, как Зинкенстилл и архипелаг 
+Порт-Бриз. ��column_��id_hash_�TXT_GLOSSARY_BODY_0060_load�subid_hash_��text_�%Этот небольшой остров имеет самодостаточную экономику, поэтому 
+через его границы проходит мало транспорта. В его сердце растет 
+лес, где можно собирать призмы.��column_��id_hash_�TXT_GLOSSARY_BODY_0061_load�subid_hash_��text_�-Этот ветреный архипелаг - излюбленное 
+место авиаторов и торговцев. Самый 
+оживленный порт находится на острове 
+Эйнгана, в центре которого расположен 
+шумный рынок.��column_��id_hash_�TXT_GLOSSARY_BODY_0063_load�subid_hash_��text_�Земля здесь кажется живой от жара и пульса огня. 
+Здесь находится крупнейшая во всем Фантагранде 
+фабрика по обработке металла, которая работает 
+день и ночь.��column_��id_hash_�TXT_GLOSSARY_BODY_0064_load�subid_hash_��text_�PЭтот архипелаг, наполненный светом и жизнью 
+воды, является автономным округом, созданным 
+для целей торговли. Как таковой, он не 
+подчиняется ни одному из окружающих его 
+правительств.��column_��id_hash_�TXT_GLOSSARY_BODY_0071_load�subid_hash_��text_��Этот монументальный континент примыкает 
+к северной границе Фантагранда. Большая 
+часть его внутренних территорий - пока еще 
+неосвоенных - является предметом частых 
+земельных споров между конкурирующими 
+национальными интересами.��column_��id_hash_�TXT_GLOSSARY_BODY_0073_load�subid_hash_��text_�:Этот остров плавает в самом 
+сердце Зегагранде, неболь-
+шой, но густонаселенный, 
+поскольку на нем расположен 
+город Сидхоллоу, главный эконо-
+мический центр небесного дома.��column_��id_hash_�TXT_GLOSSARY_BODY_0079_load�subid_hash_��text_��Этот древний мегаполис был заселен до тех пор,
+ пока пятнадцать лет назад он не был разрушен
+ катастрофой Дали.��column_��id_hash_�TXT_GLOSSARY_BODY_0082_load�subid_hash_��text_��Этот плодородный архипелаг населен древними 
+деревьями, некоторые из которых были свидетелями 
+вторжения Астралов и последующей войны.��column_��id_hash_�TXT_GLOSSARY_BODY_0083_load�subid_hash_��text_ٺНа этой пустынной земле, окутанной туманом круглый
+ год, находится всего одна малонаселенная деревня.��column_��id_hash_�TXT_GLOSSARY_BODY_0084_load�subid_hash_��text_��Это исключительное королевство во многом обязано
+ своим престижем благословению первобытного зверя
+ Сильфида. Ее искусные изделия ручной работы, в том
+ числе зелье вечной молодости под названием
+ "Алма", во многом пополнили национальную казну.��column_��id_hash_�TXT_GLOSSARY_BODY_0085_load�subid_hash_��text_قДомен на острове Альмерейн, носящий то же имя, что
+ и его правящая семья.��column_��id_hash_�TXT_GLOSSARY_BODY_0087_load�subid_hash_��text_��Эта нация, управляемая королем-святым и являющаяся
+ домом для великолепной церкви Клемонта, была
+ основана Орденом Святых рыцарей Люмиэля, который
+ сам сформировался во время войны для защиты и
+ служения голодающему населению.��column_��id_hash_�TXT_GLOSSARY_BODY_0088_load�subid_hash_��text_٭Когда-то эта жаждущая власти нация держала под
+ контролем почти весь Небесный Дом Фантагранда.��column_��id_hash_�TXT_GLOSSARY_BODY_0091_load�subid_hash_��text_�vОрден монахов из клана Меллос, возглавляемый
+ Историатом. Они обитают в суровых условиях горы.
+ Нейгелит, соблюдающий строгие заповеди и
+ поклоняющийся первобытному богу, хранящемуся в
+ Тредаме Святилище.��column_��id_hash_�TXT_GLOSSARY_BODY_0094_load�subid_hash_��text_�Этот рыцарский орден, базирующийся в прекрасном
+ благословленном сильфами Фендрахе, защищает
+ королевскую столицу и окружающие её окрестности.��column_��id_hash_�TXT_GLOSSARY_BODY_0095_load�subid_hash_��text_�tЭтот военный орден охранял Фендрахе до прихода
+ Белых Драконов.��column_��id_hash_�TXT_GLOSSARY_BODY_0096_load�subid_hash_��text_ٟЭтот так называемый рыцарский орден был создан
+ группой детей для защиты мира в Фольке.��column_��id_hash_�TXT_GLOSSARY_BODY_0098_load�subid_hash_��text_�dБлагородная семья самой голубой крови,
+ производящая одного монарха за другим. Их влияние
+ в последние годы резко возросло, особенно в сфере,
+ окружающей Фендрахе. Персиваль родом из этого
+ клана.��column_��id_hash_�TXT_GLOSSARY_BODY_0099_load�subid_hash_��text_�wЭта автономная группа состоит исключительно из
+ частных граждан.��column_��id_hash_�TXT_GLOSSARY_BODY_0100_load�subid_hash_��text_��Гордость и сила Люмиэля, этот рыцарский отряд
+ существует, чтобы защищать слабых. Их девиз:
+ "Вечно чистый, вечно праведный".��column_��id_hash_�TXT_GLOSSARY_BODY_0101_load�subid_hash_��text_�EАльянс авиаторов для авиаторов. Он собирает
+ запросы и миссии - от истребления монстров до
+ спасения кошек - со всего небесного мира, а затем
+ распределяет их по небесным командам.��column_��id_hash_�TXT_GLOSSARY_BODY_TEST�subid_hash_��text_���column_��id_hash_�TXT_AGE_EM2000_01�subid_hash_��text_���column_��id_hash_�TXT_AGE_EM2100_01�subid_hash_��text_���column_��id_hash_�TXT_AGE_EM2400_01�subid_hash_��text_���column_��id_hash_�TXT_HEIGHT_EM2000_01�subid_hash_��text_���column_��id_hash_�TXT_HEIGHT_EM2100_01�subid_hash_��text_���column_��id_hash_�TXT_HEIGHT_EM2400_01�subid_hash_��text_���column_��id_hash_�TXT_GEEN0000_PROF�subid_hash_��text_���column_��id_hash_�TXT_GEEN0100_PROF�subid_hash_��text_���column_��id_hash_�TXT_GEEN0200_PROF�subid_hash_��text_���column_��id_hash_�TXT_GEEN0300_PROF�subid_hash_��text_���column_��id_hash_�TXT_GEEN0400_PROF�subid_hash_��text_���column_��id_hash_�TXT_GEEN0600_PROF�subid_hash_��text_�

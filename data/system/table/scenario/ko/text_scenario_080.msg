@@ -1,4 +1,4 @@
-��rows_���column_��id_hash_�SNT_CT003060_0000�text_�%Этот город огромен...��column_��id_hash_�SNT_CT003060_0010�text_�'Кругом столько всего!��column_��id_hash_�SNT_CT003060_0011�text_���column_��id_hash_�SNT_CT003060_0012�text_���column_��id_hash_�SNT_CT003060_0020�text_ٍДобро пожаловать. Это крупнейший город Небесного дома Зегагранде,
+��rows_�#��column_��id_hash_�SNT_CT003060_0000�text_�%Этот город огромен...��column_��id_hash_�SNT_CT003060_0010�text_�'Кругом столько всего!��column_��id_hash_�SNT_CT003060_0011�text_���column_��id_hash_�SNT_CT003060_0012�text_���column_��id_hash_�SNT_CT003060_0020�text_ٍДобро пожаловать. Это крупнейший город Небесного дома Зегагранде,
 Сидхоллоу.��column_��id_hash_�SNT_CT003060_0030�text_���column_��id_hash_�SNT_CT003060_0040�text_���column_��id_hash_�SNT_WD080010_0000�text_�kФух. Хорошая новость - с Грандсайфером все будет 
 в порядке.��column_��id_hash_�SNT_WD080010_0010�text_٥Он в надежных руках. К счастью, корабль избежал серьезных 
 повреждений. Его быстро починят.��column_��id_hash_�SNT_WD080010_0020�text_�dИзвини, что взваливаю на тебя все это. Спасибо, дружище.��column_��id_hash_�SNT_WD080010_0030�text_�uИтак, об этой "Семье Затба" или как там ее. Ты знаешь, где их найти?��column_��id_hash_�SNT_WD080010_0040�text_�yКонечно, знаю. Их босс, предположительно, работает в этом квартале.��column_��id_hash_�SNT_WD080010_0050�text_ٸИнформационные брокеры не очень-то афишируют 
@@ -93,11 +93,36 @@
  это лучше, чем ничего.��column_��id_hash_�SNT_VT080100_004000�text_٦Но почему это должен быть остров Дали? Не говоря уже о том,
  чтобы сломать печать на руинах...��column_��id_hash_�SNT_VT080100_005000�text_�}Но если мы не пойдём на такой риск... Полагаю, Затба знает, что
  делает.��column_��id_hash_�SNT_VT080100_006000�text_�`О чем ты бормочешь? Давай, он сказал, что ждет в порту.��column_��id_hash_�SNT_VT080110_000000�text_�<Остров Дали... Сколько лет прошло?��column_��id_hash_�SNT_VT080115_000000�text_٧Торопиться. Мистер Шейдс может отменить предложение, если мы
- займем слишком много времени.��column_��id_hash_�SNT_VT080120_000000�text_ٔФрукты на рынке выглядели так хорошо. Жаль, что придется
- подождать еще один день.��column_��id_hash_�SNT_VT080120_001000�text_�Ага. Кто знает, когда мы найдём время, чтобы расслабиться и
- отдохнуть.��column_��id_hash_�SNT_VT080120_002000�text_�`Я уверен, что Лурия влюбится в этот прекрасный город.��column_��id_hash_�SNT_VT080120_003000�text_�GБудет здорово показать ей окрестности!��column_��id_hash_�SNT_VT080170_000000�text_�8Всем привет! Несу добрую весть!��column_��id_hash_�SNT_VT080180_000000�text_ٸЗатба хотел поблагодарить вас за ваш труд. Что-нибудь о поиске
+ займем слишком много времени.��column_��id_hash_�SNT_VT080170_000000�text_�8Всем привет! Несу добрую весть!��column_��id_hash_�SNT_VT080180_000000�text_ٸЗатба хотел поблагодарить вас за ваш труд. Что-нибудь о поиске
  горячих сплетен и сомнительных кошек?��column_��id_hash_�SNT_VT080190_000000�text_ـСкайфаринговая работа ? это нечто другое! Наслаждайся своим
- подарком!��column_��id_hash_�SNT_WD080030_0000�text_�MУ меня нет всего дня. Мы делаем это или нет?��column_��id_hash_�SNT_WD080030_0010�text_�bПредложение остается в силе, если вы на него согласны.��column_��id_hash_�SNT_WD080030_001000000�text_�,Приятно работать с вами.��column_��id_hash_�SNT_WD080030_001001000�text_�TМне нужно еще немного времени, чтобы подумать.��column_��id_hash_�SNT_WD080030_0015�text_�,Приятно работать с вами.��column_��id_hash_�SNT_WD080030_0016�text_�,Приятно работать с вами.��column_��id_hash_�SNT_WD080030_0020�text_ٵХороший. Никто из нас не хочет, чтобы прекрасная деловая
+ подарком!��column_��id_hash_�SNT_VT080120_000000�text_ٔФрукты на рынке выглядели так хорошо. Жаль, что придется
+ подождать еще один день.��column_��id_hash_�SNT_VT080120_001000�text_�Ага. Кто знает, когда мы найдём время, чтобы расслабиться и
+ отдохнуть.��column_��id_hash_�SNT_VT080120_002000�text_�`Я уверен, что Лурия влюбится в этот прекрасный город.��column_��id_hash_�SNT_VT080120_003000�text_�GБудет здорово показать ей окрестности!��column_��id_hash_�SNT_VT080260_000000�text_� Pssst! You gotta check this out!��column_��id_hash_�SNT_WD080060_0000�text_�`'Sup, gang! I know y'all are busy dealin' with other stuff, but there's
+somethin' ya gotta hear!��column_��id_hash_�SNT_WD080060_0010�text_�+What, did a cat fall down a well this time?��column_��id_hash_�SNT_WD080060_0020�text_�*It's got nothin' to do with cats, I swear!��column_��id_hash_�SNT_WD080060_0030�text_٢Man, how do I even begin, I uh—Okay, picture a hole in the air, 
+right? And it's all, uh, wiggly and uh, crap... Yeah, you know what? 
+You know what! Forget it!��column_��id_hash_�SNT_WD080060_0040�text_َBasically, this weird "shimmery" cloud-thing appeared outta
+nowhere. We was lookin' at it when the boss was like, "Well,
+whattya waitin' for?"��column_��id_hash_�SNT_WD080060_0050�text_ٲSo I stuck my head on through, real quicklike, y'know? And all of
+sudden, I was in some sorta mystery zone, starin' down ugly brutes
+comin' for my head—Ugh! It was freaky, man.��column_��id_hash_�SNT_WD080060_0060�text_�Hm... A mystery zone, huh?��column_��id_hash_�SNT_WD080060_0070�text_�OAnyhoodle, Rolan vouches for you guys, and that's more than good
+enough for me.��column_��id_hash_�SNT_WD080060_0080�text_�ZIf ya feel the itch to help a pal out again, I'll show ya to the
+shimmer. No rush, though!��column_��id_hash_�SNT_VT080191_000000�text_�BWhoa, it's shimmery all right. Let's check in with that guy
+first.��column_��id_hash_�SNT_VT080200_000000�text_�ZSo we're calling this shimmery thing a gate now. It'll whisk
+you away to the mystery zone.��column_��id_hash_�SNT_VT080200_001000�text_�GGate, huh? Real creative. Well, we'll head on through once
+we're ready!��column_��id_hash_�SNT_VT080280_000000�text_�KWhat the heck?! This is totally Ainsteddo Archipelago, isn't
+it? Has to be!��column_��id_hash_�SNT_VT080280_001000�text_�HAll the more reason to stay focused! Come what may, 
+stay on your guard!��column_��id_hash_�SNT_VT080290_000000�text_�DPhew, made it back to civilization. Time to report back what
+we saw!��column_��id_hash_�SNT_VT080220_000000�text_�QTook down a bunch of monsters on the other side, huh? Way
+to go above and beyond.��column_��id_hash_�SNT_VT080220_001000�text_�\In that case, Seedhollow oughta be safe from a monster
+invasion. Least for the time being...��column_��id_hash_�SNT_VT080220_002000�text_�rBut yeah! You guys rock! I'm gonna stick around and keep
+watch—if anything changes, you'll be the first to know!��column_��id_hash_�SNT_VT080195_000000�text_�:Yo! Yo, yo, yo! Geez, I was lookin' all over for you guys!��column_��id_hash_�SNT_VT080195_001000�text_�hSo the gate—formerly known as the "shimmery thing"—is
+givin' off some real bad vibes... Little help?��column_��id_hash_�SNT_VT080198_000000�text_�IThat gate's a real headscratcher. Let's go ask what's goin'
+on this time.��column_��id_hash_�SNT_VT080230_000000�text_�oI honestly don't know what happened. The gate was stable
+one minute, then all of a sudden it started pulsating.��column_��id_hash_�SNT_VT080230_001000�text_�@Just to be safe, could you guys go back in and scope things
+out?��column_��id_hash_�SNT_VT080250_000000�text_�`Thanks for putting down those nasty monsters. Think I got a
+better handle on what to expect now.��column_��id_hash_�SNT_VT080250_001000�text_�mI'll round up some of our beefier boys to stand guard and
+bounce any riffraff aimin' to squirm into the city.��column_��id_hash_�SNT_VT080250_002000�text_�1Anyway, I owe you guys another one. Thanks, crew.��column_��id_hash_�SNT_VT080300_000000�text_�>Hey, guys. There's, uh, still that mystery zone in Seedhollow.��column_��id_hash_�SNT_VT080300_001000�text_�?Why don't we pop over there real quick? Better safe than
+sorry.��column_��id_hash_�SNT_WD080030_0000�text_�MУ меня нет всего дня. Мы делаем это или нет?��column_��id_hash_�SNT_WD080030_0010�text_�bПредложение остается в силе, если вы на него согласны.��column_��id_hash_�SNT_WD080030_001000000�text_�,Приятно работать с вами.��column_��id_hash_�SNT_WD080030_001001000�text_�TМне нужно еще немного времени, чтобы подумать.��column_��id_hash_�SNT_WD080030_0015�text_�,Приятно работать с вами.��column_��id_hash_�SNT_WD080030_0016�text_�,Приятно работать с вами.��column_��id_hash_�SNT_WD080030_0020�text_ٵХороший. Никто из нас не хочет, чтобы прекрасная деловая
  возможность ускользнула из наших пальцев.��column_��id_hash_�SNT_WD080030_0030�text_��Привет! Это совершенно неожиданно, но, возможно, у меня есть
  какие-то личные вещи, о которых нужно позаботиться...��column_��id_hash_�SNT_WD080030_0040�text_�JЧего-чего? Ты собираешься на нас напасть?��column_��id_hash_�SNT_WD080030_0050�text_ُПока ты проверяешь руины, я поищу красный корабль. Это будет
  более эффективно.��column_��id_hash_�SNT_WD080030_0060�text_�fЯ ценю эту мысль, но стоит ли вам идти за ними в одиночку?��column_��id_hash_�SNT_WD080030_0070�text_هОбо мне не стоит беспокоиться. Я обещаю. Я всегда заканчиваю то,

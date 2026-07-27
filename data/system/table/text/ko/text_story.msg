@@ -1,4 +1,4 @@
-¥rows_ÜÍ§column_ƒ¨id_hash_©GBF01_TTL«subid_hash_ ¥text_ºĞ•Ğµ Ğ·Ğ¾Ğ²ÑƒÑ‚ Ğ›ÑƒÑ€Ğ¸Ñ§column_ƒ¨id_hash_ªGBF01_BODY«subid_hash_ ¥text_ÚĞĞ´Ğ½Ğ°Ğ¶Ğ´Ñ‹ Ğ»Ğ¸Ğ½ĞºĞ¾Ñ€ Ğ˜Ğ¼Ğ¿ĞµÑ€Ğ¸Ğ¸ Ğ­Ñ€ÑÑ‚Ğµ Ğ²Ğ½ĞµĞ·Ğ°Ğ¿Ğ½Ğ¾ Ğ¿Ğ¾ÑĞ²Ğ»ÑĞµÑ‚ÑÑ Ğ½Ğ°Ğ´
+¥rows_Üw§column_ƒ¨id_hash_©GBF01_TTL«subid_hash_ ¥text_ºĞ•Ğµ Ğ·Ğ¾Ğ²ÑƒÑ‚ Ğ›ÑƒÑ€Ğ¸Ñ§column_ƒ¨id_hash_ªGBF01_BODY«subid_hash_ ¥text_ÚĞĞ´Ğ½Ğ°Ğ¶Ğ´Ñ‹ Ğ»Ğ¸Ğ½ĞºĞ¾Ñ€ Ğ˜Ğ¼Ğ¿ĞµÑ€Ğ¸Ğ¸ Ğ­Ñ€ÑÑ‚Ğµ Ğ²Ğ½ĞµĞ·Ğ°Ğ¿Ğ½Ğ¾ Ğ¿Ğ¾ÑĞ²Ğ»ÑĞµÑ‚ÑÑ Ğ½Ğ°Ğ´
  Ğ—Ğ¸Ğ½ĞºĞµĞ½ÑÑ‚Ğ¸Ğ»Ğ»Ğ¾Ğ¼, Ñ€Ğ¾Ğ´Ğ½Ñ‹Ğ¼ Ğ¾ÑÑ‚Ñ€Ğ¾Ğ²Ğ¾Ğ¼. Ğ¡Ğ²ĞµÑ‚ ÑĞ¿ÑƒÑĞºĞ°ĞµÑ‚ÑÑ Ñ
  ĞºĞ¾Ñ€Ğ°Ğ±Ğ»Ñ Ğ¸ ÑƒÑÑ‚Ñ€ĞµĞ¼Ğ»ÑĞµÑ‚ÑÑ Ğ² Ğ»ĞµÑ Ğ´Ğ»Ñ Ñ€Ğ°ÑÑĞ»ĞµĞ´Ğ¾Ğ²Ğ°Ğ½Ğ¸Ñ. Ğ¢Ğ°Ğ¼ Ğ¾Ğ½
  Ğ½Ğ°Ñ…Ğ¾Ğ´Ğ¸Ñ‚ ÑĞ¸Ğ½ĞµĞ²Ğ¾Ğ»Ğ¾ÑÑƒÑ Ğ´ĞµĞ²ÑƒÑˆĞºÑƒ Ğ¿Ğ¾ Ğ¸Ğ¼ĞµĞ½Ğ¸ Ğ›ÑƒÑ€Ğ¸Ñ, ĞºĞ¾Ñ‚Ğ¾Ñ€ÑƒÑ
@@ -45,8 +45,11 @@
 ÑĞ²Ğ¾Ğµ Ğ¿ÑƒÑ‚ĞµÑˆĞµÑÑ‚Ğ²Ğ¸Ğµ. ĞŸÑ€Ğ¾Ğ¹Ğ´Ñ Ñ‡ĞµÑ€ĞµĞ· Ğ½ĞµĞ±ĞµÑĞ½Ñ‹Ğ¹ Ğ´Ğ¾Ğ¼ ĞĞ°Ğ»ÑŒÑ…ĞµĞ³Ñ€Ğ°Ğ½Ğ´Ğµ 
 Ğ¸ ĞĞ°Ñ€Ğ»Ğ¸ĞµĞ³Ñ€Ğ°Ğ½Ğ´Ğµ, Ğ¾Ğ½Ğ¸ Ğ¾ĞºĞ°Ğ·Ñ‹Ğ²Ğ°ÑÑ‚ÑÑ Ğ½Ğ° Ğ¿Ğ¾Ñ€Ğ¾Ğ³Ğµ Ğ¾Ğ³Ñ€Ğ¾Ğ¼Ğ½Ğ¾Ğ³Ğ¾ 
 Ğ¿Ñ€Ğ¾ÑÑ‚Ñ€Ğ°Ğ½ÑÑ‚Ğ²Ğ°, ĞºĞ¾Ñ‚Ğ¾Ñ€Ğ¾Ğµ Ğ¸Ğ¼ ĞµÑ‰Ğµ Ğ¿Ñ€ĞµĞ´ÑÑ‚Ğ¾Ğ¸Ñ‚ Ğ¸ÑÑĞ»ĞµĞ´Ğ¾Ğ²Ğ°Ñ‚ÑŒ: 
-ĞĞµĞ±ĞµÑĞ½Ñ‹Ğ¹ Ğ´Ğ¾Ğ¼ Ğ—ĞµĞ³Ğ°Ğ³Ñ€Ğ°Ğ½Ğ´Ğµ.§column_ƒ¨id_hash_ªCT0010_TTL«subid_hash_ ¥text_Ù#ĞŸĞ¾Ğ´Ğ°Ğ²Ğ»ĞµĞ½Ğ½Ğ°Ñ Ğ¿Ğ°Ğ¼ÑÑ‚ÑŒ§column_ƒ¨id_hash_«CT0010_BODY«subid_hash_ ¥text_Ù›Ğ“Ğ´Ğµ-Ñ‚Ğ¾ Ğ² Ğ´Ğ°Ğ»ĞµĞºĞ¾Ğ¼ Ğ½ĞµĞ±Ğµ Ğ¾Ğ´Ğ¸Ğ½Ğ¾ĞºĞ°Ñ Ğ´ÑƒÑˆĞ° 
-Ğ½Ğ°Ñ‡Ğ¸Ğ½Ğ°ĞµÑ‚ Ğ²ÑĞ¿Ğ¾Ğ¼Ğ¸Ğ½Ğ°Ñ‚ÑŒ Ğ¾Ğ±Ñ€Ñ‹Ğ²ĞºĞ¸ ÑĞ²Ğ¾Ğ¸Ñ… Ğ²Ğ¾ÑĞ¿Ğ¾Ğ¼Ğ¸Ğ½Ğ°Ğ½Ğ¸Ğ¹.§column_ƒ¨id_hash_ªCT0020_TTL«subid_hash_ ¥text_Ù4ĞŸÑ€ĞµĞ¾Ğ´Ğ¾Ğ»ĞµĞ½Ğ¸Ğµ ĞœÑ€Ğ°Ñ‡Ğ½ÑƒÑ Ğ²Ğ¿Ğ°Ğ´Ğ¸Ğ½Ñƒ§column_ƒ¨id_hash_«CT0020_BODY«subid_hash_ ¥text_ÙmĞ“Ñ€Ğ°Ğ½Ğ´ÑĞ°Ğ¹Ñ„ĞµÑ€ Ğ¼Ñ‡Ğ¸Ñ‚ÑÑ ÑĞºĞ²Ğ¾Ğ·ÑŒ Ğ³Ñ€Ğ¾Ğ·Ğ¾Ğ²Ñ‹Ğµ Ñ‚ÑƒÑ‡Ğ¸ ĞœÑ€Ğ°Ñ‡Ğ½Ğ¾Ğ¹ ĞºĞ¾Ñ‚Ğ»Ğ¾Ğ²Ğ¸Ğ½Ñ‹.§column_ƒ¨id_hash_ªCT0030_TTL«subid_hash_ ¥text_Ù?Ğ”Ğ¾Ğ±Ñ€Ğ¾ Ğ¿Ğ¾Ğ¶Ğ°Ğ»Ğ¾Ğ²Ğ°Ñ‚ÑŒ, ĞŸÑƒÑ‚ĞµÑˆĞµÑÑ‚Ğ²ĞµĞ½Ğ½Ğ¸ĞºĞ¸§column_ƒ¨id_hash_«CT0030_BODY«subid_hash_ ¥text_ÙùĞŸĞµÑ€ĞµÑĞµĞºĞ°Ñ ĞœÑ€Ğ°Ñ‡Ğ½ÑƒÑ Ğ²Ğ¿Ğ°Ğ´Ğ¸Ğ½Ñƒ, ĞºĞ¾Ğ¼Ğ°Ğ½Ğ´Ğ° 
+ĞĞµĞ±ĞµÑĞ½Ñ‹Ğ¹ Ğ´Ğ¾Ğ¼ Ğ—ĞµĞ³Ğ°Ğ³Ñ€Ğ°Ğ½Ğ´Ğµ.§column_ƒ¨id_hash_ªCM0100_TTL«subid_hash_ ¥text_µA Grand Voyage Begins§column_ƒ¨id_hash_«CM0100_BODY«subid_hash_ ¥text_ÙÿThe Sky Realmâ€”a world of fragmented earth floating in a sea
+of clouds. Following a chance encounter with the Girl in Blue,
+a young adventurer embarks on a fateful journey aboard the
+airship Grandcypher. With a loyal crew in tow, a brand-new
+saga begins.§column_ƒ¨id_hash_ªCT0020_TTL«subid_hash_ ¥text_Ù4ĞŸÑ€ĞµĞ¾Ğ´Ğ¾Ğ»ĞµĞ½Ğ¸Ğµ ĞœÑ€Ğ°Ñ‡Ğ½ÑƒÑ Ğ²Ğ¿Ğ°Ğ´Ğ¸Ğ½Ñƒ§column_ƒ¨id_hash_«CT0020_BODY«subid_hash_ ¥text_ÙmĞ“Ñ€Ğ°Ğ½Ğ´ÑĞ°Ğ¹Ñ„ĞµÑ€ Ğ¼Ñ‡Ğ¸Ñ‚ÑÑ ÑĞºĞ²Ğ¾Ğ·ÑŒ Ğ³Ñ€Ğ¾Ğ·Ğ¾Ğ²Ñ‹Ğµ Ñ‚ÑƒÑ‡Ğ¸ ĞœÑ€Ğ°Ñ‡Ğ½Ğ¾Ğ¹ ĞºĞ¾Ñ‚Ğ»Ğ¾Ğ²Ğ¸Ğ½Ñ‹.§column_ƒ¨id_hash_ªCT0030_TTL«subid_hash_ ¥text_Ù?Ğ”Ğ¾Ğ±Ñ€Ğ¾ Ğ¿Ğ¾Ğ¶Ğ°Ğ»Ğ¾Ğ²Ğ°Ñ‚ÑŒ, ĞŸÑƒÑ‚ĞµÑˆĞµÑÑ‚Ğ²ĞµĞ½Ğ½Ğ¸ĞºĞ¸§column_ƒ¨id_hash_«CT0030_BODY«subid_hash_ ¥text_ÙùĞŸĞµÑ€ĞµÑĞµĞºĞ°Ñ ĞœÑ€Ğ°Ñ‡Ğ½ÑƒÑ Ğ²Ğ¿Ğ°Ğ´Ğ¸Ğ½Ñƒ, ĞºĞ¾Ğ¼Ğ°Ğ½Ğ´Ğ° 
 Ğ¿Ğ¾Ğ¿Ğ°Ğ´Ğ°ĞµÑ‚ Ğ² ĞĞµĞ±ĞµÑĞ½Ñ‹Ğ¹ Ğ´Ğ¾Ğ¼ Ğ—ĞµĞ³Ğ°Ğ³Ñ€Ğ°Ğ½Ğ´Ğµ, Ğ³Ğ´Ğµ Ğ¸Ñ… ÑĞµÑ€Ğ´Ñ†Ğ° 
 Ğ¾Ñ…Ğ²Ğ°Ñ‚Ñ‹Ğ²Ğ°ĞµÑ‚ Ğ²ĞµĞ»Ğ¸Ñ‡Ğ¸Ğµ Ğ½ĞµĞ¸Ğ·Ğ²ĞµĞ´Ğ°Ğ½Ğ½Ğ¾Ğ³Ğ¾ ĞĞµĞ±ĞµÑĞ½Ğ¾Ğ³Ğ¾ Ğ´Ğ¾Ğ¼Ğ°.§column_ƒ¨id_hash_ªCT0040_TTL«subid_hash_ ¥text_Ù%ĞŸĞµÑ€ĞµĞ¿Ğ¾Ğ½Ñ‡Ğ°Ñ‚Ñ‹Ğµ ĞºÑ€Ñ‹Ğ»ÑŒÑ§column_ƒ¨id_hash_«CT0040_BODY«subid_hash_ ¥text_ÚĞšĞ¾Ğ³Ğ´Ğ° ÑÑ‚Ğ°Ñ Ğ²Ğ¸Ğ²ĞµÑ€Ğ½ Ğ½Ğ°Ğ²Ğ¾Ğ´Ğ½ÑĞµÑ‚ Ğ“Ñ€Ğ°Ğ½Ğ´ÑĞ°Ğ¹Ñ„ĞµÑ€Ğ°, 
 Ğ°Ğ›ÑƒÑ€Ğ¸Ñ Ğ²Ñ‹Ğ·Ñ‹Ğ²Ğ°ĞµÑ‚ Ğ‘Ğ°Ñ…Ğ°Ğ¼ÑƒÑ‚Ğ°. Ğ¢Ğ¾, Ñ‡Ñ‚Ğ¾ Ğ´Ğ¾Ğ»Ğ¶Ğ½Ğ¾ Ğ±Ñ‹Ğ»Ğ¾ Ğ±Ñ‹Ñ‚ÑŒ Ğ»ĞµĞ³ĞºĞ¾Ğ¹ Ğ¿Ğ¾Ğ±ĞµĞ´Ğ¾Ğ¹, 
@@ -65,7 +68,29 @@
 Ğ¿Ñ€Ğ¸ÑÑ‚Ğ½Ñ‹Ğ¹ Ğ³Ğ¾Ñ€Ğ¾Ğ´ Ñ Ğ½Ğ¾ÑÑ‚Ğ°Ğ»ÑŒĞ³Ğ¸Ñ‡ĞµÑĞºĞ¾Ğ¹ Ğ°Ñ‚Ğ¼Ğ¾ÑÑ„ĞµÑ€Ğ¾Ğ¹.§column_ƒ¨id_hash_ªCT1020_TTL«subid_hash_ ¥text_Ù,ĞŸĞ¾Ğ²ÑÑĞ´Ñƒ Ğ´ĞµĞ½ĞµĞ¶Ğ½Ñ‹Ğµ Ğ¿Ğ¾Ñ‚Ğ¾ĞºĞ¸§column_ƒ¨id_hash_«CT1020_BODY«subid_hash_ ¥text_ÚĞ”Ğ°Ğ¶Ğµ Ğ·Ğ´ĞµÑÑŒ, Ğ² Ğ¤Ğ¾Ğ»ÑŒĞºĞµ,  Ğ½Ğ°Ñ…Ğ¾Ğ´Ğ¸Ñ‚ Ğ¡ÑŒĞµÑ€Ğ¾ĞºĞ°Ñ€Ñ‚Ğµ 
 Ğ¸Ğ· Ğ¥Ğ¸Ğ¶Ğ¸Ğ½Ñ‹ Ğ±ĞµĞ·Ğ´ĞµĞ»ÑƒÑˆĞµĞº. ĞŸĞ¾Ğ¼Ğ¾Ğ³Ğ°Ñ ĞºĞ¾Ğ¼Ğ°Ğ½Ğ´Ğµ Ğ² Ğ¿Ñ€Ğ¾ÑˆĞ»Ñ‹Ñ… 
 Ğ¿Ğ¾Ğ´Ğ²Ğ¸Ğ³Ğ°Ñ…, Ğ¾Ğ½Ğ° Ğ¿Ñ€ĞµĞ´Ğ»Ğ°Ğ³Ğ°ĞµÑ‚ ÑĞ²Ğ¾Ñ Ğ¿Ğ¾Ğ¼Ğ¾Ñ‰ÑŒ Ğ¸ Ğ² ÑÑ‚Ğ¾Ğ¼ 
-Ğ½ĞµĞ±ĞµÑĞ½Ğ¾Ğ¼ Ğ´Ğ¾Ğ¼Ğµ.§column_ƒ¨id_hash_ªCT1030_TTL«subid_hash_ ¥text_Ù$ĞŸÑ€Ğ¸Ğ²ĞµÑ‚, Ğ¼ĞµĞ½Ñ Ğ·Ğ¾Ğ²ÑƒÑ‚...§column_ƒ¨id_hash_«CT1030_BODY«subid_hash_ ¥text_ÙèĞŸÑ€Ğ¾Ğ³ÑƒĞ»ÑĞ²ÑˆĞ¸ÑÑŒ Ğ¿Ğ¾ Ğ³Ğ¾Ñ€Ğ¾Ğ´Ñƒ, ĞºĞ¾Ğ¼Ğ°Ğ½Ğ´Ğ° ÑĞ¾Ğ±Ğ¸Ñ€Ğ°ĞµÑ‚ÑÑ Ğ¿ĞµÑ€ĞµĞ´ 
+Ğ½ĞµĞ±ĞµÑĞ½Ğ¾Ğ¼ Ğ´Ğ¾Ğ¼Ğµ.§column_ƒ¨id_hash_ªVN0310_TTL«subid_hash_ ¥text_µThe Skybound Guardian§column_ƒ¨id_hash_«VN0310_BODY«subid_hash_ ¥text_ÚDKatalina's faith in the Erste Empire was shattered upon
+discovering their cruel experimentation on Lyria. Driven by
+a deep sense of justice, Katalina renounced her allegiance
+from the empire and freed Lyria from imperial captivity.
+Little did they know that this act of compassion would change
+the fate of the skies forever.§column_ƒ¨id_hash_ªVN0330_TTL«subid_hash_ ¥text_µThe Skybound Helmsman§column_ƒ¨id_hash_«VN0330_BODY«subid_hash_ ¥text_ÚRackam was an aspiring helmsman who dreamed of taking to the
+skiesâ€”until the day he crashed his beloved airship. But when
+disaster threatened his homeland, he overcame his trauma and
+took to the helm once more, guiding the Grandcypher through
+the endless blue.§column_ƒ¨id_hash_ªVN0320_TTL«subid_hash_ ¥text_±The Skybound Mage§column_ƒ¨id_hash_«VN0320_BODY«subid_hash_ ¥text_ÚGIo's mentor and father figure, Tzaka the Great, vanished
+without a trace one day. When she and the crew found him,
+they discovered that the once gentle Tzaka had been
+consumed by hatred and resentment. After freeing him from
+the despair clouding his heart, Io chose to join the crew,
+determined to spread hope to those in need.§column_ƒ¨id_hash_ªVN0340_TTL«subid_hash_ ¥text_³The Skybound Sniper§column_ƒ¨id_hash_«VN0340_BODY«subid_hash_ ¥text_Ú0Unable to accept that his wife was not long for this world,
+Eugen became estranged from his only daughter. Years passed
+before he saw her again, except now she had become a general
+for the nefarious Erste Empire. This drove him to join the crew,
+vowing to mend the regretful mistakes he made in the past.§column_ƒ¨id_hash_ªVN0350_TTL«subid_hash_ ¥text_±The Skybound Rose§column_ƒ¨id_hash_«VN0350_BODY«subid_hash_ ¥text_Ú*The mysterious beauty Rosetta first met the crew in the
+ancient forest of Lumacie Archipelago. She had only planned
+to join the journey as a casual observer, offering cryptic
+advice every so often. But as Rosetta became closer with her
+crewmates, her fate grew increasingly intertwined with theirs.§column_ƒ¨id_hash_ªCT1030_TTL«subid_hash_ ¥text_Ù$ĞŸÑ€Ğ¸Ğ²ĞµÑ‚, Ğ¼ĞµĞ½Ñ Ğ·Ğ¾Ğ²ÑƒÑ‚...§column_ƒ¨id_hash_«CT1030_BODY«subid_hash_ ¥text_ÙèĞŸÑ€Ğ¾Ğ³ÑƒĞ»ÑĞ²ÑˆĞ¸ÑÑŒ Ğ¿Ğ¾ Ğ³Ğ¾Ñ€Ğ¾Ğ´Ñƒ, ĞºĞ¾Ğ¼Ğ°Ğ½Ğ´Ğ° ÑĞ¾Ğ±Ğ¸Ñ€Ğ°ĞµÑ‚ÑÑ Ğ¿ĞµÑ€ĞµĞ´ 
 Ñ†ĞµÑ€ĞºĞ¾Ğ²ÑŒÑ, Ñ‡Ñ‚Ğ¾Ğ±Ñ‹ ÑƒĞ²Ğ¸Ğ´ĞµÑ‚ÑŒ, ĞºĞ°Ğº Ğ¸Ğ· ÑĞ²ÑÑ‰ĞµĞ½Ğ½Ñ‹Ñ… Ğ·Ğ°Ğ»Ğ¾Ğ² 
 Ğ²Ñ‹Ñ€Ñ‹Ğ²Ğ°ĞµÑ‚ÑÑ Ñ‡ĞµĞ»Ğ¾Ğ²ĞµĞº Ğ±ĞµĞ· Ğ»Ğ¸Ñ†Ğ°.§column_ƒ¨id_hash_ªCT1040_TTL«subid_hash_ ¥text_Ù>ĞÑÑ‚Ğ°Ğ²ÑŒÑ‚Ğµ ÑÑ‚Ğ¾ Ğ¼Ğ¸ÑÑ‚ĞµÑ€Ñƒ Ğ¡Ğ°Ğ¼Ğ¾Ğ´ĞµĞ»ĞºĞ¸Ğ½Ñƒ!§column_ƒ¨id_hash_«CT1040_BODY«subid_hash_ ¥text_ÚTĞŸĞ¾ Ğ¿ÑƒÑ‚Ğ¸ Ğ² Ğ¢ĞµĞ¼Ğ¿ĞµĞ°Ğ»ÑŒ Ğ Ğ¾Ğ»Ğ°Ğ½ Ğ¾Ñ„Ğ¸Ñ†Ğ¸Ğ°Ğ»ÑŒĞ½Ğ¾ Ğ¿Ñ€ĞµĞ´ÑÑ‚Ğ°Ğ²Ğ»ÑĞµÑ‚ÑÑ 
 ĞºĞ¾Ğ¼Ğ°Ğ½Ğ´Ğµ. ĞĞ½ Ñ€Ğ°Ğ±Ğ¾Ñ‚Ğ°ĞµÑ‚ Ğ² Ğ¤Ğ¾Ğ»ÑŒĞºĞµ Ñ€Ğ°Ğ·Ğ½Ğ¾Ñ€Ğ°Ğ±Ğ¾Ñ‡Ğ¸Ğ¼ Ğ¸ Ğ¼Ğ¾Ğ¶ĞµÑ‚ 
@@ -232,7 +257,18 @@
  Ğ²Ğ¾Ğ·Ğ²Ñ€Ğ°Ñ‰Ğ°ĞµÑ‚ÑÑ Ğ´Ğ¾Ğ¼Ğ¾Ğ¹. Ğ˜Ğ´, Ñ‚ĞµĞ¿ĞµÑ€ÑŒ Ğ¾ÑĞ²Ğ¾Ğ±Ğ¾Ğ´Ğ¸Ğ²ÑˆĞ¸Ğ¹ÑÑ Ğ¾Ñ‚
  ÑĞ²ÑĞ·Ñ‹Ğ²Ğ°Ğ²ÑˆĞµĞ³Ğ¾ ĞµĞ³Ğ¾ Ğ¿Ñ€Ğ¾ÑˆĞ»Ğ¾Ğ³Ğ¾, ĞºĞ»ÑĞ½ĞµÑ‚ÑÑ Ğ¸ÑĞ¿Ğ¾Ğ»ÑŒĞ·Ğ¾Ğ²Ğ°Ñ‚ÑŒ ÑĞ²Ğ¾Ğ¸
  ÑĞ¸Ğ»Ñ‹ Ğ²Ğ¾ Ğ±Ğ»Ğ°Ğ³Ğ¾. ĞĞµĞ·Ğ°Ğ¼ĞµĞ½Ğ¸Ğ¼Ñ‹Ğµ Ğ´Ñ€ÑƒĞ·ÑŒÑ Ñ€ÑĞ´Ğ¾Ğ¼ Ñ Ğ½Ğ¸Ğ¼, Ğ¾Ğ½
- Ğ¿Ñ€Ğ¾Ğ´Ğ¾Ğ»Ğ¶Ğ°ĞµÑ‚ Ğ¿ÑƒÑ‚ĞµÑˆĞµÑÑ‚Ğ²Ğ¸Ğµ Ğ¿Ğ¾ Ğ³Ğ¾Ğ»ÑƒĞ±Ğ¾Ğ¼Ñƒ Ğ½ĞµĞ±Ñƒ.§column_ƒ¨id_hash_ªIN9000_TTL«subid_hash_ ¥text_Ù.ĞĞµÑĞºĞ¾Ğ»ÑŒĞºĞ¾ Ñ…Ğ¾Ñ€Ğ¾ÑˆĞ¸Ñ… ĞºĞ¾Ğ¼Ğ°Ğ½Ğ´§column_ƒ¨id_hash_«IN9000_BODY«subid_hash_ ¥text_ÙîCrew Alliance Rafale Ñ€Ğ°Ğ·Ğ¼ĞµÑÑ‚Ğ¸Ğ» Ğ¿Ğ¾ Ğ²ÑĞµĞ¼Ñƒ Ğ½ĞµĞ±Ñƒ Ğ¿Ğ¾ÑÑ‚Ñ‹ Ñ
+ Ğ¿Ñ€Ğ¾Ğ´Ğ¾Ğ»Ğ¶Ğ°ĞµÑ‚ Ğ¿ÑƒÑ‚ĞµÑˆĞµÑÑ‚Ğ²Ğ¸Ğµ Ğ¿Ğ¾ Ğ³Ğ¾Ğ»ÑƒĞ±Ğ¾Ğ¼Ñƒ Ğ½ĞµĞ±Ñƒ.§column_ƒ¨id_hash_ªCTa010_TTL«subid_hash_ ¥text_¹A Trial of Two Eternities§column_ƒ¨id_hash_«CTa010_BODY«subid_hash_ ¥text_ÙÅSeofon and Tweyen congratulate the crew for successfully
+completing a number of difficult quests. Impressed by the
+crew's accomplishments, the two Eternals invite them to 
+discuss a serious matter.§column_ƒ¨id_hash_ªCTa050_TTL«subid_hash_ ¥text_¹Every End Has a Beginning§column_ƒ¨id_hash_«CTa050_BODY«subid_hash_ ¥text_ÙüPeace returns to Zegagrande Skydom, but for how long?
+Harbingers of ruin cast pernicious shadows over the lands as
+a new storm brews on the horizon. The Captain and the crew
+continue marching toward destiny, all the while pursued by
+footsteps of chaos.§column_ƒ¨id_hash_ªCTa040_TTL«subid_hash_ ¥text_¹A Strong First Impression§column_ƒ¨id_hash_«CTa040_BODY«subid_hash_ ¥text_Ùg, Vyrn, and Lyria are about to have a meal when
+they're interrupted by a mysterious beauty named Fraux.§column_ƒ¨id_hash_ªCTa020_TTL«subid_hash_ ¥text_®Omnis Zegalith§column_ƒ¨id_hash_«CTa020_BODY«subid_hash_ ¥text_ÙMOmnis Zegalith manifests in Zegagrande, hanging over the
+skydom like an omen.§column_ƒ¨id_hash_ªCTa030_TTL«subid_hash_ ¥text_Ù$Endless Memories in the Endless Blue§column_ƒ¨id_hash_«CTa030_BODY«subid_hash_ ¥text_Ù‘The memories made in the Forgotten Sky will never be
+forgotten. It is yet another stirring chapter in an epic
+shared by you and the Girl in Blue.§column_ƒ¨id_hash_ªCR9000_TTL«subid_hash_ ¥text_§Credits§column_ƒ¨id_hash_«CR9000_BODY«subid_hash_ ¥text_Ù(The credits to Granblue Fantasy: Relink.§column_ƒ¨id_hash_ªIN9000_TTL«subid_hash_ ¥text_Ù.ĞĞµÑĞºĞ¾Ğ»ÑŒĞºĞ¾ Ñ…Ğ¾Ñ€Ğ¾ÑˆĞ¸Ñ… ĞºĞ¾Ğ¼Ğ°Ğ½Ğ´§column_ƒ¨id_hash_«IN9000_BODY«subid_hash_ ¥text_ÙîCrew Alliance Rafale Ñ€Ğ°Ğ·Ğ¼ĞµÑÑ‚Ğ¸Ğ» Ğ¿Ğ¾ Ğ²ÑĞµĞ¼Ñƒ Ğ½ĞµĞ±Ñƒ Ğ¿Ğ¾ÑÑ‚Ñ‹ Ñ
  Ğ¾Ğ±ÑŠÑĞ²Ğ»ĞµĞ½Ğ¸ÑĞ¼Ğ¸ Ğ¾ Ñ€Ğ°Ğ·Ğ»Ğ¸Ñ‡Ğ½Ñ‹Ñ… Ğ²Ğ°ĞºĞ°Ğ½ÑĞ¸ÑÑ… Ğ¸ Ğ²ÑĞµĞ³Ğ´Ğ° Ğ¸Ñ‰ĞµÑ‚
  Ğ¿ÑƒÑ‚ĞµÑˆĞµÑÑ‚Ğ²ĞµĞ½Ğ½Ğ¸ĞºĞ¾Ğ², ÑĞ¿Ğ¾ÑĞ¾Ğ±Ğ½Ñ‹Ñ… Ğ¿Ğ¾Ğ¼Ğ¾Ñ‡ÑŒ.§column_ƒ¨id_hash_ªIN9010_TTL«subid_hash_ ¥text_¸Ğ Ğ°Ğ·Ğ²ĞµÑ‚Ğ²Ğ»ĞµĞ½Ğ¸Ğµ§column_ƒ¨id_hash_«IN9010_BODY«subid_hash_ ¥text_ÙOĞ¤Ğ¸Ğ»Ğ¸Ğ°Ğ» Rafale Ğ² Ğ¡Ğ¸Ğ´Ñ…Ğ¾Ğ»Ğ»Ğ¾Ñƒ Ğ¸Ñ‰ĞµÑ‚ Ğ¾Ğ¿Ñ‹Ñ‚Ğ½Ñ‹Ñ…
 ĞºĞ¾Ğ¼Ğ°Ğ½Ğ´.§column_ƒ¨id_hash_ªIN0050_TTL«subid_hash_ ¥text_Ù(Ğ’ĞµĞ·Ğ´Ğµ Ğ´ĞµĞ½ĞµĞ¶Ğ½Ñ‹Ğµ Ğ¿Ğ¾Ñ‚Ğ¾ĞºĞ¸§column_ƒ¨id_hash_«IN0050_BODY«subid_hash_ ¥text_ÚĞ”Ğ°Ğ¶Ğµ Ğ·Ğ´ĞµÑÑŒ, Ğ² Ğ¤Ğ¾Ğ»ÑŒĞºĞµ, Ğ¾Ğ½ Ğ½Ğ°Ñ…Ğ¾Ğ´Ğ¸Ñ‚ Ğ¡ÑŒĞµÑ€Ğ¾ĞºĞ°Ñ€Ñ‚Ğµ Ğ¸Ğ· Ğ¥Ğ¸Ğ¶Ğ¸Ğ½Ñ‹
@@ -247,7 +283,11 @@
  Ğ˜Ğ´. Ğš Ğ·Ğ°Ğ¼ĞµÑˆĞ°Ñ‚ĞµĞ»ÑŒÑÑ‚Ğ²Ñƒ ĞºĞ¾Ğ¼Ğ°Ğ½Ğ´Ñ‹, Ğ˜Ğ´ Ğ¿Ğ¾ÑĞ²Ğ»ÑĞµÑ‚ÑÑ Ğ¿ĞµÑ€ĞµĞ´
  Ğ›ÑƒÑ€Ğ¸ĞµĞ¹, ĞºĞ°Ğº Ğ±ÑƒĞ´Ñ‚Ğ¾ Ğ·Ğ°Ñ‰Ğ¸Ñ‰Ğ°Ñ ĞµĞµ.§column_ƒ¨id_hash_ªIN0320_TTL«subid_hash_ ¥text_Ù%ĞœĞ°Ğ½Ğ°Ğ³Ğ°Ñ€Ğ¼ Ñ€Ğ°Ğ·Ğ¼Ğ¾Ñ€Ğ¾Ğ¶ĞµĞ½§column_ƒ¨id_hash_«IN0320_BODY«subid_hash_ ¥text_ÙkĞŸĞ¾ÑĞ»Ğµ Ñ‚ÑĞ¶ĞµĞ»Ğ¾Ğ¹ Ğ±Ğ¸Ñ‚Ğ²Ñ‹ ĞœĞ°Ğ½Ğ°Ğ³Ğ°Ñ€Ğ¼ Ñ‚ĞµÑ€Ğ¿Ğ¸Ñ‚ Ğ¿Ğ¾Ñ€Ğ°Ğ¶ĞµĞ½Ğ¸Ğµ Ğ¸
  Ğ¸ÑÑ‡ĞµĞ·Ğ°ĞµÑ‚.§column_ƒ¨id_hash_ªIN0400_TTL«subid_hash_ ¥text_Ù,Ğ˜ÑÑ‚Ğ¸Ğ½Ğ½Ğ¾Ğµ Ğ»Ğ¸Ñ†Ğ¾ Ğ¾Ğ¿Ğ°ÑĞ½Ğ¾ÑÑ‚Ğ¸§column_ƒ¨id_hash_«IN0400_BODY«subid_hash_ ¥text_ÙrĞĞºĞ°Ğ·Ñ‹Ğ²Ğ°ĞµÑ‚ÑÑ, Ğ²ÑĞµ ÑÑ‚Ğ¾ Ğ²Ñ€ĞµĞ¼Ñ ĞºĞ¾Ğ¼Ğ°Ğ½Ğ´Ğ° Ğ¸ÑĞºĞ°Ğ»Ğ°
- Ğ¿Ğ¾Ñ‚ĞµÑ€ÑĞ²ÑˆĞµĞ³Ğ¾ÑÑ ĞºĞ¾Ñ‚Ğ°.§column_ƒ¨id_hash_ªIN0500_TTL«subid_hash_ ¥text_Ù1Ğ¤Ğ¾Ğ½Ğ´Ğ°Ğ¼, Ğ˜Ğ·Ñ€Ğ°Ğ½ĞµĞ½Ğ½Ñ‹Ğµ Ğ¾ÑÑ‚Ñ€Ğ¾Ğ²Ğ°§column_ƒ¨id_hash_«IN0500_BODY«subid_hash_ ¥text_Ú€Ğ­ĞºĞ¸Ğ¿Ğ°Ğ¶ Ğ¿Ñ€Ğ¸Ğ·ĞµĞ¼Ğ»ÑĞµÑ‚ÑÑ Ğ½Ğ° Ğ¤Ğ¾Ğ½Ğ´Ğ°Ğ¼Ğµ. Ğ£Ğ²Ğ¸Ğ´ĞµĞ² Ğ¿Ñ€Ğ¸Ğ·Ğ½Ğ°ĞºĞ¸
+ Ğ¿Ğ¾Ñ‚ĞµÑ€ÑĞ²ÑˆĞµĞ³Ğ¾ÑÑ ĞºĞ¾Ñ‚Ğ°.§column_ƒ¨id_hash_ªIN0410_TTL«subid_hash_ ¥text_·What's Behind the Gate?§column_ƒ¨id_hash_«IN0410_BODY«subid_hash_ ¥text_Ù­A mysterious gate has suddenly appeared in a Seedhollow
+back alley. One of Zathba's henchmen asks the crew to head
+through the gate and investigate what's on the other side.§column_ƒ¨id_hash_ªIN0420_TTL«subid_hash_ ¥text_·Investigation Complete!§column_ƒ¨id_hash_«IN0420_BODY«subid_hash_ ¥text_Ù~After finishing their investigation of the strange anomaly
+and safely returning to Seedhollow, the crew report their
+findings.§column_ƒ¨id_hash_ªIN0500_TTL«subid_hash_ ¥text_Ù1Ğ¤Ğ¾Ğ½Ğ´Ğ°Ğ¼, Ğ˜Ğ·Ñ€Ğ°Ğ½ĞµĞ½Ğ½Ñ‹Ğµ Ğ¾ÑÑ‚Ñ€Ğ¾Ğ²Ğ°§column_ƒ¨id_hash_«IN0500_BODY«subid_hash_ ¥text_Ú€Ğ­ĞºĞ¸Ğ¿Ğ°Ğ¶ Ğ¿Ñ€Ğ¸Ğ·ĞµĞ¼Ğ»ÑĞµÑ‚ÑÑ Ğ½Ğ° Ğ¤Ğ¾Ğ½Ğ´Ğ°Ğ¼Ğµ. Ğ£Ğ²Ğ¸Ğ´ĞµĞ² Ğ¿Ñ€Ğ¸Ğ·Ğ½Ğ°ĞºĞ¸
  Ğ¸Ğ·Ğ²ĞµÑ€Ğ¶ĞµĞ½Ğ¸Ñ Ğ²ÑƒĞ»ĞºĞ°Ğ½Ğ°, Ğ²Ğ¾Ğ·Ğ¼Ğ¾Ğ¶Ğ½Ğ¾, Ğ¸Ğ·-Ğ·Ğ° ÑÑ€Ğ¾ÑÑ‚Ğ¸
  Ğ¿ĞµÑ€Ğ²Ğ¾Ğ±Ñ‹Ñ‚Ğ½Ğ¾Ğ³Ğ¾ Ğ·Ğ²ĞµÑ€Ñ, Ğ¾Ğ½Ğ¸ Ğ¾Ñ‚Ğ¿Ñ€Ğ°Ğ²Ğ»ÑÑÑ‚ÑÑ ÑĞ¿Ğ°ÑĞ°Ñ‚ÑŒ Ğ›ÑƒÑ€Ğ¸Ñ,
  ÑĞ»ĞµĞ´Ñ Ğ·Ğ° Ñ‚ĞµĞ¼, Ñ‡Ñ‚Ğ¾Ğ±Ñ‹ Ğ Ğ¾Ğ»Ğ°Ğ½ Ğ¾Ñ‚Ğ²ĞµĞ» Ğ“Ñ€Ğ°Ğ½Ğ´ÑĞ°Ğ¹Ñ„ĞµÑ€Ğ° Ğ²
@@ -266,7 +306,54 @@
  Ğ²ĞµÑ€ÑˆĞ¸Ğ½Ğµ ĞºĞ¾Ğ»Ğ¾Ğ½Ğ½Ñ‹.§column_ƒ¨id_hash_ªIN0710_TTL«subid_hash_ ¥text_¿Ğ¤ÑƒÑ€Ğ¸ĞºĞµĞ¹Ğ½ ĞĞ¸Ñ…Ğ¸Ğ»Ğ»Ğ°§column_ƒ¨id_hash_«IN0710_BODY«subid_hash_ ¥text_Ù·Ğ—Ğ»Ğ¾Ğ½Ğ°Ğ¼ĞµÑ€ĞµĞ½Ğ½Ğ°Ñ ÑÑƒÑ‰Ğ½Ğ¾ÑÑ‚ÑŒ, Ğ¿Ğ¾Ñ€Ğ°Ğ·Ğ¸Ñ‚ĞµĞ»ÑŒĞ½Ğ¾ Ğ¿Ğ¾Ñ…Ğ¾Ğ¶Ğ°Ñ Ğ½Ğ° Ğ¤ÑƒÑ€Ğ¸ĞºĞµĞ¹Ğ½ Ğ¢ĞµĞ¼Ğ¿Ğ¸Ğ»Ğ°, Ğ¿Ñ€ĞµĞ³Ñ€Ğ°Ğ¶Ğ´Ğ°ĞµÑ‚ ÑĞºĞ¸Ğ¿Ğ°Ğ¶Ñƒ Ğ¿ÑƒÑ‚ÑŒ Ğ²Ğ¿ĞµÑ€ĞµĞ´.§column_ƒ¨id_hash_ªIN0720_TTL«subid_hash_ ¥text_¿ĞœĞ°Ğ½Ğ°Ğ³Ğ°Ñ€Ğ¼ ĞĞ¸Ñ…Ğ¸Ğ»Ğ»Ğ°§column_ƒ¨id_hash_«IN0720_BODY«subid_hash_ ¥text_Ù»Ğ’Ñ€ĞµĞ´Ğ¾Ğ½Ğ¾ÑĞ½Ğ°Ñ ÑÑƒÑ‰Ğ½Ğ¾ÑÑ‚ÑŒ, Ğ¿Ğ¾Ñ€Ğ°Ğ·Ğ¸Ñ‚ĞµĞ»ÑŒĞ½Ğ¾ Ğ¿Ğ¾Ñ…Ğ¾Ğ¶Ğ°Ñ Ğ½Ğ° Mt.
  ĞœĞ°Ğ½Ğ°Ğ³Ğ°Ñ€Ğ¼ ĞĞµĞ¹Ğ³ĞµĞ»Ğ¸Ñ‚Ğ° Ğ¿Ñ€ĞµĞ³Ñ€Ğ°Ğ¶Ğ´Ğ°ĞµÑ‚ ÑĞºĞ¸Ğ¿Ğ°Ğ¶Ñƒ Ğ¿ÑƒÑ‚ÑŒ Ğ²Ğ¿ĞµÑ€ĞµĞ´.§column_ƒ¨id_hash_ªIN0730_TTL«subid_hash_ ¥text_Ù&Ğ’ÑƒĞ»ĞºĞ°Ğ½ Ğ‘Ğ¾Ğ»Ğ»Ğ° ĞĞ¸Ñ…Ğ¸Ğ»Ğ»Ğ°§column_ƒ¨id_hash_«IN0730_BODY«subid_hash_ ¥text_ÙÆĞ’Ñ€ĞµĞ´Ğ¾Ğ½Ğ¾ÑĞ½Ğ°Ñ ÑÑƒÑ‰Ğ½Ğ¾ÑÑ‚ÑŒ, Ğ¿Ğ¾Ñ€Ğ°Ğ·Ğ¸Ñ‚ĞµĞ»ÑŒĞ½Ğ¾ Ğ¿Ğ¾Ñ…Ğ¾Ğ¶Ğ°Ñ Ğ½Ğ° Ğ’ÑƒĞ»ĞºĞ°Ğ½
  Ğ‘Ğ¾Ğ»Ğ»Ğ° ĞºĞ¾Ğ¼Ğ¿Ğ°Ğ½Ğ¸Ğ¸ Phondam, Ğ¿Ñ€ĞµĞ³Ñ€Ğ°Ğ¶Ğ´Ğ°ĞµÑ‚ ÑĞºĞ¸Ğ¿Ğ°Ğ¶Ñƒ Ğ¿ÑƒÑ‚ÑŒ
- Ğ²Ğ¿ĞµÑ€ĞµĞ´.§column_ƒ¨id_hash_ªCI0510_TTL«subid_hash_ ¥text_»Ğ—Ğ°ÑĞ°Ğ´Ğ° Ğ²Ğ¸Ğ²ĞµÑ€Ğ½Ñ‹§column_ƒ¨id_hash_«CI0510_BODY«subid_hash_ ¥text_ÙãĞ­ĞºĞ¸Ğ¿Ğ°Ğ¶ Ñ Ğ½ĞµÑ‚ĞµÑ€Ğ¿ĞµĞ½Ğ¸ĞµĞ¼ Ğ¶Ğ´ĞµÑ‚ Ğ½Ğ¾Ğ²Ñ‹Ñ… Ğ¿Ñ€Ğ¸ĞºĞ»ÑÑ‡ĞµĞ½Ğ¸Ğ¹ Ğ² Ğ½Ğ¾Ğ²Ğ¾Ğ¼
+ Ğ²Ğ¿ĞµÑ€ĞµĞ´.§column_ƒ¨id_hash_ªIN0910_TTL«subid_hash_ ¥text_ºThe Goblin's Natural Enemy§column_ƒ¨id_hash_«IN0910_BODY«subid_hash_ ¥text_ÙkAn eerie avian beast with jet-black feathers attacks Id and
+the crew as they try to complete a job request.§column_ƒ¨id_hash_ªIN0920_TTL«subid_hash_ ¥text_°Got the Job Done§column_ƒ¨id_hash_«IN0920_BODY«subid_hash_ ¥text_ÙEAfter a fierce battle, Id and the crew defeat the eerie
+flying beast.§column_ƒ¨id_hash_ªIN1000_TTL«subid_hash_ ¥text_¶More Strangeness Afoot§column_ƒ¨id_hash_«IN1000_BODY«subid_hash_ ¥text_ÙbAs the crew make their way through Seedhollow's dock, a
+familiar face begs them for another favor.§column_ƒ¨id_hash_ªIN1010_TTL«subid_hash_ ¥text_¾What's Behind the Gate? Part 2§column_ƒ¨id_hash_«IN1010_BODY«subid_hash_ ¥text_ÙDagger insists that more abnormal activity is occurring
+on the other side of the back alley gate. The crew sets
+out once again to investigate.§column_ƒ¨id_hash_ªIN1020_TTL«subid_hash_ ¥text_¿Another Investigation Complete!§column_ƒ¨id_hash_«IN1020_BODY«subid_hash_ ¥text_ÙsThe crew manage to push deeper beyond the gate this time.
+After finishing their exploration, they report to Dagger.§column_ƒ¨id_hash_ªIN1030_TTL«subid_hash_ ¥text_±The Survey Begins§column_ƒ¨id_hash_«IN1030_BODY«subid_hash_ ¥text_Ù]The crew arrive at Tredame Sanctum, where Historiath helps
+them prepare to enter the Conflux.§column_ƒ¨id_hash_ªIN1040_TTL«subid_hash_ ¥text_³Aura of the Conflux§column_ƒ¨id_hash_«IN1040_BODY«subid_hash_ ¥text_ÙvRolan mentions that abnormal power flows within the Conflux,
+which if harnessed, should help the crew with the survey.§column_ƒ¨id_hash_ªIN1050_TTL«subid_hash_ ¥text_¿Delving Deeper into the Conflux§column_ƒ¨id_hash_«IN1050_BODY«subid_hash_ ¥text_ÙOMore unexplored areas of the Conflux reveal themselves as
+the surveys continue.§column_ƒ¨id_hash_ªIN1060_TTL«subid_hash_ ¥text_­Astral Shadow§column_ƒ¨id_hash_«IN1060_BODY«subid_hash_ ¥text_ÙuRolan hits the crew with a stunning revelation about the
+Conflux. According to him, an Astral lurks somewhere within.§column_ƒ¨id_hash_ªIN1070_TTL«subid_hash_ ¥text_·The Silver Wolf Awakens§column_ƒ¨id_hash_«IN1070_BODY«subid_hash_ ¥text_ÙÏThe battles against the ragnalia have pushed the crew to
+new heights of strength. Thrilled by their newfound growth,
+Gallanza eagerly challenges the crew to what he's certain
+will be the ultimate deathmatch.§column_ƒ¨id_hash_ªIN1080_TTL«subid_hash_ ¥text_­Path to Chaos§column_ƒ¨id_hash_«IN1080_BODY«subid_hash_ ¥text_ÙÎImpressed by the crew's performance, Rafale grants them
+access to even more difficult jobs, which may lead to the
+discovery of the ragnalia's origin. Lyria mentions that she
+senses another unfamiliar power.§column_ƒ¨id_hash_ªIN1090_TTL«subid_hash_ ¥text_±The Card's Secret§column_ƒ¨id_hash_«IN1090_BODY«subid_hash_ ¥text_ÙçRagnalia in the form of primal beasts are actually memories
+stored in a card belonging to Fraux. Seeing nothing but blank
+faces staring back at her, Fraux realizes she'll have to
+first explain about a primal beast called The World.§column_ƒ¨id_hash_ªIN1100_TTL«subid_hash_ ¥text_°Light of Sephira§column_ƒ¨id_hash_«IN1100_BODY«subid_hash_ ¥text_ÙvWith the items gathered in hand, Fraux's expression turns
+contemplative. She requests yet another favor from the crew.§column_ƒ¨id_hash_ªIN1110_TTL«subid_hash_ ¥text_´The Survey Continues§column_ƒ¨id_hash_«IN1110_BODY«subid_hash_ ¥text_ÙŒRolan brings word that more areas of the Conflux have become
+accessible. He encourages the crew to head for Tredame to
+continue the surveys.§column_ƒ¨id_hash_ªIN1120_TTL«subid_hash_ ¥text_±Deep-Seated Chaos§column_ƒ¨id_hash_«IN1120_BODY«subid_hash_ ¥text_Ù±A path to the heart of the Conflux is now open, wherein a
+supremely powerful entity awaits. The crew must gather their
+strength and resolve in preparation for the confrontation.§column_ƒ¨id_hash_ªIN1130_TTL«subid_hash_ ¥text_²Reviving The Devil§column_ƒ¨id_hash_«IN1130_BODY«subid_hash_ ¥text_ÙUTo further awaken the The Devil's power, the crew accepts
+another request from Fraux.§column_ƒ¨id_hash_ªIN1140_TTL«subid_hash_ ¥text_²The Devil's Desire§column_ƒ¨id_hash_«IN1140_BODY«subid_hash_ ¥text_ÙWNow that The Devil has been restored, the crew and Fraux
+prepare to confront The World.§column_ƒ¨id_hash_ªIN1150_TTL«subid_hash_ ¥text_¶Into the Sephira Abyss§column_ƒ¨id_hash_«IN1150_BODY«subid_hash_ ¥text_Ù^Determined to thwart The World, the crew ventures into the
+Sephira Abyss for a final showdown.§column_ƒ¨id_hash_ªIN1160_TTL«subid_hash_ ¥text_½Fediel, the Wedge of Darkness§column_ƒ¨id_hash_«IN1160_BODY«subid_hash_ ¥text_ÙTUpon confirming the crew's strength, Fediel freely invites
+herself into their ranks.§column_ƒ¨id_hash_ªIN1170_TTL«subid_hash_ ¥text_²Fall of the Astral§column_ƒ¨id_hash_«IN1170_BODY«subid_hash_ ¥text_ÙwThe crew defeats the Astral Lucilius. Sandalphon expresses
+heartfelt gratitude for helping him take down his archenemy.§column_ƒ¨id_hash_ªIN1180_TTL«subid_hash_ ¥text_¬My True Self§column_ƒ¨id_hash_«IN1180_BODY«subid_hash_ ¥text_Ù›With this defeat of Bahamut Versa, Id feels that he's found
+some closure with the dragon power that was thrust upon him.
+He's ready to face the world anew.§column_ƒ¨id_hash_ªIN1190_TTL«subid_hash_ ¥text_¨Regicide§column_ƒ¨id_hash_«IN1190_BODY«subid_hash_ ¥text_Ù³With Beelzebub vanquished, Rolan apologizes profusely for
+the chaos stirred up by his fellow Astral. Sandalphon takes
+it in stride and doesn't blame Rolan for what has transpired.§column_ƒ¨id_hash_ªIN1200_TTL«subid_hash_ ¥text_®Mazurka of War§column_ƒ¨id_hash_«IN1200_BODY«subid_hash_ ¥text_Ù©The crew overcome a multitude of grueling battles set forth
+by Fedielâ€”only a few targets remain. Once those threats are
+cleared, Fediel promises to explain everything.§column_ƒ¨id_hash_ªIN1210_TTL«subid_hash_ ¥text_°Escalating Peril§column_ƒ¨id_hash_«IN1210_BODY«subid_hash_ ¥text_Ù‡As ragnalia sightings on the outskirts of Folca grow in
+frequency, the crew ventures into the forest to better
+ascertain the situation.§column_ƒ¨id_hash_ªIN1215_TTL«subid_hash_ ¥text_®Ragnalia Rises§column_ƒ¨id_hash_«IN1215_BODY«subid_hash_ ¥text_Ù‰As the crew explores the forest steeped in autumn's
+warm trappings for the rumored ragnalia, the hunters
+soon find themselves the hunted.§column_ƒ¨id_hash_ªIN1220_TTL«subid_hash_ ¥text_±Strategic Retreat§column_ƒ¨id_hash_«IN1220_BODY«subid_hash_ ¥text_ÙUThe crew successfully clears the forest of ragnalia thanks
+to the power of summoning.§column_ƒ¨id_hash_ªIN1230_TTL«subid_hash_ ¥text_®New World Pact§column_ƒ¨id_hash_«IN1230_BODY«subid_hash_ ¥text_ÙÁThe curtain rises on a drama set in the World of Memory,
+starring a girl who is the envy of all. A mysterious voice
+offers her the chance to join the god of a new world as a
+pillar of strength.§column_ƒ¨id_hash_ªIN1240_TTL«subid_hash_ ¥text_¬Evoke Change§column_ƒ¨id_hash_«IN1240_BODY«subid_hash_ ¥text_ÙfWith three trials cleared, the girl is lulled into a new
+cause, and she opens the door to a new world.§column_ƒ¨id_hash_ªIN1250_TTL«subid_hash_ ¥text_·Emerging from the Black§column_ƒ¨id_hash_«IN1250_BODY«subid_hash_ ¥text_Ù‡Dragons are eternal. Even in realities unborn, the roar of
+judgment echoes forever, perceived by a Black deeper than
+the darkest abyss.§column_ƒ¨id_hash_ªIN1255_TTL«subid_hash_ ¥text_ªA New Wind§column_ƒ¨id_hash_«IN1255_BODY«subid_hash_ ¥text_ÙDThe darkness reflects upon the torch-bearing whirlwind
+of causality.§column_ƒ¨id_hash_ªIN1260_TTL«subid_hash_ ¥text_ªRendezvous§column_ƒ¨id_hash_ªIN1270_TTL«subid_hash_ ¥text_«Premonition§column_ƒ¨id_hash_ªIN1280_TTL«subid_hash_ ¥text_¬Happenstance§column_ƒ¨id_hash_ªCI0510_TTL«subid_hash_ ¥text_»Ğ—Ğ°ÑĞ°Ğ´Ğ° Ğ²Ğ¸Ğ²ĞµÑ€Ğ½Ñ‹§column_ƒ¨id_hash_«CI0510_BODY«subid_hash_ ¥text_ÙãĞ­ĞºĞ¸Ğ¿Ğ°Ğ¶ Ñ Ğ½ĞµÑ‚ĞµÑ€Ğ¿ĞµĞ½Ğ¸ĞµĞ¼ Ğ¶Ğ´ĞµÑ‚ Ğ½Ğ¾Ğ²Ñ‹Ñ… Ğ¿Ñ€Ğ¸ĞºĞ»ÑÑ‡ĞµĞ½Ğ¸Ğ¹ Ğ² Ğ½Ğ¾Ğ²Ğ¾Ğ¼
  Ğ½ĞµĞ±ĞµÑĞ½Ğ¾Ğ¼ Ğ´Ğ¾Ğ¼Ğµ. ĞĞ´Ğ½Ğ°ĞºĞ¾ ĞĞ¹Ğ³ĞµĞ½ ÑĞ¾Ğ¾Ğ±Ñ‰Ğ°ĞµÑ‚, Ñ‡Ñ‚Ğ¾ Ğ²Ğ¸Ğ²ĞµÑ€Ğ½Ñ‹
  Ğ±Ñ‹ÑÑ‚Ñ€Ğ¾ Ğ¿Ñ€Ğ¸Ğ±Ğ»Ğ¸Ğ¶Ğ°ÑÑ‚ÑÑ.§column_ƒ¨id_hash_ªCI0520_TTL«subid_hash_ ¥text_Ù%Ğ²Ğ·ÑŠĞµÑ€Ğ¾ÑˆĞµĞ½Ğ½Ñ‹Ğµ ĞºÑ€Ñ‹Ğ»ÑŒÑ§column_ƒ¨id_hash_«CI0520_BODY«subid_hash_ ¥text_ÚªĞšĞ¾Ğ³Ğ´Ğ° ÑÑ‚Ğ°Ñ Ğ²Ğ¸Ğ²ĞµÑ€Ğ½ Ğ½Ğ°Ğ²Ğ¾Ğ´Ğ½ÑĞµÑ‚ Ğ“Ñ€Ğ°Ğ½Ğ´ÑĞ°Ğ¹Ñ„ĞµÑ€Ğ°, Ğ›ÑƒÑ€Ğ¸Ñ Ğ¸
  Ğ›ÑƒÑ€Ğ¸Ñ Ğ²Ñ‹Ğ·Ñ‹Ğ²Ğ°ÑÑ‚ Ğ‘Ğ°Ñ…Ğ°Ğ¼ÑƒÑ‚Ğ°. Ğ¢Ğ¾, Ñ‡Ñ‚Ğ¾ Ğ´Ğ¾Ğ»Ğ¶Ğ½Ğ¾ Ğ±Ñ‹Ğ»Ğ¾ Ğ±Ñ‹Ñ‚ÑŒ
@@ -1435,7 +1522,207 @@ wĞ–ÑƒÑ€Ğ½Ğ°Ğ» Ğ¸ÑÑĞ»ĞµĞ´Ğ¾Ğ²Ğ°Ğ½Ğ¸Ğ¹: DZ-AM-A-2307 Ğ—Ğ° Ğ´ĞµÑÑÑ‚ÑŒ Ğ»ĞµÑ‚,
  Ğ±ĞµÑĞºĞ¾Ğ½Ñ‚Ñ€Ğ¾Ğ»ÑŒĞ½Ğ¾ Ñ‚Ñ€Ğ°Ğ½ÑÑ„Ğ¾Ñ€Ğ¼Ğ¸Ñ€Ğ¾Ğ²Ğ°Ñ‚ÑŒÑÑ, Ğ¿Ğ¾ĞºĞ° Ğ²Ğ·Ğ¾Ñ€Ğ²Ğ°Ğ»Ğ¾ÑÑŒ Ğ¸ Ğ½Ğµ
  Ğ¾Ğ¿Ğ°Ğ»Ğ¸Ğ»Ğ¾ Ğ·ĞµĞ¼Ğ»Ñ. Ğ˜Ğ·-Ğ·Ğ° ÑĞ²Ğ¾ĞµĞ¹ Ğ°Ğ¼Ğ¾Ñ€Ñ„Ğ½Ğ¾ÑÑ‚Ğ¸ Ğ³Ğ¾ÑÑƒĞ´Ğ°Ñ€ÑÑ‚Ğ²Ñƒ,
  Ğ¿Ğ¾Ğ¿Ñ‹Ñ‚ĞºĞ¸ ÑĞ¾Ñ…Ñ€Ğ°Ğ½Ğ¸Ñ‚ÑŒ Ğ¿ĞµÑ€Ğ²Ğ¾Ğ±Ñ‹Ñ‚Ğ½Ğ¾Ğµ Ğ½Ğµ ÑƒĞ²ĞµĞ½Ñ‡Ğ°Ğ»Ğ¸ÑÑŒ ÑƒÑĞ¿ĞµÑ…Ğ¾Ğ¼, Ğ¸
- Ñ‚ĞµĞ¿ĞµÑ€ÑŒ Ğ¾Ğ½Ğ¾ Ğ¿Ñ€Ğ°Ğ²Ğ¸Ñ‚ Ğ½Ğ°Ğ´ Ñ€Ğ°Ğ·Ğ±Ğ¸Ñ‚Ğ¾Ğ¹ Ğ¸ Ğ·Ğ°Ğ±Ñ€Ğ¾ÑˆĞµĞ½Ğ½Ğ¾Ğ¹ Ğ·ĞµĞ¼Ğ»ĞµĞ¹.§column_ƒ¨id_hash_ªCW0110_TTL«subid_hash_ ¥text_¾Ğ›ÑƒÑ€Ğ¸Ñ Ğ¸ ĞšĞ°Ñ‚Ğ°Ğ»Ğ¸Ğ½Ğ°§column_ƒ¨id_hash_«CW0110_BODY«subid_hash_ ¥text_Ùø"Ğ§Ñ‚Ğ¾ Ğ½Ğ°Ñ…Ğ¾Ğ´Ğ¸Ñ‚ÑÑ Ğ² ĞºĞ¾Ğ½Ñ†Ğµ ĞĞµĞ±ĞµÑĞ½Ğ¾Ğ³Ğ¾ Ğ¦Ğ°Ñ€ÑÑ‚Ğ²Ğ°?" Ğ›ÑƒÑ€Ğ¸Ñ
+ Ñ‚ĞµĞ¿ĞµÑ€ÑŒ Ğ¾Ğ½Ğ¾ Ğ¿Ñ€Ğ°Ğ²Ğ¸Ñ‚ Ğ½Ğ°Ğ´ Ñ€Ğ°Ğ·Ğ±Ğ¸Ñ‚Ğ¾Ğ¹ Ğ¸ Ğ·Ğ°Ğ±Ñ€Ğ¾ÑˆĞµĞ½Ğ½Ğ¾Ğ¹ Ğ·ĞµĞ¼Ğ»ĞµĞ¹.§column_ƒ¨id_hash_±ARC_OTHER_061_TTL«subid_hash_ ¥text_°Handmade Pendant§column_ƒ¨id_hash_²ARC_OTHER_061_BODY«subid_hash_ ¥text_ÚA simple accessory gifted to Zeta by a young boy. While it
+won't win any awards for its craftsmanship, it was clearly
+made with care. It came with a letter, and at the bottom a
+postscript reads, "If you ever get lonely, just look at the
+pendant, and think of me."§column_ƒ¨id_hash_±ARC_OTHER_062_TTL«subid_hash_ ¥text_°Folca Gold Fruit§column_ƒ¨id_hash_²ARC_OTHER_062_BODY«subid_hash_ ¥text_Ú>This freshly picked apple gifted to Vaseraga grew in a garden
+he helped to save. Apples endemic to Folca were crossbred
+with a species from Grosgardâ€”famous for its use in apple
+wineâ€”to create this delectable variant. They require a deft
+hand to grow, but the luster and flavor in the end is well-
+worth the effort.§column_ƒ¨id_hash_±ARC_OTHER_061_MAP«subid_hash_ ¥text_¾Completed Zeta's Fate Episodes§column_ƒ¨id_hash_±ARC_OTHER_062_MAP«subid_hash_ ¥text_Ù"Completed Vaseraga's Fate Episodes§column_ƒ¨id_hash_±ARC_OTHER_063_TTL«subid_hash_ ¥text_¸Stack of Apology Letters§column_ƒ¨id_hash_±ARC_OTHER_063_MAP«subid_hash_ ¥text_Ù Completed Seofon's Fate Episodes§column_ƒ¨id_hash_²ARC_OTHER_063_BODY«subid_hash_ ¥text_ÚzUnsatisfied with simply speaking his apologies, Seofon asked
+Tweyen to transcribe his words of contrition and send them
+to his comrades for their records. 's apology
+letter was especially long and eloquent. As a condition to
+help him write the letters, Tweyen stipulated that every
+letter end with the following line:
+
+"I'll do my super best not to make the same mistake twice!"§column_ƒ¨id_hash_±ARC_OTHER_064_TTL«subid_hash_ ¥text_¸Postcard from a Merchant§column_ƒ¨id_hash_±ARC_OTHER_064_MAP«subid_hash_ ¥text_Ù Completed Tweyen's Fate Episodes§column_ƒ¨id_hash_²ARC_OTHER_064_BODY«subid_hash_ ¥text_ÚThis postcard was sent to Tweyen from a certain merchant on
+her travels throughout Zegagrande. On the front is a
+gorgeous sketch that couldn't have come from amateur hands.
+On the back are expressive, lovingly crafted passages that
+also include a message from rival merchant Sierokarte. It
+seems the three ladies have established a regular
+correspondence. Whenever Tweyen looks at this postcard,
+which she has pinned to her wall, she bursts into a big
+smile at the thought of the new friendships she has made in
+Zegagrande.§column_ƒ¨id_hash_±ARC_OTHER_065_TTL«subid_hash_ ¥text_Ù("Wings of Virtuous White" Pastel Version§column_ƒ¨id_hash_±ARC_OTHER_065_MAP«subid_hash_ ¥text_Ù$Completed Sandalphon's Fate Episodes§column_ƒ¨id_hash_²ARC_OTHER_065_BODY«subid_hash_ ¥text_ÚåThis is a portrait of united heroes and their airship.
+
+The gorgeous blue skies of Zegagrande have never been
+captured so vividly on canvasâ€”until now. One can even feel
+the gentle breeze that sweeps across the airship's deck. The
+glorious peace now afforded to the masses was won by the
+very skyfarers depicted in this painting's foreground, and
+they certainly deserve to be at the center of attention.
+
+One skyfarer in particular, with his translucent wings of
+pure white, bears a countenance full of love for the Sky
+Realm, as if it were inherited from the heavens. It is the
+face of reassurance, one that affirms its owner's promise
+to protect the skies. All who gaze upon this masterpiece
+inevitably offer up a prayer for good measure.§column_ƒ¨id_hash_±ARC_OTHER_070_TTL«subid_hash_ ¥text_½Seize the Day, Silver Wolves!§column_ƒ¨id_hash_±ARC_OTHER_071_TTL«subid_hash_ ¥text_Ù$Proof of Receipt: Materials and Fees§column_ƒ¨id_hash_±ARC_OTHER_066_TTL«subid_hash_ ¥text_±Letter to Beatrix§column_ƒ¨id_hash_±ARC_OTHER_067_TTL«subid_hash_ ¥text_Ù&RE: Intercepted Transmissions Incident§column_ƒ¨id_hash_±ARC_OTHER_068_TTL«subid_hash_ ¥text_´Folca Concert Ticket§column_ƒ¨id_hash_±ARC_OTHER_069_TTL«subid_hash_ ¥text_¾Ultimate Memory Under Analysis§column_ƒ¨id_hash_±ARC_OTHER_072_TTL«subid_hash_ ¥text_¸Ether Turret Design Memo§column_ƒ¨id_hash_±ARC_OTHER_073_TTL«subid_hash_ ¥text_¸Dragon Activity in Zega?§column_ƒ¨id_hash_±ARC_OTHER_070_MAP«subid_hash_ ¥text_Ù"Completed Gallanza's Fate Episodes§column_ƒ¨id_hash_±ARC_OTHER_071_MAP«subid_hash_ ¥text_Ù#Completed Maglielle's Fate Episodes§column_ƒ¨id_hash_±ARC_OTHER_066_MAP«subid_hash_ ¥text_Ù!Completed Beatrix's Fate Episodes§column_ƒ¨id_hash_±ARC_OTHER_067_MAP«subid_hash_ ¥text_Ù!Completed Eustace's Fate Episodes§column_ƒ¨id_hash_±ARC_OTHER_068_MAP«subid_hash_ ¥text_¿Completed Fraux's Fate Episodes§column_ƒ¨id_hash_±ARC_OTHER_069_MAP«subid_hash_ ¥text_Ù Completed Fediel's Fate Episodes§column_ƒ¨id_hash_±ARC_OTHER_072_MAP«subid_hash_ ¥text_¥Folca§column_ƒ¨id_hash_±ARC_OTHER_073_MAP«subid_hash_ ¥text_¥Folca§column_ƒ¨id_hash_²ARC_OTHER_070_BODY«subid_hash_ ¥text_ÚA log book containing daily accounts penned by members of
+the Silver Wolf Resurgence, who are engaged in volunteer
+work throughout Zegagrande. A variety of stories are detailed
+within; from city street patrolling to caravan escorting and
+martial instruction, no job is too big or small for the
+recordkeepers. While the penmanship leaves much to be
+desired, the memories woven by those misshapen letters brim
+with warmth and fulfillment. They will surely rejuvenate the
+penitent hearts of the wolves who will one day come home.§column_ƒ¨id_hash_²ARC_OTHER_071_BODY«subid_hash_ ¥text_Ú&Dear Maglielle,
+
+The receipt of the following has been confirmed.
+
+  Emerald Dragon Scale 1 pc.
+  Tempered Ingot 2 pcs.
+  Neigelith Quartz 1 pc.
+  Exceptional Refinium 39 pcs.
+  Cost-Inclusive Service Charge 596,300 rupies
+
+Thank you for your continued patronage of the Knickknack
+Shack!
+
+Siero§column_ƒ¨id_hash_²ARC_OTHER_066_BODY«subid_hash_ ¥text_ÚØAh, how the flowers doth bloom as we enter the new seasonâ€”
+never mind that Seedhollow seems to exist in perennial
+spring... As you can see, I am quite amateurish at penning
+salutations.
+
+With that being said, it is my privilege to extend to you
+this formal invitation for a friendly exhibition. From our
+countless crossing of blades, it is fair to say that your
+skills, motivations, and beliefs align deeply with our own.
+
+It is most regretful that we cannot grant you the secrets
+passed down from our forebears. However, I believe we can
+still elevate our martial prowess to greater heights with
+continued training engagements.
+
+I look forward to receiving your favorable response.
+
+Trulen, Sword Veil Fellowship Deputy Chief§column_ƒ¨id_hash_²ARC_OTHER_067_BODY«subid_hash_ ¥text_ÚtPerpetrator was found to be a Society defector. Due to the
+sensitive intel in the defector's possession, a decision was
+made to bypass local authorities and have him remanded in
+Society custody for relevant processing.
+
+In addition to conducting an internal investigation, a
+thorough audit of communication protocols is strongly
+recommended to prevent recurring incidents.§column_ƒ¨id_hash_²ARC_OTHER_068_BODY«subid_hash_ ¥text_Ú~The church of Folca presents: A Night of Song and Dance!
+
+Opening Act: Boss & the Gang
+Seedhollow isn't all sunshine and flowers! Thrash to the
+psycho death growls of Zaaathbaaaa!
+
+Featuring: Mellose Cloister Choir
+Elegance. Gravitas. Emotion. The chill vocals of Tredame's
+best will soothe your burning ears after Zathba's fire set!
+
+Special Guest: Sword Veil Symphony SuperiÃ³r
+Conductor: Former Aviaeth General Maglielle
+Epic melodies expertly played on floating instrumentsâ€”
+this is one performance you have to hear AND see to believe!
+
+Debut Singer: Free-Spirited Songstress Sadie
+And last but not least is an aspiring blind singer who took
+inspiration from this very series of concerts! With a voice
+from the heavens, her song will sweep through the stars
+like a comet and echo in the winds.
+
+The stage is set for the greatest music experience in all of
+Zega. You won't want to miss it!§column_ƒ¨id_hash_²ARC_OTHER_069_BODY«subid_hash_ ¥text_Ú"A message dating back to antiquity, left for the peoples of
+a far-off future, is stored within this brick-like object. A
+method for deciphering its secrets is yet to exist in the
+Sky Realm.
+
+"As a species, we took pride in our mastery of science and
+technology. Ingenuity propelled us past every disaster we
+ever faced except for one: ourselves. Now it seems we've
+reached our limits.
+
+Humanity's existence has always been a long and arduous
+struggle, but all we have to show for it is irredeemable ruin.
+
+We dared to dream of prosperity, only to witness bright hopes
+crumble into irreversible decay. Where did we go wrong?
+
+If organisms have an obligation to avoid extinction, then the 
+need to 'be fruitful and multiply' must be instinctual. That
+we found ourselves careening toward destruction simply by
+following nature's design is a cruel trick of irony.
+
+But I digress. There's no point in arguing over the meaning
+of life anymore, not when all of mankind is strapped down
+to the proverbial guillotine. The world teeters on collapse.
+
+Models. Simulations. Analytics. The numbers don't lie. The
+probability of contaminated lands resurrecting from the
+ashes is zip. Zilch. Zero.
+
+And yet... for all the cynicism and dismay present in my
+lamentations, I feel the need to implore future generations
+to keep faith in humanity's potential. But why? Why believe
+in people? I... can't remember. I steeled my heart long ago
+and abandoned my emotions.
+
+Should anyone happen to read this message, I leave you with
+our only legacy: please don't make the same mistakes we did."§column_ƒ¨id_hash_²ARC_OTHER_072_BODY«subid_hash_ ¥text_ÚThank you for placing a production order for an ether turret.
+A test model has been delivered to Crew Alliance Rafale's
+Folca branch.
+
+Overview:
+Ether cannons boast great firepower and long durations of
+sustained fire. However, they are limited by a relatively
+narrow attack angle. This is especially evident when engaging
+moving targets at very close-range, making them impractical
+for situations other than air-to-air combat.
+
+Initial Revisions:
+Reduced the size of couplings and other parts connecting
+the cannon barrel to the foundation. Unfortunately, this
+prohibits an ether cannon from auto-firing.
+
+New Design:
+Acquired a rare crystal from skyfarers of another skydom and
+installed it as a deflector that diverts ether beams in all
+directions. This solves some of the attack angle issues
+present in a fixed-barrel design.
+
+Test Model Features:
+This turret is equipped with an improved rapid-fire system.
+Due to its experimental nature, the entire unit requires a
+periodic cooldown.
+
+Future Prospects:
+The goal is to deploy more turrets in danger zones throughout
+Zega. Steady improvements will be made based on usage data.
+
+Folca's Devoted Mr. Fix It, Rolan§column_ƒ¨id_hash_²ARC_OTHER_073_BODY«subid_hash_ ¥text_ÚsThis presence... Does Zega face a dragon crisis? Clearly it's
+neither skydweller nor primal beast. And it couldn't possibly
+be what remains of a split god... could it? No, no, what a
+preposterous thought.
+
+But if not the arrival of a god, then what is it? How long
+has it been here? Was it in hiding all this time? So many
+questions, so few answers.
+
+I've heard numerous legends of dragons descending from
+the skies, as well as the theory that they're the very roots
+of faith and the force of emotion. I myself have done
+substantial legwork to track them down.
+
+Yet for all my efforts, I can count on my fingers the number
+of great dragons I've actually seen. Spread that across a
+span of two thousand odd years, and the rarity of these
+godlike beings becomes evident.
+
+One theory posits that the greatest dragons manifest in
+response to abnormal disturbances. Out of an abundance of
+caution, I must presume that theory to be true.
+
+The arrival of this presence really snuck up on meâ€”ah! Wait a
+minute. When Lilith set the gears of calamity in motion all
+those years ago, maybe that was the trigger...
+
+And so my investigation continues.§column_ƒ¨id_hash_ªCW0110_TTL«subid_hash_ ¥text_¾Ğ›ÑƒÑ€Ğ¸Ñ Ğ¸ ĞšĞ°Ñ‚Ğ°Ğ»Ğ¸Ğ½Ğ°§column_ƒ¨id_hash_«CW0110_BODY«subid_hash_ ¥text_Ùø"Ğ§Ñ‚Ğ¾ Ğ½Ğ°Ñ…Ğ¾Ğ´Ğ¸Ñ‚ÑÑ Ğ² ĞºĞ¾Ğ½Ñ†Ğµ ĞĞµĞ±ĞµÑĞ½Ğ¾Ğ³Ğ¾ Ğ¦Ğ°Ñ€ÑÑ‚Ğ²Ğ°?" Ğ›ÑƒÑ€Ğ¸Ñ
  Ğ·Ğ°Ğ´Ğ°ĞµÑ‚ ĞšĞ°Ñ‚Ğ°Ğ»Ğ¸Ğ½Ğµ Ğ¿Ñ€Ğ¾ÑÑ‚Ğ¾Ğ¹ Ğ²Ğ¾Ğ¿Ñ€Ğ¾Ñ, ĞºĞ¾Ñ‚Ğ¾Ñ€Ñ‹Ğ¹ Ğ·Ğ°ÑÑ‚Ğ°Ğ²Ğ»ÑĞµÑ‚ Ğ¸Ñ…
  Ğ·Ğ°Ğ´ÑƒĞ¼Ğ°Ñ‚ÑŒÑÑ Ğ¾ Ğ±ĞµĞ·Ğ³Ñ€Ğ°Ğ½Ğ¸Ñ‡Ğ½Ğ¾Ğ¼ Ğ½ĞµĞ±Ğµ.§column_ƒ¨id_hash_ªCW0120_TTL«subid_hash_ ¥text_¼Ğ¢Ñ€Ğ¾Ğµ - ÑÑ‚Ğ¾ Ñ‚Ğ¾Ğ»Ğ¿Ğ°§column_ƒ¨id_hash_«CW0120_BODY«subid_hash_ ¥text_ÙèĞ­ĞºĞ¸Ğ¿Ğ°Ğ¶ Ğ²Ğ´Ñ‹Ñ…Ğ°ĞµÑ‚ ÑĞ²ĞµĞ¶Ğ¸Ğ¹ Ğ²Ğ¾Ğ·Ğ´ÑƒÑ… ÑĞ¾Ğ²ĞµÑ€ÑˆĞµĞ½Ğ½Ğ¾ Ğ½Ğ¾Ğ²Ğ¾Ğ³Ğ¾
  Ğ½ĞµĞ±ĞµÑĞ½Ğ¾Ğ³Ğ¾ Ğ¼Ğ¸Ñ€Ğ°. Ğ˜Ğ¾ Ğ¸ Ğ ÑĞºĞ°Ğ¼ Ğ½Ğ°Ñ‡Ğ¸Ğ½Ğ°ÑÑ‚ ÑÑĞ¾Ñ€Ğ¸Ñ‚ÑŒÑÑ, Ğ½Ğ¾
@@ -1559,7 +1846,10 @@ wĞ–ÑƒÑ€Ğ½Ğ°Ğ» Ğ¸ÑÑĞ»ĞµĞ´Ğ¾Ğ²Ğ°Ğ½Ğ¸Ğ¹: DZ-AM-A-2307 Ğ—Ğ° Ğ´ĞµÑÑÑ‚ÑŒ Ğ»ĞµÑ‚,
  Ğ½ĞµĞºĞ¾Ñ‚Ğ¾Ñ€Ñ‹Ñ… Ñ€ÑƒĞ¸Ğ½. Ğ“Ğ¾Ğ²Ğ¾Ñ€ÑÑ‚, Ñ‡Ñ‚Ğ¾ Ğ² Ğ½Ğ¸Ñ… Ñ…Ñ€Ğ°Ğ½Ğ¸Ñ‚ÑÑ Ğ½Ğµ Ñ‚Ğ¾Ğ»ÑŒĞºĞ¾
  ÑĞ¾ĞºÑ€Ğ¾Ğ²Ğ¸Ñ‰Ğµ, ĞºĞ¾Ñ‚Ğ¾Ñ€Ğ¾Ğµ Ğ¸Ñ‰ĞµÑ‚ Ğ—Ğ°Ñ‚Ğ±Ğ°, Ğ½Ğ¾ Ğ¸ ĞºĞ°Ñ‚Ğ°Ğ»Ğ¸Ğ·Ğ°Ñ‚Ğ¾Ñ€,
  ÑĞ¿Ğ¾ÑĞ¾Ğ±Ğ½Ñ‹Ğ¹ Ğ¾Ñ‚Ğ¼ĞµĞ½Ğ¸Ñ‚ÑŒ Ğ¿Ñ€Ğ¾Ğ¼Ñ‹Ğ²Ğ°Ğ½Ğ¸Ğµ Ğ¼Ğ¾Ğ·Ğ³Ğ¾Ğ² Ğ›ÑƒÑ€Ğ¸Ğ¸.§column_ƒ¨id_hash_ªCW0830_TTL«subid_hash_ ¥text_¾Ğ ĞµĞ»Ğ¸ĞºĞ²Ğ¸Ğ¸ Ğ² Ğ¿ĞµÑĞºĞµ§column_ƒ¨id_hash_«CW0830_BODY«subid_hash_ ¥text_ÙšĞĞ°Ğ´ĞµÑÑÑŒ Ğ²Ñ‹Ğ¿Ğ¾Ğ»Ğ½Ğ¸Ñ‚ÑŒ Ğ¿Ñ€Ğ¾ÑÑŒĞ±Ñƒ Ğ—Ğ°Ñ‚Ğ±Ñ‹, ĞºĞ¾Ğ¼Ğ°Ğ½Ğ´Ğ° Ñ€Ğ°ÑÑĞºĞ°Ğ·Ñ‹Ğ²Ğ°ĞµÑ‚
- ĞµĞ¼Ñƒ Ğ¾ ÑĞ²Ğ¾ĞµĞ¹ Ğ¸Ğ´ĞµĞµ Ğ½Ğ° Ğ¿Ñ€Ğ¸ÑÑ‚Ğ°Ğ½Ğ¸.§column_ƒ¨id_hash_ªCW0910_TTL«subid_hash_ ¥text_Ù4Ğ’ Ğ¿Ğ¾Ğ³Ğ¾Ğ½Ğµ Ğ·Ğ° ĞºÑ€Ğ°ÑĞ½Ñ‹Ğ¼ ĞºĞ¾Ñ€Ğ°Ğ±Ğ»ĞµĞ¼§column_ƒ¨id_hash_«CW0910_BODY«subid_hash_ ¥text_Ú/ĞŸĞ¾ÑĞ»Ğµ Ñ‚Ğ¾Ğ³Ğ¾, ĞºĞ°Ğº ĞºĞ¾Ğ¼Ğ°Ğ½Ğ´Ğ° Ğ¿Ğ¾Ğ»ÑƒÑ‡Ğ°ĞµÑ‚ ĞºĞ°Ñ‚Ğ°Ğ»Ğ¸Ğ·Ğ°Ñ‚Ğ¾Ñ€, Ğ Ğ¾Ğ»Ğ°Ğ½
+ ĞµĞ¼Ñƒ Ğ¾ ÑĞ²Ğ¾ĞµĞ¹ Ğ¸Ğ´ĞµĞµ Ğ½Ğ° Ğ¿Ñ€Ğ¸ÑÑ‚Ğ°Ğ½Ğ¸.§column_ƒ¨id_hash_ªCW0860_TTL«subid_hash_ ¥text_±Strangeness Afoot§column_ƒ¨id_hash_«CW0860_BODY«subid_hash_ ¥text_ÙéAs the crew passes through the Seedhollow docks, one of
+Zathbaâ€™s henchmen urgently calls them over. A shimmering
+rift has appeared in the city, and it seems to lead to a
+place filled with monsters. The crew is asked to investigate.§column_ƒ¨id_hash_ªCW0910_TTL«subid_hash_ ¥text_Ù4Ğ’ Ğ¿Ğ¾Ğ³Ğ¾Ğ½Ğµ Ğ·Ğ° ĞºÑ€Ğ°ÑĞ½Ñ‹Ğ¼ ĞºĞ¾Ñ€Ğ°Ğ±Ğ»ĞµĞ¼§column_ƒ¨id_hash_«CW0910_BODY«subid_hash_ ¥text_Ú/ĞŸĞ¾ÑĞ»Ğµ Ñ‚Ğ¾Ğ³Ğ¾, ĞºĞ°Ğº ĞºĞ¾Ğ¼Ğ°Ğ½Ğ´Ğ° Ğ¿Ğ¾Ğ»ÑƒÑ‡Ğ°ĞµÑ‚ ĞºĞ°Ñ‚Ğ°Ğ»Ğ¸Ğ·Ğ°Ñ‚Ğ¾Ñ€, Ğ Ğ¾Ğ»Ğ°Ğ½
  Ğ¿Ñ€Ğ¸Ñ…Ğ¾Ğ´Ğ¸Ñ‚ Ğ¸ ÑĞ¾Ğ¾Ğ±Ñ‰Ğ°ĞµÑ‚ Ğ¸Ğ¼, ĞºÑƒĞ´Ğ° Ğ½Ğ°Ğ¿Ñ€Ğ°Ğ²Ğ»ÑĞµÑ‚ÑÑ ĞĞ²Ğ¸Ğ°:
  Ğ¤Ğ¾Ğ½Ğ´Ğ°Ğ¼, Ğ˜Ğ·Ñ€Ğ°Ğ½ĞµĞ½Ğ½Ñ‹Ğµ Ğ¾ÑÑ‚Ñ€Ğ¾Ğ²Ğ°, Ğ¾Ñ‡ĞµĞ½ÑŒ Ğ¾Ğ¿Ğ°ÑĞ½Ğ¾Ğµ Ğ¼ĞµÑÑ‚Ğ¾, Ğ³Ğ´Ğµ
  Ñ‚ĞµÑ‡ĞµÑ‚ Ğ¼Ğ°Ğ³Ğ¼Ğ°.§column_ƒ¨id_hash_ªCW1010_TTL«subid_hash_ ¥text_Ù1Ğ¤Ğ¾Ğ½Ğ´Ğ°Ğ¼, Ğ˜Ğ·Ñ€Ğ°Ğ½ĞµĞ½Ğ½Ñ‹Ğµ Ğ¾ÑÑ‚Ñ€Ğ¾Ğ²Ğ°§column_ƒ¨id_hash_«CW1010_BODY«subid_hash_ ¥text_Ú€Ğ­ĞºĞ¸Ğ¿Ğ°Ğ¶ Ğ¿Ñ€Ğ¸Ğ·ĞµĞ¼Ğ»ÑĞµÑ‚ÑÑ Ğ½Ğ° Ğ¤Ğ¾Ğ½Ğ´Ğ°Ğ¼Ğµ. Ğ£Ğ²Ğ¸Ğ´ĞµĞ² Ğ¿Ñ€Ğ¸Ğ·Ğ½Ğ°ĞºĞ¸
@@ -1663,4 +1953,73 @@ wĞ–ÑƒÑ€Ğ½Ğ°Ğ» Ğ¸ÑÑĞ»ĞµĞ´Ğ¾Ğ²Ğ°Ğ½Ğ¸Ğ¹: DZ-AM-A-2307 Ğ—Ğ° Ğ´ĞµÑÑÑ‚ÑŒ Ğ»ĞµÑ‚,
 Ğ¾Ğ²Ğ°Ğ½ Ğ¿Ñ€ĞµĞ´Ğ¿Ğ¾Ğ»Ğ°Ğ³Ğ°ĞµĞ¼Ñ‹Ğ¼Ğ¸ ÑĞ¿Ğ¾ÑĞ¾Ğ±Ğ½Ğ¾ÑÑ‚ÑĞ¼Ğ¸ ĞÑÑ‚Ñ€Ğ°Ğ»Ğ°. 
 Ğ§Ñ‚Ğ¾Ğ±Ñ‹ ÑƒĞ´Ğ¾Ğ²Ğ»ĞµÑ‚Ğ²Ğ¾Ñ€Ğ¸Ñ‚ÑŒ Ğ»ÑĞ±Ğ¾Ğ¿Ñ‹Ñ‚ÑÑ‚Ğ²Ğ¾ Ğ˜Ğ´Ğ°, Ğ¡Ğ°Ğ½Ğ´Ğ°Ğ»Ñ„Ğ¾Ğ½ 
 Ğ¿Ñ€ĞµĞ´Ğ»Ğ°Ğ³Ğ°ĞµÑ‚ ĞºĞ¾Ğ¼Ğ°Ğ½Ğ´Ğµ Ğ¸ÑĞ¿Ñ‹Ñ‚Ğ°Ñ‚ÑŒ ÑĞ²Ğ¾Ğ¸ ÑĞ¸Ğ»Ñ‹ Ğ² ÑĞ¸Ğ¼ÑƒĞ»Ñ-
-Ñ†Ğ¸Ğ¾Ğ½Ğ½Ğ¾Ğ¼ ÑÑ€Ğ°Ğ¶ĞµĞ½Ğ¸Ğ¸ Ñ Ğ›ÑÑ†Ğ¸Ğ»Ğ¸ÑƒÑĞ¾Ğ¼.
+Ñ†Ğ¸Ğ¾Ğ½Ğ½Ğ¾Ğ¼ ÑÑ€Ğ°Ğ¶ĞµĞ½Ğ¸Ğ¸ Ñ Ğ›ÑÑ†Ğ¸Ğ»Ğ¸ÑƒÑĞ¾Ğ¼.§column_ƒ¨id_hash_ªCW7210_TTL«subid_hash_ ¥text_ªNew Allies§column_ƒ¨id_hash_«CW7210_BODY«subid_hash_ ¥text_ÚThe crew dock in town after completing a job and are greeted
+by ex-Aviaeth generals Gallanza and Maglielle. The former
+enemies wish to atone for their role in nearly destabilizing
+the Sky Realm by offering to assist Id and the crew, which 
+ readily accepts.§column_ƒ¨id_hash_ªCW7220_TTL«subid_hash_ ¥text_°Into the Conflux§column_ƒ¨id_hash_«CW7220_BODY«subid_hash_ ¥text_ÙòA new threat unfolds in Zegagrande as gates leading to an
+alternate realm manifest across Mt. Neigelith. Historiath
+names this realm "the Conflux" and asks the crew to help
+close the gates. Meanwhile, a shadow creeps closer with
+chaos in tow.§column_ƒ¨id_hash_ªCW7223_TTL«subid_hash_ ¥text_¯Echoes of Scorn§column_ƒ¨id_hash_«CW7223_BODY«subid_hash_ ¥text_ÙXThe crew continues exploring the Conflux while chaos watches
+on with sneering amusement.§column_ƒ¨id_hash_ªCW7240_TTL«subid_hash_ ¥text_½Ragnalia, the Heralds of Doom§column_ƒ¨id_hash_«CW7240_BODY«subid_hash_ ¥text_Ú¥According to Seofon and Tweyen, a new strain of monsters has
+appeared in Zegagrande. The two Eternals have observed them
+to be far more vicious than garden-variety foes. For this
+reason, knowledge of their existence is restricted to skyfarers
+of the highest caliber. Recognizing the crew's many
+achievements, Rafale offers them an opportunity to undertake
+a new level of questsâ€”but only if they can pass one final test.§column_ƒ¨id_hash_ªCW7242_TTL«subid_hash_ ¥text_µBecoming Fatebreakers§column_ƒ¨id_hash_«CW7242_BODY«subid_hash_ ¥text_Ù“ and the crew overcome the Eternals' trial, proving 
+that they're capable of tackling classified quests that will pit
+them against deadly ragnalia.§column_ƒ¨id_hash_ªCW7226_TTL«subid_hash_ ¥text_°The Stage Is Set§column_ƒ¨id_hash_«CW7226_BODY«subid_hash_ ¥text_ÙSA pivotal showdown awaits the crew as they draw closer to
+the heart of the Conflux.§column_ƒ¨id_hash_ªCW7244_TTL«subid_hash_ ¥text_¯Fraux's Request§column_ƒ¨id_hash_«CW7244_BODY«subid_hash_ ¥text_ÙŞA mysterious woman named Fraux approaches the crew with a
+request, claiming it to be tied to the ragnalia. Although
+they can't quite pin down her true intentions, the crew
+believes that their goals align and agree to help.§column_ƒ¨id_hash_ªCW7246_TTL«subid_hash_ ¥text_¹The Arcarum Primal Beasts§column_ƒ¨id_hash_«CW7246_BODY«subid_hash_ ¥text_ÚJFraux explains that The World is the progenitor of primal
+beasts known as the Arcarum. Furthermore, The World is a
+primal beast himself. He intends to use ragnalia and the
+Arcarum to create a new world, effectively erasing the
+skies in its current form. Determined to save the Sky Realm,
+the crew agrees to join forces with Fraux.§column_ƒ¨id_hash_ªCW7230_TTL«subid_hash_ ¥text_°Chaos Vanquished§column_ƒ¨id_hash_«CW7230_BODY«subid_hash_ ¥text_Ú"Thanks to the crewâ€™s tenacity and determination, the Astral
+Beelzebub is dethroned from his seat of chaos. With the
+false king defeated, the gates to the Conflux scattered
+throughout the skydom begin to close. Yet even in defeat,
+Beelzebub laughs, convinced that more battles are to come.§column_ƒ¨id_hash_ªCW7248_TTL«subid_hash_ ¥text_Ù 3,000 Leagues in Search of Dyads§column_ƒ¨id_hash_«CW7248_BODY«subid_hash_ ¥text_ÚHaving felled mighty dragons and ragnalia taking the form of
+primal beasts, the crew is caught off guard by the sudden
+appearance of a tall Draph woman. She makes cryptic remarks
+about searching for "dyads," but upon finding none among the
+crew, she leaves in disappointment.§column_ƒ¨id_hash_ªCW7252_TTL«subid_hash_ ¥text_µHidden Gems of Aquila§column_ƒ¨id_hash_«CW7252_BODY«subid_hash_ ¥text_ÙÃWhile the crew plays their part, Fraux works behind the
+scenes to thwart The World. For her plan to succeed, she
+requires rare gemstones called blood rubies. The crew agrees
+to assist her search.§column_ƒ¨id_hash_ªCW7254_TTL«subid_hash_ ¥text_°Road to Recovery§column_ƒ¨id_hash_«CW7254_BODY«subid_hash_ ¥text_Ú<Fraux, having suffered traumatic experiences, had given up
+on the Sky Realm. But after meeting , Lyria, and the
+crew, she regains a spark of hope. She asks Lyria to join
+the pact with The Devil, which should free it from The World's
+control. With this plan, Fraux is determined to stop being a
+puppet of the Arcarum.§column_ƒ¨id_hash_ªCW7256_TTL«subid_hash_ ¥text_³The Perfect Outcome§column_ƒ¨id_hash_«CW7256_BODY«subid_hash_ ¥text_ÙThe primal beast known as The World is vanquished. Looking
+to move forward, Fraux promises to continue lending her
+strength to the crew along with The Devil.§column_ƒ¨id_hash_ªCW7250_TTL«subid_hash_ ¥text_­Fediel's Test§column_ƒ¨id_hash_«CW7250_BODY«subid_hash_ ¥text_ÚThe crew bump into the same Draph woman they'd encountered
+before. She reveals herself to be one of the Six Dragonsâ€”
+Fediel the Black. Having manifested in the Sky Realm to
+correct its distortions, she assigns the crew a trial: they
+are to slay aberrations of the true Six Dragons.§column_ƒ¨id_hash_ªCW7260_TTL«subid_hash_ ¥text_¯Dissonant Skies§column_ƒ¨id_hash_«CW7260_BODY«subid_hash_ ¥text_ÙïRolan delivers bad news. Three gates have appeared, and each
+one leads to an extraordinarily destructive foe: Beelzebub,
+Bahamut Versa, and Lucilius. If the skies are ever to be safe
+again, the crew must quash these three threats for good.§column_ƒ¨id_hash_ªCW7262_TTL«subid_hash_ ¥text_·Unintended Consequences§column_ƒ¨id_hash_«CW7262_BODY«subid_hash_ ¥text_ÙãNow that the crew have taken down the final ragnalia targets
+she demanded, Fediel finally reveals the truth behind the
+ragnalia. They were once normal creatures that evolved as
+a result of the Six Dragons unifying their powers.§column_ƒ¨id_hash_ªCW7264_TTL«subid_hash_ ¥text_¯A Unified Wedge§column_ƒ¨id_hash_«CW7264_BODY«subid_hash_ ¥text_ÚbWith calamity after calamity afflicting Zegagrandeâ€”Bahamut
+Versa's trespass into the skydom, the Astrals Lilith,
+Beelzebub, and Lucilius, and even an automagod from the
+moonâ€”the Six Dragons responded by unifying their powers into
+a single entity. Their goal was to spur life in the realm to
+evolve and grow powerful enough to fend off such disasters.§column_ƒ¨id_hash_ªCW7270_TTL«subid_hash_ ¥text_¶Skyfaring Trailblazers§column_ƒ¨id_hash_«CW7270_BODY«subid_hash_ ¥text_Ú-The ending of an adventure is simply the beginning of
+another. Things are gradually returning to normal, for the
+crew has proven the resilience of life in the Sky Realm.
+United by their fight for a greater cause and led by the
+ever-reliable , the greatest crew in the skies soars
+onward into the blue.§column_ƒ¨id_hash_ªCW7300_TTL«subid_hash_ ¥text_±My Power Is Yours§column_ƒ¨id_hash_«CW7300_BODY«subid_hash_ ¥text_ÙºRealizing that the coming battles will only become more
+perilous, Lyria wants nothing more than to see her friends
+safely through the storm and shares her summoning powers
+with the crew.§column_ƒ¨id_hash_ªCW7303_TTL«subid_hash_ ¥text_³Bursting with Power§column_ƒ¨id_hash_«CW7303_BODY«subid_hash_ ¥text_ÙThe crew defeat the ragnalia thanks to their newfound
+ability to utilize summons. They head back to town to report
+their success.
